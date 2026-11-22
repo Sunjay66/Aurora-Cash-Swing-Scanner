@@ -57,6 +57,6 @@ table("closedRows",closed.map(x=>[x.symbol,x.stop_model,x.entry_date,x.entry_pri
 const c=p.capital_settings||{};document.getElementById("capitalSettings").textContent="Portfolio capital: ₹"+f(c.portfolio_capital)+" · Risk per trade: "+f(c.risk_per_trade_pct)+"% · Maximum stock allocation: "+f(c.max_stock_allocation_pct)+"%";
 }
 document.querySelectorAll(".tabs button").forEach(b=>b.addEventListener("click",()=>{document.querySelectorAll(".tabs button").forEach(x=>x.classList.remove("active"));document.querySelectorAll(".tab").forEach(x=>x.classList.remove("active"));b.classList.add("active");document.getElementById("tab-"+b.dataset.tab).classList.add("active");}));
-async function load(){try{const r=await fetch("data/latest.json?ts="+Date.now());if(!r.ok)throw new Error("Scanner results have not yet been published.");data=await r.json();render();}catch(e){["openRows","macdRows","stopRows","newRows","closedRows"].forEach(id=>empty(id,15,e.message));}}
+async function load(){try{const r=await fetch("cash_swing/data/latest.json?ts="+Date.now());if(!r.ok)throw new Error("Scanner results have not yet been published.");data=await r.json();render();}catch(e){["openRows","macdRows","stopRows","newRows","closedRows"].forEach(id=>empty(id,15,e.message));}}
 load();
 </script></body></html>
