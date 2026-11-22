@@ -268,9 +268,14 @@ def main():
         lifecycle_df = lifecycle_df.sort_values(["entry_date","symbol","stop_model"])
     open_positions = lifecycle_df[lifecycle_df["status"] == "OPEN POSITION"].to_dict("records") if not lifecycle_df.empty else []
     closed_trades = lifecycle_df[lifecycle_df["status"] == "CLOSED"].to_dict("records") if not lifecycle_df.empty else []
-    macd_exits = lifecycle_df[lifecycle_df["exit_type"].str.startswith("MACD EXIT")].to_dict("records") if not lifecycle_df.empty else []
-    stop_exits = lifecycle_df[lifecycle_df["exit_type"].str.startswith("HARD STOP")].to_dict("records") if not lifecycle_df.empty else []
-    recent_closed = [x for x in closed_trades if x.get("exit_date") and latest_market_date and x["exit_date"] >= (pd.Timestamp(latest_market_date)-pd.Timedelta(days=30)).strftime("%Y-%m-%d")]
+    all_macd_exits = lifecycle_df[lifecycle_df["exit_type"].str.startswith("MACD EXIT")].to_dict("records") if not lifecycle_df.empty else []
+    all_stop_exits = lifecycle_df[lifecycle_df["exit_type"].str.startswith("HARD STOP")].to_dict("records") if not lifecycle_df.empty else []
+    # Actionable MACD alerts are only signals confirmed on the latest available candle,
+    # awaiting execution at the next session open.
+    macd_exits = [x for x in all_macd_exits if x.get("exit_type") == "MACD EXIT — NEXT OPEN PENDING"]
+    recent_cutoff = (pd.Timestamp(latest_market_date)-pd.Timedelta(days=30)).strftime("%Y-%m-%d") if latest_market_date else "9999-12-31"
+    stop_exits = [x for x in all_stop_exits if x.get("exit_date") and x["exit_date"] >= recent_cutoff]
+    recent_closed = [x for x in closed_trades if x.get("exit_date") and latest_market_date and x["exit_date"] >= recent_cutoff]
 
     payload = {
         "scanner":"Aurora Cash Swing Scanner","version":"1.1","universe":"Nifty 200",
@@ -280,12 +285,14 @@ def main():
         "qualifying_stock_count":len(set(x["symbol"] for x in current_recommendations)),
         "trade_plan_count":len(current_recommendations),"recommendations":current_recommendations,
         "lifecycle_summary":{
-            "open_position_models":len(open_positions),"macd_exit_models":len(macd_exits),
-            "hard_stop_exit_models":len(stop_exits),"closed_trade_models":len(closed_trades)
+            "open_position_models":len(open_positions),"macd_exit_models":len(macd_exits), "historical_macd_exit_models":len(all_macd_exits),
+            "hard_stop_exit_models":len(stop_exits), "historical_hard_stop_exit_models":len(all_stop_exits), "closed_trade_models":len(closed_trades)
         },
         "open_positions":open_positions,
-        "macd_exit_alerts":macd_exits[-100:],
+        "macd_exit_alerts":macd_exits,
         "hard_stop_alerts":stop_exits[-100:],
+        "historical_macd_exits":all_macd_exits[-200:],
+        "historical_hard_stop_exits":all_stop_exits[-200:],
         "recent_closed_trades":recent_closed[-200:],
         "capital_settings":{"portfolio_capital":PORTFOLIO_CAPITAL,"risk_per_trade_pct":RISK_PER_TRADE_PCT,
                             "max_stock_allocation_pct":MAX_STOCK_ALLOCATION_PCT},
