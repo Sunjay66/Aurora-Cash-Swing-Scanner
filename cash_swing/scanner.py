@@ -214,6 +214,7 @@ def main():
     name_col = "Company Name" if "Company Name" in universe.columns else None
     names = dict(zip(universe["Symbol"], universe[name_col] if name_col else universe["Symbol"]))
     failures, latest_dates, current_recommendations, lifecycles = [], [], [], []
+    market_comparison_by_symbol = {}
     nifty_close = None
     try:
         ni = yf.download("^NSEI", period="3y", interval="1d", auto_adjust=True, progress=False)
@@ -253,6 +254,7 @@ def main():
                     nifty_hv60=n(float(nr.tail(60).std()*np.sqrt(252)*100),2)
             market_date = pd.Timestamp(d.index[-1]).strftime("%Y-%m-%d")
             latest_dates.append(market_date)
+            market_comparison_by_symbol[sym] = {"beta60_vs_nifty50": beta60, "stock_hv20_pct": stock_hv20, "stock_hv60_pct": stock_hv60, "nifty_hv20_pct": nifty_hv20, "nifty_hv60_pct": nifty_hv60}
 
             # Current confirmed signal recommendations, provisional until next open.
             if bool(latest["ENTRY_SIGNAL"]):
@@ -344,7 +346,7 @@ def main():
             "exit_rule": "Hard stop; 3R target exit; 2R milestone tracking; bearish MACD exit at next session open; or 20-session research time exit.",
             "stop_models": models, "trades": hist_rows,
             "current_signal_plans": [x for x in current_recommendations if x["symbol"] == sym],
-            "market_comparison": {"beta60_vs_nifty50": beta60, "stock_hv20_pct": stock_hv20, "stock_hv60_pct": stock_hv60, "nifty_hv20_pct": nifty_hv20, "nifty_hv60_pct": nifty_hv60},
+            "market_comparison": market_comparison_by_symbol.get(sym, {}),
             "data_note": "Historical simulations use adjusted daily OHLC data. Intraday stop/target collisions are resolved stop-first. No brokerage, taxes, slippage or futures basis included."
         }
         with open(f"cash_swing/data/stocks/{sym}.json","w",encoding="utf-8") as sf:
