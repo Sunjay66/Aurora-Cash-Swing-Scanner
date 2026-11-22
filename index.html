@@ -39,6 +39,7 @@ footer{color:var(--muted);font-size:12px;padding:14px 2px}@media(max-width:600px
 let data=null;const f=x=>x==null?"—":typeof x==="number"?x.toLocaleString("en-IN",{maximumFractionDigits:2}):x;
 const empty=(id,n,msg)=>document.getElementById(id).innerHTML='<tr><td colspan="'+n+'" class="empty">'+msg+'</td></tr>';
 function table(id,rows,cols,emptyMsg){if(!rows||!rows.length){empty(id,cols,emptyMsg);return;}document.getElementById(id).innerHTML=rows.map(r=>'<tr>'+r.map(x=>'<td>'+f(x)+'</td>').join('')+'</tr>').join('');}
+function newest(rows,key){return [...(rows||[])].sort((a,b)=>(b[key]||'').localeCompare(a[key]||''));}
 function render(){
 const p=data, s=p.lifecycle_summary||{};
 document.getElementById("marketDate").textContent=p.market_date||"—";
@@ -48,7 +49,7 @@ document.getElementById("openCount").textContent=f(s.open_position_models);
 document.getElementById("macdCount").textContent=f(s.macd_exit_models);
 document.getElementById("stopCount").textContent=f(s.hard_stop_exit_models);
 document.getElementById("refreshed").textContent=p.generated_at_ist?new Date(p.generated_at_ist).toLocaleString("en-IN",{timeZone:"Asia/Kolkata"}):"—";
-const open=p.open_positions||[], macd=p.macd_exit_alerts||[], stops=p.hard_stop_alerts||[], fresh=p.recommendations||[], closed=p.recent_closed_trades||[];
+const open=newest(p.open_positions,"entry_date"), macd=newest(p.macd_exit_alerts,"exit_signal_date"), stops=newest(p.hard_stop_alerts,"exit_date"), fresh=newest(p.recommendations,"signal_date"), closed=newest(p.recent_closed_trades,"exit_date");
 table("openRows",open.map(x=>[x.symbol,x.stop_model,x.entry_date,x.entry_price,x.latest_close,x.stop_loss,x.target_2r,x.target_3r,x.quantity,x.unrealised_return_pct,x.sessions_held,x.target_2r_touched?"Yes":"No",x.exit_type]),13,"No open positions identified.");
 table("macdRows",macd.map(x=>[x.symbol,x.stop_model,x.entry_date,x.entry_price,x.exit_signal_date,x.exit_date,x.exit_price,x.realised_return_pct,x.exit_type]),9,"No pending MACD exits on the latest completed session.");
 table("stopRows",stops.map(x=>[x.symbol,x.stop_model,x.entry_date,x.entry_price,x.stop_loss,x.exit_date,x.exit_price,x.realised_return_pct,x.exit_type]),9,"No hard-stop exits in the last 30 calendar days.");
