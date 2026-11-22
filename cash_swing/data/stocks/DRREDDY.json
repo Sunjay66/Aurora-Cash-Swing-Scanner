@@ -17,6 +17,8 @@
       "macd_exit_count": 2,
       "hard_stop_count": 11,
       "time_exit_count": 2,
+      "realised_pnl_per_100_shares_total": 3323.0,
+      "realised_pnl_per_100_shares_average": 184.61,
       "two_r_achieved_pct": 27.8,
       "three_r_achieved_pct": 16.7,
       "macd_exit_pct": 11.1,
@@ -32,6 +34,8 @@
       "macd_exit_count": 2,
       "hard_stop_count": 11,
       "time_exit_count": 2,
+      "realised_pnl_per_100_shares_total": 341.0,
+      "realised_pnl_per_100_shares_average": 18.94,
       "two_r_achieved_pct": 22.2,
       "three_r_achieved_pct": 16.7,
       "macd_exit_pct": 11.1,
@@ -1158,5 +1162,12 @@
     }
   ],
   "current_signal_plans": [],
+  "market_comparison": {
+    "beta60_vs_nifty50": 0.35,
+    "stock_hv20_pct": 25.93,
+    "stock_hv60_pct": 22.67,
+    "nifty_hv20_pct": 13.48,
+    "nifty_hv60_pct": 14.18
+  },
   "data_note": "Historical simulations use adjusted daily OHLC data. Intraday stop/target collisions are resolved stop-first. No brokerage, taxes, slippage or futures basis included."
 }
