@@ -277,13 +277,62 @@ def main():
     stop_exits = [x for x in all_stop_exits if x.get("exit_date") and x["exit_date"] >= recent_cutoff]
     recent_closed = [x for x in closed_trades if x.get("exit_date") and latest_market_date and x["exit_date"] >= recent_cutoff]
 
+    # Publish a dedicated three-year history file for every stock in the Nifty 200 universe.
+    os.makedirs("cash_swing/data/stocks", exist_ok=True)
+    for _, row in universe.iterrows():
+        sym = str(row["Symbol"]).strip().upper()
+        company = str(names.get(sym, sym))
+        hist_rows = [x for x in lifecycles if x["symbol"] == sym]
+        hist_rows = sorted(hist_rows, key=lambda x: (x.get("entry_date") or ""), reverse=True)
+        models = []
+        for model in ("1.25 ATR14", "2 x HV60 daily rupee move"):
+            mr = [x for x in hist_rows if x["stop_model"] == model]
+            total = len(mr)
+            models.append({
+                "stop_model": model, "trade_count": total,
+                "hard_stop_count": sum(str(x.get("exit_type","")).startswith("HARD STOP") for x in mr),
+                "two_r_touched_count": sum(bool(x.get("target_2r_touched")) for x in mr),
+                "three_r_achieved_count": sum(str(x.get("exit_type","")).startswith("3R TARGET") for x in mr),
+                "macd_exit_count": sum(str(x.get("exit_type","")).startswith("MACD EXIT") for x in mr),
+                "time_exit_count": sum(str(x.get("exit_type","")).startswith("20-SESSION") for x in mr),
+                "open_count": sum(x.get("status") == "OPEN POSITION" for x in mr),
+                "hard_stop_pct": n(100*sum(str(x.get("exit_type","")).startswith("HARD STOP") for x in mr)/total,1) if total else None,
+                "two_r_touched_pct": n(100*sum(bool(x.get("target_2r_touched")) for x in mr)/total,1) if total else None,
+                "three_r_achieved_pct": n(100*sum(str(x.get("exit_type","")).startswith("3R TARGET") for x in mr)/total,1) if total else None,
+            })
+        stock_payload = {
+            "symbol": sym, "company": company, "market_date": latest_market_date,
+            "history_period": "Up to 3 years of daily data; at least 2 years where provider history is available",
+            "entry_rule": "MACD 12,26,9 bullish crossover below zero; histogram positive for three consecutive sessions; entry at next session open.",
+            "exit_rule": "Hard stop; 3R target exit; 2R milestone tracking; bearish MACD exit at next session open; or 20-session research time exit.",
+            "stop_models": models, "trades": hist_rows,
+            "data_note": "Historical simulations use adjusted daily OHLC data. Intraday stop/target collisions are resolved stop-first. No brokerage, taxes, slippage or futures basis included."
+        }
+        with open(f"cash_swing/data/stocks/{sym}.json","w",encoding="utf-8") as sf:
+            json.dump(json_safe(stock_payload), sf, indent=2, ensure_ascii=False, allow_nan=False)
+
+    # One candidate row per stock; stop alternatives are shown together on its detail page.
+    candidate_by_symbol = {}
+    for rec in current_recommendations:
+        candidate_by_symbol.setdefault(rec["symbol"], {
+            "symbol": rec["symbol"], "company": rec["company"], "signal_date": rec["signal_date"],
+            "reference_close": rec["reference_close"], "atr14": rec["atr14"],
+            "hv60_daily_rupee_move": rec["hv60_daily_rupee_move"],
+            "atr_stop": rec["stop_loss_provisional"], "hv60_stop": rec["stop_loss_provisional"] if rec["stop_model"].startswith("2 x HV60") else None,
+        })
+        if rec["stop_model"] == "1.25 ATR14":
+            candidate_by_symbol[rec["symbol"]]["atr_stop"] = rec["stop_loss_provisional"]
+        else:
+            candidate_by_symbol[rec["symbol"]]["hv60_stop"] = rec["stop_loss_provisional"]
+    candidates = sorted(candidate_by_symbol.values(), key=lambda x: x["signal_date"], reverse=True)
+
     payload = {
         "scanner":"Aurora Cash Swing Scanner","version":"1.1","universe":"Nifty 200",
         "market_date":latest_market_date,"generated_at_ist":datetime.now(IST).isoformat(),
         "stocks_in_universe":len(universe),"stocks_scanned":len(universe)-len(set(failures)),
         "failed_symbols":sorted(set(failures)),
         "qualifying_stock_count":len(set(x["symbol"] for x in current_recommendations)),
-        "trade_plan_count":len(current_recommendations),"recommendations":current_recommendations,
+        "trade_plan_count":len(current_recommendations),"recommendations":current_recommendations,\n        "candidates":candidates,
         "lifecycle_summary":{
             "open_position_models":len(open_positions),"macd_exit_models":len(macd_exits), "historical_macd_exit_models":len(all_macd_exits),
             "hard_stop_exit_models":len(stop_exits), "hard_stop_exit_stocks":len(set(x["symbol"] for x in stop_exits)), "historical_hard_stop_exit_models":len(all_stop_exits), "closed_trade_models":len(closed_trades)
