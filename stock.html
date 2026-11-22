@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Stock Research | Aurora Cash Swing Scanner</title>
+<style>
+:root{--navy:#172d4b;--bg:#f3f6fa;--line:#dbe3ed;--muted:#607089;--green:#087b45;--red:#b42318}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:#172033;font:14px Arial,sans-serif;padding:18px}
+header{background:var(--navy);color:white;padding:22px;border-radius:12px}h1{margin:0 0 7px;font-size:26px}header p{margin:0;color:#d8e2ef}
+a{color:#174f91}.back{display:inline-block;margin:12px 0}.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(145px,1fr));gap:10px;margin:14px 0}.card,.panel{background:white;border:1px solid var(--line);border-radius:10px;padding:14px}.k{color:var(--muted);font-size:12px}.v{font-size:21px;font-weight:bold;margin-top:7px}.panel{margin:14px 0}.panel h2{font-size:18px;margin:0 0 12px}
+table{border-collapse:collapse;width:100%;white-space:nowrap;font-size:12px}th,td{text-align:left;padding:9px;border-bottom:1px solid var(--line)}th{background:#edf2f8;position:sticky;top:0}.tablewrap{overflow:auto}.note{background:#fff8e7;border:1px solid #f0d99e;border-radius:8px;padding:11px;margin:12px 0;color:#76530a}.empty{text-align:center;padding:22px;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:12px}.stat{border:1px solid var(--line);border-radius:8px;padding:12px}.stat h3{margin:0 0 10px;font-size:15px}.stat p{margin:6px 0}.positive{color:var(--green);font-weight:bold}.negative{color:var(--red);font-weight:bold}
+footer{color:var(--muted);font-size:12px;padding:14px 2px}@media(max-width:600px){body{padding:9px}header{padding:17px}}
+</style></head><body>
+<a class="back" href="index.html">← Back to candidate list</a>
+<header><h1 id="title">Loading stock…</h1><p id="subtitle">Individual stock research and historical signal analysis</p></header>
+<div class="cards">
+<div class="card"><div class="k">Latest market date</div><div class="v" id="marketDate">—</div></div>
+<div class="card"><div class="k">Historical signals — ATR model</div><div class="v" id="atrTrades">—</div></div>
+<div class="card"><div class="k">Historical signals — HV60 model</div><div class="v" id="hvTrades">—</div></div>
+<div class="card"><div class="k">Historical period</div><div class="v" style="font-size:15px" id="period">—</div></div>
+</div>
+<div class="note"><b>Important:</b> The 1.25 × ATR14 and 2 × HV60 daily-rupee-move rows are separate hypothetical stop alternatives, not two positions to open together. 2R is recorded as a price milestone; 3R is the model's profit-taking exit. Historical outcomes are calculated from daily OHLC bars, with stop-first treatment if stop and target are both touched in one candle.</div>
+<section class="panel"><h2>Current signal and risk framework</h2><div class="grid" id="currentModels"><div class="empty">Loading…</div></div></section>
+<section class="panel"><h2>Historical performance — each stop alternative</h2><div class="grid" id="summary"><div class="empty">Loading…</div></div></section>
+<section class="panel"><h2>Historical signal-by-signal record (newest first)</h2><div class="tablewrap"><table><thead><tr><th>Signal date</th><th>Entry date</th><th>Entry ₹</th><th>Stop model</th><th>Stop ₹</th><th>2R ₹</th><th>3R ₹</th><th>2R touched</th><th>3R achieved</th><th>Exit type</th><th>Exit date</th><th>Exit price ₹</th><th>Return %</th><th>Realised R</th><th>Sessions held</th></tr></thead><tbody id="trades"><tr><td colspan="15" class="empty">Loading history…</td></tr></tbody></table></div></section>
+<section class="panel"><h2>Methodology and data limitations</h2><p id="rules"></p><p id="dataNote" class="k"></p></section>
+<footer>Aurora Cash Swing Scanner · Research and decision support only. Historical performance is not a guarantee of future outcomes. Adjusted cash-equity prices are not actual futures execution prices.</footer>
+<script>
+const fmt=x=>x==null?"—":typeof x==="number"?x.toLocaleString("en-IN",{maximumFractionDigits:2}):x;
+const pct=(a,b)=>b?fmt(100*a/b)+"%":"—";
+async function load(){const symbol=new URLSearchParams(location.search).get("symbol");if(!symbol){document.getElementById("title").textContent="No stock selected";return;}
+try{const r=await fetch("cash_swing/data/stocks/"+encodeURIComponent(symbol)+".json?ts="+Date.now());if(!r.ok)throw Error("Stock history has not yet been generated. Run the scanner workflow and refresh this page.");const p=await r.json();
+document.title=p.symbol+" | Aurora Cash Swing";document.getElementById("title").textContent=p.company+" ("+p.symbol+")";document.getElementById("subtitle").textContent="Detection and trade history · "+p.market_date;
+document.getElementById("marketDate").textContent=p.market_date||"—";document.getElementById("period").textContent=p.history_period||"—";
+const atr=p.stop_models.find(x=>x.stop_model==="1.25 ATR14")||{},hv=p.stop_models.find(x=>x.stop_model.startsWith("2 x HV60"))||{};
+document.getElementById("atrTrades").textContent=fmt(atr.trade_count);document.getElementById("hvTrades").textContent=fmt(hv.trade_count);
+document.getElementById("currentModels").innerHTML='<div class="stat"><h3>1.25 × ATR14</h3><p>Stop distance = 1.25 × ATR14 at signal confirmation</p><p>2R target = entry + 2 × risk</p><p>3R target = entry + 3 × risk</p></div><div class="stat"><h3>2 × HV60 daily rupee movement</h3><p>Daily movement = entry price × annualised HV60 ÷ √252</p><p>Stop distance = 2 × daily movement</p><p>2R and 3R levels are calculated from this risk distance</p></div>';
+function summaryCard(x){return '<div class="stat"><h3>'+x.stop_model+'</h3><p>Historical trades: <b>'+fmt(x.trade_count)+'</b></p><p>Hard stops: <b>'+fmt(x.hard_stop_count)+'</b> ('+pct(x.hard_stop_count,x.trade_count)+')</p><p>2R touched: <b>'+fmt(x.two_r_touched_count)+'</b> ('+pct(x.two_r_touched_count,x.trade_count)+')</p><p>3R achieved: <b>'+fmt(x.three_r_achieved_count)+'</b> ('+pct(x.three_r_achieved_count,x.trade_count)+')</p><p>MACD exits: '+fmt(x.macd_exit_count)+' · Time exits: '+fmt(x.time_exit_count)+'</p><p>Currently open in model: '+fmt(x.open_count)+'</p></div>';}
+document.getElementById("summary").innerHTML=p.stop_models.map(summaryCard).join("");
+const rows=(p.trades||[]).sort((a,b)=>(b.entry_date||"").localeCompare(a.entry_date||""));
+document.getElementById("trades").innerHTML=rows.length?rows.map(x=>'<tr><td>'+fmt(x.signal_date)+'</td><td>'+fmt(x.entry_date)+'</td><td>'+fmt(x.entry_price)+'</td><td>'+fmt(x.stop_model)+'</td><td>'+fmt(x.stop_loss)+'</td><td>'+fmt(x.target_2r)+'</td><td>'+fmt(x.target_3r)+'</td><td>'+(x.target_2r_touched?"Yes":"No")+'</td><td>'+(String(x.exit_type||"").startsWith("3R TARGET")?"Yes":"No")+'</td><td>'+fmt(x.exit_type)+'</td><td>'+fmt(x.exit_date)+'</td><td>'+fmt(x.exit_price)+'</td><td>'+fmt(x.realised_return_pct)+'</td><td>'+fmt(x.realised_r)+'</td><td>'+fmt(x.sessions_held)+'</td></tr>').join(""):'<tr><td colspan="15" class="empty">No qualifying historical signals in the available data.</td></tr>';
+document.getElementById("rules").textContent=p.entry_rule+" "+p.exit_rule;document.getElementById("dataNote").textContent=p.data_note;
+}catch(e){document.getElementById("title").textContent="Stock detail unavailable";document.getElementById("trades").innerHTML='<tr><td colspan="15" class="empty">'+e.message+'</td></tr>';}}
+load();
+</script></body></html>
