@@ -1,33 +1,50 @@
-<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Aurora Cash Swing Scanner</title>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Aurora Cash Swing Scanner</title>
 <style>
-:root{--navy:#172d4b;--bg:#f3f6fa;--line:#dbe3ed;--muted:#607089;--green:#087b45;--amber:#946200}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:#172033;font:14px Arial,sans-serif;padding:18px}
-header{background:var(--navy);color:white;padding:24px;border-radius:12px}h1{margin:0 0 7px;font-size:27px}header p{margin:0;color:#d8e2ef}
-.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin:16px 0}.card,.panel{background:white;border:1px solid var(--line);border-radius:10px;padding:15px}.k{color:var(--muted);font-size:12px}.v{font-size:23px;font-weight:bold;margin-top:7px}
-.panel{margin:14px 0}.panel h2{font-size:18px;margin:0 0 12px}.note{background:#fff8e7;border:1px solid #f0d99e;border-radius:8px;padding:11px;margin:12px 0;color:#76530a}
-table{border-collapse:collapse;width:100%;white-space:nowrap;font-size:13px}th,td{text-align:left;padding:11px;border-bottom:1px solid var(--line)}th{background:#edf2f8;position:sticky;top:0}.tablewrap{overflow:auto}.stocklink{font-weight:bold;color:#174f91;text-decoration:none}.stocklink:hover{text-decoration:underline}.empty{text-align:center;padding:24px;color:var(--muted)}
-footer{color:var(--muted);font-size:12px;padding:14px 2px}@media(max-width:600px){body{padding:9px}header{padding:18px}h1{font-size:23px}}
+:root{--navy:#18304f;--bg:#f3f6fa;--line:#dbe3ed;--muted:#607089;--green:#087b45;--amber:#946200;--red:#b42318}
+*{box-sizing:border-box}body{margin:0;padding:18px;background:var(--bg);color:#172033;font:14px Arial,sans-serif}header{background:var(--navy);color:#fff;padding:23px;border-radius:12px}h1{margin:0 0 7px;font-size:27px}header p{margin:0;color:#d8e2ef}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(155px,1fr));gap:11px;margin:14px 0}.card,.panel{background:#fff;border:1px solid var(--line);border-radius:10px;padding:14px}.k{font-size:12px;color:var(--muted)}.v{font-size:21px;font-weight:bold;margin-top:7px}.panel{margin:14px 0}.panel h2{font-size:18px;margin:0 0 5px}.sub{font-size:12px;color:var(--muted);margin:0 0 12px}
+.refresh{display:inline-block;background:#fff;color:#173c67;border:1px solid #c7d4e3;padding:10px 14px;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:12px}.refresh:hover{background:#eaf1f8}
+.status{display:inline-block;border-radius:20px;padding:4px 8px;font-size:11px;font-weight:bold;background:#e7f5ed;color:var(--green)}.warn{background:#fff4dc;color:var(--amber)}.bad{background:#fdecea;color:var(--red)}
+.freshness{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px;margin:14px 0}.freshbox{background:#fff;border:1px solid var(--line);border-radius:10px;padding:13px}
+table{border-collapse:collapse;width:100%;white-space:nowrap;font-size:13px}th,td{text-align:left;padding:10px;border-bottom:1px solid var(--line)}th{background:#edf2f8;position:sticky;top:0}.wrap{overflow:auto}.stocklink{font-weight:bold;color:#174f91;text-decoration:none}.stocklink:hover{text-decoration:underline}.empty{text-align:center;color:var(--muted);padding:23px}footer{font-size:12px;color:var(--muted);padding:12px 2px}
+@media(max-width:600px){body{padding:9px}header{padding:18px}h1{font-size:23px}}
 </style></head><body>
-<header><h1>Aurora Cash Swing Scanner</h1><p>Nifty 200 · MACD entry confirmation · Dual stop-loss models · Historical trade evidence</p></header>
-<div class="cards">
-<div class="card"><div class="k">Market date</div><div class="v" id="marketDate">—</div></div>
-<div class="card"><div class="k">Stocks scanned</div><div class="v" id="scanned">—</div></div>
-<div class="card"><div class="k">Qualifying candidates</div><div class="v" id="qualified">—</div></div>
-<div class="card"><div class="k">Last refresh IST</div><div class="v" style="font-size:14px" id="refreshed">—</div></div>
+<header><h1>Aurora Cash Swing Scanner</h1><p>Nifty 200 · Cash swing opportunities · Dual stop-loss models · Portfolio watchlist</p><a class="refresh" href="https://github.com/Sunjay66/Aurora-Cash-Swing-Scanner/actions/workflows/update_cash_swing.yml" target="_blank" rel="noopener">↻ Manual Refresh — Open GitHub Workflow</a></header>
+<div class="freshness">
+<div class="freshbox"><div class="k">Last successful refresh (IST)</div><div class="v" id="refreshTime">—</div><div id="refreshStatus" class="status">Awaiting data</div></div>
+<div class="freshbox"><div class="k">Market data date retrieved</div><div class="v" id="marketDate">—</div><div class="k">Latest trading session present in downloaded stock data</div></div>
 </div>
-<div class="note"><b>How to use:</b> This page lists each qualifying stock only once. Click its name to open the individual research page showing both stop-loss alternatives and the stock's historical signal outcomes. Entry prices and risk levels are provisional until the next session's actual opening price is known.</div>
-<section class="panel"><h2>Latest qualifying cash-market candidates</h2><div class="tablewrap"><table><thead><tr><th>Stock</th><th>Detection date</th><th>Reference close ₹</th><th>ATR14 ₹</th><th>HV60 daily move ₹</th><th>Stop: 1.25 ATR14 ₹</th><th>Stop: 2 × HV60 ₹</th></tr></thead><tbody id="candidateRows"><tr><td colspan="7" class="empty">Loading scanner data…</td></tr></tbody></table></div></section>
-<footer>For research and decision support only. Historical results do not guarantee future outcomes. Historical calculations use adjusted daily OHLC data and exclude trading costs.</footer>
+<div class="cards">
+<div class="card"><div class="k">Nifty 200 universe</div><div class="v" id="universe">—</div></div>
+<div class="card"><div class="k">Stocks successfully scanned</div><div class="v" id="scanned">—</div></div>
+<div class="card"><div class="k">New candidates</div><div class="v" id="newCount">—</div></div>
+<div class="card"><div class="k">Recent open candidates</div><div class="v" id="openCount">—</div></div>
+<div class="card"><div class="k">20-session+ retained / review</div><div class="v" id="extendedCount">—</div></div>
+</div>
+<div id="freshWarning" class="panel" style="display:none;border-color:#e5c36b;background:#fff8e8;color:#795600"></div>
+<section class="panel"><h2>1. New Candidates</h2><p class="sub">Newly detected on the latest completed session. First detection date shown; newest first.</p><div class="wrap"><table><thead><tr><th>Stock</th><th>First detection</th><th>Reference close ₹</th><th>ATR14 ₹</th><th>HV60 daily move ₹</th><th>1.25 ATR stop ₹</th><th>2 × HV60 stop ₹</th></tr></thead><tbody id="newRows"><tr><td colspan="7" class="empty">Loading…</td></tr></tbody></table></div></section>
+<section class="panel"><h2>2. Recent Open Candidates</h2><p class="sub">Trades still open and within the 20-session research review window. Each stock appears once.</p><div class="wrap"><table><thead><tr><th>Stock</th><th>First detection</th><th>Entry date</th><th>Latest close ₹</th><th>Sessions held</th><th>Unrealised return %</th><th>2R touched</th></tr></thead><tbody id="openRows"><tr><td colspan="7" class="empty">Loading…</td></tr></tbody></table></div></section>
+<section class="panel"><h2>3. 20-Session Completed — Still Open in My Portfolio</h2><p class="sub">Positions at or beyond 20 sessions that remain open in the scanner's latest data. Open the stock page to review and manage your actual holding status.</p><div class="wrap"><table><thead><tr><th>Stock</th><th>First detection</th><th>Entry date</th><th>Latest close ₹</th><th>Sessions held</th><th>Unrealised return %</th><th>2R touched</th></tr></thead><tbody id="extendedRows"><tr><td colspan="7" class="empty">Loading…</td></tr></tbody></table></div></section>
+<section class="panel"><h2>4. Recently Closed</h2><p class="sub">Recent model exits. Historical research exits are shown separately from your actual portfolio decisions.</p><div class="wrap"><table><thead><tr><th>Stock</th><th>Detection date</th><th>Exit date</th><th>Stop model</th><th>Exit reason</th><th>Exit price ₹</th><th>Return %</th></tr></thead><tbody id="closedRows"><tr><td colspan="7" class="empty">Loading…</td></tr></tbody></table></div></section>
+<footer>Click any stock to open its individual research page. ATR14 and HV60 are alternative stop models, not two simultaneous positions. Historical results are simulations and exclude transaction costs.</footer>
 <script>
 const fmt=x=>x==null?"—":typeof x==="number"?x.toLocaleString("en-IN",{maximumFractionDigits:2}):x;
-async function load(){try{const r=await fetch("cash_swing/data/latest.json?ts="+Date.now());if(!r.ok)throw Error("No published scanner data yet.");const p=await r.json();
-document.getElementById("marketDate").textContent=p.market_date||"—";document.getElementById("scanned").textContent=fmt(p.stocks_scanned);
-document.getElementById("refreshed").textContent=p.generated_at_ist?new Date(p.generated_at_ist).toLocaleString("en-IN",{timeZone:"Asia/Kolkata"}):"—";
-let rows=p.candidates||[];if(!rows.length&&p.recommendations){const m={};for(const x of p.recommendations){m[x.symbol]??={symbol:x.symbol,company:x.company,signal_date:x.signal_date,reference_close:x.reference_close,atr14:x.atr14,hv60_daily_rupee_move:x.hv60_daily_rupee_move};if(x.stop_model==="1.25 ATR14")m[x.symbol].atr_stop=x.stop_loss_provisional;else m[x.symbol].hv60_stop=x.stop_loss_provisional;}rows=Object.values(m);}
-rows.sort((a,b)=>(b.signal_date||"").localeCompare(a.signal_date||""));document.getElementById("qualified").textContent=rows.length;
-document.getElementById("candidateRows").innerHTML=rows.length?rows.map(x=>'<tr><td><a class="stocklink" href="stock.html?symbol='+encodeURIComponent(x.symbol)+'">'+x.symbol+'</a></td><td>'+fmt(x.signal_date)+'</td><td>'+fmt(x.reference_close)+'</td><td>'+fmt(x.atr14)+'</td><td>'+fmt(x.hv60_daily_rupee_move)+'</td><td>'+fmt(x.atr_stop)+'</td><td>'+fmt(x.hv60_stop)+'</td></tr>').join(''):'<tr><td colspan="7" class="empty">No qualifying candidates on the latest market date.</td></tr>';
-}catch(e){document.getElementById("candidateRows").innerHTML='<tr><td colspan="7" class="empty">'+e.message+'</td></tr>';}}
+const link=x=>'<a class="stocklink" href="stock.html?symbol='+encodeURIComponent(x.symbol)+'">'+(x.symbol||x.company)+'</a>';
+const sort=(a,k)=>[...(a||[])].sort((x,y)=>String(y[k]||"").localeCompare(String(x[k]||"")));
+function fill(id,rows,cols,render){const el=document.getElementById(id);el.innerHTML=rows.length?rows.map(render).join(""):'<tr><td colspan="'+cols+'" class="empty">No records in this section.</td></tr>';}
+function commonOpen(x){return '<tr><td>'+link(x)+'</td><td>'+fmt(x.signal_date)+'</td><td>'+fmt(x.entry_date)+'</td><td>'+fmt(x.latest_close)+'</td><td>'+fmt(x.sessions_held)+'</td><td>'+fmt(x.unrealised_return_pct)+'%</td><td>'+(x.target_2r_touched?"Yes":"No")+'</td></tr>';}
+async function load(){try{const r=await fetch("cash_swing/data/latest.json?ts="+Date.now(),{cache:"no-store"});if(!r.ok)throw Error("Published scanner data is unavailable.");const p=await r.json();
+document.getElementById("refreshTime").textContent=p.generated_at_ist?new Date(p.generated_at_ist).toLocaleString("en-IN",{timeZone:"Asia/Kolkata"}):"Not recorded";
+document.getElementById("marketDate").textContent=p.market_date||"Not available";
+document.getElementById("universe").textContent=fmt(p.stocks_in_universe);document.getElementById("scanned").textContent=fmt(p.stocks_scanned);
+const fresh=p.generated_at_ist?new Date(p.generated_at_ist):null;const market=p.market_date?new Date(p.market_date+"T00:00:00"):null;
+document.getElementById("refreshStatus").textContent="Last published scanner result";
+if(p.failed_symbols&&p.failed_symbols.length){document.getElementById("freshWarning").style.display="block";document.getElementById("freshWarning").textContent="Coverage warning: "+p.failed_symbols.length+" stocks were not processed: "+p.failed_symbols.join(", ");}
+const candidates=sort(p.candidates||[],"signal_date"),open=sort(p.recent_open_candidates||[],"entry_date"),extended=sort(p.extended_open_candidates||[],"entry_date"),closed=sort(p.recent_closed_trades||[],"exit_date");
+document.getElementById("newCount").textContent=candidates.length;document.getElementById("openCount").textContent=open.length;document.getElementById("extendedCount").textContent=extended.length;
+fill("newRows",candidates,7,x=>'<tr><td>'+link(x)+'</td><td>'+fmt(x.signal_date)+'</td><td>'+fmt(x.reference_close)+'</td><td>'+fmt(x.atr14)+'</td><td>'+fmt(x.hv60_daily_rupee_move)+'</td><td>'+fmt(x.atr_stop)+'</td><td>'+fmt(x.hv60_stop)+'</td></tr>');
+fill("openRows",open,7,commonOpen);fill("extendedRows",extended,7,commonOpen);
+fill("closedRows",closed,7,x=>'<tr><td>'+link(x)+'</td><td>'+fmt(x.signal_date)+'</td><td>'+fmt(x.exit_date)+'</td><td>'+fmt(x.stop_model)+'</td><td>'+fmt(x.exit_type)+'</td><td>'+fmt(x.exit_price)+'</td><td>'+fmt(x.realised_return_pct)+'%</td></tr>');
+}catch(e){document.getElementById("refreshStatus").textContent="Data unavailable";document.getElementById("freshWarning").style.display="block";document.getElementById("freshWarning").textContent=e.message;}}
 load();
 </script></body></html>
