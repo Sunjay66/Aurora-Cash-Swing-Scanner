@@ -286,7 +286,7 @@ def main():
         "trade_plan_count":len(current_recommendations),"recommendations":current_recommendations,
         "lifecycle_summary":{
             "open_position_models":len(open_positions),"macd_exit_models":len(macd_exits), "historical_macd_exit_models":len(all_macd_exits),
-            "hard_stop_exit_models":len(stop_exits), "historical_hard_stop_exit_models":len(all_stop_exits), "closed_trade_models":len(closed_trades)
+            "hard_stop_exit_models":len(stop_exits), "hard_stop_exit_stocks":len(set(x["symbol"] for x in stop_exits)), "historical_hard_stop_exit_models":len(all_stop_exits), "closed_trade_models":len(closed_trades)
         },
         "open_positions":open_positions,
         "macd_exit_alerts":macd_exits,
