@@ -305,7 +305,7 @@ def main():
             "history_period": "Up to 3 years of daily data; at least 2 years where provider history is available",
             "entry_rule": "MACD 12,26,9 bullish crossover below zero; histogram positive for three consecutive sessions; entry at next session open.",
             "exit_rule": "Hard stop; 3R target exit; 2R milestone tracking; bearish MACD exit at next session open; or 20-session research time exit.",
-            "stop_models": models, "trades": hist_rows,
+            "stop_models": models, "trades": hist_rows,\n            "current_signal_plans": [x for x in current_recommendations if x["symbol"] == sym],
             "data_note": "Historical simulations use adjusted daily OHLC data. Intraday stop/target collisions are resolved stop-first. No brokerage, taxes, slippage or futures basis included."
         }
         with open(f"cash_swing/data/stocks/{sym}.json","w",encoding="utf-8") as sf:
