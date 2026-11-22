@@ -73,6 +73,29 @@ def n(v, digits=2):
     except (TypeError, ValueError):
         return None
 
+def json_safe(value):
+    """Recursively convert pandas/NumPy missing and non-finite values to JSON null."""
+    if value is None or value is pd.NA or value is pd.NaT:
+        return None
+    if isinstance(value, dict):
+        return {str(k): json_safe(v) for k, v in value.items()}
+    if isinstance(value, (list, tuple)):
+        return [json_safe(v) for v in value]
+    if isinstance(value, (np.integer,)):
+        return int(value)
+    if isinstance(value, (np.bool_,)):
+        return bool(value)
+    if isinstance(value, (float, np.floating)):
+        return float(value) if np.isfinite(value) else None
+    if isinstance(value, (pd.Timestamp, datetime)):
+        return value.isoformat()
+    try:
+        if pd.isna(value):
+            return None
+    except (TypeError, ValueError):
+        pass
+    return value
+
 def build_lifecycle(symbol, d, company):
     """Two parallel hypothetical stop models; one active trade per stock/model at a time."""
     signals = np.flatnonzero(d["ENTRY_SIGNAL"].fillna(False).to_numpy())
@@ -270,7 +293,7 @@ def main():
         "exit_rule":"Hard stop, 2R/3R target, bearish MACD crossover at next session open, or 20-session time exit.",
         "lifecycle_note":"Two stop models are shown as parallel alternatives, not two simultaneous real positions. Daily OHLC ambiguity where stop and target are touched in the same candle is resolved conservatively in favour of the stop."
     }
-    with open("cash_swing/data/latest.json","w",encoding="utf-8") as f: json.dump(payload,f,indent=2,ensure_ascii=False)
+    with open("cash_swing/data/latest.json","w",encoding="utf-8") as f: json.dump(json_safe(payload),f,indent=2,ensure_ascii=False,allow_nan=False)
     universe.to_csv("cash_swing/data/nifty200_universe.csv",index=False)
     lifecycle_df.to_csv("cash_swing/reports/trade_lifecycle_history.csv",index=False)
     pd.DataFrame(current_recommendations).to_csv("cash_swing/reports/recommendations.csv",index=False)
