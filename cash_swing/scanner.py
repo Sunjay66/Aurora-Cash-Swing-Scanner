@@ -214,6 +214,13 @@ def main():
     name_col = "Company Name" if "Company Name" in universe.columns else None
     names = dict(zip(universe["Symbol"], universe[name_col] if name_col else universe["Symbol"]))
     failures, latest_dates, current_recommendations, lifecycles = [], [], [], []
+    nifty_close = None
+    try:
+        ni = yf.download("^NSEI", period="3y", interval="1d", auto_adjust=True, progress=False)
+        if not ni.empty:
+            nifty_close = ni["Close"].squeeze().dropna()
+    except Exception as exc:
+        print(f"Nifty benchmark download unavailable: {exc}")
 
     for ticker in symbols:
         sym = ticker[:-3]
@@ -232,6 +239,18 @@ def main():
                 failures.append(sym); continue
             d = calculate_indicators(frame)
             latest = d.iloc[-1]
+            beta60 = None
+            stock_hv20 = n(latest.get("HV20")*100,2)
+            stock_hv60 = n(latest.get("HV60")*100,2)
+            nifty_hv20 = nifty_hv60 = None
+            if nifty_close is not None:
+                aligned = pd.concat([d["Close"].pct_change().rename("stock"), nifty_close.pct_change().rename("nifty")],axis=1).dropna()
+                if len(aligned) >= 60 and aligned["nifty"].tail(60).var() > 0:
+                    beta60 = n(aligned["stock"].tail(60).cov(aligned["nifty"].tail(60))/aligned["nifty"].tail(60).var(),2)
+                nr = nifty_close.pct_change().dropna()
+                if len(nr)>=60:
+                    nifty_hv20=n(float(nr.tail(20).std()*np.sqrt(252)*100),2)
+                    nifty_hv60=n(float(nr.tail(60).std()*np.sqrt(252)*100),2)
             market_date = pd.Timestamp(d.index[-1]).strftime("%Y-%m-%d")
             latest_dates.append(market_date)
 
@@ -306,6 +325,8 @@ def main():
                 "macd_exit_count": macd,
                 "hard_stop_count": hard,
                 "time_exit_count": time_exit,
+                "realised_pnl_per_100_shares_total": n(sum((float(x.get("exit_price") or 0)-float(x.get("entry_price") or 0))*100 for x in closed),2),
+                "realised_pnl_per_100_shares_average": n(sum((float(x.get("exit_price") or 0)-float(x.get("entry_price") or 0))*100 for x in closed)/total_closed,2) if total_closed else None,
                 "two_r_achieved_pct": n(100*target2/total_closed,1) if total_closed else None,
                 "three_r_achieved_pct": n(100*target3/total_closed,1) if total_closed else None,
                 "macd_exit_pct": n(100*macd/total_closed,1) if total_closed else None,
@@ -323,6 +344,7 @@ def main():
             "exit_rule": "Hard stop; 3R target exit; 2R milestone tracking; bearish MACD exit at next session open; or 20-session research time exit.",
             "stop_models": models, "trades": hist_rows,
             "current_signal_plans": [x for x in current_recommendations if x["symbol"] == sym],
+            "market_comparison": {"beta60_vs_nifty50": beta60, "stock_hv20_pct": stock_hv20, "stock_hv60_pct": stock_hv60, "nifty_hv20_pct": nifty_hv20, "nifty_hv60_pct": nifty_hv60},
             "data_note": "Historical simulations use adjusted daily OHLC data. Intraday stop/target collisions are resolved stop-first. No brokerage, taxes, slippage or futures basis included."
         }
         with open(f"cash_swing/data/stocks/{sym}.json","w",encoding="utf-8") as sf:
@@ -351,6 +373,8 @@ def main():
         "qualifying_stock_count":len(set(x["symbol"] for x in current_recommendations)),
         "trade_plan_count":len(current_recommendations),"recommendations":current_recommendations,
         "candidates":candidates,
+        "recent_open_candidates":[x for x in open_positions if int(x.get("sessions_held") or 0) < MAX_HOLDING_SESSIONS],
+        "extended_open_candidates":[x for x in open_positions if int(x.get("sessions_held") or 0) >= MAX_HOLDING_SESSIONS],
         "lifecycle_summary":{
             "open_position_models":len(open_positions),"macd_exit_models":len(macd_exits), "historical_macd_exit_models":len(all_macd_exits),
             "hard_stop_exit_models":len(stop_exits), "hard_stop_exit_stocks":len(set(x["symbol"] for x in stop_exits)), "historical_hard_stop_exit_models":len(all_stop_exits), "closed_trade_models":len(closed_trades)
