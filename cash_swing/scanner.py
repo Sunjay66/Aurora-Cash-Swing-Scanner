@@ -289,22 +289,36 @@ def main():
         models = []
         for model in ("1.25 ATR14", "2 x HV60 daily rupee move"):
             mr = [x for x in hist_rows if x["stop_model"] == model]
-            total = len(mr)
+            closed = [x for x in mr if x.get("status") == "CLOSED"]
+            opened = [x for x in mr if x.get("status") == "OPEN POSITION"]
+            total_closed = len(closed)
+            hard = sum(str(x.get("exit_type","")).startswith("HARD STOP") for x in closed)
+            macd = sum(str(x.get("exit_type","")).startswith("MACD EXIT") for x in closed)
+            time_exit = sum(str(x.get("exit_type","")).startswith("20-SESSION") for x in closed)
+            target3 = sum(str(x.get("exit_type","")).startswith("3R TARGET") for x in closed)
+            target2 = sum(bool(x.get("target_2r_touched")) for x in closed)
             models.append({
-                "stop_model": model, "trade_count": total,
-                "hard_stop_count": sum(str(x.get("exit_type","")).startswith("HARD STOP") for x in mr),
-                "two_r_touched_count": sum(bool(x.get("target_2r_touched")) for x in mr),
-                "three_r_achieved_count": sum(str(x.get("exit_type","")).startswith("3R TARGET") for x in mr),
-                "macd_exit_count": sum(str(x.get("exit_type","")).startswith("MACD EXIT") for x in mr),
-                "time_exit_count": sum(str(x.get("exit_type","")).startswith("20-SESSION") for x in mr),
-                "open_count": sum(x.get("status") == "OPEN POSITION" for x in mr),
-                "hard_stop_pct": n(100*sum(str(x.get("exit_type","")).startswith("HARD STOP") for x in mr)/total,1) if total else None,
-                "two_r_touched_pct": n(100*sum(bool(x.get("target_2r_touched")) for x in mr)/total,1) if total else None,
-                "three_r_achieved_pct": n(100*sum(str(x.get("exit_type","")).startswith("3R TARGET") for x in mr)/total,1) if total else None,
+                "stop_model": model,
+                "total_opportunities": total_closed,
+                "open_opportunities": len(opened),
+                "two_r_achieved_count": target2,
+                "three_r_achieved_count": target3,
+                "macd_exit_count": macd,
+                "hard_stop_count": hard,
+                "time_exit_count": time_exit,
+                "two_r_achieved_pct": n(100*target2/total_closed,1) if total_closed else None,
+                "three_r_achieved_pct": n(100*target3/total_closed,1) if total_closed else None,
+                "macd_exit_pct": n(100*macd/total_closed,1) if total_closed else None,
+                "hard_stop_pct": n(100*hard/total_closed,1) if total_closed else None,
+                "time_exit_pct": n(100*time_exit/total_closed,1) if total_closed else None,
             })
+        history_dates = [x.get("entry_date") for x in hist_rows if x.get("entry_date")]
+        history_start = min(history_dates) if history_dates else None
+        history_end = max(history_dates) if history_dates else None
         stock_payload = {
             "symbol": sym, "company": company, "market_date": latest_market_date,
-            "history_period": "Up to 3 years of daily data; at least 2 years where provider history is available",
+            "history_period": (f"{history_start} to {history_end}" if history_start else "No historical signals"),
+            "history_start_date": history_start, "history_end_date": history_end,
             "entry_rule": "MACD 12,26,9 bullish crossover below zero; histogram positive for three consecutive sessions; entry at next session open.",
             "exit_rule": "Hard stop; 3R target exit; 2R milestone tracking; bearish MACD exit at next session open; or 20-session research time exit.",
             "stop_models": models, "trades": hist_rows,
