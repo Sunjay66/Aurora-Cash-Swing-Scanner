@@ -305,7 +305,8 @@ def main():
             "history_period": "Up to 3 years of daily data; at least 2 years where provider history is available",
             "entry_rule": "MACD 12,26,9 bullish crossover below zero; histogram positive for three consecutive sessions; entry at next session open.",
             "exit_rule": "Hard stop; 3R target exit; 2R milestone tracking; bearish MACD exit at next session open; or 20-session research time exit.",
-            "stop_models": models, "trades": hist_rows,\n            "current_signal_plans": [x for x in current_recommendations if x["symbol"] == sym],
+            "stop_models": models, "trades": hist_rows,
+            "current_signal_plans": [x for x in current_recommendations if x["symbol"] == sym],
             "data_note": "Historical simulations use adjusted daily OHLC data. Intraday stop/target collisions are resolved stop-first. No brokerage, taxes, slippage or futures basis included."
         }
         with open(f"cash_swing/data/stocks/{sym}.json","w",encoding="utf-8") as sf:
@@ -332,7 +333,8 @@ def main():
         "stocks_in_universe":len(universe),"stocks_scanned":len(universe)-len(set(failures)),
         "failed_symbols":sorted(set(failures)),
         "qualifying_stock_count":len(set(x["symbol"] for x in current_recommendations)),
-        "trade_plan_count":len(current_recommendations),"recommendations":current_recommendations,\n        "candidates":candidates,
+        "trade_plan_count":len(current_recommendations),"recommendations":current_recommendations,
+        "candidates":candidates,
         "lifecycle_summary":{
             "open_position_models":len(open_positions),"macd_exit_models":len(macd_exits), "historical_macd_exit_models":len(all_macd_exits),
             "hard_stop_exit_models":len(stop_exits), "hard_stop_exit_stocks":len(set(x["symbol"] for x in stop_exits)), "historical_hard_stop_exit_models":len(all_stop_exits), "closed_trade_models":len(closed_trades)
