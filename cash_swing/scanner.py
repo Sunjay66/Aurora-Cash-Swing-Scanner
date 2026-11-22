@@ -176,7 +176,9 @@ def build_lifecycle(symbol, d, company):
             latest_close = float(d.iloc[-1]["Close"])
             current_pnl_pct = ((latest_close / entry) - 1) * 100
             latest_date = pd.Timestamp(d.index[-1])
-            age = len(d) - 1 - entry_pos
+            # Count actual trading sessions held through exit (or through latest bar if still open).
+            end_pos = d.index.get_loc(exit_date) if exit_date is not None and exit_date in d.index else len(d) - 1
+            age = max(1, int(end_pos - entry_pos + 1))
 
             results.append({
                 "symbol": symbol, "company": company, "stop_model": model,
