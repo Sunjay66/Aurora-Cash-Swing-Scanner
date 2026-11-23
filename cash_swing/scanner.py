@@ -58,13 +58,14 @@ def main():
             sigs=np.flatnonzero(d.CROSS_920.fillna(False).to_numpy())
             for ix in sigs:
                 entry_ix=ix+1
-                if entry_ix>=len(d): continue
-                sig=d.iloc[ix]; ent=d.iloc[entry_ix]
-                entry=float(ent.Open); atr=float(sig.ATR14) if pd.notna(sig.ATR14) else np.nan
+                pending_entry=entry_ix>=len(d)
+                if pending_entry and ix!=len(d)-1: continue
+                sig=d.iloc[ix]; ent=d.iloc[ix] if pending_entry else d.iloc[entry_ix]
+                entry=float(sig.Close if pending_entry else ent.Open); atr=float(sig.ATR14) if pd.notna(sig.ATR14) else np.nan
                 if not np.isfinite(atr) or atr<=0 or entry<=0: continue
                 stop=entry-1.25*atr; risk=entry-stop
                 stage2_ix=None
-                for j in range(entry_ix,len(d)):
+                for j in range(len(d) if pending_entry else entry_ix,len(d)):
                     if bool(d.iloc[j].CROSS_2055) and float(d.iloc[j].EMA9)>float(d.iloc[j].EMA20):
                         stage2_ix=j; break
                 second_entry=None
@@ -95,7 +96,7 @@ def main():
                 elif target_hit: state="TWO_R"
                 else: state="OPEN"
                 row={"symbol":sym,"company":company,"signal_date":pd.Timestamp(sig.name).strftime("%Y-%m-%d"),
-                     "entry_date":pd.Timestamp(ent.name).strftime("%Y-%m-%d"),"entry_price":round(entry,2),
+                     "entry_date":"NEXT SESSION (PENDING)" if pending_entry else pd.Timestamp(ent.name).strftime("%Y-%m-%d"),"entry_price":round(entry,2),
                      "atr14":round(atr,2),"initial_stop":round(stop,2),"stage2_signal_date":pd.Timestamp(d.index[stage2_ix]).strftime("%Y-%m-%d") if stage2_ix is not None else None,
                      "stage2_entry_date":pd.Timestamp(d.index[stage2_ix+1]).strftime("%Y-%m-%d") if stage2_ix is not None and stage2_ix+1<len(d) else None,
                      "stage2_entry_price":round(second_entry,2) if second_entry else None,"quantity_stage1":qty1,"quantity_stage2":qty2,
