@@ -84,7 +84,7 @@ def main():
             f.columns=[str(c).title() for c in f.columns]
             f=f[[c for c in ["Open","High","Low","Close","Volume"] if c in f.columns]].dropna(subset=["Open","High","Low","Close"])
             if len(f)<100: raise ValueError(f"Insufficient usable OHLC history: {len(f)} rows")
-            d=indicators(f); dates.append(pd.Timestamp(d.index[-1]).strftime("%Y-%m-%d")); processed.append(sym)
+            d=indicators(f); dates.append(pd.Timestamp(d.index[-1]).strftime("%Y-%m-%d"))
             company=str(names.get(sym,sym)); setups=[]
             sigs=np.flatnonzero(d.CROSS_920.fillna(False).to_numpy())
             for ix in sigs:
@@ -139,6 +139,7 @@ def main():
                 setups.append(row)
             if not setups:
                 # Valid data, fully scanned, but no qualifying EMA setup.
+                processed.append(sym)
                 continue
             # Keep the latest non-overlapping signal; archive all older completed setups.
             setups.sort(key=lambda x:x["signal_date"])
@@ -159,13 +160,17 @@ def main():
                 else: running.append(row)
             stock={"symbol":sym,"company":company,"market_date":dates[-1],"setups":setups[::-1]}
             with open(f"cash_swing/data/stocks/{sym}.json","w",encoding="utf-8") as fp: json.dump(safe(stock),fp,indent=2)
+            processed.append(sym)
         except Exception as e:
             print(f"FAILED {sym}: {e}"); failed.append(sym); failed_details[sym]=str(e)
+    failed_set=set(failed)
+    processed_set=set(processed)-failed_set
+    opportunity_symbols=set(x["symbol"] for x in fresh+confirm+running+exits+archive)
     market_date=max(dates) if dates else None
-    payload={"scanner":"Aurora Cash Swing Scanner","version":"2.1 EMA batch-retry","universe":"Nifty 200","market_date":market_date,
-      "generated_at_ist":datetime.now(IST).isoformat(),"stocks_in_universe":len(u),"stocks_scanned":len(set(processed)),
-      "stocks_with_no_qualifying_opportunity":len(set(processed)-set([x["symbol"] for x in fresh+confirm+running+exits+archive])),
-      "processed_symbols":sorted(set(processed)),"failed_count":len(set(failed)),
+    payload={"scanner":"Aurora Cash Swing Scanner","version":"2.2 EMA coverage audit","universe":"Nifty 200","market_date":market_date,
+      "generated_at_ist":datetime.now(IST).isoformat(),"stocks_in_universe":len(u),"stocks_scanned":len(processed_set),
+      "stocks_with_no_qualifying_opportunity":len(processed_set-opportunity_symbols),
+      "processed_symbols":sorted(processed_set),"failed_count":len(failed_set),
       "failed_symbols":sorted(set(failed)),"failed_details":failed_details,"fresh_entries":fresh,"confirmatory_signals":confirm,"running_opportunities":running,
       "running_trades":[],"exit_alerts":exits,"two_r_achieved": [x for x in running if x["status"]=="TWO_R"],
       "trade_archive":archive,"entry_rule":"Stage 1: EMA 9 crosses above EMA 20; planned first tranche 25% at next session open. Stage 2: EMA 20 crosses above EMA 55 while EMA 9 remains above EMA 20; planned remaining 75% at next session open.",
