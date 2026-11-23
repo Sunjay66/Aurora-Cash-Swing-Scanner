@@ -43,17 +43,48 @@ def main():
     u=u.drop_duplicates("Symbol")
     if len(u)<180: raise RuntimeError(f"Incomplete Nifty 200 universe: {len(u)}")
     tickers=[x+".NS" for x in u.Symbol]
-    raw=yf.download(tickers=tickers,period="3y",interval="1d",auto_adjust=True,group_by="ticker",threads=True,progress=False)
-    if raw is None or raw.empty: raise RuntimeError("No daily market data returned")
+    # Download in small batches: a single 200-symbol Yahoo request can silently
+    # omit many tickers under throttling or response-size limits.
+    frames={}; download_errors={}
+    for offset in range(0,len(tickers),15):
+        batch=tickers[offset:offset+15]
+        try:
+            block=yf.download(tickers=batch,period="3y",interval="1d",auto_adjust=True,
+                              group_by="ticker",threads=False,progress=False)
+            if block is not None and not block.empty:
+                if isinstance(block.columns,pd.MultiIndex):
+                    for ticker in batch:
+                        if ticker in block.columns.get_level_values(0):
+                            frames[ticker]=block[ticker].copy()
+                elif len(batch)==1:
+                    frames[batch[0]]=block.copy()
+        except Exception as exc:
+            for ticker in batch: download_errors[ticker]=str(exc)
+    # Retry every missing symbol individually, so missing batch output is not
+    # mistaken for "no trading opportunity".
+    for ticker in tickers:
+        if ticker in frames: continue
+        try:
+            one=yf.download(tickers=ticker,period="3y",interval="1d",auto_adjust=True,
+                            group_by="column",threads=False,progress=False)
+            if one is not None and not one.empty:
+                if isinstance(one.columns,pd.MultiIndex):
+                    one.columns=one.columns.get_level_values(0)
+                frames[ticker]=one.copy()
+        except Exception as exc:
+            download_errors[ticker]=str(exc)
     names=dict(zip(u.Symbol,u.get("Company Name",u.Symbol)))
-    fresh=[]; confirm=[]; running=[]; exits=[]; archive=[]; failed=[]; dates=[]
+    fresh=[]; confirm=[]; running=[]; exits=[]; archive=[]; failed=[]; failed_details={}; dates=[]; processed=[]
     for ticker in tickers:
         sym=ticker[:-3]
         try:
-            f=raw[ticker].copy() if isinstance(raw.columns,pd.MultiIndex) and ticker in raw.columns.get_level_values(0) else raw.copy()
+            if ticker not in frames:
+                raise ValueError("No daily OHLC data returned after batch and individual retry: "+download_errors.get(ticker,"no response"))
+            f=frames[ticker].copy()
+            f.columns=[str(c).title() for c in f.columns]
             f=f[[c for c in ["Open","High","Low","Close","Volume"] if c in f.columns]].dropna(subset=["Open","High","Low","Close"])
-            if len(f)<100: raise ValueError("Insufficient history")
-            d=indicators(f); dates.append(pd.Timestamp(d.index[-1]).strftime("%Y-%m-%d"))
+            if len(f)<100: raise ValueError(f"Insufficient usable OHLC history: {len(f)} rows")
+            d=indicators(f); dates.append(pd.Timestamp(d.index[-1]).strftime("%Y-%m-%d")); processed.append(sym)
             company=str(names.get(sym,sym)); setups=[]
             sigs=np.flatnonzero(d.CROSS_920.fillna(False).to_numpy())
             for ix in sigs:
@@ -106,7 +137,8 @@ def main():
                      "hard_stop_date":stop_date,"ema9_exit_signal_date":ema_exit_signal,"exit_date":exit_date,"exit_price":round(exit_price,2) if exit_price is not None else None,
                      "status":state,"sessions_held":int(len(d)-entry_ix)}
                 setups.append(row)
-            if not setups: 
+            if not setups:
+                # Valid data, fully scanned, but no qualifying EMA setup.
                 continue
             # Keep the latest non-overlapping signal; archive all older completed setups.
             setups.sort(key=lambda x:x["signal_date"])
@@ -128,11 +160,13 @@ def main():
             stock={"symbol":sym,"company":company,"market_date":dates[-1],"setups":setups[::-1]}
             with open(f"cash_swing/data/stocks/{sym}.json","w",encoding="utf-8") as fp: json.dump(safe(stock),fp,indent=2)
         except Exception as e:
-            print(f"Skipped {sym}: {e}"); failed.append(sym)
+            print(f"FAILED {sym}: {e}"); failed.append(sym); failed_details[sym]=str(e)
     market_date=max(dates) if dates else None
-    payload={"scanner":"Aurora Cash Swing Scanner","version":"2.0 EMA","universe":"Nifty 200","market_date":market_date,
-      "generated_at_ist":datetime.now(IST).isoformat(),"stocks_in_universe":len(u),"stocks_scanned":len(u)-len(set(failed)),
-      "failed_symbols":sorted(set(failed)),"fresh_entries":fresh,"confirmatory_signals":confirm,"running_opportunities":running,
+    payload={"scanner":"Aurora Cash Swing Scanner","version":"2.1 EMA batch-retry","universe":"Nifty 200","market_date":market_date,
+      "generated_at_ist":datetime.now(IST).isoformat(),"stocks_in_universe":len(u),"stocks_scanned":len(set(processed)),
+      "stocks_with_no_qualifying_opportunity":len(set(processed)-set([x["symbol"] for x in fresh+confirm+running+exits+archive])),
+      "processed_symbols":sorted(set(processed)),"failed_count":len(set(failed)),
+      "failed_symbols":sorted(set(failed)),"failed_details":failed_details,"fresh_entries":fresh,"confirmatory_signals":confirm,"running_opportunities":running,
       "running_trades":[],"exit_alerts":exits,"two_r_achieved": [x for x in running if x["status"]=="TWO_R"],
       "trade_archive":archive,"entry_rule":"Stage 1: EMA 9 crosses above EMA 20; planned first tranche 25% at next session open. Stage 2: EMA 20 crosses above EMA 55 while EMA 9 remains above EMA 20; planned remaining 75% at next session open.",
       "risk_rule":"Initial hard stop = first entry price minus 1.25 x simple ATR14; stop is fixed. 2R target is based on weighted average entry and initial per-share risk. Maximum planned risk 1% of portfolio; maximum stock allocation 20%.",
@@ -140,5 +174,6 @@ def main():
       "notes":"All scanner records are hypothetical opportunities, not user-owned trades. Actual Running Trades remains empty until manually entered. 2R opportunities are retained for review; user decides whether to keep or close."}
     with open("cash_swing/data/latest.json","w",encoding="utf-8") as fp: json.dump(safe(payload),fp,indent=2,ensure_ascii=False)
     pd.DataFrame(fresh+confirm+running+exits+archive).to_csv("cash_swing/reports/ema_opportunities.csv",index=False)
-    print(f"EMA scan complete: {market_date}; scanned {payload['stocks_scanned']}/{len(u)}; fresh {len(fresh)}; confirm {len(confirm)}; running {len(running)}; exits {len(exits)}")
+    print(f"EMA scan complete: {market_date}; processed {payload['stocks_scanned']}/{len(u)}; failed {payload['failed_count']}; fresh {len(fresh)}; confirm {len(confirm)}; running {len(running)}; exits {len(exits)}")
+    if failed: print("FAILED SYMBOL DETAILS: "+json.dumps(failed_details,ensure_ascii=False))
 if __name__=="__main__": main()
