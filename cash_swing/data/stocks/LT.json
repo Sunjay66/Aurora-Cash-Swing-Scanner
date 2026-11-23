@@ -253,7 +253,7 @@
       "entry_date": "2025-03-24",
       "entry_price": 3384.08,
       "atr14": 67.33,
-      "initial_stop": 3299.91,
+      "initial_stop": 3299.92,
       "stage2_signal_date": "2025-05-12",
       "stage2_entry_date": "2025-05-13",
       "stage2_entry_price": 3519.68,
@@ -269,7 +269,7 @@
       "hard_stop_date": "2025-04-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-04",
-      "exit_price": 3299.91,
+      "exit_price": 3299.92,
       "status": "CLOSED",
       "sessions_held": 412
     },
