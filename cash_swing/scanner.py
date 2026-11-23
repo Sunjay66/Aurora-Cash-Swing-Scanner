@@ -46,7 +46,7 @@ def main():
                      if "symbol" in line.lower() and "," in line),None)
     if header_idx is None:
         raise RuntimeError("Nifty 200 constituent download has no recognizable Symbol header; response begins: "+r.text[:240])
-    u=pd.read_csv(StringIO("\\n".join(lines[header_idx:]),engine="python"))
+    u=pd.read_csv(StringIO("\\n".join(lines[header_idx:])),engine="python")
     u.columns=[str(c).strip() for c in u.columns]
     symbol_col=next((c for c in u.columns if c.lower()=="symbol"),None)
     if symbol_col is None:
