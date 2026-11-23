@@ -2,406 +2,139 @@ import json, os, warnings
 from datetime import datetime
 from io import StringIO
 from zoneinfo import ZoneInfo
-
 import numpy as np
 import pandas as pd
 import requests
 import yfinance as yf
 
 warnings.filterwarnings("ignore")
-IST = ZoneInfo("Asia/Kolkata")
-NIFTY200_URL = "https://www.niftyindices.com/IndexConstituent/ind_nifty200list.csv"
-HEADERS = {"User-Agent": "Mozilla/5.0", "Referer": "https://www.niftyindices.com/"}
+IST=ZoneInfo("Asia/Kolkata")
+URL="https://www.niftyindices.com/IndexConstituent/ind_nifty200list.csv"
+HEADERS={"User-Agent":"Mozilla/5.0","Referer":"https://www.niftyindices.com/"}
+CAPITAL=float(os.getenv("CASH_PORTFOLIO_CAPITAL","1000000"))
+RISK_PCT=float(os.getenv("CASH_RISK_PER_TRADE_PCT","1.0"))
+ALLOC_PCT=float(os.getenv("CASH_MAX_STOCK_ALLOCATION_PCT","20.0"))
 
-PORTFOLIO_CAPITAL = float(os.getenv("CASH_PORTFOLIO_CAPITAL", "1000000"))
-RISK_PER_TRADE_PCT = float(os.getenv("CASH_RISK_PER_TRADE_PCT", "1.0"))
-MAX_STOCK_ALLOCATION_PCT = float(os.getenv("CASH_MAX_STOCK_ALLOCATION_PCT", "20.0"))
-MAX_HOLDING_SESSIONS = 20
+def safe(v):
+    if isinstance(v,dict): return {str(k):safe(x) for k,x in v.items()}
+    if isinstance(v,(list,tuple)): return [safe(x) for x in v]
+    if v is None or pd.isna(v): return None
+    if isinstance(v,(np.integer,)): return int(v)
+    if isinstance(v,(np.floating,float)): return float(v) if np.isfinite(v) else None
+    if isinstance(v,(pd.Timestamp,datetime)): return v.isoformat()
+    if isinstance(v,(np.bool_,)): return bool(v)
+    return v
 
-# Completed historical sample: 1.25 ATR / 2R / bearish MACD exit.
-# trades, hard-stop %, MACD-exit %, 2R achieved %, average realised R.
-HISTORICAL_ATR_2R = {
-    "APOLLOHOSP": (15, 33.3, 26.7, 40.0, 0.4), "ICICIBANK": (15, 46.7, 20.0, 33.3, 0.1),
-    "ONGC": (14, 71.4, 0.0, 28.6, -0.1), "BHEL": (12, 50.0, 25.0, 16.7, -0.2),
-    "TCS": (19, 42.1, 10.5, 47.4, 0.5), "LAURUSLABS": (18, 38.9, 22.2, 38.9, 0.4),
-    "BSE": (15, 60.0, 13.3, 26.7, -0.2), "EICHERMOT": (18, 33.3, 22.2, 38.9, 0.4),
-    "BAJFINANCE": (16, 43.8, 6.2, 50.0, 0.5), "TATASTEEL": (14, 35.7, 7.1, 50.0, 0.7),
-    "LT": (15, 20.0, 26.7, 53.3, 0.9), "SUNPHARMA": (14, 28.6, 7.1, 50.0, 0.9),
-    "INFY": (16, 62.5, 6.2, 31.2, -0.3), "MCX": (15, 46.7, 6.7, 46.7, 0.3),
-    "M&M": (18, 61.1, 5.6, 33.3, 0.0), "TVSMOTOR": (13, 46.2, 30.8, 23.1, -0.2),
-    "SBIN": (15, 26.7, 20.0, 53.3, 0.8), "HDFCBANK": (16, 37.5, 6.2, 50.0, 0.8),
-    "CHOLAFIN": (17, 47.1, 5.9, 47.1, 0.4), "SHRIRAMFIN": (13, 61.5, 30.8, 7.7, -0.6),
-}
-
-def get_universe():
-    r = requests.get(NIFTY200_URL, headers=HEADERS, timeout=30)
-    r.raise_for_status()
-    u = pd.read_csv(StringIO(r.text))
-    u["Symbol"] = u["Symbol"].astype(str).str.strip().str.upper()
-    u = u[u["Symbol"].notna() & (u["Symbol"] != "") & (u["Symbol"] != "NAN")]
-    u = u.drop_duplicates("Symbol").copy()
-    if len(u) < 180:
-        raise RuntimeError(f"Incomplete Nifty 200 universe: {len(u)} symbols")
-    u["Yahoo_Symbol"] = u["Symbol"] + ".NS"
-    return u
-
-def calculate_indicators(df):
-    d = df.copy().sort_index()
-    c, h, l = d["Close"], d["High"], d["Low"]
-    macd = c.ewm(span=12, adjust=False).mean() - c.ewm(span=26, adjust=False).mean()
-    d["MACD"] = macd
-    d["SIGNAL"] = macd.ewm(span=9, adjust=False).mean()
-    d["HIST"] = d["MACD"] - d["SIGNAL"]
-    pc = c.shift(1)
-    tr = pd.concat([h-l, (h-pc).abs(), (l-pc).abs()], axis=1).max(axis=1)
-    d["ATR14"] = tr.ewm(alpha=1/14, adjust=False, min_periods=14).mean()
-    ret = c.pct_change()
-    for p in (20, 60, 120, 252):
-        d[f"HV{p}"] = ret.rolling(p).std() * np.sqrt(252)
-    d["HV20_RUPEES"] = c * d["HV20"] / np.sqrt(252)
-    d["HV60_RUPEES"] = c * d["HV60"] / np.sqrt(252)
-    cross_up = (d["MACD"] > d["SIGNAL"]) & (d["MACD"].shift(1) <= d["SIGNAL"].shift(1)) & (d["MACD"] < 0) & (d["SIGNAL"] < 0)
-    three_green = (d["HIST"] > 0) & (d["HIST"].shift(1) > 0) & (d["HIST"].shift(2) > 0)
-    d["ENTRY_SIGNAL"] = cross_up.shift(2).fillna(False).astype(bool) & three_green
-    d["BEARISH_EXIT"] = (d["MACD"] < d["SIGNAL"]) & (d["MACD"].shift(1) >= d["SIGNAL"].shift(1))
+def indicators(f):
+    d=f.copy().sort_index()
+    for p in (9,20,55): d[f"EMA{p}"]=d.Close.ewm(span=p,adjust=False).mean()
+    prev=d.Close.shift()
+    tr=pd.concat([d.High-d.Low,(d.High-prev).abs(),(d.Low-prev).abs()],axis=1).max(axis=1)
+    d["ATR14"]=tr.rolling(14).mean()
+    d["CROSS_920"]=(d.EMA9>d.EMA20)&(d.EMA9.shift()<=d.EMA20.shift())
+    d["CROSS_2055"]=(d.EMA20>d.EMA55)&(d.EMA20.shift()<=d.EMA55.shift())
+    d["EMA9_EXIT"]=(d.Close<d.EMA9)
     return d
 
-def n(v, digits=2):
-    try:
-        v = float(v)
-        return round(v, digits) if np.isfinite(v) else None
-    except (TypeError, ValueError):
-        return None
-
-def json_safe(value):
-    """Recursively convert pandas/NumPy missing and non-finite values to JSON null."""
-    if value is None or value is pd.NA or value is pd.NaT:
-        return None
-    if isinstance(value, dict):
-        return {str(k): json_safe(v) for k, v in value.items()}
-    if isinstance(value, (list, tuple)):
-        return [json_safe(v) for v in value]
-    if isinstance(value, (np.integer,)):
-        return int(value)
-    if isinstance(value, (np.bool_,)):
-        return bool(value)
-    if isinstance(value, (float, np.floating)):
-        return float(value) if np.isfinite(value) else None
-    if isinstance(value, (pd.Timestamp, datetime)):
-        return value.isoformat()
-    try:
-        if pd.isna(value):
-            return None
-    except (TypeError, ValueError):
-        pass
-    return value
-
-def build_lifecycle(symbol, d, company):
-    """Two parallel hypothetical stop models; one active trade per stock/model at a time."""
-    signals = np.flatnonzero(d["ENTRY_SIGNAL"].fillna(False).to_numpy())
-    results = []
-    for model in ("1.25 ATR14", "2 x HV60 daily rupee move"):
-        next_free = 0
-        for sig_pos in signals:
-            entry_pos = sig_pos + 1
-            if entry_pos >= len(d) or entry_pos < next_free:
-                continue
-            sig = d.iloc[sig_pos]
-            entry = float(d.iloc[entry_pos]["Open"])
-            atr = float(sig["ATR14"])
-            hv60 = float(sig["HV60"])
-            if not all(np.isfinite(x) and x > 0 for x in (entry, atr, hv60)):
-                continue
-            risk = 1.25 * atr if model == "1.25 ATR14" else 2.0 * (entry * hv60 / np.sqrt(252))
-            stop = entry - risk
-            target2, target3 = entry + 2*risk, entry + 3*risk
-            risk_budget = PORTFOLIO_CAPITAL * RISK_PER_TRADE_PCT / 100
-            capital_cap = PORTFOLIO_CAPITAL * MAX_STOCK_ALLOCATION_PCT / 100
-            qty = max(0, min(int(risk_budget // risk), int(capital_cap // entry))) if risk > 0 else 0
-
-            exit_type, exit_date, exit_price = "OPEN", None, None
-            exit_signal_date = None
-            last_pos = min(entry_pos + MAX_HOLDING_SESSIONS - 1, len(d)-1)
-            target2_hit = target3_hit = False
-            mfe_price = entry
-            for j in range(entry_pos, last_pos + 1):
-                bar = d.iloc[j]
-                o, hi, lo, cl = map(float, (bar["Open"], bar["High"], bar["Low"], bar["Close"]))
-                mfe_price = max(mfe_price, hi)
-                # Gap exits at open take priority.
-                if o <= stop:
-                    exit_type, exit_date, exit_price = "HARD STOP (GAP)", pd.Timestamp(d.index[j]), o
-                    break
-                if o >= target3:
-                    exit_type, exit_date, exit_price = "3R TARGET (GAP)", pd.Timestamp(d.index[j]), o
-                    target2_hit = target3_hit = True
-                    break
-                if o >= target2:
-                    target2_hit = True
-                # Conservative daily-bar assumption: if stop and target touch same bar, stop first.
-                if lo <= stop:
-                    exit_type, exit_date, exit_price = "HARD STOP", pd.Timestamp(d.index[j]), stop
-                    break
-                if hi >= target3:
-                    target2_hit = target3_hit = True
-                    exit_type, exit_date, exit_price = "3R TARGET", pd.Timestamp(d.index[j]), target3
-                    break
-                if hi >= target2:
-                    target2_hit = True
-                # MACD crossover is known at close; execution is next session open.
-                if bool(bar["BEARISH_EXIT"]):
-                    exit_signal_date = pd.Timestamp(d.index[j])
-                    if j + 1 < len(d):
-                        exit_type, exit_date = "MACD EXIT", pd.Timestamp(d.index[j+1])
-                        exit_price = float(d.iloc[j+1]["Open"])
-                    else:
-                        exit_type = "MACD EXIT — NEXT OPEN PENDING"
-                    break
-                if j == last_pos:
-                    if last_pos + 1 < len(d):
-                        exit_type, exit_date = "20-SESSION TIME EXIT", pd.Timestamp(d.index[last_pos])
-                        exit_price = cl
-                    else:
-                        exit_type = "OPEN — 20-SESSION WINDOW NOT COMPLETE"
-
-            if exit_type.startswith("OPEN") or exit_type.endswith("PENDING"):
-                status = "OPEN POSITION"
-                next_free = len(d)  # current live position blocks another signal
-            else:
-                status = "CLOSED"
-                next_free = (d.index.get_loc(exit_date) + 1) if exit_date in d.index else last_pos + 1
-
-            pnl_pct = ((exit_price / entry) - 1) * 100 if exit_price is not None else None
-            realised_r = ((exit_price - entry) / risk) if exit_price is not None and risk else None
-            latest_close = float(d.iloc[-1]["Close"])
-            current_pnl_pct = ((latest_close / entry) - 1) * 100
-            latest_date = pd.Timestamp(d.index[-1])
-            # Count actual trading sessions held through exit (or through latest bar if still open).
-            end_pos = d.index.get_loc(exit_date) if exit_date is not None and exit_date in d.index else len(d) - 1
-            age = max(1, int(end_pos - entry_pos + 1))
-
-            results.append({
-                "symbol": symbol, "company": company, "stop_model": model,
-                "signal_date": pd.Timestamp(d.index[sig_pos]).strftime("%Y-%m-%d"),
-                "entry_date": pd.Timestamp(d.index[entry_pos]).strftime("%Y-%m-%d"),
-                "entry_price": n(entry), "risk_per_share": n(risk), "atr14_at_signal": n(atr),
-                "hv60_annualised_pct_at_signal": n(hv60*100),
-                "hv60_daily_rupee_at_entry": n(entry*hv60/np.sqrt(252)),
-                "stop_loss": n(stop), "target_2r": n(target2), "target_3r": n(target3),
-                "quantity": qty, "capital_required": n(qty*entry), "planned_risk": n(qty*risk),
-                "latest_market_date": latest_date.strftime("%Y-%m-%d"),
-                "latest_close": n(latest_close), "unrealised_return_pct": n(current_pnl_pct),
-                "sessions_held": int(age), "target_2r_touched": bool(target2_hit),
-                "target_3r_touched": bool(target3_hit),
-                "exit_signal_date": exit_signal_date.strftime("%Y-%m-%d") if exit_signal_date is not None else None,
-                "exit_date": exit_date.strftime("%Y-%m-%d") if exit_date is not None else None,
-                "exit_price": n(exit_price), "exit_type": exit_type, "status": status,
-                "realised_return_pct": n(pnl_pct), "realised_r": n(realised_r),
-            })
-    return results
-
 def main():
-    os.makedirs("cash_swing/data", exist_ok=True)
-    os.makedirs("cash_swing/reports", exist_ok=True)
-    universe = get_universe()
-    symbols = universe["Yahoo_Symbol"].tolist()
-    print(f"Downloading daily data for {len(symbols)} Nifty 200 stocks...")
-    raw = yf.download(tickers=symbols, period="3y", interval="1d", auto_adjust=True,
-                      group_by="ticker", threads=True, progress=False)
-    if raw is None or raw.empty:
-        raise RuntimeError("Yahoo Finance returned no daily market data.")
-
-    name_col = "Company Name" if "Company Name" in universe.columns else None
-    names = dict(zip(universe["Symbol"], universe[name_col] if name_col else universe["Symbol"]))
-    failures, latest_dates, current_recommendations, lifecycles = [], [], [], []
-    market_comparison_by_symbol = {}
-    nifty_close = None
-    try:
-        ni = yf.download("^NSEI", period="3y", interval="1d", auto_adjust=True, progress=False)
-        if not ni.empty:
-            nifty_close = ni["Close"].squeeze().dropna()
-    except Exception as exc:
-        print(f"Nifty benchmark download unavailable: {exc}")
-
-    for ticker in symbols:
-        sym = ticker[:-3]
+    os.makedirs("cash_swing/data/stocks",exist_ok=True); os.makedirs("cash_swing/reports",exist_ok=True)
+    r=requests.get(URL,headers=HEADERS,timeout=30); r.raise_for_status()
+    u=pd.read_csv(StringIO(r.text)); u["Symbol"]=u.Symbol.astype(str).str.strip().str.upper()
+    u=u.drop_duplicates("Symbol")
+    if len(u)<180: raise RuntimeError(f"Incomplete Nifty 200 universe: {len(u)}")
+    tickers=[x+".NS" for x in u.Symbol]
+    raw=yf.download(tickers=tickers,period="3y",interval="1d",auto_adjust=True,group_by="ticker",threads=True,progress=False)
+    if raw is None or raw.empty: raise RuntimeError("No daily market data returned")
+    names=dict(zip(u.Symbol,u.get("Company Name",u.Symbol)))
+    fresh=[]; confirm=[]; running=[]; exits=[]; archive=[]; failed=[]; dates=[]
+    for ticker in tickers:
+        sym=ticker[:-3]
         try:
-            if isinstance(raw.columns, pd.MultiIndex):
-                if ticker not in raw.columns.get_level_values(0):
-                    failures.append(sym); continue
-                frame = raw[ticker].copy()
+            f=raw[ticker].copy() if isinstance(raw.columns,pd.MultiIndex) and ticker in raw.columns.get_level_values(0) else raw.copy()
+            f=f[[c for c in ["Open","High","Low","Close","Volume"] if c in f.columns]].dropna(subset=["Open","High","Low","Close"])
+            if len(f)<100: raise ValueError("Insufficient history")
+            d=indicators(f); dates.append(pd.Timestamp(d.index[-1]).strftime("%Y-%m-%d"))
+            company=str(names.get(sym,sym)); setups=[]
+            sigs=np.flatnonzero(d.CROSS_920.fillna(False).to_numpy())
+            for ix in sigs:
+                entry_ix=ix+1
+                if entry_ix>=len(d): continue
+                sig=d.iloc[ix]; ent=d.iloc[entry_ix]
+                entry=float(ent.Open); atr=float(sig.ATR14) if pd.notna(sig.ATR14) else np.nan
+                if not np.isfinite(atr) or atr<=0 or entry<=0: continue
+                stop=entry-1.25*atr; risk=entry-stop
+                stage2_ix=None
+                for j in range(entry_ix,len(d)):
+                    if bool(d.iloc[j].CROSS_2055) and float(d.iloc[j].EMA9)>float(d.iloc[j].EMA20):
+                        stage2_ix=j; break
+                second_entry=None
+                if stage2_ix is not None and stage2_ix+1<len(d):
+                    second_entry=float(d.iloc[stage2_ix+1].Open)
+                qty1=max(0,min(int((CAPITAL*RISK_PCT/100*.25)//risk),int((CAPITAL*ALLOC_PCT/100*.25)//entry)))
+                qty2=0
+                if second_entry and second_entry>0:
+                    qty2=max(0,min(int((CAPITAL*RISK_PCT/100*.75)//risk),int((CAPITAL*ALLOC_PCT/100*.75)//second_entry)))
+                total=qty1+qty2
+                avg=((qty1*entry+qty2*second_entry)/total) if total else entry
+                target=avg+2*risk
+                stop_date=None; ema_exit_signal=None; exit_date=None; exit_price=None; target_hit=False
+                start=entry_ix
+                for j in range(start,len(d)):
+                    bar=d.iloc[j]; op,hi,lo,cl=map(float,(bar.Open,bar.High,bar.Low,bar.Close))
+                    if op<=stop: stop_date=pd.Timestamp(d.index[j]).strftime("%Y-%m-%d"); exit_price=op; exit_date=stop_date; break
+                    if lo<=stop: stop_date=pd.Timestamp(d.index[j]).strftime("%Y-%m-%d"); exit_price=stop; exit_date=stop_date; break
+                    if hi>=target: target_hit=True
+                    if cl<float(bar.EMA9):
+                        ema_exit_signal=pd.Timestamp(d.index[j]).strftime("%Y-%m-%d")
+                        if j+1<len(d):
+                            exit_date=pd.Timestamp(d.index[j+1]).strftime("%Y-%m-%d"); exit_price=float(d.iloc[j+1].Open)
+                        break
+                last=d.iloc[-1]; latest_date=pd.Timestamp(d.index[-1]).strftime("%Y-%m-%d")
+                if stop_date or ema_exit_signal:
+                    state="CLOSED"
+                elif target_hit: state="TWO_R"
+                else: state="OPEN"
+                row={"symbol":sym,"company":company,"signal_date":pd.Timestamp(sig.name).strftime("%Y-%m-%d"),
+                     "entry_date":pd.Timestamp(ent.name).strftime("%Y-%m-%d"),"entry_price":round(entry,2),
+                     "atr14":round(atr,2),"initial_stop":round(stop,2),"stage2_signal_date":pd.Timestamp(d.index[stage2_ix]).strftime("%Y-%m-%d") if stage2_ix is not None else None,
+                     "stage2_entry_date":pd.Timestamp(d.index[stage2_ix+1]).strftime("%Y-%m-%d") if stage2_ix is not None and stage2_ix+1<len(d) else None,
+                     "stage2_entry_price":round(second_entry,2) if second_entry else None,"quantity_stage1":qty1,"quantity_stage2":qty2,
+                     "weighted_entry":round(avg,2),"risk_per_share":round(risk,2),"target_2r":round(target,2),
+                     "latest_close":round(float(last.Close),2),"latest_date":latest_date,
+                     "unrealised_return_pct":round((float(last.Close)/avg-1)*100,2),"target_2r_touched":bool(target_hit),
+                     "hard_stop_date":stop_date,"ema9_exit_signal_date":ema_exit_signal,"exit_date":exit_date,"exit_price":round(exit_price,2) if exit_price is not None else None,
+                     "status":state,"sessions_held":int(len(d)-entry_ix)}
+                setups.append(row)
+            if not setups: 
+                continue
+            # Keep the latest non-overlapping signal; archive all older completed setups.
+            setups.sort(key=lambda x:x["signal_date"])
+            for row in setups[:-1]:
+                archive.append(row)
+            row=setups[-1]
+            if row["status"]=="CLOSED":
+                exits.append(row); archive.append(row)
+            elif row["status"]=="TWO_R":
+                running.append(row)
             else:
-                frame = raw.copy()
-            needed = ["Open", "High", "Low", "Close", "Volume"]
-            if not all(c in frame.columns for c in needed):
-                failures.append(sym); continue
-            frame = frame[needed].dropna(subset=["Open","High","Low","Close"])
-            if len(frame) < 300:
-                failures.append(sym); continue
-            d = calculate_indicators(frame)
-            latest = d.iloc[-1]
-            beta60 = None
-            stock_hv20 = n(latest.get("HV20")*100,2)
-            stock_hv60 = n(latest.get("HV60")*100,2)
-            nifty_hv20 = nifty_hv60 = None
-            if nifty_close is not None:
-                aligned = pd.concat([d["Close"].pct_change().rename("stock"), nifty_close.pct_change().rename("nifty")],axis=1).dropna()
-                if len(aligned) >= 60 and aligned["nifty"].tail(60).var() > 0:
-                    beta60 = n(aligned["stock"].tail(60).cov(aligned["nifty"].tail(60))/aligned["nifty"].tail(60).var(),2)
-                nr = nifty_close.pct_change().dropna()
-                if len(nr)>=60:
-                    nifty_hv20=n(float(nr.tail(20).std()*np.sqrt(252)*100),2)
-                    nifty_hv60=n(float(nr.tail(60).std()*np.sqrt(252)*100),2)
-            market_date = pd.Timestamp(d.index[-1]).strftime("%Y-%m-%d")
-            latest_dates.append(market_date)
-            market_comparison_by_symbol[sym] = {"beta60_vs_nifty50": beta60, "stock_hv20_pct": stock_hv20, "stock_hv60_pct": stock_hv60, "nifty_hv20_pct": nifty_hv20, "nifty_hv60_pct": nifty_hv60}
-
-            # Current confirmed signal recommendations, provisional until next open.
-            if bool(latest["ENTRY_SIGNAL"]):
-                ref = float(latest["Close"]); atr = float(latest["ATR14"]); hv = float(latest["HV60"])
-                hist = HISTORICAL_ATR_2R.get(sym)
-                for model, risk in (("1.25 ATR14", 1.25*atr), ("2 x HV60 daily rupee move", 2*ref*hv/np.sqrt(252))):
-                    qty = max(0, min(int((PORTFOLIO_CAPITAL*RISK_PER_TRADE_PCT/100)//risk),
-                                     int((PORTFOLIO_CAPITAL*MAX_STOCK_ALLOCATION_PCT/100)//ref))) if risk > 0 else 0
-                    current_recommendations.append({
-                        "symbol": sym, "company": str(names.get(sym,sym)), "signal_date": market_date,
-                        "reference_close": n(ref), "entry_price_status": "Provisional; next session actual open required",
-                        "stop_model": model, "atr14": n(atr), "hv60_annualised_pct": n(hv*100),
-                        "hv60_daily_rupee_move": n(ref*hv/np.sqrt(252)),
-                        "stop_loss_provisional": n(ref-risk), "target_2r_provisional": n(ref+2*risk),
-                        "target_3r_provisional": n(ref+3*risk), "quantity_provisional": qty,
-                        "capital_required_provisional": n(qty*ref),
-                        "historical_sample_trades_atr_2r": hist[0] if hist else None,
-                        "historical_atr_stop_hit_pct": hist[1] if hist else None,
-                        "historical_macd_exit_pct": hist[2] if hist else None,
-                        "historical_atr_2r_achieved_pct": hist[3] if hist else None,
-                        "historical_atr_average_realised_r": hist[4] if hist else None,
-                        "historical_3r_stock_specific": "Not established",
-                        "historical_hv60_stock_specific": "Not established"
-                    })
-
-            lifecycles.extend(build_lifecycle(sym, d, str(names.get(sym,sym))))
-        except Exception as exc:
-            print(f"Skipped {sym}: {exc}")
-            failures.append(sym)
-
-    latest_market_date = max(latest_dates) if latest_dates else None
-    lifecycle_df = pd.DataFrame(lifecycles)
-    if not lifecycle_df.empty:
-        lifecycle_df = lifecycle_df.sort_values(["entry_date","symbol","stop_model"])
-    open_positions = lifecycle_df[lifecycle_df["status"] == "OPEN POSITION"].to_dict("records") if not lifecycle_df.empty else []
-    closed_trades = lifecycle_df[lifecycle_df["status"] == "CLOSED"].to_dict("records") if not lifecycle_df.empty else []
-    all_macd_exits = lifecycle_df[lifecycle_df["exit_type"].str.startswith("MACD EXIT")].to_dict("records") if not lifecycle_df.empty else []
-    all_stop_exits = lifecycle_df[lifecycle_df["exit_type"].str.startswith("HARD STOP")].to_dict("records") if not lifecycle_df.empty else []
-    # Actionable MACD alerts are only signals confirmed on the latest available candle,
-    # awaiting execution at the next session open.
-    macd_exits = [x for x in all_macd_exits if x.get("exit_type") == "MACD EXIT — NEXT OPEN PENDING"]
-    recent_cutoff = (pd.Timestamp(latest_market_date)-pd.Timedelta(days=30)).strftime("%Y-%m-%d") if latest_market_date else "9999-12-31"
-    stop_exits = [x for x in all_stop_exits if x.get("exit_date") and x["exit_date"] >= recent_cutoff]
-    recent_closed = [x for x in closed_trades if x.get("exit_date") and latest_market_date and x["exit_date"] >= recent_cutoff]
-
-    # Publish a dedicated three-year history file for every stock in the Nifty 200 universe.
-    os.makedirs("cash_swing/data/stocks", exist_ok=True)
-    for _, row in universe.iterrows():
-        sym = str(row["Symbol"]).strip().upper()
-        company = str(names.get(sym, sym))
-        hist_rows = [x for x in lifecycles if x["symbol"] == sym]
-        hist_rows = sorted(hist_rows, key=lambda x: (x.get("entry_date") or ""), reverse=True)
-        models = []
-        for model in ("1.25 ATR14", "2 x HV60 daily rupee move"):
-            mr = [x for x in hist_rows if x["stop_model"] == model]
-            closed = [x for x in mr if x.get("status") == "CLOSED"]
-            opened = [x for x in mr if x.get("status") == "OPEN POSITION"]
-            total_closed = len(closed)
-            hard = sum(str(x.get("exit_type","")).startswith("HARD STOP") for x in closed)
-            macd = sum(str(x.get("exit_type","")).startswith("MACD EXIT") for x in closed)
-            time_exit = sum(str(x.get("exit_type","")).startswith("20-SESSION") for x in closed)
-            target3 = sum(str(x.get("exit_type","")).startswith("3R TARGET") for x in closed)
-            target2 = sum(bool(x.get("target_2r_touched")) for x in closed)
-            models.append({
-                "stop_model": model,
-                "total_opportunities": total_closed,
-                "open_opportunities": len(opened),
-                "two_r_achieved_count": target2,
-                "three_r_achieved_count": target3,
-                "macd_exit_count": macd,
-                "hard_stop_count": hard,
-                "time_exit_count": time_exit,
-                "realised_pnl_per_100_shares_total": n(sum((float(x.get("exit_price") or 0)-float(x.get("entry_price") or 0))*100 for x in closed),2),
-                "realised_pnl_per_100_shares_average": n(sum((float(x.get("exit_price") or 0)-float(x.get("entry_price") or 0))*100 for x in closed)/total_closed,2) if total_closed else None,
-                "two_r_achieved_pct": n(100*target2/total_closed,1) if total_closed else None,
-                "three_r_achieved_pct": n(100*target3/total_closed,1) if total_closed else None,
-                "macd_exit_pct": n(100*macd/total_closed,1) if total_closed else None,
-                "hard_stop_pct": n(100*hard/total_closed,1) if total_closed else None,
-                "time_exit_pct": n(100*time_exit/total_closed,1) if total_closed else None,
-            })
-        history_dates = [x.get("entry_date") for x in hist_rows if x.get("entry_date")]
-        history_start = min(history_dates) if history_dates else None
-        history_end = max(history_dates) if history_dates else None
-        stock_payload = {
-            "symbol": sym, "company": company, "market_date": latest_market_date,
-            "history_period": (f"{history_start} to {history_end}" if history_start else "No historical signals"),
-            "history_start_date": history_start, "history_end_date": history_end,
-            "entry_rule": "MACD 12,26,9 bullish crossover below zero; histogram positive for three consecutive sessions; entry at next session open.",
-            "exit_rule": "Hard stop; 3R target exit; 2R milestone tracking; bearish MACD exit at next session open; or 20-session research time exit.",
-            "stop_models": models, "trades": hist_rows,
-            "current_signal_plans": [x for x in current_recommendations if x["symbol"] == sym],
-            "market_comparison": market_comparison_by_symbol.get(sym, {}),
-            "data_note": "Historical simulations use adjusted daily OHLC data. Intraday stop/target collisions are resolved stop-first. No brokerage, taxes, slippage or futures basis included."
-        }
-        with open(f"cash_swing/data/stocks/{sym}.json","w",encoding="utf-8") as sf:
-            json.dump(json_safe(stock_payload), sf, indent=2, ensure_ascii=False, allow_nan=False)
-
-    # One candidate row per stock; stop alternatives are shown together on its detail page.
-    candidate_by_symbol = {}
-    for rec in current_recommendations:
-        candidate_by_symbol.setdefault(rec["symbol"], {
-            "symbol": rec["symbol"], "company": rec["company"], "signal_date": rec["signal_date"],
-            "reference_close": rec["reference_close"], "atr14": rec["atr14"],
-            "hv60_daily_rupee_move": rec["hv60_daily_rupee_move"],
-            "atr_stop": rec["stop_loss_provisional"], "hv60_stop": rec["stop_loss_provisional"] if rec["stop_model"].startswith("2 x HV60") else None,
-        })
-        if rec["stop_model"] == "1.25 ATR14":
-            candidate_by_symbol[rec["symbol"]]["atr_stop"] = rec["stop_loss_provisional"]
-        else:
-            candidate_by_symbol[rec["symbol"]]["hv60_stop"] = rec["stop_loss_provisional"]
-    candidates = sorted(candidate_by_symbol.values(), key=lambda x: x["signal_date"], reverse=True)
-
-    payload = {
-        "scanner":"Aurora Cash Swing Scanner","version":"1.1","universe":"Nifty 200",
-        "market_date":latest_market_date,"generated_at_ist":datetime.now(IST).isoformat(),
-        "stocks_in_universe":len(universe),"stocks_scanned":len(universe)-len(set(failures)),
-        "failed_symbols":sorted(set(failures)),
-        "qualifying_stock_count":len(set(x["symbol"] for x in current_recommendations)),
-        "trade_plan_count":len(current_recommendations),"recommendations":current_recommendations,
-        "candidates":candidates,
-        "recent_open_candidates":[x for x in open_positions if int(x.get("sessions_held") or 0) < MAX_HOLDING_SESSIONS],
-        "extended_open_candidates":[x for x in open_positions if int(x.get("sessions_held") or 0) >= MAX_HOLDING_SESSIONS],
-        "lifecycle_summary":{
-            "open_position_models":len(open_positions),"macd_exit_models":len(macd_exits), "historical_macd_exit_models":len(all_macd_exits),
-            "hard_stop_exit_models":len(stop_exits), "hard_stop_exit_stocks":len(set(x["symbol"] for x in stop_exits)), "historical_hard_stop_exit_models":len(all_stop_exits), "closed_trade_models":len(closed_trades)
-        },
-        "open_positions":open_positions,
-        "macd_exit_alerts":macd_exits,
-        "hard_stop_alerts":stop_exits[-100:],
-        "historical_macd_exits":all_macd_exits[-200:],
-        "historical_hard_stop_exits":all_stop_exits[-200:],
-        "recent_closed_trades":recent_closed[-200:],
-        "capital_settings":{"portfolio_capital":PORTFOLIO_CAPITAL,"risk_per_trade_pct":RISK_PER_TRADE_PCT,
-                            "max_stock_allocation_pct":MAX_STOCK_ALLOCATION_PCT},
-        "entry_rule":"MACD 12,26,9 bullish crossover below zero; histogram positive for three consecutive sessions; confirmation at third positive-histogram close; execution next session open.",
-        "exit_rule":"Hard stop, 2R/3R target, bearish MACD crossover at next session open, or 20-session time exit.",
-        "lifecycle_note":"Two stop models are shown as parallel alternatives, not two simultaneous real positions. Daily OHLC ambiguity where stop and target are touched in the same candle is resolved conservatively in favour of the stop."
-    }
-    with open("cash_swing/data/latest.json","w",encoding="utf-8") as f: json.dump(json_safe(payload),f,indent=2,ensure_ascii=False,allow_nan=False)
-    universe.to_csv("cash_swing/data/nifty200_universe.csv",index=False)
-    lifecycle_df.to_csv("cash_swing/reports/trade_lifecycle_history.csv",index=False)
-    pd.DataFrame(current_recommendations).to_csv("cash_swing/reports/recommendations.csv",index=False)
-    print("AURORA CASH SWING SCAN + LIFECYCLE MONITOR COMPLETE")
-    print(f"Market date: {latest_market_date} | Universe: {len(universe)} | Scanned: {payload['stocks_scanned']} | Failed: {len(set(failures))}")
-    print(f"Current qualifying stocks: {payload['qualifying_stock_count']}")
-    print(f"Open position models: {len(open_positions)} | MACD exits: {len(macd_exits)} | Hard-stop exits: {len(stop_exits)}")
-    print("Outputs: cash_swing/data/latest.json and cash_swing/reports/trade_lifecycle_history.csv")
-
-if __name__ == "__main__":
-    main()
+                # Second-stage crossover is a same-day confirmatory alert only.
+                if row["stage2_signal_date"]==dates[-1]: confirm.append(row)
+                elif row["signal_date"]==dates[-1]: fresh.append(row)
+                else: running.append(row)
+            stock={"symbol":sym,"company":company,"market_date":dates[-1],"setups":setups[::-1]}
+            with open(f"cash_swing/data/stocks/{sym}.json","w",encoding="utf-8") as fp: json.dump(safe(stock),fp,indent=2)
+        except Exception as e:
+            print(f"Skipped {sym}: {e}"); failed.append(sym)
+    market_date=max(dates) if dates else None
+    payload={"scanner":"Aurora Cash Swing Scanner","version":"2.0 EMA","universe":"Nifty 200","market_date":market_date,
+      "generated_at_ist":datetime.now(IST).isoformat(),"stocks_in_universe":len(u),"stocks_scanned":len(u)-len(set(failed)),
+      "failed_symbols":sorted(set(failed)),"fresh_entries":fresh,"confirmatory_signals":confirm,"running_opportunities":running,
+      "running_trades":[],"exit_alerts":exits,"two_r_achieved": [x for x in running if x["status"]=="TWO_R"],
+      "trade_archive":archive,"entry_rule":"Stage 1: EMA 9 crosses above EMA 20; planned first tranche 25% at next session open. Stage 2: EMA 20 crosses above EMA 55 while EMA 9 remains above EMA 20; planned remaining 75% at next session open.",
+      "risk_rule":"Initial hard stop = first entry price minus 1.25 x simple ATR14; stop is fixed. 2R target is based on weighted average entry and initial per-share risk. Maximum planned risk 1% of portfolio; maximum stock allocation 20%.",
+      "exit_rule":"Hard stop intraday; EMA 9 close-below is an exit alert for next session open. Same-day stop/target collision resolves stop-first. No automatic time exit.",
+      "notes":"All scanner records are hypothetical opportunities, not user-owned trades. Actual Running Trades remains empty until manually entered. 2R opportunities are retained for review; user decides whether to keep or close."}
+    with open("cash_swing/data/latest.json","w",encoding="utf-8") as fp: json.dump(safe(payload),fp,indent=2,ensure_ascii=False)
+    pd.DataFrame(fresh+confirm+running+exits+archive).to_csv("cash_swing/reports/ema_opportunities.csv",index=False)
+    print(f"EMA scan complete: {market_date}; scanned {payload['stocks_scanned']}/{len(u)}; fresh {len(fresh)}; confirm {len(confirm)}; running {len(running)}; exits {len(exits)}")
+if __name__=="__main__": main()
