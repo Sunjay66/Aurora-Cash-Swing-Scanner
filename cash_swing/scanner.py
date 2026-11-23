@@ -38,24 +38,17 @@ def indicators(f):
 
 def main():
     os.makedirs("cash_swing/data/stocks",exist_ok=True); os.makedirs("cash_swing/reports",exist_ok=True)
-    r=requests.get(URL,headers=HEADERS,timeout=30); r.raise_for_status()
-    # NiftyIndices occasionally prepends metadata / non-table CSV lines.
-    # Locate the real constituent header instead of parsing from line one.
-    lines=r.text.lstrip("\\ufeff").splitlines()
-    header_idx=next((i for i,line in enumerate(lines)
-                     if "symbol" in line.lower() and "," in line),None)
-    if header_idx is None:
-        raise RuntimeError("Nifty 200 constituent download has no recognizable Symbol header; response begins: "+r.text[:240])
-    u=pd.read_csv(StringIO("\\n".join(lines[header_idx:])),engine="python")
+    # Use the repository's maintained Nifty 200 constituent file.
+    # This avoids unstable HTML/CSV responses from the external index website.
+    universe_path="cash_swing/data/nifty200_universe.csv"
+    u=pd.read_csv(universe_path)
     u.columns=[str(c).strip() for c in u.columns]
-    symbol_col=next((c for c in u.columns if c.lower()=="symbol"),None)
-    if symbol_col is None:
-        raise RuntimeError("Constituent CSV header found but Symbol column is missing: "+str(list(u.columns)))
-    u=u.rename(columns={symbol_col:"Symbol"})
+    if "Symbol" not in u.columns:
+        raise RuntimeError("Maintained Nifty 200 universe file has no Symbol column")
     u["Symbol"]=u.Symbol.astype(str).str.strip().str.upper()
     u=u[u.Symbol.str.fullmatch(r"[A-Z0-9&-]+",na=False)].drop_duplicates("Symbol")
-    if len(u)<180:
-        raise RuntimeError(f"Incomplete Nifty 200 universe after header parsing: {len(u)} symbols; refusing partial scan")
+    if len(u)!=200:
+        raise RuntimeError(f"Maintained Nifty 200 universe contains {len(u)} valid unique symbols; expected exactly 200")
     tickers=[x+".NS" for x in u.Symbol]
     # Download in small batches: a single 200-symbol Yahoo request can silently
     # omit many tickers under throttling or response-size limits.
