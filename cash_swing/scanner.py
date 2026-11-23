@@ -114,7 +114,10 @@ def main():
                 archive.append(row)
             row=setups[-1]
             if row["status"]=="CLOSED":
-                exits.append(row); archive.append(row)
+                latest_day=dates[-1]
+                is_today_alert=(row.get("hard_stop_date")==latest_day or row.get("ema9_exit_signal_date")==latest_day)
+                if is_today_alert: exits.append(row)
+                else: archive.append(row)
             elif row["status"]=="TWO_R":
                 running.append(row)
             else:
