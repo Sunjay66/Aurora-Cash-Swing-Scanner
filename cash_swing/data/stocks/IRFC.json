@@ -1,7 +1,7 @@
 {
   "symbol": "IRFC",
   "company": "Indian Railway Finance Corporation Ltd.",
-  "market_date": "2026-11-20",
+  "market_date": "2026-11-23",
   "setups": [
     {
       "symbol": "IRFC",
@@ -19,16 +19,16 @@
       "weighted_entry": 82.38,
       "risk_per_share": 3.02,
       "target_2r": 88.41,
-      "latest_close": 83.74,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 1.65,
+      "latest_close": 80.8,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -1.92,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-18",
       "exit_date": "2026-11-19",
       "exit_price": 80.75,
       "status": "CLOSED",
-      "sessions_held": 10
+      "sessions_held": 11
     },
     {
       "symbol": "IRFC",
@@ -46,16 +46,16 @@
       "weighted_entry": 86.56,
       "risk_per_share": 2.71,
       "target_2r": 91.98,
-      "latest_close": 83.74,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": -3.26,
+      "latest_close": 80.8,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -6.66,
       "target_2r_touched": true,
       "hard_stop_date": "2026-06-24",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-06-24",
       "exit_price": 92.6,
       "status": "CLOSED",
-      "sessions_held": 105
+      "sessions_held": 106
     },
     {
       "symbol": "IRFC",
@@ -73,16 +73,16 @@
       "weighted_entry": 87.74,
       "risk_per_share": 4.95,
       "target_2r": 97.65,
-      "latest_close": 83.74,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": -4.56,
+      "latest_close": 80.8,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -7.91,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-11",
       "exit_date": "2026-05-12",
       "exit_price": 100.93,
       "status": "CLOSED",
-      "sessions_held": 150
+      "sessions_held": 151
     },
     {
       "symbol": "IRFC",
@@ -91,7 +91,7 @@
       "entry_date": "2025-12-26",
       "entry_price": 119.05,
       "atr14": 2.95,
-      "initial_stop": 115.36,
+      "initial_stop": 115.37,
       "stage2_signal_date": "2026-01-01",
       "stage2_entry_date": "2026-01-02",
       "stage2_entry_price": 123.25,
@@ -100,16 +100,16 @@
       "weighted_entry": 122.18,
       "risk_per_share": 3.69,
       "target_2r": 129.55,
-      "latest_close": 83.74,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": -31.46,
+      "latest_close": 80.8,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -33.87,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-08",
       "exit_date": "2026-01-09",
       "exit_price": 121.09,
       "status": "CLOSED",
-      "sessions_held": 223
+      "sessions_held": 224
     },
     {
       "symbol": "IRFC",
@@ -127,16 +127,16 @@
       "weighted_entry": 123.48,
       "risk_per_share": 3.27,
       "target_2r": 130.02,
-      "latest_close": 83.74,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": -32.18,
+      "latest_close": 80.8,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -34.56,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-23",
       "exit_date": "2025-09-24",
       "exit_price": 123.04,
       "status": "CLOSED",
-      "sessions_held": 292
+      "sessions_held": 293
     },
     {
       "symbol": "IRFC",
@@ -154,16 +154,16 @@
       "weighted_entry": 126.1,
       "risk_per_share": 4.51,
       "target_2r": 135.11,
-      "latest_close": 83.74,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": -33.59,
+      "latest_close": 80.8,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -35.92,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-03",
       "exit_date": "2025-07-04",
       "exit_price": 135.07,
       "status": "CLOSED",
-      "sessions_held": 346
+      "sessions_held": 347
     },
     {
       "symbol": "IRFC",
@@ -181,16 +181,16 @@
       "weighted_entry": 134.37,
       "risk_per_share": 5.56,
       "target_2r": 145.5,
-      "latest_close": 83.74,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": -37.68,
+      "latest_close": 80.8,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -39.87,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-12",
       "exit_date": "2025-06-13",
       "exit_price": 131.46,
       "status": "CLOSED",
-      "sessions_held": 377
+      "sessions_held": 378
     },
     {
       "symbol": "IRFC",
@@ -208,16 +208,16 @@
       "weighted_entry": 134.35,
       "risk_per_share": 5.33,
       "target_2r": 145.01,
-      "latest_close": 83.74,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": -37.67,
+      "latest_close": 80.8,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -39.86,
       "target_2r_touched": false,
       "hard_stop_date": "2025-03-27",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-03-27",
       "exit_price": 121.0,
       "status": "CLOSED",
-      "sessions_held": 411
+      "sessions_held": 412
     },
     {
       "symbol": "IRFC",
@@ -235,16 +235,16 @@
       "weighted_entry": 139.33,
       "risk_per_share": 6.96,
       "target_2r": 153.25,
-      "latest_close": 83.74,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": -39.9,
+      "latest_close": 80.8,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -42.01,
       "target_2r_touched": false,
       "hard_stop_date": "2025-02-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-02-01",
       "exit_price": 138.94,
       "status": "CLOSED",
-      "sessions_held": 445
+      "sessions_held": 446
     },
     {
       "symbol": "IRFC",
@@ -262,16 +262,16 @@
       "weighted_entry": 151.94,
       "risk_per_share": 6.41,
       "target_2r": 164.77,
-      "latest_close": 83.74,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": -44.89,
+      "latest_close": 80.8,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -46.82,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-02",
       "exit_date": "2024-12-03",
       "exit_price": 142.16,
       "status": "CLOSED",
-      "sessions_held": 490
+      "sessions_held": 491
     },
     {
       "symbol": "IRFC",
@@ -289,16 +289,16 @@
       "weighted_entry": 151.81,
       "risk_per_share": 8.04,
       "target_2r": 167.89,
-      "latest_close": 83.74,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": -44.84,
+      "latest_close": 80.8,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -46.77,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-08",
       "exit_date": "2024-11-11",
       "exit_price": 140.92,
       "status": "CLOSED",
-      "sessions_held": 506
+      "sessions_held": 507
     },
     {
       "symbol": "IRFC",
@@ -316,16 +316,16 @@
       "weighted_entry": 150.53,
       "risk_per_share": 5.46,
       "target_2r": 161.45,
-      "latest_close": 83.74,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": -44.37,
+      "latest_close": 80.8,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -46.32,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-07",
       "exit_date": "2024-05-08",
       "exit_price": 141.79,
       "status": "CLOSED",
-      "sessions_held": 639
+      "sessions_held": 640
     },
     {
       "symbol": "IRFC",
@@ -343,16 +343,16 @@
       "weighted_entry": 149.77,
       "risk_per_share": 10.51,
       "target_2r": 170.78,
-      "latest_close": 83.74,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": -44.09,
+      "latest_close": 80.8,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -46.05,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-12",
       "exit_date": "2024-04-15",
       "exit_price": 131.42,
       "status": "CLOSED",
-      "sessions_held": 652
+      "sessions_held": 653
     }
   ]
 }

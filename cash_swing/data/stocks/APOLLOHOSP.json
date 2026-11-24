@@ -1,7 +1,7 @@
 {
   "symbol": "APOLLOHOSP",
   "company": "Apollo Hospitals Enterprise Ltd.",
-  "market_date": "2026-11-20",
+  "market_date": "2026-11-23",
   "setups": [
     {
       "symbol": "APOLLOHOSP",
@@ -19,16 +19,16 @@
       "weighted_entry": 8714.0,
       "risk_per_share": 265.58,
       "target_2r": 9245.16,
-      "latest_close": 9200.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 5.58,
+      "latest_close": 9257.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 6.23,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "TWO_R",
-      "sessions_held": 13
+      "sessions_held": 14
     },
     {
       "symbol": "APOLLOHOSP",
@@ -46,16 +46,16 @@
       "weighted_entry": 8819.45,
       "risk_per_share": 181.38,
       "target_2r": 9182.22,
-      "latest_close": 9200.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 4.31,
+      "latest_close": 9257.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 4.96,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-28",
       "exit_date": "2026-09-29",
       "exit_price": 8885.0,
       "status": "CLOSED",
-      "sessions_held": 42
+      "sessions_held": 43
     },
     {
       "symbol": "APOLLOHOSP",
@@ -73,16 +73,16 @@
       "weighted_entry": 8844.68,
       "risk_per_share": 169.73,
       "target_2r": 9184.15,
-      "latest_close": 9200.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 4.02,
+      "latest_close": 9257.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 4.66,
       "target_2r_touched": false,
       "hard_stop_date": "2026-09-11",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-09-11",
       "exit_price": 8806.0,
       "status": "CLOSED",
-      "sessions_held": 48
+      "sessions_held": 49
     },
     {
       "symbol": "APOLLOHOSP",
@@ -100,16 +100,16 @@
       "weighted_entry": 8811.61,
       "risk_per_share": 204.19,
       "target_2r": 9219.99,
-      "latest_close": 9200.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 4.41,
+      "latest_close": 9257.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 5.05,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-01",
       "exit_date": "2026-09-02",
       "exit_price": 8680.0,
       "status": "CLOSED",
-      "sessions_held": 55
+      "sessions_held": 56
     },
     {
       "symbol": "APOLLOHOSP",
@@ -127,16 +127,16 @@
       "weighted_entry": 8504.24,
       "risk_per_share": 245.47,
       "target_2r": 8995.18,
-      "latest_close": 9200.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 8.18,
+      "latest_close": 9257.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 8.85,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-30",
       "exit_date": "2026-05-04",
       "exit_price": 7690.55,
       "status": "CLOSED",
-      "sessions_held": 150
+      "sessions_held": 151
     },
     {
       "symbol": "APOLLOHOSP",
@@ -154,16 +154,16 @@
       "weighted_entry": 7497.37,
       "risk_per_share": 191.93,
       "target_2r": 7881.23,
-      "latest_close": 9200.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 22.71,
+      "latest_close": 9257.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 23.47,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-04",
       "exit_date": "2026-03-05",
       "exit_price": 7691.05,
       "status": "CLOSED",
-      "sessions_held": 192
+      "sessions_held": 193
     },
     {
       "symbol": "APOLLOHOSP",
@@ -181,16 +181,16 @@
       "weighted_entry": 7521.07,
       "risk_per_share": 153.28,
       "target_2r": 7827.62,
-      "latest_close": 9200.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 22.32,
+      "latest_close": 9257.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 23.08,
       "target_2r_touched": false,
       "hard_stop_date": "2026-01-12",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-12",
       "exit_price": 7177.44,
       "status": "CLOSED",
-      "sessions_held": 215
+      "sessions_held": 216
     },
     {
       "symbol": "APOLLOHOSP",
@@ -208,16 +208,16 @@
       "weighted_entry": 7629.04,
       "risk_per_share": 154.39,
       "target_2r": 7937.82,
-      "latest_close": 9200.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 20.59,
+      "latest_close": 9257.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 21.34,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-24",
       "exit_date": "2025-10-27",
       "exit_price": 7818.01,
       "status": "CLOSED",
-      "sessions_held": 272
+      "sessions_held": 273
     },
     {
       "symbol": "APOLLOHOSP",
@@ -235,16 +235,16 @@
       "weighted_entry": 7633.82,
       "risk_per_share": 222.55,
       "target_2r": 8078.93,
-      "latest_close": 9200.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 20.52,
+      "latest_close": 9257.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 21.26,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-28",
       "exit_date": "2025-08-29",
       "exit_price": 7650.92,
       "status": "CLOSED",
-      "sessions_held": 313
+      "sessions_held": 314
     },
     {
       "symbol": "APOLLOHOSP",
@@ -262,16 +262,16 @@
       "weighted_entry": 7411.98,
       "risk_per_share": 143.88,
       "target_2r": 7699.73,
-      "latest_close": 9200.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 24.12,
+      "latest_close": 9257.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 24.89,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-18",
       "exit_date": "2025-06-19",
       "exit_price": 6910.9,
       "status": "CLOSED",
-      "sessions_held": 357
+      "sessions_held": 358
     },
     {
       "symbol": "APOLLOHOSP",
@@ -280,7 +280,7 @@
       "entry_date": "2025-03-24",
       "entry_price": 6624.38,
       "atr14": 126.45,
-      "initial_stop": 6466.32,
+      "initial_stop": 6466.31,
       "stage2_signal_date": "2025-04-09",
       "stage2_entry_date": "2025-04-11",
       "stage2_entry_price": 6797.03,
@@ -289,16 +289,16 @@
       "weighted_entry": 6755.36,
       "risk_per_share": 158.07,
       "target_2r": 7071.49,
-      "latest_close": 9200.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 36.19,
+      "latest_close": 9257.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 37.03,
       "target_2r_touched": false,
       "hard_stop_date": "2025-03-27",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-03-27",
-      "exit_price": 6466.32,
+      "exit_price": 6466.31,
       "status": "CLOSED",
-      "sessions_held": 411
+      "sessions_held": 412
     },
     {
       "symbol": "APOLLOHOSP",
@@ -316,16 +316,16 @@
       "weighted_entry": 6878.96,
       "risk_per_share": 199.6,
       "target_2r": 7278.15,
-      "latest_close": 9200.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 33.74,
+      "latest_close": 9257.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 34.57,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-17",
       "exit_date": "2024-12-18",
       "exit_price": 7195.86,
       "status": "CLOSED",
-      "sessions_held": 487
+      "sessions_held": 488
     },
     {
       "symbol": "APOLLOHOSP",
@@ -343,16 +343,16 @@
       "weighted_entry": 6915.92,
       "risk_per_share": 199.45,
       "target_2r": 7314.82,
-      "latest_close": 9200.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 33.03,
+      "latest_close": 9257.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 33.85,
       "target_2r_touched": true,
       "hard_stop_date": "2024-11-11",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-11-11",
       "exit_price": 7152.4,
       "status": "CLOSED",
-      "sessions_held": 503
+      "sessions_held": 504
     },
     {
       "symbol": "APOLLOHOSP",
@@ -370,16 +370,16 @@
       "weighted_entry": 6858.9,
       "risk_per_share": 136.51,
       "target_2r": 7131.92,
-      "latest_close": 9200.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 34.13,
+      "latest_close": 9257.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 34.96,
       "target_2r_touched": false,
       "hard_stop_date": "2024-11-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-11-04",
       "exit_price": 6916.84,
       "status": "CLOSED",
-      "sessions_held": 507
+      "sessions_held": 508
     },
     {
       "symbol": "APOLLOHOSP",
@@ -397,16 +397,16 @@
       "weighted_entry": 6864.9,
       "risk_per_share": 191.44,
       "target_2r": 7247.79,
-      "latest_close": 9200.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 34.01,
+      "latest_close": 9257.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 34.85,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-17",
       "exit_date": "2024-10-18",
       "exit_price": 6947.2,
       "status": "CLOSED",
-      "sessions_held": 521
+      "sessions_held": 522
     },
     {
       "symbol": "APOLLOHOSP",
@@ -424,16 +424,16 @@
       "weighted_entry": 6093.51,
       "risk_per_share": 158.8,
       "target_2r": 6411.12,
-      "latest_close": 9200.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 50.98,
+      "latest_close": 9257.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 51.92,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-26",
       "exit_date": "2024-06-27",
       "exit_price": 6074.8,
       "status": "CLOSED",
-      "sessions_held": 607
+      "sessions_held": 608
     },
     {
       "symbol": "APOLLOHOSP",
@@ -451,16 +451,16 @@
       "weighted_entry": 6166.81,
       "risk_per_share": 201.16,
       "target_2r": 6569.13,
-      "latest_close": 9200.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 49.19,
+      "latest_close": 9257.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 50.11,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-08",
       "exit_date": "2024-04-09",
       "exit_price": 6305.29,
       "status": "CLOSED",
-      "sessions_held": 654
+      "sessions_held": 655
     },
     {
       "symbol": "APOLLOHOSP",
@@ -478,16 +478,16 @@
       "weighted_entry": 5981.31,
       "risk_per_share": 163.81,
       "target_2r": 6308.94,
-      "latest_close": 9200.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 53.81,
+      "latest_close": 9257.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 54.77,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-01-08",
       "exit_date": "2024-01-09",
       "exit_price": 5658.91,
       "status": "CLOSED",
-      "sessions_held": 717
+      "sessions_held": 718
     },
     {
       "symbol": "APOLLOHOSP",
@@ -505,16 +505,16 @@
       "weighted_entry": 5946.65,
       "risk_per_share": 140.71,
       "target_2r": 6228.07,
-      "latest_close": 9200.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 54.71,
+      "latest_close": 9257.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 55.67,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2023-12-18",
       "exit_date": "2023-12-19",
       "exit_price": 5466.98,
       "status": "CLOSED",
-      "sessions_held": 723
+      "sessions_held": 724
     }
   ]
 }

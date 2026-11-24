@@ -1,7 +1,7 @@
 {
   "symbol": "BANKINDIA",
   "company": "Bank of India",
-  "market_date": "2026-11-20",
+  "market_date": "2026-11-23",
   "setups": [
     {
       "symbol": "BANKINDIA",
@@ -19,16 +19,16 @@
       "weighted_entry": 147.82,
       "risk_per_share": 5.5,
       "target_2r": 158.83,
-      "latest_close": 164.7,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 11.42,
+      "latest_close": 159.01,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 7.57,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "TWO_R",
-      "sessions_held": 10
+      "sessions_held": 11
     },
     {
       "symbol": "BANKINDIA",
@@ -46,16 +46,16 @@
       "weighted_entry": 144.34,
       "risk_per_share": 4.05,
       "target_2r": 152.44,
-      "latest_close": 164.7,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 14.1,
+      "latest_close": 159.01,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 10.16,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-18",
       "exit_date": "2026-08-19",
       "exit_price": 142.1,
       "status": "CLOSED",
-      "sessions_held": 69
+      "sessions_held": 70
     },
     {
       "symbol": "BANKINDIA",
@@ -73,16 +73,16 @@
       "weighted_entry": 145.07,
       "risk_per_share": 5.73,
       "target_2r": 156.54,
-      "latest_close": 164.7,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 13.53,
+      "latest_close": 159.01,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 9.61,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-22",
       "exit_date": "2026-07-23",
       "exit_price": 143.34,
       "status": "CLOSED",
-      "sessions_held": 88
+      "sessions_held": 89
     },
     {
       "symbol": "BANKINDIA",
@@ -100,16 +100,16 @@
       "weighted_entry": 145.69,
       "risk_per_share": 4.67,
       "target_2r": 155.03,
-      "latest_close": 164.7,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 13.04,
+      "latest_close": 159.01,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 9.14,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-11",
       "exit_date": "2026-06-12",
       "exit_price": 144.0,
       "status": "CLOSED",
-      "sessions_held": 117
+      "sessions_held": 118
     },
     {
       "symbol": "BANKINDIA",
@@ -127,16 +127,16 @@
       "weighted_entry": 146.4,
       "risk_per_share": 4.46,
       "target_2r": 155.32,
-      "latest_close": 164.7,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 12.5,
+      "latest_close": 159.01,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 8.61,
       "target_2r_touched": false,
       "hard_stop_date": "2026-06-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-06-01",
       "exit_price": 138.02,
       "status": "CLOSED",
-      "sessions_held": 121
+      "sessions_held": 122
     },
     {
       "symbol": "BANKINDIA",
@@ -154,16 +154,16 @@
       "weighted_entry": 147.61,
       "risk_per_share": 6.9,
       "target_2r": 161.41,
-      "latest_close": 164.7,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 11.58,
+      "latest_close": 159.01,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 7.72,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-24",
       "exit_date": "2026-04-27",
       "exit_price": 143.9,
       "status": "CLOSED",
-      "sessions_held": 145
+      "sessions_held": 146
     },
     {
       "symbol": "BANKINDIA",
@@ -181,16 +181,16 @@
       "weighted_entry": 146.49,
       "risk_per_share": 3.24,
       "target_2r": 152.97,
-      "latest_close": 164.7,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 12.43,
+      "latest_close": 159.01,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 8.55,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-08",
       "exit_date": "2026-01-09",
       "exit_price": 141.87,
       "status": "CLOSED",
-      "sessions_held": 218
+      "sessions_held": 219
     },
     {
       "symbol": "BANKINDIA",
@@ -208,16 +208,16 @@
       "weighted_entry": 114.77,
       "risk_per_share": 2.55,
       "target_2r": 119.87,
-      "latest_close": 164.7,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 43.5,
+      "latest_close": 159.01,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 38.54,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-26",
       "exit_date": "2025-09-29",
       "exit_price": 112.92,
       "status": "CLOSED",
-      "sessions_held": 295
+      "sessions_held": 296
     },
     {
       "symbol": "BANKINDIA",
@@ -235,16 +235,16 @@
       "weighted_entry": 112.85,
       "risk_per_share": 2.88,
       "target_2r": 118.6,
-      "latest_close": 164.7,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 45.95,
+      "latest_close": 159.01,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 40.91,
       "target_2r_touched": false,
       "hard_stop_date": "2025-08-26",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-08-26",
       "exit_price": 109.93,
       "status": "CLOSED",
-      "sessions_held": 310
+      "sessions_held": 311
     },
     {
       "symbol": "BANKINDIA",
@@ -262,16 +262,16 @@
       "weighted_entry": 113.47,
       "risk_per_share": 3.71,
       "target_2r": 120.9,
-      "latest_close": 164.7,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 45.14,
+      "latest_close": 159.01,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 40.13,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-04",
       "exit_date": "2025-07-07",
       "exit_price": 114.65,
       "status": "CLOSED",
-      "sessions_held": 345
+      "sessions_held": 346
     },
     {
       "symbol": "BANKINDIA",
@@ -289,16 +289,16 @@
       "weighted_entry": 111.39,
       "risk_per_share": 5.2,
       "target_2r": 121.79,
-      "latest_close": 164.7,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 47.86,
+      "latest_close": 159.01,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 42.75,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-11",
       "exit_date": "2025-06-12",
       "exit_price": 116.08,
       "status": "CLOSED",
-      "sessions_held": 377
+      "sessions_held": 378
     },
     {
       "symbol": "BANKINDIA",
@@ -316,16 +316,16 @@
       "weighted_entry": 99.51,
       "risk_per_share": 3.55,
       "target_2r": 106.61,
-      "latest_close": 164.7,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 65.51,
+      "latest_close": 159.01,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 59.79,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-07",
       "exit_date": "2025-04-08",
       "exit_price": 101.29,
       "status": "CLOSED",
-      "sessions_held": 411
+      "sessions_held": 412
     },
     {
       "symbol": "BANKINDIA",
@@ -343,16 +343,16 @@
       "weighted_entry": 100.09,
       "risk_per_share": 4.54,
       "target_2r": 109.17,
-      "latest_close": 164.7,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 64.55,
+      "latest_close": 159.01,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 58.87,
       "target_2r_touched": false,
       "hard_stop_date": "2025-02-03",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-02-03",
       "exit_price": 97.23,
       "status": "CLOSED",
-      "sessions_held": 448
+      "sessions_held": 449
     },
     {
       "symbol": "BANKINDIA",
@@ -370,16 +370,16 @@
       "weighted_entry": 109.12,
       "risk_per_share": 4.39,
       "target_2r": 117.91,
-      "latest_close": 164.7,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 50.93,
+      "latest_close": 159.01,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 45.71,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-11",
       "exit_date": "2024-12-12",
       "exit_price": 106.98,
       "status": "CLOSED",
-      "sessions_held": 491
+      "sessions_held": 492
     },
     {
       "symbol": "BANKINDIA",
@@ -397,16 +397,16 @@
       "weighted_entry": 108.17,
       "risk_per_share": 4.05,
       "target_2r": 116.28,
-      "latest_close": 164.7,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 52.26,
+      "latest_close": 159.01,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 47.0,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-12",
       "exit_date": "2024-11-13",
       "exit_price": 101.2,
       "status": "CLOSED",
-      "sessions_held": 506
+      "sessions_held": 507
     },
     {
       "symbol": "BANKINDIA",
@@ -424,16 +424,16 @@
       "weighted_entry": 112.41,
       "risk_per_share": 4.41,
       "target_2r": 121.23,
-      "latest_close": 164.7,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 46.52,
+      "latest_close": 159.01,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 41.46,
       "target_2r_touched": false,
       "hard_stop_date": "2024-08-05",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-08-05",
       "exit_price": 113.33,
       "status": "CLOSED",
-      "sessions_held": 573
+      "sessions_held": 574
     },
     {
       "symbol": "BANKINDIA",
@@ -451,16 +451,16 @@
       "weighted_entry": 111.76,
       "risk_per_share": 3.87,
       "target_2r": 119.5,
-      "latest_close": 164.7,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 47.37,
+      "latest_close": 159.01,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 42.28,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-07-19",
       "exit_date": "2024-07-22",
       "exit_price": 112.14,
       "status": "CLOSED",
-      "sessions_held": 582
+      "sessions_held": 583
     },
     {
       "symbol": "BANKINDIA",
@@ -478,16 +478,16 @@
       "weighted_entry": 115.16,
       "risk_per_share": 7.26,
       "target_2r": 129.67,
-      "latest_close": 164.7,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 43.02,
+      "latest_close": 159.01,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 38.07,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-09",
       "exit_date": "2024-04-10",
       "exit_price": 130.01,
       "status": "CLOSED",
-      "sessions_held": 652
+      "sessions_held": 653
     },
     {
       "symbol": "BANKINDIA",
@@ -505,16 +505,16 @@
       "weighted_entry": 114.51,
       "risk_per_share": 6.14,
       "target_2r": 126.79,
-      "latest_close": 164.7,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 43.83,
+      "latest_close": 159.01,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 38.86,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-12",
       "exit_date": "2024-03-13",
       "exit_price": 128.6,
       "status": "CLOSED",
-      "sessions_held": 670
+      "sessions_held": 671
     }
   ]
 }

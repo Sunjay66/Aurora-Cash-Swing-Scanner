@@ -1,7 +1,7 @@
 {
   "symbol": "ADANIENSOL",
   "company": "Adani Energy Solutions Ltd.",
-  "market_date": "2026-11-20",
+  "market_date": "2026-11-23",
   "setups": [
     {
       "symbol": "ADANIENSOL",
@@ -19,16 +19,16 @@
       "weighted_entry": 1445.97,
       "risk_per_share": 62.67,
       "target_2r": 1571.31,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 3.17,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 1.66,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "OPEN",
-      "sessions_held": 13
+      "sessions_held": 14
     },
     {
       "symbol": "ADANIENSOL",
@@ -46,16 +46,16 @@
       "weighted_entry": 1354.27,
       "risk_per_share": 58.42,
       "target_2r": 1471.11,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 10.16,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 8.55,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-30",
       "exit_date": "2026-05-04",
       "exit_price": 1357.0,
       "status": "CLOSED",
-      "sessions_held": 154
+      "sessions_held": 155
     },
     {
       "symbol": "ADANIENSOL",
@@ -73,16 +73,16 @@
       "weighted_entry": 1056.73,
       "risk_per_share": 41.69,
       "target_2r": 1140.1,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 41.17,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 39.11,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-11",
       "exit_date": "2026-03-12",
       "exit_price": 987.0,
       "status": "CLOSED",
-      "sessions_held": 172
+      "sessions_held": 173
     },
     {
       "symbol": "ADANIENSOL",
@@ -100,16 +100,16 @@
       "weighted_entry": 1013.11,
       "risk_per_share": 61.79,
       "target_2r": 1136.69,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 47.25,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 45.1,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-13",
       "exit_date": "2026-02-16",
       "exit_price": 977.0,
       "status": "CLOSED",
-      "sessions_held": 194
+      "sessions_held": 195
     },
     {
       "symbol": "ADANIENSOL",
@@ -127,16 +127,16 @@
       "weighted_entry": 1010.51,
       "risk_per_share": 28.7,
       "target_2r": 1067.91,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 47.63,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 45.47,
       "target_2r_touched": false,
       "hard_stop_date": "2025-12-17",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-12-17",
       "exit_price": 971.35,
       "status": "CLOSED",
-      "sessions_held": 232
+      "sessions_held": 233
     },
     {
       "symbol": "ADANIENSOL",
@@ -154,16 +154,16 @@
       "weighted_entry": 912.41,
       "risk_per_share": 23.0,
       "target_2r": 958.41,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 63.5,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 61.11,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-29",
       "exit_date": "2025-09-30",
       "exit_price": 872.95,
       "status": "CLOSED",
-      "sessions_held": 293
+      "sessions_held": 294
     },
     {
       "symbol": "ADANIENSOL",
@@ -181,16 +181,16 @@
       "weighted_entry": 925.18,
       "risk_per_share": 28.49,
       "target_2r": 982.16,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 61.24,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 58.89,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-11",
       "exit_date": "2025-07-14",
       "exit_price": 876.8,
       "status": "CLOSED",
-      "sessions_held": 343
+      "sessions_held": 344
     },
     {
       "symbol": "ADANIENSOL",
@@ -208,16 +208,16 @@
       "weighted_entry": 936.01,
       "risk_per_share": 27.8,
       "target_2r": 991.61,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 59.38,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 57.05,
       "target_2r_touched": false,
       "hard_stop_date": "2025-06-12",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-06-12",
       "exit_price": 892.05,
       "status": "CLOSED",
-      "sessions_held": 359
+      "sessions_held": 360
     },
     {
       "symbol": "ADANIENSOL",
@@ -235,16 +235,16 @@
       "weighted_entry": 932.11,
       "risk_per_share": 55.45,
       "target_2r": 1043.01,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 60.05,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 57.71,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-19",
       "exit_date": "2025-05-20",
       "exit_price": 894.45,
       "status": "CLOSED",
-      "sessions_held": 379
+      "sessions_held": 380
     },
     {
       "symbol": "ADANIENSOL",
@@ -262,16 +262,16 @@
       "weighted_entry": 814.82,
       "risk_per_share": 40.38,
       "target_2r": 895.58,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 83.08,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 80.41,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-07",
       "exit_date": "2025-04-08",
       "exit_price": 835.0,
       "status": "CLOSED",
-      "sessions_held": 419
+      "sessions_held": 420
     },
     {
       "symbol": "ADANIENSOL",
@@ -289,16 +289,16 @@
       "weighted_entry": 835.31,
       "risk_per_share": 44.63,
       "target_2r": 924.57,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 78.59,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 75.98,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-24",
       "exit_date": "2025-01-27",
       "exit_price": 779.25,
       "status": "CLOSED",
-      "sessions_held": 453
+      "sessions_held": 454
     },
     {
       "symbol": "ADANIENSOL",
@@ -316,16 +316,16 @@
       "weighted_entry": 832.7,
       "risk_per_share": 32.07,
       "target_2r": 896.84,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 79.15,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 76.53,
       "target_2r_touched": false,
       "hard_stop_date": "2025-01-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-01-06",
       "exit_price": 782.98,
       "status": "CLOSED",
-      "sessions_held": 465
+      "sessions_held": 466
     },
     {
       "symbol": "ADANIENSOL",
@@ -343,16 +343,16 @@
       "weighted_entry": 880.61,
       "risk_per_share": 58.14,
       "target_2r": 996.89,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 69.4,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 66.93,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-07",
       "exit_date": "2024-11-08",
       "exit_price": 965.0,
       "status": "CLOSED",
-      "sessions_held": 504
+      "sessions_held": 505
     },
     {
       "symbol": "ADANIENSOL",
@@ -370,16 +370,16 @@
       "weighted_entry": 889.89,
       "risk_per_share": 52.88,
       "target_2r": 995.65,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 67.64,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 65.19,
       "target_2r_touched": true,
       "hard_stop_date": "2024-10-22",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-10-22",
       "exit_price": 990.42,
       "status": "CLOSED",
-      "sessions_held": 517
+      "sessions_held": 518
     },
     {
       "symbol": "ADANIENSOL",
@@ -397,16 +397,16 @@
       "weighted_entry": 878.05,
       "risk_per_share": 38.4,
       "target_2r": 954.85,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 69.9,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 67.42,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-03",
       "exit_date": "2024-10-04",
       "exit_price": 1016.0,
       "status": "CLOSED",
-      "sessions_held": 529
+      "sessions_held": 530
     },
     {
       "symbol": "ADANIENSOL",
@@ -424,16 +424,16 @@
       "weighted_entry": 880.67,
       "risk_per_share": 34.78,
       "target_2r": 950.22,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 69.39,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 66.92,
       "target_2r_touched": false,
       "hard_stop_date": "2024-09-27",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-09-27",
       "exit_price": 1001.32,
       "status": "CLOSED",
-      "sessions_held": 532
+      "sessions_held": 533
     },
     {
       "symbol": "ADANIENSOL",
@@ -451,16 +451,16 @@
       "weighted_entry": 1121.88,
       "risk_per_share": 32.95,
       "target_2r": 1187.78,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 32.97,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 31.03,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-06",
       "exit_date": "2024-08-07",
       "exit_price": 1160.0,
       "status": "CLOSED",
-      "sessions_held": 577
+      "sessions_held": 578
     },
     {
       "symbol": "ADANIENSOL",
@@ -478,16 +478,16 @@
       "weighted_entry": 1104.11,
       "risk_per_share": 44.16,
       "target_2r": 1192.42,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 35.11,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 33.14,
       "target_2r_touched": true,
       "hard_stop_date": "2024-06-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-06-04",
       "exit_price": 1045.74,
       "status": "CLOSED",
-      "sessions_held": 620
+      "sessions_held": 621
     },
     {
       "symbol": "ADANIENSOL",
@@ -505,16 +505,16 @@
       "weighted_entry": 1097.76,
       "risk_per_share": 35.48,
       "target_2r": 1168.71,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 35.9,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 33.91,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-02",
       "exit_date": "2024-05-03",
       "exit_price": 1045.55,
       "status": "CLOSED",
-      "sessions_held": 634
+      "sessions_held": 635
     },
     {
       "symbol": "ADANIENSOL",
@@ -532,16 +532,16 @@
       "weighted_entry": 1106.29,
       "risk_per_share": 74.92,
       "target_2r": 1256.12,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 34.85,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 32.88,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-09",
       "exit_date": "2024-04-10",
       "exit_price": 1075.8,
       "status": "CLOSED",
-      "sessions_held": 652
+      "sessions_held": 653
     },
     {
       "symbol": "ADANIENSOL",
@@ -559,16 +559,16 @@
       "weighted_entry": 1102.78,
       "risk_per_share": 47.33,
       "target_2r": 1197.43,
-      "latest_close": 1491.8,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 35.28,
+      "latest_close": 1470.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 33.3,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-28",
       "exit_date": "2024-02-29",
       "exit_price": 1083.0,
       "status": "CLOSED",
-      "sessions_held": 676
+      "sessions_held": 677
     }
   ]
 }

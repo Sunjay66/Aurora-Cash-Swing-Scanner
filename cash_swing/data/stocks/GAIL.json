@@ -1,7 +1,7 @@
 {
   "symbol": "GAIL",
   "company": "GAIL (India) Ltd.",
-  "market_date": "2026-11-20",
+  "market_date": "2026-11-23",
   "setups": [
     {
       "symbol": "GAIL",
@@ -19,16 +19,16 @@
       "weighted_entry": 185.79,
       "risk_per_share": 5.5,
       "target_2r": 196.79,
-      "latest_close": 191.44,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 3.04,
+      "latest_close": 185.6,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -0.1,
       "target_2r_touched": false,
       "hard_stop_date": null,
-      "ema9_exit_signal_date": null,
+      "ema9_exit_signal_date": "2026-11-23",
       "exit_date": null,
       "exit_price": null,
-      "status": "OPEN",
-      "sessions_held": 13
+      "status": "CLOSED",
+      "sessions_held": 14
     },
     {
       "symbol": "GAIL",
@@ -46,16 +46,16 @@
       "weighted_entry": 185.03,
       "risk_per_share": 3.86,
       "target_2r": 192.74,
-      "latest_close": 191.44,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 3.47,
+      "latest_close": 185.6,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 0.31,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-04",
       "exit_date": "2026-09-07",
       "exit_price": 173.4,
       "status": "CLOSED",
-      "sessions_held": 52
+      "sessions_held": 53
     },
     {
       "symbol": "GAIL",
@@ -73,16 +73,16 @@
       "weighted_entry": 184.63,
       "risk_per_share": 3.85,
       "target_2r": 192.33,
-      "latest_close": 191.44,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 3.69,
+      "latest_close": 185.6,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 0.52,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-01",
       "exit_date": "2026-09-02",
       "exit_price": 172.6,
       "status": "CLOSED",
-      "sessions_held": 55
+      "sessions_held": 56
     },
     {
       "symbol": "GAIL",
@@ -100,16 +100,16 @@
       "weighted_entry": 184.77,
       "risk_per_share": 4.8,
       "target_2r": 194.37,
-      "latest_close": 191.44,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 3.61,
+      "latest_close": 185.6,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 0.45,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-03",
       "exit_date": "2026-08-04",
       "exit_price": 173.75,
       "status": "CLOSED",
-      "sessions_held": 80
+      "sessions_held": 81
     },
     {
       "symbol": "GAIL",
@@ -127,16 +127,16 @@
       "weighted_entry": 183.01,
       "risk_per_share": 6.0,
       "target_2r": 195.01,
-      "latest_close": 191.44,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 4.61,
+      "latest_close": 185.6,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 1.42,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-01",
       "exit_date": "2026-06-02",
       "exit_price": 162.52,
       "status": "CLOSED",
-      "sessions_held": 123
+      "sessions_held": 124
     },
     {
       "symbol": "GAIL",
@@ -154,16 +154,16 @@
       "weighted_entry": 161.35,
       "risk_per_share": 6.48,
       "target_2r": 174.32,
-      "latest_close": 191.44,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 18.65,
+      "latest_close": 185.6,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 15.03,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-11",
       "exit_date": "2026-05-12",
       "exit_price": 160.54,
       "status": "CLOSED",
-      "sessions_held": 152
+      "sessions_held": 153
     },
     {
       "symbol": "GAIL",
@@ -181,16 +181,16 @@
       "weighted_entry": 168.28,
       "risk_per_share": 5.61,
       "target_2r": 179.51,
-      "latest_close": 191.44,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 13.76,
+      "latest_close": 185.6,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 10.29,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-13",
       "exit_date": "2026-02-16",
       "exit_price": 161.21,
       "status": "CLOSED",
-      "sessions_held": 192
+      "sessions_held": 193
     },
     {
       "symbol": "GAIL",
@@ -208,16 +208,16 @@
       "weighted_entry": 175.02,
       "risk_per_share": 3.66,
       "target_2r": 182.35,
-      "latest_close": 191.44,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 9.38,
+      "latest_close": 185.6,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 6.05,
       "target_2r_touched": false,
       "hard_stop_date": "2025-10-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-10-13",
       "exit_price": 171.19,
       "status": "CLOSED",
-      "sessions_held": 277
+      "sessions_held": 278
     },
     {
       "symbol": "GAIL",
@@ -235,16 +235,16 @@
       "weighted_entry": 174.57,
       "risk_per_share": 4.41,
       "target_2r": 183.39,
-      "latest_close": 191.44,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 9.66,
+      "latest_close": 185.6,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 6.32,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-23",
       "exit_date": "2025-09-24",
       "exit_price": 172.8,
       "status": "CLOSED",
-      "sessions_held": 293
+      "sessions_held": 294
     },
     {
       "symbol": "GAIL",
@@ -262,16 +262,16 @@
       "weighted_entry": 177.52,
       "risk_per_share": 4.88,
       "target_2r": 187.27,
-      "latest_close": 191.44,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 7.84,
+      "latest_close": 185.6,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 4.55,
       "target_2r_touched": true,
       "hard_stop_date": "2025-07-09",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-09",
       "exit_price": 180.43,
       "status": "CLOSED",
-      "sessions_held": 342
+      "sessions_held": 343
     },
     {
       "symbol": "GAIL",
@@ -289,16 +289,16 @@
       "weighted_entry": 172.95,
       "risk_per_share": 5.63,
       "target_2r": 184.21,
-      "latest_close": 191.44,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 10.69,
+      "latest_close": 185.6,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 7.31,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-04",
       "exit_date": "2025-04-07",
       "exit_price": 153.63,
       "status": "CLOSED",
-      "sessions_held": 412
+      "sessions_held": 413
     },
     {
       "symbol": "GAIL",
@@ -316,16 +316,16 @@
       "weighted_entry": 180.81,
       "risk_per_share": 6.21,
       "target_2r": 193.24,
-      "latest_close": 191.44,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 5.88,
+      "latest_close": 185.6,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 2.65,
       "target_2r_touched": true,
       "hard_stop_date": "2024-12-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-12-13",
       "exit_price": 187.28,
       "status": "CLOSED",
-      "sessions_held": 485
+      "sessions_held": 486
     },
     {
       "symbol": "GAIL",
@@ -343,16 +343,16 @@
       "weighted_entry": 185.45,
       "risk_per_share": 6.31,
       "target_2r": 198.07,
-      "latest_close": 191.44,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 3.23,
+      "latest_close": 185.6,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 0.08,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-04",
       "exit_date": "2024-10-07",
       "exit_price": 214.92,
       "status": "CLOSED",
-      "sessions_held": 531
+      "sessions_held": 532
     },
     {
       "symbol": "GAIL",
@@ -370,16 +370,16 @@
       "weighted_entry": 210.4,
       "risk_per_share": 8.84,
       "target_2r": 228.09,
-      "latest_close": 191.44,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": -9.01,
+      "latest_close": 185.6,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -11.79,
       "target_2r_touched": false,
       "hard_stop_date": "2024-05-22",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-05-22",
       "exit_price": 184.5,
       "status": "CLOSED",
-      "sessions_held": 622
+      "sessions_held": 623
     },
     {
       "symbol": "GAIL",
@@ -397,16 +397,16 @@
       "weighted_entry": 202.67,
       "risk_per_share": 7.41,
       "target_2r": 217.5,
-      "latest_close": 191.44,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": -5.54,
+      "latest_close": 185.6,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -8.42,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-22",
       "exit_date": "2024-04-23",
       "exit_price": 186.2,
       "status": "CLOSED",
-      "sessions_held": 653
+      "sessions_held": 654
     }
   ]
 }

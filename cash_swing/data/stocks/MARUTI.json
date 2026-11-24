@@ -1,7 +1,7 @@
 {
   "symbol": "MARUTI",
   "company": "Maruti Suzuki India Ltd.",
-  "market_date": "2026-11-20",
+  "market_date": "2026-11-23",
   "setups": [
     {
       "symbol": "MARUTI",
@@ -19,16 +19,16 @@
       "weighted_entry": 12537.87,
       "risk_per_share": 334.46,
       "target_2r": 13206.8,
-      "latest_close": 14011.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 11.75,
+      "latest_close": 14010.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 11.74,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-16",
       "exit_date": "2026-11-17",
       "exit_price": 12600.0,
       "status": "CLOSED",
-      "sessions_held": 11
+      "sessions_held": 12
     },
     {
       "symbol": "MARUTI",
@@ -46,16 +46,16 @@
       "weighted_entry": 12882.37,
       "risk_per_share": 323.62,
       "target_2r": 13529.62,
-      "latest_close": 14011.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 8.76,
+      "latest_close": 14010.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 8.75,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-12",
       "exit_date": "2026-08-13",
       "exit_price": 13884.0,
       "status": "CLOSED",
-      "sessions_held": 78
+      "sessions_held": 79
     },
     {
       "symbol": "MARUTI",
@@ -73,16 +73,16 @@
       "weighted_entry": 13944.04,
       "risk_per_share": 386.92,
       "target_2r": 14717.87,
-      "latest_close": 14011.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 0.48,
+      "latest_close": 14010.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 0.47,
       "target_2r_touched": false,
       "hard_stop_date": "2026-06-18",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-06-18",
       "exit_price": 13336.26,
       "status": "CLOSED",
-      "sessions_held": 109
+      "sessions_held": 110
     },
     {
       "symbol": "MARUTI",
@@ -100,16 +100,16 @@
       "weighted_entry": 13875.27,
       "risk_per_share": 460.29,
       "target_2r": 14795.84,
-      "latest_close": 14011.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 0.98,
+      "latest_close": 14010.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 0.97,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-11",
       "exit_date": "2026-05-12",
       "exit_price": 13308.34,
       "status": "CLOSED",
-      "sessions_held": 138
+      "sessions_held": 139
     },
     {
       "symbol": "MARUTI",
@@ -127,8 +127,8 @@
       "weighted_entry": 13815.86,
       "risk_per_share": 515.27,
       "target_2r": 14846.41,
-      "latest_close": 14011.0,
-      "latest_date": "2026-11-20",
+      "latest_close": 14010.0,
+      "latest_date": "2026-11-23",
       "unrealised_return_pct": 1.41,
       "target_2r_touched": false,
       "hard_stop_date": null,
@@ -136,7 +136,7 @@
       "exit_date": "2026-04-24",
       "exit_price": 13068.75,
       "status": "CLOSED",
-      "sessions_held": 149
+      "sessions_held": 150
     },
     {
       "symbol": "MARUTI",
@@ -154,8 +154,8 @@
       "weighted_entry": 14470.67,
       "risk_per_share": 283.67,
       "target_2r": 15038.01,
-      "latest_close": 14011.0,
-      "latest_date": "2026-11-20",
+      "latest_close": 14010.0,
+      "latest_date": "2026-11-23",
       "unrealised_return_pct": -3.18,
       "target_2r_touched": false,
       "hard_stop_date": "2025-11-27",
@@ -163,7 +163,7 @@
       "exit_date": "2025-11-27",
       "exit_price": 15721.59,
       "status": "CLOSED",
-      "sessions_held": 243
+      "sessions_held": 244
     },
     {
       "symbol": "MARUTI",
@@ -181,8 +181,8 @@
       "weighted_entry": 13563.07,
       "risk_per_share": 275.99,
       "target_2r": 14115.05,
-      "latest_close": 14011.0,
-      "latest_date": "2026-11-20",
+      "latest_close": 14010.0,
+      "latest_date": "2026-11-23",
       "unrealised_return_pct": 3.3,
       "target_2r_touched": true,
       "hard_stop_date": null,
@@ -190,7 +190,7 @@
       "exit_date": "2025-10-03",
       "exit_price": 15790.42,
       "status": "CLOSED",
-      "sessions_held": 319
+      "sessions_held": 320
     },
     {
       "symbol": "MARUTI",
@@ -208,8 +208,8 @@
       "weighted_entry": 13544.59,
       "risk_per_share": 252.73,
       "target_2r": 14050.06,
-      "latest_close": 14011.0,
-      "latest_date": "2026-11-20",
+      "latest_close": 14010.0,
+      "latest_date": "2026-11-23",
       "unrealised_return_pct": 3.44,
       "target_2r_touched": false,
       "hard_stop_date": null,
@@ -217,7 +217,7 @@
       "exit_date": "2025-07-15",
       "exit_price": 12224.59,
       "status": "CLOSED",
-      "sessions_held": 337
+      "sessions_held": 338
     },
     {
       "symbol": "MARUTI",
@@ -235,16 +235,16 @@
       "weighted_entry": 13550.18,
       "risk_per_share": 246.79,
       "target_2r": 14043.76,
-      "latest_close": 14011.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 3.4,
+      "latest_close": 14010.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 3.39,
       "target_2r_touched": false,
       "hard_stop_date": "2025-06-12",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-06-12",
       "exit_price": 12153.12,
       "status": "CLOSED",
-      "sessions_held": 360
+      "sessions_held": 361
     },
     {
       "symbol": "MARUTI",
@@ -262,16 +262,16 @@
       "weighted_entry": 12060.53,
       "risk_per_share": 308.32,
       "target_2r": 12677.17,
-      "latest_close": 14011.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 16.17,
+      "latest_close": 14010.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 16.16,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-25",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-25",
       "exit_price": 11386.38,
       "status": "CLOSED",
-      "sessions_held": 392
+      "sessions_held": 393
     },
     {
       "symbol": "MARUTI",
@@ -289,16 +289,16 @@
       "weighted_entry": 11703.1,
       "risk_per_share": 303.48,
       "target_2r": 12310.06,
-      "latest_close": 14011.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 19.72,
+      "latest_close": 14010.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 19.71,
       "target_2r_touched": false,
       "hard_stop_date": "2025-01-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-01-13",
       "exit_price": 11232.89,
       "status": "CLOSED",
-      "sessions_held": 466
+      "sessions_held": 467
     },
     {
       "symbol": "MARUTI",
@@ -316,16 +316,16 @@
       "weighted_entry": 11559.38,
       "risk_per_share": 234.78,
       "target_2r": 12028.93,
-      "latest_close": 14011.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 21.21,
+      "latest_close": 14010.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 21.2,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-17",
       "exit_date": "2024-12-18",
       "exit_price": 10857.27,
       "status": "CLOSED",
-      "sessions_held": 478
+      "sessions_held": 479
     },
     {
       "symbol": "MARUTI",
@@ -343,16 +343,16 @@
       "weighted_entry": 12334.85,
       "risk_per_share": 215.45,
       "target_2r": 12765.75,
-      "latest_close": 14011.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 13.59,
+      "latest_close": 14010.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 13.58,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-03",
       "exit_date": "2024-10-04",
       "exit_price": 12429.2,
       "status": "CLOSED",
-      "sessions_held": 536
+      "sessions_held": 537
     },
     {
       "symbol": "MARUTI",
@@ -370,16 +370,16 @@
       "weighted_entry": 12273.14,
       "risk_per_share": 221.7,
       "target_2r": 12716.55,
-      "latest_close": 14011.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 14.16,
+      "latest_close": 14010.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 14.15,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-04",
       "exit_date": "2024-09-05",
       "exit_price": 12083.55,
       "status": "CLOSED",
-      "sessions_held": 551
+      "sessions_held": 552
     },
     {
       "symbol": "MARUTI",
@@ -397,8 +397,8 @@
       "weighted_entry": 12288.74,
       "risk_per_share": 335.28,
       "target_2r": 12959.3,
-      "latest_close": 14011.0,
-      "latest_date": "2026-11-20",
+      "latest_close": 14010.0,
+      "latest_date": "2026-11-23",
       "unrealised_return_pct": 14.01,
       "target_2r_touched": false,
       "hard_stop_date": null,
@@ -406,7 +406,7 @@
       "exit_date": "2024-07-22",
       "exit_price": 12128.64,
       "status": "CLOSED",
-      "sessions_held": 586
+      "sessions_held": 587
     },
     {
       "symbol": "MARUTI",
@@ -424,23 +424,23 @@
       "weighted_entry": 12275.03,
       "risk_per_share": 412.87,
       "target_2r": 13100.77,
-      "latest_close": 14011.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 14.14,
+      "latest_close": 14010.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 14.13,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-18",
       "exit_date": "2024-06-19",
       "exit_price": 12235.37,
       "status": "CLOSED",
-      "sessions_held": 607
+      "sessions_held": 608
     },
     {
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Ltd.",
       "signal_date": "2024-02-01",
       "entry_date": "2024-02-02",
-      "entry_price": 10283.15,
+      "entry_price": 10283.14,
       "atr14": 202.62,
       "initial_stop": 10029.87,
       "stage2_signal_date": "2024-02-07",
@@ -451,16 +451,16 @@
       "weighted_entry": 10549.54,
       "risk_per_share": 253.27,
       "target_2r": 11056.09,
-      "latest_close": 14011.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 32.81,
+      "latest_close": 14010.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 32.8,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-28",
       "exit_date": "2024-02-29",
       "exit_price": 10823.6,
       "status": "CLOSED",
-      "sessions_held": 692
+      "sessions_held": 693
     }
   ]
 }

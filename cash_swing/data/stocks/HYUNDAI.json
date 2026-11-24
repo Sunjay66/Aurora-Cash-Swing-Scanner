@@ -1,7 +1,7 @@
 {
   "symbol": "HYUNDAI",
   "company": "Hyundai Motor India Ltd.",
-  "market_date": "2026-11-20",
+  "market_date": "2026-11-23",
   "setups": [
     {
       "symbol": "HYUNDAI",
@@ -19,16 +19,16 @@
       "weighted_entry": 2113.67,
       "risk_per_share": 77.47,
       "target_2r": 2268.62,
-      "latest_close": 2215.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 4.79,
+      "latest_close": 2155.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 1.96,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "OPEN",
-      "sessions_held": 10
+      "sessions_held": 11
     },
     {
       "symbol": "HYUNDAI",
@@ -46,16 +46,16 @@
       "weighted_entry": 1934.48,
       "risk_per_share": 66.99,
       "target_2r": 2068.45,
-      "latest_close": 2215.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 14.5,
+      "latest_close": 2155.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 11.4,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-02",
       "exit_date": "2026-06-03",
       "exit_price": 1853.99,
       "status": "CLOSED",
-      "sessions_held": 123
+      "sessions_held": 124
     },
     {
       "symbol": "HYUNDAI",
@@ -73,16 +73,16 @@
       "weighted_entry": 1941.95,
       "risk_per_share": 60.26,
       "target_2r": 2062.48,
-      "latest_close": 2215.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 14.06,
+      "latest_close": 2155.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 10.97,
       "target_2r_touched": false,
       "hard_stop_date": "2026-05-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-05-13",
       "exit_price": 1806.75,
       "status": "CLOSED",
-      "sessions_held": 133
+      "sessions_held": 134
     },
     {
       "symbol": "HYUNDAI",
@@ -100,16 +100,16 @@
       "weighted_entry": 2023.98,
       "risk_per_share": 71.75,
       "target_2r": 2167.48,
-      "latest_close": 2215.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 9.44,
+      "latest_close": 2155.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 6.47,
       "target_2r_touched": false,
       "hard_stop_date": "2026-02-24",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-02-24",
       "exit_price": 2168.85,
       "status": "CLOSED",
-      "sessions_held": 182
+      "sessions_held": 183
     },
     {
       "symbol": "HYUNDAI",
@@ -127,16 +127,16 @@
       "weighted_entry": 2035.25,
       "risk_per_share": 55.16,
       "target_2r": 2145.58,
-      "latest_close": 2215.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 8.83,
+      "latest_close": 2155.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 5.88,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-20",
       "exit_date": "2026-01-21",
       "exit_price": 2278.24,
       "status": "CLOSED",
-      "sessions_held": 207
+      "sessions_held": 208
     },
     {
       "symbol": "HYUNDAI",
@@ -154,16 +154,16 @@
       "weighted_entry": 2036.35,
       "risk_per_share": 42.78,
       "target_2r": 2121.91,
-      "latest_close": 2215.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 8.77,
+      "latest_close": 2155.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 5.83,
       "target_2r_touched": false,
       "hard_stop_date": "2026-01-09",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-09",
       "exit_price": 2265.28,
       "status": "CLOSED",
-      "sessions_held": 213
+      "sessions_held": 214
     },
     {
       "symbol": "HYUNDAI",
@@ -181,16 +181,16 @@
       "weighted_entry": 1726.03,
       "risk_per_share": 53.58,
       "target_2r": 1833.18,
-      "latest_close": 2215.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 28.33,
+      "latest_close": 2155.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 24.85,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-25",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-25",
       "exit_price": 1635.77,
       "status": "CLOSED",
-      "sessions_held": 392
+      "sessions_held": 393
     },
     {
       "symbol": "HYUNDAI",
@@ -202,22 +202,22 @@
       "initial_stop": 1722.64,
       "stage2_signal_date": "2025-02-14",
       "stage2_entry_date": "2025-02-17",
-      "stage2_entry_price": 1770.78,
+      "stage2_entry_price": 1770.77,
       "quantity_stage1": 27,
       "quantity_stage2": 84,
       "weighted_entry": 1776.74,
       "risk_per_share": 72.66,
       "target_2r": 1922.07,
-      "latest_close": 2215.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 24.67,
+      "latest_close": 2155.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 21.29,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-12",
       "exit_date": "2025-02-13",
       "exit_price": 1788.43,
       "status": "CLOSED",
-      "sessions_held": 441
+      "sessions_held": 442
     },
     {
       "symbol": "HYUNDAI",
@@ -229,22 +229,22 @@
       "initial_stop": 1740.77,
       "stage2_signal_date": "2025-02-14",
       "stage2_entry_date": "2025-02-17",
-      "stage2_entry_price": 1770.78,
+      "stage2_entry_price": 1770.77,
       "quantity_stage1": 28,
       "quantity_stage2": 84,
       "weighted_entry": 1774.45,
       "risk_per_share": 44.72,
       "target_2r": 1863.89,
-      "latest_close": 2215.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 24.83,
+      "latest_close": 2155.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 21.45,
       "target_2r_touched": false,
       "hard_stop_date": "2025-01-09",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-01-09",
       "exit_price": 1740.77,
       "status": "CLOSED",
-      "sessions_held": 463
+      "sessions_held": 464
     },
     {
       "symbol": "HYUNDAI",
@@ -262,16 +262,16 @@
       "weighted_entry": 1856.7,
       "risk_per_share": 69.23,
       "target_2r": 1995.15,
-      "latest_close": 2215.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 19.3,
+      "latest_close": 2155.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 16.07,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-03",
       "exit_date": "2024-12-04",
       "exit_price": 1805.36,
       "status": "CLOSED",
-      "sessions_held": 493
+      "sessions_held": 494
     }
   ]
 }

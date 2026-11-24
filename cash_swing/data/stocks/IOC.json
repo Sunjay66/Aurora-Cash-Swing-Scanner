@@ -1,7 +1,7 @@
 {
   "symbol": "IOC",
   "company": "Indian Oil Corporation Ltd.",
-  "market_date": "2026-11-20",
+  "market_date": "2026-11-23",
   "setups": [
     {
       "symbol": "IOC",
@@ -19,16 +19,16 @@
       "weighted_entry": 143.15,
       "risk_per_share": 3.64,
       "target_2r": 150.43,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 5.14,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 1.3,
       "target_2r_touched": true,
       "hard_stop_date": null,
-      "ema9_exit_signal_date": null,
+      "ema9_exit_signal_date": "2026-11-23",
       "exit_date": null,
       "exit_price": null,
-      "status": "TWO_R",
-      "sessions_held": 13
+      "status": "CLOSED",
+      "sessions_held": 14
     },
     {
       "symbol": "IOC",
@@ -46,16 +46,16 @@
       "weighted_entry": 144.74,
       "risk_per_share": 3.51,
       "target_2r": 151.76,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 3.98,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 0.18,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-10",
       "exit_date": "2026-08-11",
       "exit_price": 140.25,
       "status": "CLOSED",
-      "sessions_held": 75
+      "sessions_held": 76
     },
     {
       "symbol": "IOC",
@@ -73,16 +73,16 @@
       "weighted_entry": 144.2,
       "risk_per_share": 3.56,
       "target_2r": 151.32,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 4.37,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 0.56,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-29",
       "exit_date": "2026-07-30",
       "exit_price": 138.76,
       "status": "CLOSED",
-      "sessions_held": 79
+      "sessions_held": 80
     },
     {
       "symbol": "IOC",
@@ -100,16 +100,16 @@
       "weighted_entry": 144.62,
       "risk_per_share": 3.73,
       "target_2r": 152.08,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 4.07,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 0.26,
       "target_2r_touched": false,
       "hard_stop_date": "2026-07-23",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-07-23",
       "exit_price": 138.0,
       "status": "CLOSED",
-      "sessions_held": 85
+      "sessions_held": 86
     },
     {
       "symbol": "IOC",
@@ -127,16 +127,16 @@
       "weighted_entry": 145.63,
       "risk_per_share": 4.61,
       "target_2r": 154.84,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 3.34,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -0.43,
       "target_2r_touched": false,
       "hard_stop_date": "2026-06-29",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-06-29",
       "exit_price": 141.1,
       "status": "CLOSED",
-      "sessions_held": 108
+      "sessions_held": 109
     },
     {
       "symbol": "IOC",
@@ -154,16 +154,16 @@
       "weighted_entry": 145.33,
       "risk_per_share": 3.68,
       "target_2r": 152.69,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 3.55,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -0.23,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-08",
       "exit_date": "2026-05-11",
       "exit_price": 141.74,
       "status": "CLOSED",
-      "sessions_held": 135
+      "sessions_held": 136
     },
     {
       "symbol": "IOC",
@@ -181,16 +181,16 @@
       "weighted_entry": 148.32,
       "risk_per_share": 4.22,
       "target_2r": 156.77,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 1.47,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -2.24,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-19",
       "exit_date": "2026-02-20",
       "exit_price": 169.92,
       "status": "CLOSED",
-      "sessions_held": 198
+      "sessions_held": 199
     },
     {
       "symbol": "IOC",
@@ -208,16 +208,16 @@
       "weighted_entry": 148.99,
       "risk_per_share": 4.02,
       "target_2r": 157.03,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 1.01,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": -2.68,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-24",
       "exit_date": "2025-12-26",
       "exit_price": 157.69,
       "status": "CLOSED",
-      "sessions_held": 229
+      "sessions_held": 230
     },
     {
       "symbol": "IOC",
@@ -235,16 +235,16 @@
       "weighted_entry": 137.73,
       "risk_per_share": 2.6,
       "target_2r": 142.93,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 9.27,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 5.28,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-25",
       "exit_date": "2025-09-26",
       "exit_price": 138.68,
       "status": "CLOSED",
-      "sessions_held": 294
+      "sessions_held": 295
     },
     {
       "symbol": "IOC",
@@ -262,16 +262,16 @@
       "weighted_entry": 137.3,
       "risk_per_share": 4.03,
       "target_2r": 145.37,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 9.61,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 5.61,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-14",
       "exit_date": "2025-07-15",
       "exit_price": 139.95,
       "status": "CLOSED",
-      "sessions_held": 347
+      "sessions_held": 348
     },
     {
       "symbol": "IOC",
@@ -289,16 +289,16 @@
       "weighted_entry": 136.55,
       "risk_per_share": 2.77,
       "target_2r": 142.08,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 10.22,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 6.19,
       "target_2r_touched": false,
       "hard_stop_date": "2025-06-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-06-13",
       "exit_price": 129.22,
       "status": "CLOSED",
-      "sessions_held": 360
+      "sessions_held": 361
     },
     {
       "symbol": "IOC",
@@ -316,16 +316,16 @@
       "weighted_entry": 121.63,
       "risk_per_share": 4.34,
       "target_2r": 130.3,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 23.73,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 19.21,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-28",
       "exit_date": "2025-04-01",
       "exit_price": 118.99,
       "status": "CLOSED",
-      "sessions_held": 418
+      "sessions_held": 419
     },
     {
       "symbol": "IOC",
@@ -343,16 +343,16 @@
       "weighted_entry": 125.87,
       "risk_per_share": 3.37,
       "target_2r": 132.61,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 19.57,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 15.2,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-17",
       "exit_date": "2024-12-18",
       "exit_price": 129.36,
       "status": "CLOSED",
-      "sessions_held": 482
+      "sessions_held": 483
     },
     {
       "symbol": "IOC",
@@ -370,16 +370,16 @@
       "weighted_entry": 132.15,
       "risk_per_share": 4.76,
       "target_2r": 141.67,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 13.88,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 9.72,
       "target_2r_touched": true,
       "hard_stop_date": "2024-10-03",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-10-03",
       "exit_price": 161.03,
       "status": "CLOSED",
-      "sessions_held": 531
+      "sessions_held": 532
     },
     {
       "symbol": "IOC",
@@ -397,16 +397,16 @@
       "weighted_entry": 131.43,
       "risk_per_share": 5.49,
       "target_2r": 142.41,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 14.51,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 10.33,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-06",
       "exit_date": "2024-09-09",
       "exit_price": 163.15,
       "status": "CLOSED",
-      "sessions_held": 558
+      "sessions_held": 559
     },
     {
       "symbol": "IOC",
@@ -424,16 +424,16 @@
       "weighted_entry": 129.45,
       "risk_per_share": 3.26,
       "target_2r": 135.98,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 16.26,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 12.01,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-07-19",
       "exit_date": "2024-07-22",
       "exit_price": 153.84,
       "status": "CLOSED",
-      "sessions_held": 592
+      "sessions_held": 593
     },
     {
       "symbol": "IOC",
@@ -451,16 +451,16 @@
       "weighted_entry": 130.58,
       "risk_per_share": 7.7,
       "target_2r": 145.97,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 15.26,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 11.04,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-19",
       "exit_date": "2024-06-20",
       "exit_price": 149.33,
       "status": "CLOSED",
-      "sessions_held": 605
+      "sessions_held": 606
     },
     {
       "symbol": "IOC",
@@ -478,16 +478,16 @@
       "weighted_entry": 130.66,
       "risk_per_share": 4.58,
       "target_2r": 139.82,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 15.19,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 10.98,
       "target_2r_touched": false,
       "hard_stop_date": "2024-06-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-06-04",
       "exit_price": 153.36,
       "status": "CLOSED",
-      "sessions_held": 612
+      "sessions_held": 613
     },
     {
       "symbol": "IOC",
@@ -505,16 +505,16 @@
       "weighted_entry": 129.41,
       "risk_per_share": 5.15,
       "target_2r": 139.7,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 16.3,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 12.05,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-29",
       "exit_date": "2024-05-30",
       "exit_price": 146.96,
       "status": "CLOSED",
-      "sessions_held": 618
+      "sessions_held": 619
     },
     {
       "symbol": "IOC",
@@ -532,16 +532,16 @@
       "weighted_entry": 129.67,
       "risk_per_share": 5.57,
       "target_2r": 140.81,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 16.06,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 11.82,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-30",
       "exit_date": "2024-05-02",
       "exit_price": 153.48,
       "status": "CLOSED",
-      "sessions_held": 637
+      "sessions_held": 638
     },
     {
       "symbol": "IOC",
@@ -559,16 +559,16 @@
       "weighted_entry": 130.15,
       "risk_per_share": 5.55,
       "target_2r": 141.24,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 15.64,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 11.41,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-23",
       "exit_date": "2024-04-24",
       "exit_price": 151.16,
       "status": "CLOSED",
-      "sessions_held": 640
+      "sessions_held": 641
     },
     {
       "symbol": "IOC",
@@ -586,16 +586,16 @@
       "weighted_entry": 130.92,
       "risk_per_share": 7.04,
       "target_2r": 145.01,
-      "latest_close": 150.5,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 14.96,
+      "latest_close": 145.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 10.75,
       "target_2r_touched": true,
       "hard_stop_date": "2024-04-05",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-04-05",
       "exit_price": 148.22,
       "status": "CLOSED",
-      "sessions_held": 651
+      "sessions_held": 652
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "MANKIND",
   "company": "Mankind Pharma Ltd.",
-  "market_date": "2026-11-20",
+  "market_date": "2026-11-23",
   "setups": [
     {
       "symbol": "MANKIND",
@@ -19,16 +19,16 @@
       "weighted_entry": 2492.33,
       "risk_per_share": 98.37,
       "target_2r": 2689.06,
-      "latest_close": 2665.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 6.93,
+      "latest_close": 2615.1,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 4.93,
       "target_2r_touched": true,
       "hard_stop_date": null,
-      "ema9_exit_signal_date": null,
+      "ema9_exit_signal_date": "2026-11-23",
       "exit_date": null,
       "exit_price": null,
-      "status": "TWO_R",
-      "sessions_held": 15
+      "status": "CLOSED",
+      "sessions_held": 16
     },
     {
       "symbol": "MANKIND",
@@ -46,16 +46,16 @@
       "weighted_entry": 2527.08,
       "risk_per_share": 71.44,
       "target_2r": 2669.95,
-      "latest_close": 2665.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 5.46,
+      "latest_close": 2615.1,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 3.48,
       "target_2r_touched": false,
       "hard_stop_date": "2026-10-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-10-08",
       "exit_price": 2403.66,
       "status": "CLOSED",
-      "sessions_held": 40
+      "sessions_held": 41
     },
     {
       "symbol": "MANKIND",
@@ -73,16 +73,16 @@
       "weighted_entry": 2512.18,
       "risk_per_share": 71.38,
       "target_2r": 2654.95,
-      "latest_close": 2665.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 6.08,
+      "latest_close": 2615.1,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 4.1,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-08",
       "exit_date": "2026-07-09",
       "exit_price": 2503.3,
       "status": "CLOSED",
-      "sessions_held": 106
+      "sessions_held": 107
     },
     {
       "symbol": "MANKIND",
@@ -100,16 +100,16 @@
       "weighted_entry": 2256.18,
       "risk_per_share": 74.65,
       "target_2r": 2405.49,
-      "latest_close": 2665.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 18.12,
+      "latest_close": 2615.1,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 15.91,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-25",
       "exit_date": "2026-05-26",
       "exit_price": 2448.4,
       "status": "CLOSED",
-      "sessions_held": 149
+      "sessions_held": 150
     },
     {
       "symbol": "MANKIND",
@@ -127,16 +127,16 @@
       "weighted_entry": 2214.94,
       "risk_per_share": 58.62,
       "target_2r": 2332.17,
-      "latest_close": 2665.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 20.32,
+      "latest_close": 2615.1,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 18.07,
       "target_2r_touched": false,
       "hard_stop_date": "2026-03-02",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-03-02",
       "exit_price": 2161.0,
       "status": "CLOSED",
-      "sessions_held": 179
+      "sessions_held": 180
     },
     {
       "symbol": "MANKIND",
@@ -154,16 +154,16 @@
       "weighted_entry": 2210.02,
       "risk_per_share": 54.65,
       "target_2r": 2319.33,
-      "latest_close": 2665.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 20.59,
+      "latest_close": 2615.1,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 18.33,
       "target_2r_touched": true,
       "hard_stop_date": "2026-01-09",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-09",
       "exit_price": 2186.35,
       "status": "CLOSED",
-      "sessions_held": 215
+      "sessions_held": 216
     },
     {
       "symbol": "MANKIND",
@@ -181,16 +181,16 @@
       "weighted_entry": 2289.56,
       "risk_per_share": 79.27,
       "target_2r": 2448.1,
-      "latest_close": 2665.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 16.4,
+      "latest_close": 2615.1,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 14.22,
       "target_2r_touched": true,
       "hard_stop_date": "2025-09-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-09-08",
       "exit_price": 2530.83,
       "status": "CLOSED",
-      "sessions_held": 300
+      "sessions_held": 301
     },
     {
       "symbol": "MANKIND",
@@ -208,16 +208,16 @@
       "weighted_entry": 2290.54,
       "risk_per_share": 86.95,
       "target_2r": 2464.45,
-      "latest_close": 2665.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 16.35,
+      "latest_close": 2615.1,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 14.17,
       "target_2r_touched": true,
       "hard_stop_date": "2025-08-26",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-08-26",
       "exit_price": 2527.65,
       "status": "CLOSED",
-      "sessions_held": 307
+      "sessions_held": 308
     },
     {
       "symbol": "MANKIND",
@@ -235,16 +235,16 @@
       "weighted_entry": 2493.4,
       "risk_per_share": 69.23,
       "target_2r": 2631.87,
-      "latest_close": 2665.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 6.88,
+      "latest_close": 2615.1,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 4.88,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-23",
       "exit_date": "2025-07-24",
       "exit_price": 2618.77,
       "status": "CLOSED",
-      "sessions_held": 340
+      "sessions_held": 341
     },
     {
       "symbol": "MANKIND",
@@ -262,16 +262,16 @@
       "weighted_entry": 2524.79,
       "risk_per_share": 112.38,
       "target_2r": 2749.54,
-      "latest_close": 2665.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 5.55,
+      "latest_close": 2615.1,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 3.58,
       "target_2r_touched": false,
       "hard_stop_date": "2025-05-22",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-05-22",
       "exit_price": 2431.62,
       "status": "CLOSED",
-      "sessions_held": 379
+      "sessions_held": 380
     },
     {
       "symbol": "MANKIND",
@@ -289,16 +289,16 @@
       "weighted_entry": 2533.55,
       "risk_per_share": 102.87,
       "target_2r": 2739.3,
-      "latest_close": 2665.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 5.19,
+      "latest_close": 2615.1,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 3.22,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-07",
       "exit_date": "2025-04-08",
       "exit_price": 2407.9,
       "status": "CLOSED",
-      "sessions_held": 408
+      "sessions_held": 409
     },
     {
       "symbol": "MANKIND",
@@ -316,16 +316,16 @@
       "weighted_entry": 2595.43,
       "risk_per_share": 92.84,
       "target_2r": 2781.1,
-      "latest_close": 2665.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 2.68,
+      "latest_close": 2615.1,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 0.76,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-08",
       "exit_date": "2025-01-09",
       "exit_price": 2878.42,
       "status": "CLOSED",
-      "sessions_held": 483
+      "sessions_held": 484
     },
     {
       "symbol": "MANKIND",
@@ -343,16 +343,16 @@
       "weighted_entry": 2606.21,
       "risk_per_share": 112.45,
       "target_2r": 2831.11,
-      "latest_close": 2665.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 2.26,
+      "latest_close": 2615.1,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 0.34,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-08",
       "exit_date": "2024-11-11",
       "exit_price": 2661.5,
       "status": "CLOSED",
-      "sessions_held": 507
+      "sessions_held": 508
     },
     {
       "symbol": "MANKIND",
@@ -370,16 +370,16 @@
       "weighted_entry": 2296.89,
       "risk_per_share": 87.54,
       "target_2r": 2471.97,
-      "latest_close": 2665.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 16.03,
+      "latest_close": 2615.1,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 13.85,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-18",
       "exit_date": "2024-09-19",
       "exit_price": 2407.8,
       "status": "CLOSED",
-      "sessions_held": 563
+      "sessions_held": 564
     },
     {
       "symbol": "MANKIND",
@@ -397,16 +397,16 @@
       "weighted_entry": 2323.03,
       "risk_per_share": 103.44,
       "target_2r": 2529.91,
-      "latest_close": 2665.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 14.72,
+      "latest_close": 2615.1,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 12.57,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-20",
       "exit_date": "2024-06-21",
       "exit_price": 2217.13,
       "status": "CLOSED",
-      "sessions_held": 605
+      "sessions_held": 606
     },
     {
       "symbol": "MANKIND",
@@ -424,16 +424,16 @@
       "weighted_entry": 2297.17,
       "risk_per_share": 106.69,
       "target_2r": 2510.55,
-      "latest_close": 2665.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 16.01,
+      "latest_close": 2615.1,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 13.84,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-12",
       "exit_date": "2024-04-15",
       "exit_price": 2255.11,
       "status": "CLOSED",
-      "sessions_held": 657
+      "sessions_held": 658
     },
     {
       "symbol": "MANKIND",
@@ -451,16 +451,16 @@
       "weighted_entry": 2293.78,
       "risk_per_share": 88.06,
       "target_2r": 2469.91,
-      "latest_close": 2665.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 16.18,
+      "latest_close": 2615.1,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 14.01,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-12",
       "exit_date": "2024-03-13",
       "exit_price": 2113.62,
       "status": "CLOSED",
-      "sessions_held": 667
+      "sessions_held": 668
     },
     {
       "symbol": "MANKIND",
@@ -478,16 +478,16 @@
       "weighted_entry": 2303.28,
       "risk_per_share": 93.02,
       "target_2r": 2489.32,
-      "latest_close": 2665.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 15.7,
+      "latest_close": 2615.1,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 13.54,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-21",
       "exit_date": "2024-02-22",
       "exit_price": 2217.93,
       "status": "CLOSED",
-      "sessions_held": 688
+      "sessions_held": 689
     },
     {
       "symbol": "MANKIND",
@@ -505,16 +505,16 @@
       "weighted_entry": 2005.01,
       "risk_per_share": 92.35,
       "target_2r": 2189.72,
-      "latest_close": 2665.0,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 32.92,
+      "latest_close": 2615.1,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 30.43,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-01-08",
       "exit_date": "2024-01-09",
       "exit_price": 2048.14,
       "status": "CLOSED",
-      "sessions_held": 716
+      "sessions_held": 717
     }
   ]
 }

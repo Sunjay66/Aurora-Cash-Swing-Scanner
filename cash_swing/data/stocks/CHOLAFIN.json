@@ -1,7 +1,7 @@
 {
   "symbol": "CHOLAFIN",
   "company": "Cholamandalam Investment and Finance Company Ltd.",
-  "market_date": "2026-11-20",
+  "market_date": "2026-11-23",
   "setups": [
     {
       "symbol": "CHOLAFIN",
@@ -19,16 +19,16 @@
       "weighted_entry": 1815.09,
       "risk_per_share": 65.8,
       "target_2r": 1946.7,
-      "latest_close": 1874.6,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 3.28,
+      "latest_close": 1831.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 0.88,
       "target_2r_touched": false,
       "hard_stop_date": null,
-      "ema9_exit_signal_date": null,
+      "ema9_exit_signal_date": "2026-11-23",
       "exit_date": null,
       "exit_price": null,
-      "status": "OPEN",
-      "sessions_held": 11
+      "status": "CLOSED",
+      "sessions_held": 12
     },
     {
       "symbol": "CHOLAFIN",
@@ -46,16 +46,16 @@
       "weighted_entry": 1674.75,
       "risk_per_share": 73.3,
       "target_2r": 1821.35,
-      "latest_close": 1874.6,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 11.93,
+      "latest_close": 1831.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 9.33,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-08",
       "exit_date": "2026-07-09",
       "exit_price": 1766.31,
       "status": "CLOSED",
-      "sessions_held": 109
+      "sessions_held": 110
     },
     {
       "symbol": "CHOLAFIN",
@@ -73,16 +73,16 @@
       "weighted_entry": 1654.37,
       "risk_per_share": 81.6,
       "target_2r": 1817.58,
-      "latest_close": 1874.6,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 13.31,
+      "latest_close": 1831.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 10.68,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-23",
       "exit_date": "2026-04-24",
       "exit_price": 1546.29,
       "status": "CLOSED",
-      "sessions_held": 150
+      "sessions_held": 151
     },
     {
       "symbol": "CHOLAFIN",
@@ -100,16 +100,16 @@
       "weighted_entry": 1701.41,
       "risk_per_share": 49.43,
       "target_2r": 1800.26,
-      "latest_close": 1874.6,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 10.18,
+      "latest_close": 1831.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 7.62,
       "target_2r_touched": false,
       "hard_stop_date": "2026-02-26",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-02-26",
       "exit_price": 1695.89,
       "status": "CLOSED",
-      "sessions_held": 181
+      "sessions_held": 182
     },
     {
       "symbol": "CHOLAFIN",
@@ -127,16 +127,16 @@
       "weighted_entry": 1770.55,
       "risk_per_share": 69.18,
       "target_2r": 1908.92,
-      "latest_close": 1874.6,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 5.88,
+      "latest_close": 1831.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 3.41,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-13",
       "exit_date": "2026-02-16",
       "exit_price": 1691.34,
       "status": "CLOSED",
-      "sessions_held": 193
+      "sessions_held": 194
     },
     {
       "symbol": "CHOLAFIN",
@@ -154,16 +154,16 @@
       "weighted_entry": 1762.36,
       "risk_per_share": 59.36,
       "target_2r": 1881.08,
-      "latest_close": 1874.6,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 6.37,
+      "latest_close": 1831.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 3.89,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-09",
       "exit_date": "2026-01-12",
       "exit_price": 1713.05,
       "status": "CLOSED",
-      "sessions_held": 218
+      "sessions_held": 219
     },
     {
       "symbol": "CHOLAFIN",
@@ -181,16 +181,16 @@
       "weighted_entry": 1762.73,
       "risk_per_share": 50.05,
       "target_2r": 1862.83,
-      "latest_close": 1874.6,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 6.35,
+      "latest_close": 1831.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 3.87,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-16",
       "exit_date": "2025-12-17",
       "exit_price": 1708.05,
       "status": "CLOSED",
-      "sessions_held": 236
+      "sessions_held": 237
     },
     {
       "symbol": "CHOLAFIN",
@@ -208,16 +208,16 @@
       "weighted_entry": 1760.38,
       "risk_per_share": 48.44,
       "target_2r": 1857.27,
-      "latest_close": 1874.6,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 6.49,
+      "latest_close": 1831.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 4.01,
       "target_2r_touched": false,
       "hard_stop_date": "2025-12-03",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-12-03",
       "exit_price": 1671.59,
       "status": "CLOSED",
-      "sessions_held": 242
+      "sessions_held": 243
     },
     {
       "symbol": "CHOLAFIN",
@@ -235,16 +235,16 @@
       "weighted_entry": 1555.01,
       "risk_per_share": 39.42,
       "target_2r": 1633.85,
-      "latest_close": 1874.6,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 20.55,
+      "latest_close": 1831.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 17.75,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-26",
       "exit_date": "2025-09-29",
       "exit_price": 1572.21,
       "status": "CLOSED",
-      "sessions_held": 295
+      "sessions_held": 296
     },
     {
       "symbol": "CHOLAFIN",
@@ -262,16 +262,16 @@
       "weighted_entry": 1552.94,
       "risk_per_share": 51.32,
       "target_2r": 1655.57,
-      "latest_close": 1874.6,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 20.71,
+      "latest_close": 1831.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 17.91,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-26",
       "exit_date": "2025-08-28",
       "exit_price": 1462.53,
       "status": "CLOSED",
-      "sessions_held": 308
+      "sessions_held": 309
     },
     {
       "symbol": "CHOLAFIN",
@@ -289,16 +289,16 @@
       "weighted_entry": 1577.93,
       "risk_per_share": 59.74,
       "target_2r": 1697.4,
-      "latest_close": 1874.6,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 18.8,
+      "latest_close": 1831.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 16.04,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-01",
       "exit_date": "2025-07-02",
       "exit_price": 1577.49,
       "status": "CLOSED",
-      "sessions_held": 348
+      "sessions_held": 349
     },
     {
       "symbol": "CHOLAFIN",
@@ -316,16 +316,16 @@
       "weighted_entry": 1588.47,
       "risk_per_share": 60.64,
       "target_2r": 1709.76,
-      "latest_close": 1874.6,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 18.01,
+      "latest_close": 1831.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 15.27,
       "target_2r_touched": false,
       "hard_stop_date": "2025-06-11",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-06-11",
       "exit_price": 1596.72,
       "status": "CLOSED",
-      "sessions_held": 360
+      "sessions_held": 361
     },
     {
       "symbol": "CHOLAFIN",
@@ -343,16 +343,16 @@
       "weighted_entry": 1566.91,
       "risk_per_share": 71.89,
       "target_2r": 1710.68,
-      "latest_close": 1874.6,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 19.64,
+      "latest_close": 1831.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 16.85,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-24",
       "exit_date": "2025-04-25",
       "exit_price": 1559.52,
       "status": "CLOSED",
-      "sessions_held": 397
+      "sessions_held": 398
     },
     {
       "symbol": "CHOLAFIN",
@@ -370,16 +370,16 @@
       "weighted_entry": 1352.21,
       "risk_per_share": 63.46,
       "target_2r": 1479.12,
-      "latest_close": 1874.6,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 38.63,
+      "latest_close": 1831.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 35.41,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-11",
       "exit_date": "2025-02-12",
       "exit_price": 1311.71,
       "status": "CLOSED",
-      "sessions_held": 446
+      "sessions_held": 447
     },
     {
       "symbol": "CHOLAFIN",
@@ -397,16 +397,16 @@
       "weighted_entry": 1355.55,
       "risk_per_share": 49.68,
       "target_2r": 1454.91,
-      "latest_close": 1874.6,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 38.29,
+      "latest_close": 1831.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 35.07,
       "target_2r_touched": false,
       "hard_stop_date": "2025-01-10",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-01-10",
       "exit_price": 1242.04,
       "status": "CLOSED",
-      "sessions_held": 464
+      "sessions_held": 465
     },
     {
       "symbol": "CHOLAFIN",
@@ -424,16 +424,16 @@
       "weighted_entry": 1369.74,
       "risk_per_share": 46.01,
       "target_2r": 1461.76,
-      "latest_close": 1874.6,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 36.86,
+      "latest_close": 1831.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 33.68,
       "target_2r_touched": false,
       "hard_stop_date": "2024-12-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-12-13",
       "exit_price": 1299.58,
       "status": "CLOSED",
-      "sessions_held": 482
+      "sessions_held": 483
     },
     {
       "symbol": "CHOLAFIN",
@@ -451,16 +451,16 @@
       "weighted_entry": 1392.89,
       "risk_per_share": 52.99,
       "target_2r": 1498.86,
-      "latest_close": 1874.6,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 34.58,
+      "latest_close": 1831.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 31.45,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-01",
       "exit_date": "2024-10-03",
       "exit_price": 1561.04,
       "status": "CLOSED",
-      "sessions_held": 554
+      "sessions_held": 555
     },
     {
       "symbol": "CHOLAFIN",
@@ -478,16 +478,16 @@
       "weighted_entry": 1390.27,
       "risk_per_share": 61.91,
       "target_2r": 1514.09,
-      "latest_close": 1874.6,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 34.84,
+      "latest_close": 1831.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 31.7,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-01",
       "exit_date": "2024-08-02",
       "exit_price": 1377.51,
       "status": "CLOSED",
-      "sessions_held": 574
+      "sessions_held": 575
     },
     {
       "symbol": "CHOLAFIN",
@@ -505,16 +505,16 @@
       "weighted_entry": 1204.15,
       "risk_per_share": 43.48,
       "target_2r": 1291.12,
-      "latest_close": 1874.6,
-      "latest_date": "2026-11-20",
-      "unrealised_return_pct": 55.68,
+      "latest_close": 1831.0,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 52.06,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-12",
       "exit_date": "2024-04-15",
       "exit_price": 1146.54,
       "status": "CLOSED",
-      "sessions_held": 655
+      "sessions_held": 656
     }
   ]
 }
