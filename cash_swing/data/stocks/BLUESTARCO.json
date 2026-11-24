@@ -1,7 +1,7 @@
 {
   "symbol": "BLUESTARCO",
   "company": "Blue Star Ltd.",
-  "market_date": "2026-11-23",
+  "market_date": "2026-11-20",
   "setups": [
     {
       "symbol": "BLUESTARCO",
@@ -19,16 +19,16 @@
       "weighted_entry": 1623.67,
       "risk_per_share": 64.0,
       "target_2r": 1751.67,
-      "latest_close": 1785.1,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 9.94,
+      "latest_close": 1791.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 10.31,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-03",
       "exit_date": "2026-11-04",
       "exit_price": 1576.0,
       "status": "CLOSED",
-      "sessions_held": 17
+      "sessions_held": 16
     },
     {
       "symbol": "BLUESTARCO",
@@ -46,16 +46,16 @@
       "weighted_entry": 1570.52,
       "risk_per_share": 62.69,
       "target_2r": 1695.89,
-      "latest_close": 1785.1,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 13.66,
+      "latest_close": 1791.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 14.04,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-10-08",
       "exit_date": "2026-10-09",
       "exit_price": 1539.9,
       "status": "CLOSED",
-      "sessions_held": 32
+      "sessions_held": 31
     },
     {
       "symbol": "BLUESTARCO",
@@ -73,16 +73,16 @@
       "weighted_entry": 1563.88,
       "risk_per_share": 65.58,
       "target_2r": 1695.04,
-      "latest_close": 1785.1,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 14.15,
+      "latest_close": 1791.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 14.52,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-24",
       "exit_date": "2026-09-25",
       "exit_price": 1523.8,
       "status": "CLOSED",
-      "sessions_held": 43
+      "sessions_held": 42
     },
     {
       "symbol": "BLUESTARCO",
@@ -100,16 +100,16 @@
       "weighted_entry": 1710.48,
       "risk_per_share": 52.27,
       "target_2r": 1815.02,
-      "latest_close": 1785.1,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 4.36,
+      "latest_close": 1791.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 4.71,
       "target_2r_touched": false,
       "hard_stop_date": "2026-07-22",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-07-22",
       "exit_price": 1655.45,
       "status": "CLOSED",
-      "sessions_held": 91
+      "sessions_held": 90
     },
     {
       "symbol": "BLUESTARCO",
@@ -127,16 +127,16 @@
       "weighted_entry": 1707.72,
       "risk_per_share": 61.52,
       "target_2r": 1830.76,
-      "latest_close": 1785.1,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 4.53,
+      "latest_close": 1791.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 4.88,
       "target_2r_touched": false,
       "hard_stop_date": "2026-06-22",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-06-22",
       "exit_price": 1635.16,
       "status": "CLOSED",
-      "sessions_held": 107
+      "sessions_held": 106
     },
     {
       "symbol": "BLUESTARCO",
@@ -154,16 +154,16 @@
       "weighted_entry": 1884.46,
       "risk_per_share": 103.97,
       "target_2r": 2092.4,
-      "latest_close": 1785.1,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -5.27,
+      "latest_close": 1791.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -4.96,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-29",
       "exit_date": "2026-04-30",
       "exit_price": 1834.11,
       "status": "CLOSED",
-      "sessions_held": 149
+      "sessions_held": 148
     },
     {
       "symbol": "BLUESTARCO",
@@ -181,16 +181,16 @@
       "weighted_entry": 1900.54,
       "risk_per_share": 80.21,
       "target_2r": 2060.96,
-      "latest_close": 1785.1,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -6.07,
+      "latest_close": 1791.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -5.76,
       "target_2r_touched": false,
       "hard_stop_date": "2026-03-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-03-13",
       "exit_price": 1851.31,
       "status": "CLOSED",
-      "sessions_held": 172
+      "sessions_held": 171
     },
     {
       "symbol": "BLUESTARCO",
@@ -208,16 +208,16 @@
       "weighted_entry": 1861.96,
       "risk_per_share": 80.48,
       "target_2r": 2022.92,
-      "latest_close": 1785.1,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -4.13,
+      "latest_close": 1791.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -3.81,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-23",
       "exit_date": "2026-02-24",
       "exit_price": 1950.43,
       "status": "CLOSED",
-      "sessions_held": 197
+      "sessions_held": 196
     },
     {
       "symbol": "BLUESTARCO",
@@ -235,16 +235,16 @@
       "weighted_entry": 1870.12,
       "risk_per_share": 65.54,
       "target_2r": 2001.21,
-      "latest_close": 1785.1,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -4.55,
+      "latest_close": 1791.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -4.23,
       "target_2r_touched": false,
       "hard_stop_date": "2026-01-09",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-09",
       "exit_price": 1775.43,
       "status": "CLOSED",
-      "sessions_held": 217
+      "sessions_held": 216
     },
     {
       "symbol": "BLUESTARCO",
@@ -262,16 +262,16 @@
       "weighted_entry": 1862.51,
       "risk_per_share": 43.02,
       "target_2r": 1948.56,
-      "latest_close": 1785.1,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -4.16,
+      "latest_close": 1791.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -3.84,
       "target_2r_touched": false,
       "hard_stop_date": "2025-12-19",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-12-19",
       "exit_price": 1768.1,
       "status": "CLOSED",
-      "sessions_held": 229
+      "sessions_held": 228
     },
     {
       "symbol": "BLUESTARCO",
@@ -289,16 +289,16 @@
       "weighted_entry": 1895.77,
       "risk_per_share": 66.17,
       "target_2r": 2028.11,
-      "latest_close": 1785.1,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -5.84,
+      "latest_close": 1791.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -5.53,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-28",
       "exit_date": "2025-10-29",
       "exit_price": 1943.27,
       "status": "CLOSED",
-      "sessions_held": 271
+      "sessions_held": 270
     },
     {
       "symbol": "BLUESTARCO",
@@ -316,16 +316,16 @@
       "weighted_entry": 1891.97,
       "risk_per_share": 64.31,
       "target_2r": 2020.59,
-      "latest_close": 1785.1,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -5.65,
+      "latest_close": 1791.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -5.34,
       "target_2r_touched": false,
       "hard_stop_date": "2025-10-14",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-10-14",
       "exit_price": 1865.23,
       "status": "CLOSED",
-      "sessions_held": 275
+      "sessions_held": 274
     },
     {
       "symbol": "BLUESTARCO",
@@ -343,16 +343,16 @@
       "weighted_entry": 1865.05,
       "risk_per_share": 63.87,
       "target_2r": 1992.8,
-      "latest_close": 1785.1,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -4.29,
+      "latest_close": 1791.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -3.97,
       "target_2r_touched": false,
       "hard_stop_date": "2025-08-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-08-08",
       "exit_price": 1757.19,
       "status": "CLOSED",
-      "sessions_held": 318
+      "sessions_held": 317
     },
     {
       "symbol": "BLUESTARCO",
@@ -370,16 +370,16 @@
       "weighted_entry": 1756.82,
       "risk_per_share": 54.65,
       "target_2r": 1866.12,
-      "latest_close": 1785.1,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 1.61,
+      "latest_close": 1791.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 1.95,
       "target_2r_touched": false,
       "hard_stop_date": "2025-06-19",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-06-19",
       "exit_price": 1604.41,
       "status": "CLOSED",
-      "sessions_held": 356
+      "sessions_held": 355
     },
     {
       "symbol": "BLUESTARCO",
@@ -397,16 +397,16 @@
       "weighted_entry": 2091.42,
       "risk_per_share": 116.96,
       "target_2r": 2325.35,
-      "latest_close": 1785.1,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -14.65,
+      "latest_close": 1791.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -14.36,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-11",
       "exit_date": "2025-03-12",
       "exit_price": 2010.09,
       "status": "CLOSED",
-      "sessions_held": 425
+      "sessions_held": 424
     },
     {
       "symbol": "BLUESTARCO",
@@ -424,16 +424,16 @@
       "weighted_entry": 2086.03,
       "risk_per_share": 140.08,
       "target_2r": 2366.18,
-      "latest_close": 1785.1,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -14.43,
+      "latest_close": 1791.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -14.14,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-11",
       "exit_date": "2025-02-12",
       "exit_price": 1865.84,
       "status": "CLOSED",
-      "sessions_held": 442
+      "sessions_held": 441
     },
     {
       "symbol": "BLUESTARCO",
@@ -451,16 +451,16 @@
       "weighted_entry": 1947.84,
       "risk_per_share": 66.0,
       "target_2r": 2079.84,
-      "latest_close": 1785.1,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -8.36,
+      "latest_close": 1791.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -8.05,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-18",
       "exit_date": "2024-12-19",
       "exit_price": 1990.63,
       "status": "CLOSED",
-      "sessions_held": 487
+      "sessions_held": 486
     },
     {
       "symbol": "BLUESTARCO",
@@ -478,16 +478,16 @@
       "weighted_entry": 1890.55,
       "risk_per_share": 84.73,
       "target_2r": 2060.01,
-      "latest_close": 1785.1,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -5.58,
+      "latest_close": 1791.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -5.27,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-26",
       "exit_date": "2024-08-27",
       "exit_price": 1683.62,
       "status": "CLOSED",
-      "sessions_held": 562
+      "sessions_held": 561
     },
     {
       "symbol": "BLUESTARCO",
@@ -505,16 +505,16 @@
       "weighted_entry": 1033.43,
       "risk_per_share": 27.72,
       "target_2r": 1088.87,
-      "latest_close": 1785.1,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 72.74,
+      "latest_close": 1791.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 73.31,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-06",
       "exit_date": "2024-03-07",
       "exit_price": 1239.75,
       "status": "CLOSED",
-      "sessions_held": 706
+      "sessions_held": 705
     }
   ]
 }

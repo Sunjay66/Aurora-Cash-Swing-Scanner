@@ -1,7 +1,7 @@
 {
   "symbol": "BPCL",
   "company": "Bharat Petroleum Corporation Ltd.",
-  "market_date": "2026-11-23",
+  "market_date": "2026-11-20",
   "setups": [
     {
       "symbol": "BPCL",
@@ -19,16 +19,16 @@
       "weighted_entry": 308.31,
       "risk_per_share": 10.57,
       "target_2r": 329.45,
-      "latest_close": 305.35,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -0.96,
+      "latest_close": 314.1,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 1.88,
       "target_2r_touched": false,
       "hard_stop_date": "2026-11-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-11-06",
       "exit_price": 309.43,
       "status": "CLOSED",
-      "sessions_held": 12
+      "sessions_held": 11
     },
     {
       "symbol": "BPCL",
@@ -46,16 +46,16 @@
       "weighted_entry": 307.13,
       "risk_per_share": 7.9,
       "target_2r": 322.92,
-      "latest_close": 305.35,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -0.58,
+      "latest_close": 314.1,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 2.27,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-01",
       "exit_date": "2026-09-02",
       "exit_price": 312.1,
       "status": "CLOSED",
-      "sessions_held": 57
+      "sessions_held": 56
     },
     {
       "symbol": "BPCL",
@@ -73,16 +73,16 @@
       "weighted_entry": 308.68,
       "risk_per_share": 10.69,
       "target_2r": 330.07,
-      "latest_close": 305.35,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -1.08,
+      "latest_close": 314.1,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 1.76,
       "target_2r_touched": false,
       "hard_stop_date": "2026-06-29",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-06-29",
       "exit_price": 303.31,
       "status": "CLOSED",
-      "sessions_held": 110
+      "sessions_held": 109
     },
     {
       "symbol": "BPCL",
@@ -100,16 +100,16 @@
       "weighted_entry": 307.85,
       "risk_per_share": 11.12,
       "target_2r": 330.09,
-      "latest_close": 305.35,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -0.81,
+      "latest_close": 314.1,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 2.03,
       "target_2r_touched": false,
       "hard_stop_date": "2026-05-29",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-05-29",
       "exit_price": 299.48,
       "status": "CLOSED",
-      "sessions_held": 122
+      "sessions_held": 121
     },
     {
       "symbol": "BPCL",
@@ -127,16 +127,16 @@
       "weighted_entry": 309.09,
       "risk_per_share": 10.58,
       "target_2r": 330.25,
-      "latest_close": 305.35,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -1.21,
+      "latest_close": 314.1,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 1.62,
       "target_2r_touched": false,
       "hard_stop_date": "2026-05-07",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-05-07",
       "exit_price": 305.12,
       "status": "CLOSED",
-      "sessions_held": 137
+      "sessions_held": 136
     },
     {
       "symbol": "BPCL",
@@ -154,16 +154,16 @@
       "weighted_entry": 309.18,
       "risk_per_share": 15.21,
       "target_2r": 339.6,
-      "latest_close": 305.35,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -1.24,
+      "latest_close": 314.1,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 1.59,
       "target_2r_touched": false,
       "hard_stop_date": "2026-04-24",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-04-24",
       "exit_price": 300.84,
       "status": "CLOSED",
-      "sessions_held": 148
+      "sessions_held": 147
     },
     {
       "symbol": "BPCL",
@@ -181,16 +181,16 @@
       "weighted_entry": 320.96,
       "risk_per_share": 11.66,
       "target_2r": 344.28,
-      "latest_close": 305.35,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -4.86,
+      "latest_close": 314.1,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -2.14,
       "target_2r_touched": false,
       "hard_stop_date": "2026-02-03",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-02-03",
       "exit_price": 360.34,
       "status": "CLOSED",
-      "sessions_held": 198
+      "sessions_held": 197
     },
     {
       "symbol": "BPCL",
@@ -208,16 +208,16 @@
       "weighted_entry": 318.04,
       "risk_per_share": 10.22,
       "target_2r": 338.47,
-      "latest_close": 305.35,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -3.99,
+      "latest_close": 314.1,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -1.24,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-06",
       "exit_date": "2026-01-07",
       "exit_price": 361.36,
       "status": "CLOSED",
-      "sessions_held": 231
+      "sessions_held": 230
     },
     {
       "symbol": "BPCL",
@@ -235,16 +235,16 @@
       "weighted_entry": 312.47,
       "risk_per_share": 7.25,
       "target_2r": 326.97,
-      "latest_close": 305.35,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -2.28,
+      "latest_close": 314.1,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 0.52,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-26",
       "exit_date": "2025-09-29",
       "exit_price": 311.21,
       "status": "CLOSED",
-      "sessions_held": 291
+      "sessions_held": 290
     },
     {
       "symbol": "BPCL",
@@ -262,16 +262,16 @@
       "weighted_entry": 310.69,
       "risk_per_share": 11.42,
       "target_2r": 333.54,
-      "latest_close": 305.35,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -1.72,
+      "latest_close": 314.1,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 1.1,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-18",
       "exit_date": "2025-07-21",
       "exit_price": 322.41,
       "status": "CLOSED",
-      "sessions_held": 350
+      "sessions_held": 349
     },
     {
       "symbol": "BPCL",
@@ -289,16 +289,16 @@
       "weighted_entry": 254.76,
       "risk_per_share": 9.38,
       "target_2r": 273.52,
-      "latest_close": 305.35,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 19.86,
+      "latest_close": 314.1,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 23.29,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-04",
       "exit_date": "2025-04-07",
       "exit_price": 245.92,
       "status": "CLOSED",
-      "sessions_held": 420
+      "sessions_held": 419
     },
     {
       "symbol": "BPCL",
@@ -316,16 +316,16 @@
       "weighted_entry": 264.04,
       "risk_per_share": 7.65,
       "target_2r": 279.34,
-      "latest_close": 305.35,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 15.65,
+      "latest_close": 314.1,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 18.96,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-16",
       "exit_date": "2024-12-17",
       "exit_price": 275.99,
       "status": "CLOSED",
-      "sessions_held": 480
+      "sessions_held": 479
     },
     {
       "symbol": "BPCL",
@@ -343,16 +343,16 @@
       "weighted_entry": 273.87,
       "risk_per_share": 14.14,
       "target_2r": 302.15,
-      "latest_close": 305.35,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 11.49,
+      "latest_close": 314.1,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 14.69,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-17",
       "exit_date": "2024-10-18",
       "exit_price": 315.43,
       "status": "CLOSED",
-      "sessions_held": 520
+      "sessions_held": 519
     },
     {
       "symbol": "BPCL",
@@ -370,16 +370,16 @@
       "weighted_entry": 275.83,
       "risk_per_share": 10.98,
       "target_2r": 297.79,
-      "latest_close": 305.35,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 10.7,
+      "latest_close": 314.1,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 13.87,
       "target_2r_touched": true,
       "hard_stop_date": "2024-10-03",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-10-03",
       "exit_price": 325.6,
       "status": "CLOSED",
-      "sessions_held": 532
+      "sessions_held": 531
     },
     {
       "symbol": "BPCL",
@@ -397,16 +397,16 @@
       "weighted_entry": 265.62,
       "risk_per_share": 7.73,
       "target_2r": 281.07,
-      "latest_close": 305.35,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 14.96,
+      "latest_close": 314.1,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 18.25,
       "target_2r_touched": true,
       "hard_stop_date": "2024-07-19",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-07-19",
       "exit_price": 276.33,
       "status": "CLOSED",
-      "sessions_held": 583
+      "sessions_held": 582
     },
     {
       "symbol": "BPCL",
@@ -424,16 +424,16 @@
       "weighted_entry": 265.88,
       "risk_per_share": 16.08,
       "target_2r": 298.05,
-      "latest_close": 305.35,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 14.84,
+      "latest_close": 314.1,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 18.14,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-21",
       "exit_date": "2024-06-24",
       "exit_price": 276.21,
       "status": "CLOSED",
-      "sessions_held": 601
+      "sessions_held": 600
     },
     {
       "symbol": "BPCL",
@@ -451,16 +451,16 @@
       "weighted_entry": 263.4,
       "risk_per_share": 10.73,
       "target_2r": 284.87,
-      "latest_close": 305.35,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 15.92,
+      "latest_close": 314.1,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 19.25,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-06",
       "exit_date": "2024-05-07",
       "exit_price": 277.59,
       "status": "CLOSED",
-      "sessions_held": 637
+      "sessions_held": 636
     },
     {
       "symbol": "BPCL",
@@ -478,16 +478,16 @@
       "weighted_entry": 263.3,
       "risk_per_share": 11.78,
       "target_2r": 286.86,
-      "latest_close": 305.35,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 15.97,
+      "latest_close": 314.1,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 19.29,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-04",
       "exit_date": "2024-04-05",
       "exit_price": 264.68,
       "status": "CLOSED",
-      "sessions_held": 652
+      "sessions_held": 651
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "CANBK",
   "company": "Canara Bank",
-  "market_date": "2026-11-23",
+  "market_date": "2026-11-20",
   "setups": [
     {
       "symbol": "CANBK",
@@ -19,16 +19,16 @@
       "weighted_entry": 129.41,
       "risk_per_share": 3.87,
       "target_2r": 137.14,
-      "latest_close": 133.75,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 3.36,
+      "latest_close": 138.92,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 7.35,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "TWO_R",
-      "sessions_held": 10
+      "sessions_held": 9
     },
     {
       "symbol": "CANBK",
@@ -46,16 +46,16 @@
       "weighted_entry": 131.09,
       "risk_per_share": 3.37,
       "target_2r": 137.82,
-      "latest_close": 133.75,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 2.03,
+      "latest_close": 138.92,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 5.97,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-18",
       "exit_date": "2026-08-19",
       "exit_price": 129.1,
       "status": "CLOSED",
-      "sessions_held": 74
+      "sessions_held": 73
     },
     {
       "symbol": "CANBK",
@@ -73,16 +73,16 @@
       "weighted_entry": 131.48,
       "risk_per_share": 4.37,
       "target_2r": 140.22,
-      "latest_close": 133.75,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 1.73,
+      "latest_close": 138.92,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 5.66,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-08",
       "exit_date": "2026-06-09",
       "exit_price": 127.2,
       "status": "CLOSED",
-      "sessions_held": 116
+      "sessions_held": 115
     },
     {
       "symbol": "CANBK",
@@ -100,16 +100,16 @@
       "weighted_entry": 133.15,
       "risk_per_share": 6.76,
       "target_2r": 146.67,
-      "latest_close": 133.75,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 0.45,
+      "latest_close": 138.92,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 4.33,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-23",
       "exit_date": "2026-04-24",
       "exit_price": 136.82,
       "status": "CLOSED",
-      "sessions_held": 151
+      "sessions_held": 150
     },
     {
       "symbol": "CANBK",
@@ -127,16 +127,16 @@
       "weighted_entry": 135.93,
       "risk_per_share": 5.05,
       "target_2r": 146.04,
-      "latest_close": 133.75,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -1.6,
+      "latest_close": 138.92,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 2.2,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-02",
       "exit_date": "2026-03-04",
       "exit_price": 145.21,
       "status": "CLOSED",
-      "sessions_held": 184
+      "sessions_held": 183
     },
     {
       "symbol": "CANBK",
@@ -154,16 +154,16 @@
       "weighted_entry": 125.35,
       "risk_per_share": 2.73,
       "target_2r": 130.8,
-      "latest_close": 133.75,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 6.7,
+      "latest_close": 138.92,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 10.83,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-26",
       "exit_date": "2025-09-29",
       "exit_price": 114.79,
       "status": "CLOSED",
-      "sessions_held": 295
+      "sessions_held": 294
     },
     {
       "symbol": "CANBK",
@@ -181,16 +181,16 @@
       "weighted_entry": 109.23,
       "risk_per_share": 2.38,
       "target_2r": 114.0,
-      "latest_close": 133.75,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 22.45,
+      "latest_close": 138.92,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 27.18,
       "target_2r_touched": false,
       "hard_stop_date": "2025-08-22",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-08-22",
       "exit_price": 106.72,
       "status": "CLOSED",
-      "sessions_held": 310
+      "sessions_held": 309
     },
     {
       "symbol": "CANBK",
@@ -208,16 +208,16 @@
       "weighted_entry": 91.6,
       "risk_per_share": 2.66,
       "target_2r": 96.92,
-      "latest_close": 133.75,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 46.02,
+      "latest_close": 138.92,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 51.66,
       "target_2r_touched": false,
       "hard_stop_date": "2025-03-25",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-03-25",
       "exit_price": 83.51,
       "status": "CLOSED",
-      "sessions_held": 411
+      "sessions_held": 410
     },
     {
       "symbol": "CANBK",
@@ -235,16 +235,16 @@
       "weighted_entry": 101.2,
       "risk_per_share": 3.78,
       "target_2r": 108.75,
-      "latest_close": 133.75,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 32.17,
+      "latest_close": 138.92,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 37.27,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-13",
       "exit_date": "2024-12-16",
       "exit_price": 99.53,
       "status": "CLOSED",
-      "sessions_held": 488
+      "sessions_held": 487
     },
     {
       "symbol": "CANBK",
@@ -262,16 +262,16 @@
       "weighted_entry": 100.99,
       "risk_per_share": 4.26,
       "target_2r": 109.51,
-      "latest_close": 133.75,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 32.44,
+      "latest_close": 138.92,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 37.56,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-12",
       "exit_date": "2024-11-13",
       "exit_price": 94.39,
       "status": "CLOSED",
-      "sessions_held": 504
+      "sessions_held": 503
     },
     {
       "symbol": "CANBK",
@@ -289,16 +289,16 @@
       "weighted_entry": 102.34,
       "risk_per_share": 3.06,
       "target_2r": 108.46,
-      "latest_close": 133.75,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 30.7,
+      "latest_close": 138.92,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 35.75,
       "target_2r_touched": false,
       "hard_stop_date": "2024-10-03",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-10-03",
       "exit_price": 100.41,
       "status": "CLOSED",
-      "sessions_held": 533
+      "sessions_held": 532
     },
     {
       "symbol": "CANBK",
@@ -316,16 +316,16 @@
       "weighted_entry": 102.87,
       "risk_per_share": 2.5,
       "target_2r": 107.87,
-      "latest_close": 133.75,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 30.02,
+      "latest_close": 138.92,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 35.04,
       "target_2r_touched": false,
       "hard_stop_date": "2024-09-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-09-04",
       "exit_price": 100.98,
       "status": "CLOSED",
-      "sessions_held": 551
+      "sessions_held": 550
     },
     {
       "symbol": "CANBK",
@@ -343,16 +343,16 @@
       "weighted_entry": 103.64,
       "risk_per_share": 7.18,
       "target_2r": 118.0,
-      "latest_close": 133.75,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 29.05,
+      "latest_close": 138.92,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 34.04,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-21",
       "exit_date": "2024-06-24",
       "exit_price": 110.28,
       "status": "CLOSED",
-      "sessions_held": 610
+      "sessions_held": 609
     },
     {
       "symbol": "CANBK",
@@ -370,16 +370,16 @@
       "weighted_entry": 105.2,
       "risk_per_share": 4.72,
       "target_2r": 114.63,
-      "latest_close": 133.75,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 27.14,
+      "latest_close": 138.92,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 32.06,
       "target_2r_touched": false,
       "hard_stop_date": "2024-06-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-06-04",
       "exit_price": 111.57,
       "status": "CLOSED",
-      "sessions_held": 613
+      "sessions_held": 612
     },
     {
       "symbol": "CANBK",
@@ -397,16 +397,16 @@
       "weighted_entry": 102.48,
       "risk_per_share": 4.24,
       "target_2r": 110.96,
-      "latest_close": 133.75,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 30.51,
+      "latest_close": 138.92,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 35.56,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-15",
       "exit_date": "2024-04-16",
       "exit_price": 107.0,
       "status": "CLOSED",
-      "sessions_held": 657
+      "sessions_held": 656
     }
   ]
 }

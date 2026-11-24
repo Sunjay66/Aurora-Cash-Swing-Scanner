@@ -1,7 +1,7 @@
 {
   "symbol": "TECHM",
   "company": "Tech Mahindra Ltd.",
-  "market_date": "2026-11-23",
+  "market_date": "2026-11-20",
   "setups": [
     {
       "symbol": "TECHM",
@@ -19,16 +19,16 @@
       "weighted_entry": 1733.46,
       "risk_per_share": 58.34,
       "target_2r": 1850.13,
-      "latest_close": 1777.5,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 2.54,
+      "latest_close": 1746.2,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 0.74,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-11",
       "exit_date": "2026-11-12",
       "exit_price": 1777.8,
       "status": "CLOSED",
-      "sessions_held": 25
+      "sessions_held": 24
     },
     {
       "symbol": "TECHM",
@@ -46,16 +46,16 @@
       "weighted_entry": 1714.52,
       "risk_per_share": 41.18,
       "target_2r": 1796.87,
-      "latest_close": 1777.5,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 3.67,
+      "latest_close": 1746.2,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 1.85,
       "target_2r_touched": false,
       "hard_stop_date": "2026-09-03",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-09-03",
       "exit_price": 1585.37,
       "status": "CLOSED",
-      "sessions_held": 57
+      "sessions_held": 56
     },
     {
       "symbol": "TECHM",
@@ -73,16 +73,16 @@
       "weighted_entry": 1475.28,
       "risk_per_share": 56.99,
       "target_2r": 1589.27,
-      "latest_close": 1777.5,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 20.49,
+      "latest_close": 1746.2,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 18.36,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-12",
       "exit_date": "2026-08-13",
       "exit_price": 1621.29,
       "status": "CLOSED",
-      "sessions_held": 94
+      "sessions_held": 93
     },
     {
       "symbol": "TECHM",
@@ -100,16 +100,16 @@
       "weighted_entry": 1475.18,
       "risk_per_share": 49.64,
       "target_2r": 1574.45,
-      "latest_close": 1777.5,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 20.49,
+      "latest_close": 1746.2,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 18.37,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-03",
       "exit_date": "2026-06-04",
       "exit_price": 1411.35,
       "status": "CLOSED",
-      "sessions_held": 123
+      "sessions_held": 122
     },
     {
       "symbol": "TECHM",
@@ -127,16 +127,16 @@
       "weighted_entry": 1481.51,
       "risk_per_share": 56.48,
       "target_2r": 1594.48,
-      "latest_close": 1777.5,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 19.98,
+      "latest_close": 1746.2,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 17.87,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-07",
       "exit_date": "2026-05-08",
       "exit_price": 1405.07,
       "status": "CLOSED",
-      "sessions_held": 140
+      "sessions_held": 139
     },
     {
       "symbol": "TECHM",
@@ -154,16 +154,16 @@
       "weighted_entry": 1468.28,
       "risk_per_share": 55.12,
       "target_2r": 1578.52,
-      "latest_close": 1777.5,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 21.06,
+      "latest_close": 1746.2,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 18.93,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-13",
       "exit_date": "2026-04-15",
       "exit_price": 1406.52,
       "status": "CLOSED",
-      "sessions_held": 158
+      "sessions_held": 157
     },
     {
       "symbol": "TECHM",
@@ -181,16 +181,16 @@
       "weighted_entry": 1450.28,
       "risk_per_share": 29.29,
       "target_2r": 1508.85,
-      "latest_close": 1777.5,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 22.56,
+      "latest_close": 1746.2,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 20.4,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-30",
       "exit_date": "2025-12-31",
       "exit_price": 1560.99,
       "status": "CLOSED",
-      "sessions_held": 248
+      "sessions_held": 247
     },
     {
       "symbol": "TECHM",
@@ -208,16 +208,16 @@
       "weighted_entry": 1447.56,
       "risk_per_share": 28.03,
       "target_2r": 1503.63,
-      "latest_close": 1777.5,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 22.79,
+      "latest_close": 1746.2,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 20.63,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-18",
       "exit_date": "2025-11-19",
       "exit_price": 1379.93,
       "status": "CLOSED",
-      "sessions_held": 251
+      "sessions_held": 250
     },
     {
       "symbol": "TECHM",
@@ -235,16 +235,16 @@
       "weighted_entry": 1450.99,
       "risk_per_share": 32.87,
       "target_2r": 1516.73,
-      "latest_close": 1777.5,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 22.5,
+      "latest_close": 1746.2,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 20.35,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-28",
       "exit_date": "2025-10-29",
       "exit_price": 1404.58,
       "status": "CLOSED",
-      "sessions_held": 266
+      "sessions_held": 265
     },
     {
       "symbol": "TECHM",
@@ -262,16 +262,16 @@
       "weighted_entry": 1464.65,
       "risk_per_share": 34.79,
       "target_2r": 1534.23,
-      "latest_close": 1777.5,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 21.36,
+      "latest_close": 1746.2,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 19.22,
       "target_2r_touched": false,
       "hard_stop_date": "2025-09-22",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-09-22",
       "exit_price": 1427.95,
       "status": "CLOSED",
-      "sessions_held": 295
+      "sessions_held": 294
     },
     {
       "symbol": "TECHM",
@@ -289,16 +289,16 @@
       "weighted_entry": 1462.74,
       "risk_per_share": 40.68,
       "target_2r": 1544.09,
-      "latest_close": 1777.5,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 21.52,
+      "latest_close": 1746.2,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 19.38,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-26",
       "exit_date": "2025-08-28",
       "exit_price": 1434.99,
       "status": "CLOSED",
-      "sessions_held": 307
+      "sessions_held": 306
     },
     {
       "symbol": "TECHM",
@@ -316,16 +316,16 @@
       "weighted_entry": 1493.94,
       "risk_per_share": 66.3,
       "target_2r": 1626.54,
-      "latest_close": 1777.5,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 18.98,
+      "latest_close": 1746.2,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 16.89,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-22",
       "exit_date": "2025-05-23",
       "exit_price": 1479.71,
       "status": "CLOSED",
-      "sessions_held": 391
+      "sessions_held": 390
     },
     {
       "symbol": "TECHM",
@@ -343,16 +343,16 @@
       "weighted_entry": 1549.51,
       "risk_per_share": 45.21,
       "target_2r": 1639.94,
-      "latest_close": 1777.5,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 14.71,
+      "latest_close": 1746.2,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 12.69,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-20",
       "exit_date": "2025-02-21",
       "exit_price": 1557.45,
       "status": "CLOSED",
-      "sessions_held": 433
+      "sessions_held": 432
     },
     {
       "symbol": "TECHM",
@@ -370,16 +370,16 @@
       "weighted_entry": 1549.73,
       "risk_per_share": 51.43,
       "target_2r": 1652.58,
-      "latest_close": 1777.5,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 14.7,
+      "latest_close": 1746.2,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 12.68,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-07",
       "exit_date": "2024-11-08",
       "exit_price": 1559.56,
       "status": "CLOSED",
-      "sessions_held": 505
+      "sessions_held": 504
     },
     {
       "symbol": "TECHM",
@@ -397,16 +397,16 @@
       "weighted_entry": 1530.24,
       "risk_per_share": 53.13,
       "target_2r": 1636.5,
-      "latest_close": 1777.5,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 16.16,
+      "latest_close": 1746.2,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 14.11,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-10",
       "exit_date": "2024-10-11",
       "exit_price": 1492.6,
       "status": "CLOSED",
-      "sessions_held": 527
+      "sessions_held": 526
     },
     {
       "symbol": "TECHM",
@@ -424,16 +424,16 @@
       "weighted_entry": 1456.73,
       "risk_per_share": 41.89,
       "target_2r": 1540.5,
-      "latest_close": 1777.5,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 22.02,
+      "latest_close": 1746.2,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 19.87,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-02",
       "exit_date": "2024-08-05",
       "exit_price": 1368.76,
       "status": "CLOSED",
-      "sessions_held": 609
+      "sessions_held": 608
     },
     {
       "symbol": "TECHM",
@@ -451,16 +451,16 @@
       "weighted_entry": 1186.03,
       "risk_per_share": 43.59,
       "target_2r": 1273.22,
-      "latest_close": 1777.5,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 49.87,
+      "latest_close": 1746.2,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 47.23,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-10",
       "exit_date": "2024-05-13",
       "exit_price": 1155.91,
       "status": "CLOSED",
-      "sessions_held": 635
+      "sessions_held": 634
     },
     {
       "symbol": "TECHM",
@@ -478,16 +478,16 @@
       "weighted_entry": 1199.74,
       "risk_per_share": 32.28,
       "target_2r": 1264.3,
-      "latest_close": 1777.5,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 48.16,
+      "latest_close": 1746.2,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 45.55,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-26",
       "exit_date": "2024-02-27",
       "exit_price": 1183.88,
       "status": "CLOSED",
-      "sessions_held": 677
+      "sessions_held": 676
     },
     {
       "symbol": "TECHM",
@@ -505,16 +505,16 @@
       "weighted_entry": 1202.51,
       "risk_per_share": 32.93,
       "target_2r": 1268.38,
-      "latest_close": 1777.5,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 47.82,
+      "latest_close": 1746.2,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 45.21,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-01-25",
       "exit_date": "2024-01-29",
       "exit_price": 1223.19,
       "status": "CLOSED",
-      "sessions_held": 705
+      "sessions_held": 704
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "JSWSTEEL",
   "company": "JSW Steel Ltd.",
-  "market_date": "2026-11-23",
+  "market_date": "2026-11-20",
   "setups": [
     {
       "symbol": "JSWSTEEL",
@@ -19,16 +19,16 @@
       "weighted_entry": 1327.78,
       "risk_per_share": 42.96,
       "target_2r": 1413.69,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -1.2,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 0.69,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-17",
       "exit_date": "2026-11-18",
       "exit_price": 1320.6,
       "status": "CLOSED",
-      "sessions_held": 16
+      "sessions_held": 15
     },
     {
       "symbol": "JSWSTEEL",
@@ -46,16 +46,16 @@
       "weighted_entry": 1275.45,
       "risk_per_share": 31.17,
       "target_2r": 1337.78,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 2.86,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 4.83,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-23",
       "exit_date": "2026-07-24",
       "exit_price": 1238.6,
       "status": "CLOSED",
-      "sessions_held": 85
+      "sessions_held": 84
     },
     {
       "symbol": "JSWSTEEL",
@@ -73,16 +73,16 @@
       "weighted_entry": 1285.48,
       "risk_per_share": 34.25,
       "target_2r": 1353.97,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 2.06,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 4.01,
       "target_2r_touched": false,
       "hard_stop_date": "2026-06-16",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-06-16",
       "exit_price": 1270.85,
       "status": "CLOSED",
-      "sessions_held": 111
+      "sessions_held": 110
     },
     {
       "symbol": "JSWSTEEL",
@@ -100,16 +100,16 @@
       "weighted_entry": 1223.44,
       "risk_per_share": 48.45,
       "target_2r": 1320.35,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 7.23,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 9.28,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-05",
       "exit_date": "2026-05-06",
       "exit_price": 1255.29,
       "status": "CLOSED",
-      "sessions_held": 153
+      "sessions_held": 152
     },
     {
       "symbol": "JSWSTEEL",
@@ -127,16 +127,16 @@
       "weighted_entry": 1167.48,
       "risk_per_share": 27.57,
       "target_2r": 1222.63,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 12.37,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 14.52,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-08",
       "exit_date": "2026-01-09",
       "exit_price": 1153.38,
       "status": "CLOSED",
-      "sessions_held": 219
+      "sessions_held": 218
     },
     {
       "symbol": "JSWSTEEL",
@@ -154,16 +154,16 @@
       "weighted_entry": 1141.93,
       "risk_per_share": 24.81,
       "target_2r": 1191.56,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 14.88,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 17.08,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-29",
       "exit_date": "2025-09-30",
       "exit_price": 1122.35,
       "status": "CLOSED",
-      "sessions_held": 301
+      "sessions_held": 300
     },
     {
       "symbol": "JSWSTEEL",
@@ -181,16 +181,16 @@
       "weighted_entry": 1015.8,
       "risk_per_share": 24.75,
       "target_2r": 1065.29,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 29.15,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 31.62,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-15",
       "exit_date": "2025-07-16",
       "exit_price": 1028.09,
       "status": "CLOSED",
-      "sessions_held": 350
+      "sessions_held": 349
     },
     {
       "symbol": "JSWSTEEL",
@@ -208,16 +208,16 @@
       "weighted_entry": 1022.32,
       "risk_per_share": 39.81,
       "target_2r": 1101.94,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 28.33,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 30.78,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-21",
       "exit_date": "2025-05-22",
       "exit_price": 993.6,
       "status": "CLOSED",
-      "sessions_held": 377
+      "sessions_held": 376
     },
     {
       "symbol": "JSWSTEEL",
@@ -235,16 +235,16 @@
       "weighted_entry": 1026.44,
       "risk_per_share": 40.83,
       "target_2r": 1108.1,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 27.81,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 30.26,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-30",
       "exit_date": "2025-05-02",
       "exit_price": 1012.64,
       "status": "CLOSED",
-      "sessions_held": 394
+      "sessions_held": 393
     },
     {
       "symbol": "JSWSTEEL",
@@ -262,16 +262,16 @@
       "weighted_entry": 941.18,
       "risk_per_share": 27.99,
       "target_2r": 997.15,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 39.39,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 42.06,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-24",
       "exit_date": "2025-02-25",
       "exit_price": 958.9,
       "status": "CLOSED",
-      "sessions_held": 448
+      "sessions_held": 447
     },
     {
       "symbol": "JSWSTEEL",
@@ -289,16 +289,16 @@
       "weighted_entry": 931.65,
       "risk_per_share": 24.97,
       "target_2r": 981.59,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 40.81,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 43.51,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-27",
       "exit_date": "2025-01-28",
       "exit_price": 915.66,
       "status": "CLOSED",
-      "sessions_held": 451
+      "sessions_held": 450
     },
     {
       "symbol": "JSWSTEEL",
@@ -316,16 +316,16 @@
       "weighted_entry": 954.95,
       "risk_per_share": 30.21,
       "target_2r": 1015.38,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 37.38,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 40.01,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-16",
       "exit_date": "2024-12-17",
       "exit_price": 982.05,
       "status": "CLOSED",
-      "sessions_held": 489
+      "sessions_held": 488
     },
     {
       "symbol": "JSWSTEEL",
@@ -343,16 +343,16 @@
       "weighted_entry": 991.25,
       "risk_per_share": 33.37,
       "target_2r": 1058.0,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 32.35,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 34.88,
       "target_2r_touched": false,
       "hard_stop_date": "2024-11-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-11-08",
       "exit_price": 972.13,
       "status": "CLOSED",
-      "sessions_held": 505
+      "sessions_held": 504
     },
     {
       "symbol": "JSWSTEEL",
@@ -370,16 +370,16 @@
       "weighted_entry": 968.18,
       "risk_per_share": 34.86,
       "target_2r": 1037.9,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 35.5,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 38.09,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-03",
       "exit_date": "2024-09-04",
       "exit_price": 912.29,
       "status": "CLOSED",
-      "sessions_held": 561
+      "sessions_held": 560
     },
     {
       "symbol": "JSWSTEEL",
@@ -397,16 +397,16 @@
       "weighted_entry": 961.28,
       "risk_per_share": 38.46,
       "target_2r": 1038.2,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 36.47,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 39.08,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-26",
       "exit_date": "2024-06-27",
       "exit_price": 901.46,
       "status": "CLOSED",
-      "sessions_held": 609
+      "sessions_held": 608
     },
     {
       "symbol": "JSWSTEEL",
@@ -424,16 +424,16 @@
       "weighted_entry": 954.25,
       "risk_per_share": 33.02,
       "target_2r": 1020.28,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 37.48,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 40.11,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-30",
       "exit_date": "2024-05-31",
       "exit_price": 877.65,
       "status": "CLOSED",
-      "sessions_held": 626
+      "sessions_held": 625
     },
     {
       "symbol": "JSWSTEEL",
@@ -451,16 +451,16 @@
       "weighted_entry": 845.87,
       "risk_per_share": 27.59,
       "target_2r": 901.06,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 55.09,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 58.06,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-15",
       "exit_date": "2024-04-16",
       "exit_price": 845.67,
       "status": "CLOSED",
-      "sessions_held": 656
+      "sessions_held": 655
     },
     {
       "symbol": "JSWSTEEL",
@@ -478,16 +478,16 @@
       "weighted_entry": 847.14,
       "risk_per_share": 26.11,
       "target_2r": 899.36,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 54.86,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 57.82,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-12",
       "exit_date": "2024-03-13",
       "exit_price": 805.23,
       "status": "CLOSED",
-      "sessions_held": 668
+      "sessions_held": 667
     },
     {
       "symbol": "JSWSTEEL",
@@ -505,16 +505,16 @@
       "weighted_entry": 808.35,
       "risk_per_share": 23.98,
       "target_2r": 856.31,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 62.29,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 65.4,
       "target_2r_touched": false,
       "hard_stop_date": "2024-03-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-03-06",
       "exit_price": 787.84,
       "status": "CLOSED",
-      "sessions_held": 671
+      "sessions_held": 670
     },
     {
       "symbol": "JSWSTEEL",
@@ -532,16 +532,16 @@
       "weighted_entry": 809.79,
       "risk_per_share": 24.36,
       "target_2r": 858.52,
-      "latest_close": 1311.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 62.01,
+      "latest_close": 1337.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 65.11,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-23",
       "exit_date": "2024-02-26",
       "exit_price": 811.92,
       "status": "CLOSED",
-      "sessions_held": 679
+      "sessions_held": 678
     }
   ]
 }

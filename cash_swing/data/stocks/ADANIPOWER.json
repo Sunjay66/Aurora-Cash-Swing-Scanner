@@ -1,7 +1,7 @@
 {
   "symbol": "ADANIPOWER",
   "company": "Adani Power Ltd.",
-  "market_date": "2026-11-23",
+  "market_date": "2026-11-20",
   "setups": [
     {
       "symbol": "ADANIPOWER",
@@ -19,16 +19,16 @@
       "weighted_entry": 205.25,
       "risk_per_share": 7.98,
       "target_2r": 221.22,
-      "latest_close": 207.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 1.29,
+      "latest_close": 211.95,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 3.26,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "OPEN",
-      "sessions_held": 12
+      "sessions_held": 11
     },
     {
       "symbol": "ADANIPOWER",
@@ -46,16 +46,16 @@
       "weighted_entry": 207.3,
       "risk_per_share": 8.11,
       "target_2r": 223.52,
-      "latest_close": 207.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 0.29,
+      "latest_close": 211.95,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 2.25,
       "target_2r_touched": false,
       "hard_stop_date": "2026-09-15",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-09-15",
       "exit_price": 206.39,
       "status": "CLOSED",
-      "sessions_held": 49
+      "sessions_held": 48
     },
     {
       "symbol": "ADANIPOWER",
@@ -73,16 +73,16 @@
       "weighted_entry": 211.02,
       "risk_per_share": 9.32,
       "target_2r": 229.66,
-      "latest_close": 207.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -1.48,
+      "latest_close": 211.95,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 0.44,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-29",
       "exit_date": "2026-06-30",
       "exit_price": 228.0,
       "status": "CLOSED",
-      "sessions_held": 106
+      "sessions_held": 105
     },
     {
       "symbol": "ADANIPOWER",
@@ -100,16 +100,16 @@
       "weighted_entry": 154.43,
       "risk_per_share": 6.26,
       "target_2r": 166.94,
-      "latest_close": 207.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 34.62,
+      "latest_close": 211.95,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 37.25,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-23",
       "exit_date": "2026-03-24",
       "exit_price": 151.0,
       "status": "CLOSED",
-      "sessions_held": 170
+      "sessions_held": 169
     },
     {
       "symbol": "ADANIPOWER",
@@ -127,16 +127,16 @@
       "weighted_entry": 152.81,
       "risk_per_share": 7.38,
       "target_2r": 167.58,
-      "latest_close": 207.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 36.05,
+      "latest_close": 211.95,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 38.7,
       "target_2r_touched": false,
       "hard_stop_date": "2026-02-10",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-02-10",
       "exit_price": 147.91,
       "status": "CLOSED",
-      "sessions_held": 196
+      "sessions_held": 195
     },
     {
       "symbol": "ADANIPOWER",
@@ -154,16 +154,16 @@
       "weighted_entry": 150.98,
       "risk_per_share": 3.94,
       "target_2r": 158.86,
-      "latest_close": 207.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 37.7,
+      "latest_close": 211.95,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 40.38,
       "target_2r_touched": false,
       "hard_stop_date": "2026-01-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-08",
       "exit_price": 144.06,
       "status": "CLOSED",
-      "sessions_held": 218
+      "sessions_held": 217
     },
     {
       "symbol": "ADANIPOWER",
@@ -181,16 +181,16 @@
       "weighted_entry": 142.43,
       "risk_per_share": 4.44,
       "target_2r": 151.3,
-      "latest_close": 207.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 45.97,
+      "latest_close": 211.95,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 48.81,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-26",
       "exit_date": "2025-08-28",
       "exit_price": 118.0,
       "status": "CLOSED",
-      "sessions_held": 312
+      "sessions_held": 311
     },
     {
       "symbol": "ADANIPOWER",
@@ -208,16 +208,16 @@
       "weighted_entry": 141.05,
       "risk_per_share": 5.18,
       "target_2r": 151.41,
-      "latest_close": 207.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 47.39,
+      "latest_close": 211.95,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 50.27,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-17",
       "exit_date": "2025-07-18",
       "exit_price": 119.72,
       "status": "CLOSED",
-      "sessions_held": 348
+      "sessions_held": 347
     },
     {
       "symbol": "ADANIPOWER",
@@ -235,16 +235,16 @@
       "weighted_entry": 139.33,
       "risk_per_share": 6.05,
       "target_2r": 151.43,
-      "latest_close": 207.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 49.22,
+      "latest_close": 211.95,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 52.12,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-28",
       "exit_date": "2025-05-29",
       "exit_price": 110.77,
       "status": "CLOSED",
-      "sessions_held": 378
+      "sessions_held": 377
     },
     {
       "symbol": "ADANIPOWER",
@@ -262,16 +262,16 @@
       "weighted_entry": 94.57,
       "risk_per_share": 4.95,
       "target_2r": 104.46,
-      "latest_close": 207.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 119.84,
+      "latest_close": 211.95,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 124.13,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-25",
       "exit_date": "2025-03-26",
       "exit_price": 101.8,
       "status": "CLOSED",
-      "sessions_held": 421
+      "sessions_held": 420
     },
     {
       "symbol": "ADANIPOWER",
@@ -289,16 +289,16 @@
       "weighted_entry": 97.44,
       "risk_per_share": 7.65,
       "target_2r": 112.75,
-      "latest_close": 207.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 113.36,
+      "latest_close": 211.95,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 117.52,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-21",
       "exit_date": "2025-01-22",
       "exit_price": 106.18,
       "status": "CLOSED",
-      "sessions_held": 457
+      "sessions_held": 456
     },
     {
       "symbol": "ADANIPOWER",
@@ -316,16 +316,16 @@
       "weighted_entry": 100.98,
       "risk_per_share": 5.22,
       "target_2r": 111.42,
-      "latest_close": 207.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 105.89,
+      "latest_close": 211.95,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 109.9,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-27",
       "exit_date": "2024-09-30",
       "exit_price": 130.8,
       "status": "CLOSED",
-      "sessions_held": 535
+      "sessions_held": 534
     },
     {
       "symbol": "ADANIPOWER",
@@ -343,16 +343,16 @@
       "weighted_entry": 103.85,
       "risk_per_share": 6.16,
       "target_2r": 116.17,
-      "latest_close": 207.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 100.2,
+      "latest_close": 211.95,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 104.1,
       "target_2r_touched": true,
       "hard_stop_date": "2024-08-05",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-08-05",
       "exit_price": 137.84,
       "status": "CLOSED",
-      "sessions_held": 573
+      "sessions_held": 572
     },
     {
       "symbol": "ADANIPOWER",
@@ -370,16 +370,16 @@
       "weighted_entry": 98.79,
       "risk_per_share": 6.16,
       "target_2r": 111.11,
-      "latest_close": 207.9,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 110.44,
+      "latest_close": 211.95,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 114.54,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-12",
       "exit_date": "2024-04-15",
       "exit_price": 117.8,
       "status": "CLOSED",
-      "sessions_held": 653
+      "sessions_held": 652
     }
   ]
 }

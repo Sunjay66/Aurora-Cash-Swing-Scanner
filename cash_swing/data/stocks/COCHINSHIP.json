@@ -1,7 +1,7 @@
 {
   "symbol": "COCHINSHIP",
   "company": "Cochin Shipyard Ltd.",
-  "market_date": "2026-11-23",
+  "market_date": "2026-11-20",
   "setups": [
     {
       "symbol": "COCHINSHIP",
@@ -19,16 +19,16 @@
       "weighted_entry": 1491.28,
       "risk_per_share": 38.92,
       "target_2r": 1569.12,
-      "latest_close": 1090.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -26.91,
+      "latest_close": 1125.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -24.56,
       "target_2r_touched": false,
       "hard_stop_date": "2026-08-17",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-08-17",
       "exit_price": 1444.68,
       "status": "CLOSED",
-      "sessions_held": 73
+      "sessions_held": 72
     },
     {
       "symbol": "COCHINSHIP",
@@ -46,16 +46,16 @@
       "weighted_entry": 1494.96,
       "risk_per_share": 61.11,
       "target_2r": 1617.19,
-      "latest_close": 1090.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -27.09,
+      "latest_close": 1125.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -24.75,
       "target_2r_touched": false,
       "hard_stop_date": "2026-07-07",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-07-07",
       "exit_price": 1438.27,
       "status": "CLOSED",
-      "sessions_held": 99
+      "sessions_held": 98
     },
     {
       "symbol": "COCHINSHIP",
@@ -73,16 +73,16 @@
       "weighted_entry": 1545.26,
       "risk_per_share": 93.9,
       "target_2r": 1733.07,
-      "latest_close": 1090.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -29.46,
+      "latest_close": 1125.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -27.2,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-11",
       "exit_date": "2026-05-12",
       "exit_price": 1708.71,
       "status": "CLOSED",
-      "sessions_held": 153
+      "sessions_held": 152
     },
     {
       "symbol": "COCHINSHIP",
@@ -100,16 +100,16 @@
       "weighted_entry": 1579.35,
       "risk_per_share": 66.87,
       "target_2r": 1713.09,
-      "latest_close": 1090.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -30.98,
+      "latest_close": 1125.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -28.77,
       "target_2r_touched": false,
       "hard_stop_date": "2026-02-02",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-02-02",
       "exit_price": 1483.71,
       "status": "CLOSED",
-      "sessions_held": 199
+      "sessions_held": 198
     },
     {
       "symbol": "COCHINSHIP",
@@ -127,16 +127,16 @@
       "weighted_entry": 1639.36,
       "risk_per_share": 47.74,
       "target_2r": 1734.84,
-      "latest_close": 1090.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -33.51,
+      "latest_close": 1125.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -31.38,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-29",
       "exit_date": "2025-10-30",
       "exit_price": 1789.55,
       "status": "CLOSED",
-      "sessions_held": 265
+      "sessions_held": 264
     },
     {
       "symbol": "COCHINSHIP",
@@ -154,16 +154,16 @@
       "weighted_entry": 1857.28,
       "risk_per_share": 76.72,
       "target_2r": 2010.71,
-      "latest_close": 1090.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -41.31,
+      "latest_close": 1125.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -39.43,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-29",
       "exit_date": "2025-09-30",
       "exit_price": 1765.65,
       "status": "CLOSED",
-      "sessions_held": 293
+      "sessions_held": 292
     },
     {
       "symbol": "COCHINSHIP",
@@ -181,16 +181,16 @@
       "weighted_entry": 1441.78,
       "risk_per_share": 74.72,
       "target_2r": 1591.22,
-      "latest_close": 1090.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -24.4,
+      "latest_close": 1125.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -21.97,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-28",
       "exit_date": "2025-04-01",
       "exit_price": 1394.04,
       "status": "CLOSED",
-      "sessions_held": 414
+      "sessions_held": 413
     },
     {
       "symbol": "COCHINSHIP",
@@ -208,16 +208,16 @@
       "weighted_entry": 1471.67,
       "risk_per_share": 84.94,
       "target_2r": 1641.54,
-      "latest_close": 1090.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -25.93,
+      "latest_close": 1125.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -23.56,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-06",
       "exit_date": "2025-01-07",
       "exit_price": 1485.58,
       "status": "CLOSED",
-      "sessions_held": 467
+      "sessions_held": 466
     },
     {
       "symbol": "COCHINSHIP",
@@ -235,16 +235,16 @@
       "weighted_entry": 1479.06,
       "risk_per_share": 78.71,
       "target_2r": 1636.48,
-      "latest_close": 1090.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -26.3,
+      "latest_close": 1125.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -23.94,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-13",
       "exit_date": "2024-12-16",
       "exit_price": 1605.1,
       "status": "CLOSED",
-      "sessions_held": 490
+      "sessions_held": 489
     },
     {
       "symbol": "COCHINSHIP",
@@ -262,16 +262,16 @@
       "weighted_entry": 1282.65,
       "risk_per_share": 62.77,
       "target_2r": 1408.18,
-      "latest_close": 1090.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -15.02,
+      "latest_close": 1125.0,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": -12.29,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-27",
       "exit_date": "2024-03-28",
       "exit_price": 868.84,
       "status": "CLOSED",
-      "sessions_held": 661
+      "sessions_held": 660
     }
   ]
 }

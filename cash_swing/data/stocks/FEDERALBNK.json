@@ -1,7 +1,7 @@
 {
   "symbol": "FEDERALBNK",
   "company": "Federal Bank Ltd.",
-  "market_date": "2026-11-23",
+  "market_date": "2026-11-20",
   "setups": [
     {
       "symbol": "FEDERALBNK",
@@ -19,16 +19,16 @@
       "weighted_entry": 342.63,
       "risk_per_share": 10.42,
       "target_2r": 363.46,
-      "latest_close": 359.8,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 5.01,
+      "latest_close": 373.5,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 9.01,
       "target_2r_touched": false,
       "hard_stop_date": "2026-10-19",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-10-19",
       "exit_price": 324.58,
       "status": "CLOSED",
-      "sessions_held": 24
+      "sessions_held": 23
     },
     {
       "symbol": "FEDERALBNK",
@@ -46,16 +46,16 @@
       "weighted_entry": 329.08,
       "risk_per_share": 8.54,
       "target_2r": 346.16,
-      "latest_close": 359.8,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 9.34,
+      "latest_close": 373.5,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 13.5,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-08",
       "exit_date": "2026-07-09",
       "exit_price": 325.44,
       "status": "CLOSED",
-      "sessions_held": 123
+      "sessions_held": 122
     },
     {
       "symbol": "FEDERALBNK",
@@ -73,16 +73,16 @@
       "weighted_entry": 283.56,
       "risk_per_share": 12.37,
       "target_2r": 308.3,
-      "latest_close": 359.8,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 26.89,
+      "latest_close": 373.5,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 31.72,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-28",
       "exit_date": "2026-04-29",
       "exit_price": 294.99,
       "status": "CLOSED",
-      "sessions_held": 154
+      "sessions_held": 153
     },
     {
       "symbol": "FEDERALBNK",
@@ -100,16 +100,16 @@
       "weighted_entry": 282.03,
       "risk_per_share": 9.33,
       "target_2r": 300.68,
-      "latest_close": 359.8,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 27.57,
+      "latest_close": 373.5,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 32.43,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-10",
       "exit_date": "2026-02-11",
       "exit_price": 280.94,
       "status": "CLOSED",
-      "sessions_held": 207
+      "sessions_held": 206
     },
     {
       "symbol": "FEDERALBNK",
@@ -127,16 +127,16 @@
       "weighted_entry": 209.78,
       "risk_per_share": 4.28,
       "target_2r": 218.34,
-      "latest_close": 359.8,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 71.51,
+      "latest_close": 373.5,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 78.04,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-13",
       "exit_date": "2025-11-14",
       "exit_price": 234.6,
       "status": "CLOSED",
-      "sessions_held": 277
+      "sessions_held": 276
     },
     {
       "symbol": "FEDERALBNK",
@@ -154,16 +154,16 @@
       "weighted_entry": 208.84,
       "risk_per_share": 3.68,
       "target_2r": 216.2,
-      "latest_close": 359.8,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 72.28,
+      "latest_close": 373.5,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 78.84,
       "target_2r_touched": false,
       "hard_stop_date": "2025-09-22",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-09-22",
       "exit_price": 195.64,
       "status": "CLOSED",
-      "sessions_held": 291
+      "sessions_held": 290
     },
     {
       "symbol": "FEDERALBNK",
@@ -181,16 +181,16 @@
       "weighted_entry": 208.24,
       "risk_per_share": 7.52,
       "target_2r": 223.27,
-      "latest_close": 359.8,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 72.79,
+      "latest_close": 373.5,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 79.36,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-11",
       "exit_date": "2025-06-12",
       "exit_price": 206.64,
       "status": "CLOSED",
-      "sessions_held": 379
+      "sessions_held": 378
     },
     {
       "symbol": "FEDERALBNK",
@@ -208,16 +208,16 @@
       "weighted_entry": 187.77,
       "risk_per_share": 4.93,
       "target_2r": 197.64,
-      "latest_close": 359.8,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 91.61,
+      "latest_close": 373.5,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 98.91,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-07",
       "exit_date": "2025-04-08",
       "exit_price": 192.12,
       "status": "CLOSED",
-      "sessions_held": 413
+      "sessions_held": 412
     },
     {
       "symbol": "FEDERALBNK",
@@ -235,16 +235,16 @@
       "weighted_entry": 190.73,
       "risk_per_share": 7.6,
       "target_2r": 205.93,
-      "latest_close": 359.8,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 88.64,
+      "latest_close": 373.5,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 95.82,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-13",
       "exit_date": "2024-11-14",
       "exit_price": 197.33,
       "status": "CLOSED",
-      "sessions_held": 511
+      "sessions_held": 510
     },
     {
       "symbol": "FEDERALBNK",
@@ -262,16 +262,16 @@
       "weighted_entry": 190.45,
       "risk_per_share": 7.18,
       "target_2r": 204.81,
-      "latest_close": 359.8,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 88.92,
+      "latest_close": 373.5,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 96.12,
       "target_2r_touched": false,
       "hard_stop_date": "2024-10-18",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-10-18",
       "exit_price": 188.96,
       "status": "CLOSED",
-      "sessions_held": 522
+      "sessions_held": 521
     },
     {
       "symbol": "FEDERALBNK",
@@ -289,16 +289,16 @@
       "weighted_entry": 189.45,
       "risk_per_share": 4.91,
       "target_2r": 199.28,
-      "latest_close": 359.8,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 89.91,
+      "latest_close": 373.5,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 97.14,
       "target_2r_touched": false,
       "hard_stop_date": "2024-10-07",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-10-07",
       "exit_price": 187.07,
       "status": "CLOSED",
-      "sessions_held": 532
+      "sessions_held": 531
     },
     {
       "symbol": "FEDERALBNK",
@@ -316,16 +316,16 @@
       "weighted_entry": 182.16,
       "risk_per_share": 5.98,
       "target_2r": 194.12,
-      "latest_close": 359.8,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 97.51,
+      "latest_close": 373.5,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 105.04,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-07-02",
       "exit_date": "2024-07-03",
       "exit_price": 175.29,
       "status": "CLOSED",
-      "sessions_held": 611
+      "sessions_held": 610
     },
     {
       "symbol": "FEDERALBNK",
@@ -343,16 +343,16 @@
       "weighted_entry": 177.81,
       "risk_per_share": 4.84,
       "target_2r": 187.48,
-      "latest_close": 359.8,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 102.36,
+      "latest_close": 373.5,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 110.06,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-16",
       "exit_date": "2024-04-18",
       "exit_price": 150.08,
       "status": "CLOSED",
-      "sessions_held": 653
+      "sessions_held": 652
     },
     {
       "symbol": "FEDERALBNK",
@@ -370,16 +370,16 @@
       "weighted_entry": 161.19,
       "risk_per_share": 4.81,
       "target_2r": 170.8,
-      "latest_close": 359.8,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 123.21,
+      "latest_close": 373.5,
+      "latest_date": "2026-11-20",
+      "unrealised_return_pct": 131.71,
       "target_2r_touched": false,
       "hard_stop_date": "2024-02-20",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-02-20",
       "exit_price": 150.05,
       "status": "CLOSED",
-      "sessions_held": 683
+      "sessions_held": 682
     }
   ]
 }
