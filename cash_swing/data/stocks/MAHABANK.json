@@ -353,6 +353,33 @@
       "exit_price": 56.53,
       "status": "CLOSED",
       "sessions_held": 655
+    },
+    {
+      "symbol": "MAHABANK",
+      "company": "Bank of Maharashtra",
+      "signal_date": "2024-01-03",
+      "entry_date": "2024-01-04",
+      "entry_price": 43.78,
+      "atr14": 1.47,
+      "initial_stop": 41.94,
+      "stage2_signal_date": "2025-04-29",
+      "stage2_entry_date": "2025-04-30",
+      "stage2_entry_price": 48.48,
+      "quantity_stage1": 1142,
+      "quantity_stage2": 3094,
+      "weighted_entry": 47.21,
+      "risk_per_share": 1.84,
+      "target_2r": 50.89,
+      "latest_close": 97.56,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 106.65,
+      "target_2r_touched": false,
+      "hard_stop_date": null,
+      "ema9_exit_signal_date": "2024-01-08",
+      "exit_date": "2024-01-09",
+      "exit_price": 42.53,
+      "status": "CLOSED",
+      "sessions_held": 712
     }
   ]
 }

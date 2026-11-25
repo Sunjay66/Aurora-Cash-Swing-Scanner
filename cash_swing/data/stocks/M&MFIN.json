@@ -569,33 +569,6 @@
       "exit_price": 259.41,
       "status": "CLOSED",
       "sessions_held": 715
-    },
-    {
-      "symbol": "M&MFIN",
-      "company": "Mahindra & Mahindra Financial Services Ltd.",
-      "signal_date": "2023-12-14",
-      "entry_date": "2023-12-15",
-      "entry_price": 275.35,
-      "atr14": 7.03,
-      "initial_stop": 266.57,
-      "stage2_signal_date": "2024-04-04",
-      "stage2_entry_date": "2024-04-05",
-      "stage2_entry_price": 273.06,
-      "quantity_stage1": 181,
-      "quantity_stage2": 549,
-      "weighted_entry": 273.63,
-      "risk_per_share": 8.79,
-      "target_2r": 291.2,
-      "latest_close": 286.85,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 4.83,
-      "target_2r_touched": false,
-      "hard_stop_date": "2023-12-18",
-      "ema9_exit_signal_date": null,
-      "exit_date": "2023-12-18",
-      "exit_price": 266.57,
-      "status": "CLOSED",
-      "sessions_held": 725
     }
   ]
 }

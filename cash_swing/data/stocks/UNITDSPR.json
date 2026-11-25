@@ -407,33 +407,6 @@
       "exit_price": 1108.1,
       "status": "CLOSED",
       "sessions_held": 685
-    },
-    {
-      "symbol": "UNITDSPR",
-      "company": "United Spirits Ltd.",
-      "signal_date": "2023-12-13",
-      "entry_date": "2023-12-14",
-      "entry_price": 1057.23,
-      "atr14": 18.54,
-      "initial_stop": 1034.06,
-      "stage2_signal_date": "2023-12-14",
-      "stage2_entry_date": "2023-12-15",
-      "stage2_entry_price": 1065.18,
-      "quantity_stage1": 47,
-      "quantity_stage2": 140,
-      "weighted_entry": 1063.19,
-      "risk_per_share": 23.18,
-      "target_2r": 1109.54,
-      "latest_close": 1478.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 39.02,
-      "target_2r_touched": false,
-      "hard_stop_date": "2023-12-20",
-      "ema9_exit_signal_date": null,
-      "exit_date": "2023-12-20",
-      "exit_price": 1034.06,
-      "status": "CLOSED",
-      "sessions_held": 726
     }
   ]
 }

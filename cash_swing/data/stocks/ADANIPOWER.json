@@ -380,6 +380,33 @@
       "exit_price": 117.8,
       "status": "CLOSED",
       "sessions_held": 653
+    },
+    {
+      "symbol": "ADANIPOWER",
+      "company": "Adani Power Ltd.",
+      "signal_date": "2024-01-25",
+      "entry_date": "2024-01-29",
+      "entry_price": 114.0,
+      "atr14": 3.74,
+      "initial_stop": 109.33,
+      "stage2_signal_date": "2025-04-04",
+      "stage2_entry_date": "2025-04-07",
+      "stage2_entry_price": 92.4,
+      "quantity_stage1": 438,
+      "quantity_stage2": 1605,
+      "weighted_entry": 97.03,
+      "risk_per_share": 4.67,
+      "target_2r": 106.38,
+      "latest_close": 207.9,
+      "latest_date": "2026-11-23",
+      "unrealised_return_pct": 114.26,
+      "target_2r_touched": true,
+      "hard_stop_date": "2024-02-05",
+      "ema9_exit_signal_date": null,
+      "exit_date": "2024-02-05",
+      "exit_price": 109.33,
+      "status": "CLOSED",
+      "sessions_held": 697
     }
   ]
 }
