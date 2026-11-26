@@ -1,7 +1,7 @@
 {
   "symbol": "DIXON",
   "company": "Dixon Technologies (India) Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-25",
   "setups": [
     {
       "symbol": "DIXON",
@@ -19,16 +19,16 @@
       "weighted_entry": 12650.0,
       "risk_per_share": 566.79,
       "target_2r": 13783.57,
-      "latest_close": 12718.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 0.54,
+      "latest_close": 12978.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 2.59,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-18",
       "exit_date": "2026-11-19",
       "exit_price": 12665.0,
       "status": "CLOSED",
-      "sessions_held": 11
+      "sessions_held": 10
     },
     {
       "symbol": "DIXON",
@@ -46,16 +46,16 @@
       "weighted_entry": 11596.08,
       "risk_per_share": 580.58,
       "target_2r": 12757.24,
-      "latest_close": 12718.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 9.68,
+      "latest_close": 12978.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 11.92,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-03",
       "exit_date": "2026-06-04",
       "exit_price": 11193.39,
       "status": "CLOSED",
-      "sessions_held": 130
+      "sessions_held": 129
     },
     {
       "symbol": "DIXON",
@@ -73,16 +73,16 @@
       "weighted_entry": 11654.28,
       "risk_per_share": 580.67,
       "target_2r": 12815.62,
-      "latest_close": 12718.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 9.13,
+      "latest_close": 12978.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 11.36,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-18",
       "exit_date": "2026-05-19",
       "exit_price": 10811.68,
       "status": "CLOSED",
-      "sessions_held": 133
+      "sessions_held": 132
     },
     {
       "symbol": "DIXON",
@@ -100,16 +100,16 @@
       "weighted_entry": 11156.12,
       "risk_per_share": 546.5,
       "target_2r": 12249.12,
-      "latest_close": 12718.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 14.0,
+      "latest_close": 12978.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 16.33,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-23",
       "exit_date": "2026-04-24",
       "exit_price": 10848.65,
       "status": "CLOSED",
-      "sessions_held": 155
+      "sessions_held": 154
     },
     {
       "symbol": "DIXON",
@@ -127,16 +127,16 @@
       "weighted_entry": 11451.19,
       "risk_per_share": 615.24,
       "target_2r": 12681.67,
-      "latest_close": 12718.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 11.06,
+      "latest_close": 12978.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 13.33,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-13",
       "exit_date": "2026-02-16",
       "exit_price": 11531.13,
       "status": "CLOSED",
-      "sessions_held": 194
+      "sessions_held": 193
     },
     {
       "symbol": "DIXON",
@@ -154,16 +154,16 @@
       "weighted_entry": 12113.15,
       "risk_per_share": 554.95,
       "target_2r": 13223.05,
-      "latest_close": 12718.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 4.99,
+      "latest_close": 12978.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 7.14,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-26",
       "exit_date": "2025-08-28",
       "exit_price": 16669.75,
       "status": "CLOSED",
-      "sessions_held": 314
+      "sessions_held": 313
     },
     {
       "symbol": "DIXON",
@@ -181,16 +181,16 @@
       "weighted_entry": 15563.59,
       "risk_per_share": 660.98,
       "target_2r": 16885.56,
-      "latest_close": 12718.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -18.28,
+      "latest_close": 12978.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -16.61,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-06",
       "exit_date": "2025-08-07",
       "exit_price": 16230.28,
       "status": "CLOSED",
-      "sessions_held": 346
+      "sessions_held": 345
     },
     {
       "symbol": "DIXON",
@@ -208,16 +208,16 @@
       "weighted_entry": 16261.84,
       "risk_per_share": 858.43,
       "target_2r": 17978.69,
-      "latest_close": 12718.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -21.79,
+      "latest_close": 12978.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -20.19,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-06",
       "exit_date": "2025-05-07",
       "exit_price": 15910.67,
       "status": "CLOSED",
-      "sessions_held": 400
+      "sessions_held": 399
     },
     {
       "symbol": "DIXON",
@@ -235,16 +235,16 @@
       "weighted_entry": 16396.1,
       "risk_per_share": 1013.14,
       "target_2r": 18422.38,
-      "latest_close": 12718.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -22.43,
+      "latest_close": 12978.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -20.85,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-12",
       "exit_date": "2024-11-13",
       "exit_price": 14971.81,
       "status": "CLOSED",
-      "sessions_held": 507
+      "sessions_held": 506
     },
     {
       "symbol": "DIXON",
@@ -262,16 +262,16 @@
       "weighted_entry": 15194.24,
       "risk_per_share": 585.04,
       "target_2r": 16364.31,
-      "latest_close": 12718.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -16.3,
+      "latest_close": 12978.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -14.59,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-02",
       "exit_date": "2024-09-03",
       "exit_price": 12630.13,
       "status": "CLOSED",
-      "sessions_held": 566
+      "sessions_held": 565
     },
     {
       "symbol": "DIXON",
@@ -289,16 +289,16 @@
       "weighted_entry": 12101.68,
       "risk_per_share": 259.61,
       "target_2r": 12620.89,
-      "latest_close": 12718.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 5.09,
+      "latest_close": 12978.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 7.24,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-28",
       "exit_date": "2024-02-29",
       "exit_price": 6539.71,
       "status": "CLOSED",
-      "sessions_held": 691
+      "sessions_held": 690
     }
   ]
 }

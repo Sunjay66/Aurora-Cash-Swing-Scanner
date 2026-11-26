@@ -1,7 +1,7 @@
 {
   "symbol": "BSE",
   "company": "BSE Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-25",
   "setups": [
     {
       "symbol": "BSE",
@@ -19,16 +19,16 @@
       "weighted_entry": 3568.96,
       "risk_per_share": 140.26,
       "target_2r": 3849.48,
-      "latest_close": 3990.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 11.81,
+      "latest_close": 3775.2,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 5.78,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-10-21",
       "exit_date": "2026-10-22",
       "exit_price": 3247.0,
       "status": "CLOSED",
-      "sessions_held": 31
+      "sessions_held": 30
     },
     {
       "symbol": "BSE",
@@ -46,16 +46,16 @@
       "weighted_entry": 3781.61,
       "risk_per_share": 199.39,
       "target_2r": 4180.38,
-      "latest_close": 3990.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 5.52,
+      "latest_close": 3775.2,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -0.17,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-17",
       "exit_date": "2026-06-18",
       "exit_price": 3989.49,
       "status": "CLOSED",
-      "sessions_held": 113
+      "sessions_held": 112
     },
     {
       "symbol": "BSE",
@@ -73,16 +73,16 @@
       "weighted_entry": 3420.6,
       "risk_per_share": 142.2,
       "target_2r": 3705.0,
-      "latest_close": 3990.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 16.66,
+      "latest_close": 3775.2,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 10.37,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-29",
       "exit_date": "2026-06-01",
       "exit_price": 4169.02,
       "status": "CLOSED",
-      "sessions_held": 160
+      "sessions_held": 159
     },
     {
       "symbol": "BSE",
@@ -100,16 +100,16 @@
       "weighted_entry": 3420.78,
       "risk_per_share": 115.46,
       "target_2r": 3651.71,
-      "latest_close": 3990.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 16.65,
+      "latest_close": 3775.2,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 10.36,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-20",
       "exit_date": "2026-03-23",
       "exit_price": 2762.72,
       "status": "CLOSED",
-      "sessions_held": 173
+      "sessions_held": 172
     },
     {
       "symbol": "BSE",
@@ -127,16 +127,16 @@
       "weighted_entry": 3385.12,
       "risk_per_share": 107.16,
       "target_2r": 3599.44,
-      "latest_close": 3990.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 17.88,
+      "latest_close": 3775.2,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 11.52,
       "target_2r_touched": false,
       "hard_stop_date": "2026-02-02",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-02-02",
       "exit_price": 2558.56,
       "status": "CLOSED",
-      "sessions_held": 204
+      "sessions_held": 203
     },
     {
       "symbol": "BSE",
@@ -154,16 +154,16 @@
       "weighted_entry": 3411.26,
       "risk_per_share": 92.28,
       "target_2r": 3595.83,
-      "latest_close": 3990.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 16.98,
+      "latest_close": 3775.2,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 10.67,
       "target_2r_touched": false,
       "hard_stop_date": "2026-01-19",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-19",
       "exit_price": 2720.31,
       "status": "CLOSED",
-      "sessions_held": 214
+      "sessions_held": 213
     },
     {
       "symbol": "BSE",
@@ -181,16 +181,16 @@
       "weighted_entry": 2453.13,
       "risk_per_share": 86.61,
       "target_2r": 2626.35,
-      "latest_close": 3990.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 62.67,
+      "latest_close": 3775.2,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 53.89,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-28",
       "exit_date": "2025-10-29",
       "exit_price": 2418.53,
       "status": "CLOSED",
-      "sessions_held": 278
+      "sessions_held": 277
     },
     {
       "symbol": "BSE",
@@ -208,16 +208,16 @@
       "weighted_entry": 1801.42,
       "risk_per_share": 117.0,
       "target_2r": 2035.42,
-      "latest_close": 3990.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 121.51,
+      "latest_close": 3775.2,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 109.57,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-07",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-07",
       "exit_price": 1657.08,
       "status": "CLOSED",
-      "sessions_held": 409
+      "sessions_held": 408
     },
     {
       "symbol": "BSE",
@@ -235,16 +235,16 @@
       "weighted_entry": 1833.81,
       "risk_per_share": 121.96,
       "target_2r": 2077.73,
-      "latest_close": 3990.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 117.6,
+      "latest_close": 3775.2,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 105.87,
       "target_2r_touched": false,
       "hard_stop_date": "2025-02-25",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-02-25",
       "exit_price": 1846.6,
       "status": "CLOSED",
-      "sessions_held": 433
+      "sessions_held": 432
     },
     {
       "symbol": "BSE",
@@ -262,16 +262,16 @@
       "weighted_entry": 1827.18,
       "risk_per_share": 101.58,
       "target_2r": 2030.34,
-      "latest_close": 3990.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 118.39,
+      "latest_close": 3775.2,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 106.61,
       "target_2r_touched": false,
       "hard_stop_date": "2025-02-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-02-06",
       "exit_price": 1839.83,
       "status": "CLOSED",
-      "sessions_held": 444
+      "sessions_held": 443
     },
     {
       "symbol": "BSE",
@@ -289,16 +289,16 @@
       "weighted_entry": 1824.55,
       "risk_per_share": 97.25,
       "target_2r": 2019.06,
-      "latest_close": 3990.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 118.71,
+      "latest_close": 3775.2,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 106.91,
       "target_2r_touched": true,
       "hard_stop_date": "2025-01-27",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-01-27",
       "exit_price": 1834.88,
       "status": "CLOSED",
-      "sessions_held": 460
+      "sessions_held": 459
     },
     {
       "symbol": "BSE",
@@ -316,16 +316,16 @@
       "weighted_entry": 884.52,
       "risk_per_share": 58.64,
       "target_2r": 1001.8,
-      "latest_close": 3990.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 351.14,
+      "latest_close": 3775.2,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 326.81,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-03",
       "exit_date": "2024-09-04",
       "exit_price": 896.47,
       "status": "CLOSED",
-      "sessions_held": 569
+      "sessions_held": 568
     },
     {
       "symbol": "BSE",
@@ -343,16 +343,16 @@
       "weighted_entry": 883.26,
       "risk_per_share": 43.02,
       "target_2r": 969.3,
-      "latest_close": 3990.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 351.78,
+      "latest_close": 3775.2,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 327.42,
       "target_2r_touched": false,
       "hard_stop_date": "2024-08-05",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-08-05",
       "exit_price": 809.97,
       "status": "CLOSED",
-      "sessions_held": 575
+      "sessions_held": 574
     },
     {
       "symbol": "BSE",
@@ -370,16 +370,16 @@
       "weighted_entry": 895.51,
       "risk_per_share": 43.34,
       "target_2r": 982.19,
-      "latest_close": 3990.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 345.6,
+      "latest_close": 3775.2,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 321.57,
       "target_2r_touched": false,
       "hard_stop_date": "2024-06-20",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-06-20",
       "exit_price": 871.36,
       "status": "CLOSED",
-      "sessions_held": 606
+      "sessions_held": 605
     },
     {
       "symbol": "BSE",
@@ -397,16 +397,16 @@
       "weighted_entry": 877.23,
       "risk_per_share": 50.01,
       "target_2r": 977.25,
-      "latest_close": 3990.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 354.89,
+      "latest_close": 3775.2,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 330.35,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-19",
       "exit_date": "2024-04-22",
       "exit_price": 921.61,
       "status": "CLOSED",
-      "sessions_held": 658
+      "sessions_held": 657
     },
     {
       "symbol": "BSE",
@@ -424,16 +424,16 @@
       "weighted_entry": 863.77,
       "risk_per_share": 36.21,
       "target_2r": 936.19,
-      "latest_close": 3990.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 361.97,
+      "latest_close": 3775.2,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 337.06,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-04",
       "exit_date": "2024-03-05",
       "exit_price": 766.08,
       "status": "CLOSED",
-      "sessions_held": 674
+      "sessions_held": 673
     },
     {
       "symbol": "BSE",
@@ -451,16 +451,16 @@
       "weighted_entry": 822.33,
       "risk_per_share": 38.99,
       "target_2r": 900.31,
-      "latest_close": 3990.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 385.26,
+      "latest_close": 3775.2,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 359.09,
       "target_2r_touched": false,
       "hard_stop_date": "2024-02-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-02-06",
       "exit_price": 788.3,
       "status": "CLOSED",
-      "sessions_held": 695
+      "sessions_held": 694
     }
   ]
 }

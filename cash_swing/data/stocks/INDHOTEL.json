@@ -1,7 +1,7 @@
 {
   "symbol": "INDHOTEL",
   "company": "Indian Hotels Co. Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-25",
   "setups": [
     {
       "symbol": "INDHOTEL",
@@ -19,16 +19,16 @@
       "weighted_entry": 746.5,
       "risk_per_share": 21.43,
       "target_2r": 789.37,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 18.78,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 21.08,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-18",
       "exit_date": "2026-11-19",
       "exit_price": 875.05,
       "status": "CLOSED",
-      "sessions_held": 27
+      "sessions_held": 26
     },
     {
       "symbol": "INDHOTEL",
@@ -46,16 +46,16 @@
       "weighted_entry": 736.65,
       "risk_per_share": 20.67,
       "target_2r": 777.98,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 20.37,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 22.7,
       "target_2r_touched": false,
       "hard_stop_date": "2026-10-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-10-08",
       "exit_price": 715.98,
       "status": "CLOSED",
-      "sessions_held": 34
+      "sessions_held": 33
     },
     {
       "symbol": "INDHOTEL",
@@ -73,16 +73,16 @@
       "weighted_entry": 749.4,
       "risk_per_share": 20.57,
       "target_2r": 790.54,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 18.32,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 20.61,
       "target_2r_touched": false,
       "hard_stop_date": "2026-09-24",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-09-24",
       "exit_price": 728.83,
       "status": "CLOSED",
-      "sessions_held": 44
+      "sessions_held": 43
     },
     {
       "symbol": "INDHOTEL",
@@ -100,16 +100,16 @@
       "weighted_entry": 662.62,
       "risk_per_share": 30.08,
       "target_2r": 722.79,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 33.82,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 36.41,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-23",
       "exit_date": "2026-04-24",
       "exit_price": 634.03,
       "status": "CLOSED",
-      "sessions_held": 154
+      "sessions_held": 153
     },
     {
       "symbol": "INDHOTEL",
@@ -127,16 +127,16 @@
       "weighted_entry": 678.21,
       "risk_per_share": 22.49,
       "target_2r": 723.19,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 30.74,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 33.27,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-16",
       "exit_date": "2026-02-17",
       "exit_price": 687.94,
       "status": "CLOSED",
-      "sessions_held": 194
+      "sessions_held": 193
     },
     {
       "symbol": "INDHOTEL",
@@ -154,16 +154,16 @@
       "weighted_entry": 743.61,
       "risk_per_share": 18.05,
       "target_2r": 779.71,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 19.24,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 21.55,
       "target_2r_touched": false,
       "hard_stop_date": "2025-12-30",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-12-30",
       "exit_price": 722.35,
       "status": "CLOSED",
-      "sessions_held": 228
+      "sessions_held": 227
     },
     {
       "symbol": "INDHOTEL",
@@ -181,16 +181,16 @@
       "weighted_entry": 741.41,
       "risk_per_share": 17.76,
       "target_2r": 776.93,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 19.6,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 21.91,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-16",
       "exit_date": "2025-12-17",
       "exit_price": 718.35,
       "status": "CLOSED",
-      "sessions_held": 234
+      "sessions_held": 233
     },
     {
       "symbol": "INDHOTEL",
@@ -208,16 +208,16 @@
       "weighted_entry": 742.17,
       "risk_per_share": 17.05,
       "target_2r": 776.26,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 19.47,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 21.79,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-03",
       "exit_date": "2025-12-04",
       "exit_price": 730.75,
       "status": "CLOSED",
-      "sessions_held": 245
+      "sessions_held": 244
     },
     {
       "symbol": "INDHOTEL",
@@ -235,16 +235,16 @@
       "weighted_entry": 744.37,
       "risk_per_share": 13.67,
       "target_2r": 771.71,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 19.12,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 21.42,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-31",
       "exit_date": "2025-11-03",
       "exit_price": 738.51,
       "status": "CLOSED",
-      "sessions_held": 265
+      "sessions_held": 264
     },
     {
       "symbol": "INDHOTEL",
@@ -262,16 +262,16 @@
       "weighted_entry": 795.84,
       "risk_per_share": 17.18,
       "target_2r": 830.19,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 11.42,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 13.57,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-26",
       "exit_date": "2025-08-28",
       "exit_price": 777.74,
       "status": "CLOSED",
-      "sessions_held": 316
+      "sessions_held": 315
     },
     {
       "symbol": "INDHOTEL",
@@ -289,16 +289,16 @@
       "weighted_entry": 798.0,
       "risk_per_share": 16.86,
       "target_2r": 831.72,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 11.12,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 13.26,
       "target_2r_touched": false,
       "hard_stop_date": "2025-07-22",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-22",
       "exit_price": 756.69,
       "status": "CLOSED",
-      "sessions_held": 333
+      "sessions_held": 332
     },
     {
       "symbol": "INDHOTEL",
@@ -316,16 +316,16 @@
       "weighted_entry": 797.42,
       "risk_per_share": 22.46,
       "target_2r": 842.34,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 11.2,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 13.35,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-27",
       "exit_date": "2025-06-30",
       "exit_price": 765.49,
       "status": "CLOSED",
-      "sessions_held": 350
+      "sessions_held": 349
     },
     {
       "symbol": "INDHOTEL",
@@ -343,16 +343,16 @@
       "weighted_entry": 798.94,
       "risk_per_share": 18.82,
       "target_2r": 836.58,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 10.98,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 13.13,
       "target_2r_touched": false,
       "hard_stop_date": "2025-06-11",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-06-11",
       "exit_price": 758.42,
       "status": "CLOSED",
-      "sessions_held": 363
+      "sessions_held": 362
     },
     {
       "symbol": "INDHOTEL",
@@ -370,16 +370,16 @@
       "weighted_entry": 827.61,
       "risk_per_share": 24.05,
       "target_2r": 875.7,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 7.14,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 9.21,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-27",
       "exit_date": "2025-03-28",
       "exit_price": 787.72,
       "status": "CLOSED",
-      "sessions_held": 417
+      "sessions_held": 416
     },
     {
       "symbol": "INDHOTEL",
@@ -397,16 +397,16 @@
       "weighted_entry": 835.09,
       "risk_per_share": 38.26,
       "target_2r": 911.61,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 6.18,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 8.23,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-06",
       "exit_date": "2025-02-07",
       "exit_price": 789.06,
       "status": "CLOSED",
-      "sessions_held": 444
+      "sessions_held": 443
     },
     {
       "symbol": "INDHOTEL",
@@ -424,16 +424,16 @@
       "weighted_entry": 812.92,
       "risk_per_share": 29.72,
       "target_2r": 872.36,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 9.08,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 11.19,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-20",
       "exit_date": "2024-12-23",
       "exit_price": 850.7,
       "status": "CLOSED",
-      "sessions_held": 505
+      "sessions_held": 504
     },
     {
       "symbol": "INDHOTEL",
@@ -451,16 +451,16 @@
       "weighted_entry": 800.5,
       "risk_per_share": 25.69,
       "target_2r": 851.89,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 10.77,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 12.91,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-17",
       "exit_date": "2024-10-18",
       "exit_price": 680.76,
       "status": "CLOSED",
-      "sessions_held": 527
+      "sessions_held": 526
     },
     {
       "symbol": "INDHOTEL",
@@ -478,16 +478,16 @@
       "weighted_entry": 782.47,
       "risk_per_share": 21.98,
       "target_2r": 826.42,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 13.32,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 15.51,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-18",
       "exit_date": "2024-09-19",
       "exit_price": 680.96,
       "status": "CLOSED",
-      "sessions_held": 560
+      "sessions_held": 559
     },
     {
       "symbol": "INDHOTEL",
@@ -505,16 +505,16 @@
       "weighted_entry": 776.35,
       "risk_per_share": 22.54,
       "target_2r": 821.42,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 14.21,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 16.42,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-02",
       "exit_date": "2024-08-05",
       "exit_price": 606.71,
       "status": "CLOSED",
-      "sessions_held": 580
+      "sessions_held": 579
     },
     {
       "symbol": "INDHOTEL",
@@ -532,16 +532,16 @@
       "weighted_entry": 760.37,
       "risk_per_share": 26.4,
       "target_2r": 813.18,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 16.61,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 18.87,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-27",
       "exit_date": "2024-06-28",
       "exit_price": 624.87,
       "status": "CLOSED",
-      "sessions_held": 611
+      "sessions_held": 610
     },
     {
       "symbol": "INDHOTEL",
@@ -559,16 +559,16 @@
       "weighted_entry": 747.87,
       "risk_per_share": 22.11,
       "target_2r": 792.09,
-      "latest_close": 886.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 18.56,
+      "latest_close": 903.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 20.86,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-22",
       "exit_date": "2024-03-26",
       "exit_price": 543.38,
       "status": "CLOSED",
-      "sessions_held": 661
+      "sessions_held": 660
     }
   ]
 }

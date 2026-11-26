@@ -1,7 +1,7 @@
 {
   "symbol": "HDFCLIFE",
   "company": "HDFC Life Insurance Company Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-25",
   "setups": [
     {
       "symbol": "HDFCLIFE",
@@ -19,16 +19,16 @@
       "weighted_entry": 592.66,
       "risk_per_share": 17.52,
       "target_2r": 627.7,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 0.29,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 1.46,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-18",
       "exit_date": "2026-11-19",
       "exit_price": 575.5,
       "status": "CLOSED",
-      "sessions_held": 12
+      "sessions_held": 11
     },
     {
       "symbol": "HDFCLIFE",
@@ -46,16 +46,16 @@
       "weighted_entry": 587.73,
       "risk_per_share": 19.72,
       "target_2r": 627.18,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 1.13,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 2.31,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-10-14",
       "exit_date": "2026-10-15",
       "exit_price": 544.05,
       "status": "CLOSED",
-      "sessions_held": 32
+      "sessions_held": 31
     },
     {
       "symbol": "HDFCLIFE",
@@ -73,16 +73,16 @@
       "weighted_entry": 591.09,
       "risk_per_share": 19.25,
       "target_2r": 629.58,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 0.56,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 1.73,
       "target_2r_touched": false,
       "hard_stop_date": "2026-09-24",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-09-24",
       "exit_price": 531.0,
       "status": "CLOSED",
-      "sessions_held": 44
+      "sessions_held": 43
     },
     {
       "symbol": "HDFCLIFE",
@@ -100,16 +100,16 @@
       "weighted_entry": 588.41,
       "risk_per_share": 11.24,
       "target_2r": 610.89,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 1.02,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 2.19,
       "target_2r_touched": false,
       "hard_stop_date": "2026-08-31",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-08-31",
       "exit_price": 539.56,
       "status": "CLOSED",
-      "sessions_held": 60
+      "sessions_held": 59
     },
     {
       "symbol": "HDFCLIFE",
@@ -127,16 +127,16 @@
       "weighted_entry": 600.52,
       "risk_per_share": 15.86,
       "target_2r": 632.24,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -1.02,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 0.13,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-25",
       "exit_date": "2026-06-29",
       "exit_price": 584.45,
       "status": "CLOSED",
-      "sessions_held": 106
+      "sessions_held": 105
     },
     {
       "symbol": "HDFCLIFE",
@@ -154,16 +154,16 @@
       "weighted_entry": 605.63,
       "risk_per_share": 18.11,
       "target_2r": 641.85,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -1.85,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -0.72,
       "target_2r_touched": false,
       "hard_stop_date": "2026-05-12",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-05-12",
       "exit_price": 598.69,
       "status": "CLOSED",
-      "sessions_held": 137
+      "sessions_held": 136
     },
     {
       "symbol": "HDFCLIFE",
@@ -181,16 +181,16 @@
       "weighted_entry": 630.72,
       "risk_per_share": 16.97,
       "target_2r": 664.66,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -5.76,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -4.67,
       "target_2r_touched": true,
       "hard_stop_date": "2026-02-27",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-02-27",
       "exit_price": 720.5,
       "status": "CLOSED",
-      "sessions_held": 185
+      "sessions_held": 184
     },
     {
       "symbol": "HDFCLIFE",
@@ -208,16 +208,16 @@
       "weighted_entry": 636.4,
       "risk_per_share": 15.0,
       "target_2r": 666.39,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -6.6,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -5.52,
       "target_2r_touched": false,
       "hard_stop_date": "2026-01-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-08",
       "exit_price": 755.26,
       "status": "CLOSED",
-      "sessions_held": 217
+      "sessions_held": 216
     },
     {
       "symbol": "HDFCLIFE",
@@ -235,16 +235,16 @@
       "weighted_entry": 763.42,
       "risk_per_share": 18.18,
       "target_2r": 799.78,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -22.14,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -21.24,
       "target_2r_touched": false,
       "hard_stop_date": "2025-11-18",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-11-18",
       "exit_price": 761.94,
       "status": "CLOSED",
-      "sessions_held": 256
+      "sessions_held": 255
     },
     {
       "symbol": "HDFCLIFE",
@@ -262,16 +262,16 @@
       "weighted_entry": 764.3,
       "risk_per_share": 21.54,
       "target_2r": 807.39,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -22.23,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -21.33,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-23",
       "exit_date": "2025-09-24",
       "exit_price": 768.51,
       "status": "CLOSED",
-      "sessions_held": 292
+      "sessions_held": 291
     },
     {
       "symbol": "HDFCLIFE",
@@ -289,16 +289,16 @@
       "weighted_entry": 761.94,
       "risk_per_share": 21.73,
       "target_2r": 805.41,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -21.99,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -21.08,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-17",
       "exit_date": "2025-09-18",
       "exit_price": 763.48,
       "status": "CLOSED",
-      "sessions_held": 295
+      "sessions_held": 294
     },
     {
       "symbol": "HDFCLIFE",
@@ -316,16 +316,16 @@
       "weighted_entry": 762.41,
       "risk_per_share": 17.37,
       "target_2r": 797.14,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -22.04,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -21.13,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-26",
       "exit_date": "2025-08-28",
       "exit_price": 772.75,
       "status": "CLOSED",
-      "sessions_held": 316
+      "sessions_held": 315
     },
     {
       "symbol": "HDFCLIFE",
@@ -343,16 +343,16 @@
       "weighted_entry": 662.98,
       "risk_per_share": 16.38,
       "target_2r": 695.73,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -10.34,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -9.3,
       "target_2r_touched": false,
       "hard_stop_date": "2025-03-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-03-13",
       "exit_price": 616.56,
       "status": "CLOSED",
-      "sessions_held": 421
+      "sessions_held": 420
     },
     {
       "symbol": "HDFCLIFE",
@@ -370,16 +370,16 @@
       "weighted_entry": 663.25,
       "risk_per_share": 23.42,
       "target_2r": 710.09,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -10.38,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -9.34,
       "target_2r_touched": false,
       "hard_stop_date": "2025-02-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-02-01",
       "exit_price": 610.56,
       "status": "CLOSED",
-      "sessions_held": 449
+      "sessions_held": 448
     },
     {
       "symbol": "HDFCLIFE",
@@ -397,16 +397,16 @@
       "weighted_entry": 660.8,
       "risk_per_share": 21.64,
       "target_2r": 704.09,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -10.05,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -9.0,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-22",
       "exit_date": "2025-01-23",
       "exit_price": 614.11,
       "status": "CLOSED",
-      "sessions_held": 456
+      "sessions_held": 455
     },
     {
       "symbol": "HDFCLIFE",
@@ -424,16 +424,16 @@
       "weighted_entry": 688.84,
       "risk_per_share": 24.92,
       "target_2r": 738.68,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -13.71,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -12.71,
       "target_2r_touched": true,
       "hard_stop_date": "2024-10-31",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-10-31",
       "exit_price": 714.64,
       "status": "CLOSED",
-      "sessions_held": 513
+      "sessions_held": 512
     },
     {
       "symbol": "HDFCLIFE",
@@ -451,16 +451,16 @@
       "weighted_entry": 685.36,
       "risk_per_share": 19.03,
       "target_2r": 723.41,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -13.27,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -12.26,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-15",
       "exit_date": "2024-10-16",
       "exit_price": 718.89,
       "status": "CLOSED",
-      "sessions_held": 525
+      "sessions_held": 524
     },
     {
       "symbol": "HDFCLIFE",
@@ -478,16 +478,16 @@
       "weighted_entry": 685.57,
       "risk_per_share": 19.28,
       "target_2r": 724.13,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -13.3,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -12.29,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-30",
       "exit_date": "2024-10-01",
       "exit_price": 711.49,
       "status": "CLOSED",
-      "sessions_held": 535
+      "sessions_held": 534
     },
     {
       "symbol": "HDFCLIFE",
@@ -505,16 +505,16 @@
       "weighted_entry": 579.47,
       "risk_per_share": 18.65,
       "target_2r": 616.78,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 2.58,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 3.77,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-21",
       "exit_date": "2024-06-24",
       "exit_price": 576.35,
       "status": "CLOSED",
-      "sessions_held": 608
+      "sessions_held": 607
     },
     {
       "symbol": "HDFCLIFE",
@@ -532,16 +532,16 @@
       "weighted_entry": 625.79,
       "risk_per_share": 17.1,
       "target_2r": 659.99,
-      "latest_close": 594.4,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -5.02,
+      "latest_close": 601.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -3.91,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-21",
       "exit_date": "2024-03-22",
       "exit_price": 617.87,
       "status": "CLOSED",
-      "sessions_held": 673
+      "sessions_held": 672
     }
   ]
 }

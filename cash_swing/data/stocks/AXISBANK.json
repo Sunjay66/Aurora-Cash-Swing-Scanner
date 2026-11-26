@@ -1,7 +1,7 @@
 {
   "symbol": "AXISBANK",
   "company": "Axis Bank Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-25",
   "setups": [
     {
       "symbol": "AXISBANK",
@@ -19,16 +19,16 @@
       "weighted_entry": 1319.41,
       "risk_per_share": 34.87,
       "target_2r": 1389.14,
-      "latest_close": 1408.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 6.71,
+      "latest_close": 1418.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 7.48,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "TWO_R",
-      "sessions_held": 13
+      "sessions_held": 12
     },
     {
       "symbol": "AXISBANK",
@@ -46,16 +46,16 @@
       "weighted_entry": 1313.24,
       "risk_per_share": 34.05,
       "target_2r": 1381.35,
-      "latest_close": 1408.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 7.22,
+      "latest_close": 1418.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 7.98,
       "target_2r_touched": false,
       "hard_stop_date": "2026-10-19",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-10-19",
       "exit_price": 1231.35,
       "status": "CLOSED",
-      "sessions_held": 31
+      "sessions_held": 30
     },
     {
       "symbol": "AXISBANK",
@@ -73,16 +73,16 @@
       "weighted_entry": 1311.07,
       "risk_per_share": 22.92,
       "target_2r": 1356.91,
-      "latest_close": 1408.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 7.39,
+      "latest_close": 1418.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 8.16,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-01",
       "exit_date": "2026-09-02",
       "exit_price": 1254.6,
       "status": "CLOSED",
-      "sessions_held": 59
+      "sessions_held": 58
     },
     {
       "symbol": "AXISBANK",
@@ -100,16 +100,16 @@
       "weighted_entry": 1354.62,
       "risk_per_share": 34.48,
       "target_2r": 1423.58,
-      "latest_close": 1408.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 3.94,
+      "latest_close": 1418.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 4.69,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-29",
       "exit_date": "2026-06-30",
       "exit_price": 1356.65,
       "status": "CLOSED",
-      "sessions_held": 115
+      "sessions_held": 114
     },
     {
       "symbol": "AXISBANK",
@@ -127,16 +127,16 @@
       "weighted_entry": 1351.34,
       "risk_per_share": 31.85,
       "target_2r": 1415.04,
-      "latest_close": 1408.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 4.19,
+      "latest_close": 1418.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 4.94,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-01",
       "exit_date": "2026-06-02",
       "exit_price": 1262.03,
       "status": "CLOSED",
-      "sessions_held": 124
+      "sessions_held": 123
     },
     {
       "symbol": "AXISBANK",
@@ -154,16 +154,16 @@
       "weighted_entry": 1345.87,
       "risk_per_share": 54.14,
       "target_2r": 1454.14,
-      "latest_close": 1408.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 4.62,
+      "latest_close": 1418.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 5.37,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-27",
       "exit_date": "2026-04-28",
       "exit_price": 1310.99,
       "status": "CLOSED",
-      "sessions_held": 156
+      "sessions_held": 155
     },
     {
       "symbol": "AXISBANK",
@@ -181,16 +181,16 @@
       "weighted_entry": 1331.35,
       "risk_per_share": 23.55,
       "target_2r": 1378.45,
-      "latest_close": 1408.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 5.76,
+      "latest_close": 1418.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 6.52,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-09",
       "exit_date": "2026-01-12",
       "exit_price": 1273.72,
       "status": "CLOSED",
-      "sessions_held": 220
+      "sessions_held": 219
     },
     {
       "symbol": "AXISBANK",
@@ -208,16 +208,16 @@
       "weighted_entry": 1141.04,
       "risk_per_share": 20.3,
       "target_2r": 1181.63,
-      "latest_close": 1408.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 23.4,
+      "latest_close": 1418.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 24.28,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-29",
       "exit_date": "2025-09-30",
       "exit_price": 1129.13,
       "status": "CLOSED",
-      "sessions_held": 296
+      "sessions_held": 295
     },
     {
       "symbol": "AXISBANK",
@@ -235,16 +235,16 @@
       "weighted_entry": 1169.95,
       "risk_per_share": 29.04,
       "target_2r": 1228.04,
-      "latest_close": 1408.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 20.35,
+      "latest_close": 1418.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 21.21,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-13",
       "exit_date": "2025-06-16",
       "exit_price": 1204.14,
       "status": "CLOSED",
-      "sessions_held": 363
+      "sessions_held": 362
     },
     {
       "symbol": "AXISBANK",
@@ -262,16 +262,16 @@
       "weighted_entry": 1083.52,
       "risk_per_share": 22.76,
       "target_2r": 1129.03,
-      "latest_close": 1408.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 29.95,
+      "latest_close": 1418.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 30.88,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-03",
       "exit_date": "2025-03-04",
       "exit_price": 999.47,
       "status": "CLOSED",
-      "sessions_held": 431
+      "sessions_held": 430
     },
     {
       "symbol": "AXISBANK",
@@ -289,16 +289,16 @@
       "weighted_entry": 1129.69,
       "risk_per_share": 27.6,
       "target_2r": 1184.89,
-      "latest_close": 1408.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 24.64,
+      "latest_close": 1418.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 25.53,
       "target_2r_touched": false,
       "hard_stop_date": "2024-12-10",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-12-10",
       "exit_price": 1154.72,
       "status": "CLOSED",
-      "sessions_held": 487
+      "sessions_held": 486
     },
     {
       "symbol": "AXISBANK",
@@ -316,16 +316,16 @@
       "weighted_entry": 1220.85,
       "risk_per_share": 21.21,
       "target_2r": 1263.27,
-      "latest_close": 1408.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 15.33,
+      "latest_close": 1418.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 16.16,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-30",
       "exit_date": "2024-10-01",
       "exit_price": 1226.11,
       "status": "CLOSED",
-      "sessions_held": 547
+      "sessions_held": 546
     },
     {
       "symbol": "AXISBANK",
@@ -343,16 +343,16 @@
       "weighted_entry": 1219.69,
       "risk_per_share": 19.77,
       "target_2r": 1259.23,
-      "latest_close": 1408.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 15.44,
+      "latest_close": 1418.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 16.27,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-04",
       "exit_date": "2024-09-05",
       "exit_price": 1180.08,
       "status": "CLOSED",
-      "sessions_held": 552
+      "sessions_held": 551
     },
     {
       "symbol": "AXISBANK",
@@ -370,16 +370,16 @@
       "weighted_entry": 1127.52,
       "risk_per_share": 31.14,
       "target_2r": 1189.81,
-      "latest_close": 1408.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 24.88,
+      "latest_close": 1418.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 25.77,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-09",
       "exit_date": "2024-05-10",
       "exit_price": 1121.01,
       "status": "CLOSED",
-      "sessions_held": 640
+      "sessions_held": 639
     },
     {
       "symbol": "AXISBANK",
@@ -397,16 +397,16 @@
       "weighted_entry": 1116.29,
       "risk_per_share": 23.43,
       "target_2r": 1163.15,
-      "latest_close": 1408.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 26.13,
+      "latest_close": 1418.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 27.04,
       "target_2r_touched": false,
       "hard_stop_date": "2024-04-15",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-04-15",
       "exit_price": 1060.17,
       "status": "CLOSED",
-      "sessions_held": 650
+      "sessions_held": 649
     },
     {
       "symbol": "AXISBANK",
@@ -424,16 +424,16 @@
       "weighted_entry": 1092.2,
       "risk_per_share": 31.92,
       "target_2r": 1156.05,
-      "latest_close": 1408.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 28.91,
+      "latest_close": 1418.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 29.84,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-27",
       "exit_date": "2024-02-28",
       "exit_price": 1074.82,
       "status": "CLOSED",
-      "sessions_held": 680
+      "sessions_held": 679
     }
   ]
 }

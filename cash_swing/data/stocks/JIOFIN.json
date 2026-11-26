@@ -1,7 +1,7 @@
 {
   "symbol": "JIOFIN",
   "company": "Jio Financial Services Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-25",
   "setups": [
     {
       "symbol": "JIOFIN",
@@ -19,16 +19,16 @@
       "weighted_entry": 226.0,
       "risk_per_share": 7.17,
       "target_2r": 240.33,
-      "latest_close": 227.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 0.44,
+      "latest_close": 222.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -1.39,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-18",
       "exit_date": "2026-11-19",
       "exit_price": 223.5,
       "status": "CLOSED",
-      "sessions_held": 13
+      "sessions_held": 12
     },
     {
       "symbol": "JIOFIN",
@@ -46,16 +46,16 @@
       "weighted_entry": 256.5,
       "risk_per_share": 7.96,
       "target_2r": 272.42,
-      "latest_close": 227.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -11.5,
+      "latest_close": 222.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -13.12,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-10",
       "exit_date": "2026-08-11",
       "exit_price": 253.9,
       "status": "CLOSED",
-      "sessions_held": 81
+      "sessions_held": 80
     },
     {
       "symbol": "JIOFIN",
@@ -73,16 +73,16 @@
       "weighted_entry": 254.94,
       "risk_per_share": 7.22,
       "target_2r": 269.38,
-      "latest_close": 227.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -10.96,
+      "latest_close": 222.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -12.59,
       "target_2r_touched": false,
       "hard_stop_date": "2026-07-22",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-07-22",
       "exit_price": 235.21,
       "status": "CLOSED",
-      "sessions_held": 89
+      "sessions_held": 88
     },
     {
       "symbol": "JIOFIN",
@@ -100,16 +100,16 @@
       "weighted_entry": 254.01,
       "risk_per_share": 6.41,
       "target_2r": 266.84,
-      "latest_close": 227.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -10.63,
+      "latest_close": 222.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -12.27,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-14",
       "exit_date": "2026-07-15",
       "exit_price": 236.65,
       "status": "CLOSED",
-      "sessions_held": 93
+      "sessions_held": 92
     },
     {
       "symbol": "JIOFIN",
@@ -127,16 +127,16 @@
       "weighted_entry": 254.93,
       "risk_per_share": 7.22,
       "target_2r": 269.36,
-      "latest_close": 227.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -10.96,
+      "latest_close": 222.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -12.58,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-23",
       "exit_date": "2026-06-24",
       "exit_price": 237.2,
       "status": "CLOSED",
-      "sessions_held": 110
+      "sessions_held": 109
     },
     {
       "symbol": "JIOFIN",
@@ -154,16 +154,16 @@
       "weighted_entry": 257.36,
       "risk_per_share": 9.75,
       "target_2r": 276.85,
-      "latest_close": 227.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -11.8,
+      "latest_close": 222.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -13.41,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-30",
       "exit_date": "2026-05-04",
       "exit_price": 247.42,
       "status": "CLOSED",
-      "sessions_held": 147
+      "sessions_held": 146
     },
     {
       "symbol": "JIOFIN",
@@ -181,16 +181,16 @@
       "weighted_entry": 254.66,
       "risk_per_share": 9.98,
       "target_2r": 274.63,
-      "latest_close": 227.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -10.86,
+      "latest_close": 222.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -12.49,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-20",
       "exit_date": "2026-04-21",
       "exit_price": 236.72,
       "status": "CLOSED",
-      "sessions_held": 152
+      "sessions_held": 151
     },
     {
       "symbol": "JIOFIN",
@@ -208,16 +208,16 @@
       "weighted_entry": 268.99,
       "risk_per_share": 5.84,
       "target_2r": 280.66,
-      "latest_close": 227.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -15.61,
+      "latest_close": 222.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -17.15,
       "target_2r_touched": false,
       "hard_stop_date": "2026-01-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-08",
       "exit_price": 296.75,
       "status": "CLOSED",
-      "sessions_held": 217
+      "sessions_held": 216
     },
     {
       "symbol": "JIOFIN",
@@ -235,16 +235,16 @@
       "weighted_entry": 271.39,
       "risk_per_share": 6.4,
       "target_2r": 284.18,
-      "latest_close": 227.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -16.36,
+      "latest_close": 222.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -17.88,
       "target_2r_touched": true,
       "hard_stop_date": "2025-11-18",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-11-18",
       "exit_price": 308.87,
       "status": "CLOSED",
-      "sessions_held": 254
+      "sessions_held": 253
     },
     {
       "symbol": "JIOFIN",
@@ -262,16 +262,16 @@
       "weighted_entry": 270.28,
       "risk_per_share": 5.86,
       "target_2r": 282.0,
-      "latest_close": 227.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -16.01,
+      "latest_close": 222.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -17.55,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-31",
       "exit_date": "2025-11-03",
       "exit_price": 305.48,
       "status": "CLOSED",
-      "sessions_held": 265
+      "sessions_held": 264
     },
     {
       "symbol": "JIOFIN",
@@ -289,16 +289,16 @@
       "weighted_entry": 270.92,
       "risk_per_share": 7.04,
       "target_2r": 285.0,
-      "latest_close": 227.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -16.21,
+      "latest_close": 222.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -17.74,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-23",
       "exit_date": "2025-10-24",
       "exit_price": 309.28,
       "status": "CLOSED",
-      "sessions_held": 273
+      "sessions_held": 272
     },
     {
       "symbol": "JIOFIN",
@@ -316,16 +316,16 @@
       "weighted_entry": 271.49,
       "risk_per_share": 8.94,
       "target_2r": 289.38,
-      "latest_close": 227.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -16.39,
+      "latest_close": 222.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -17.92,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-07",
       "exit_date": "2025-08-08",
       "exit_price": 323.84,
       "status": "CLOSED",
-      "sessions_held": 326
+      "sessions_held": 325
     },
     {
       "symbol": "JIOFIN",
@@ -343,16 +343,16 @@
       "weighted_entry": 250.58,
       "risk_per_share": 10.43,
       "target_2r": 271.44,
-      "latest_close": 227.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -9.41,
+      "latest_close": 222.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -11.07,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-06",
       "exit_date": "2025-05-07",
       "exit_price": 244.1,
       "status": "CLOSED",
-      "sessions_held": 400
+      "sessions_held": 399
     },
     {
       "symbol": "JIOFIN",
@@ -370,16 +370,16 @@
       "weighted_entry": 249.18,
       "risk_per_share": 8.87,
       "target_2r": 266.93,
-      "latest_close": 227.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -8.9,
+      "latest_close": 222.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -10.57,
       "target_2r_touched": false,
       "hard_stop_date": "2025-03-26",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-03-26",
       "exit_price": 224.32,
       "status": "CLOSED",
-      "sessions_held": 413
+      "sessions_held": 412
     },
     {
       "symbol": "JIOFIN",
@@ -397,16 +397,16 @@
       "weighted_entry": 331.95,
       "risk_per_share": 10.8,
       "target_2r": 353.55,
-      "latest_close": 227.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -31.62,
+      "latest_close": 222.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -32.87,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-17",
       "exit_date": "2024-12-18",
       "exit_price": 334.69,
       "status": "CLOSED",
-      "sessions_held": 494
+      "sessions_held": 493
     },
     {
       "symbol": "JIOFIN",
@@ -424,16 +424,16 @@
       "weighted_entry": 349.15,
       "risk_per_share": 12.45,
       "target_2r": 374.04,
-      "latest_close": 227.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -34.98,
+      "latest_close": 222.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -36.17,
       "target_2r_touched": false,
       "hard_stop_date": "2024-09-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-09-06",
       "exit_price": 337.19,
       "status": "CLOSED",
-      "sessions_held": 553
+      "sessions_held": 552
     },
     {
       "symbol": "JIOFIN",
@@ -451,16 +451,16 @@
       "weighted_entry": 351.03,
       "risk_per_share": 16.95,
       "target_2r": 384.93,
-      "latest_close": 227.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -35.33,
+      "latest_close": 222.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -36.52,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-24",
       "exit_date": "2024-06-25",
       "exit_price": 355.56,
       "status": "CLOSED",
-      "sessions_held": 606
+      "sessions_held": 605
     },
     {
       "symbol": "JIOFIN",
@@ -478,16 +478,16 @@
       "weighted_entry": 314.89,
       "risk_per_share": 7.17,
       "target_2r": 329.24,
-      "latest_close": 227.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -27.91,
+      "latest_close": 222.85,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -29.23,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-01-17",
       "exit_date": "2024-01-18",
       "exit_price": 242.5,
       "status": "CLOSED",
-      "sessions_held": 713
+      "sessions_held": 712
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "HDFCAMC",
   "company": "HDFC Asset Management Company Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-25",
   "setups": [
     {
       "symbol": "HDFCAMC",
@@ -19,16 +19,16 @@
       "weighted_entry": 2641.89,
       "risk_per_share": 89.62,
       "target_2r": 2821.14,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 3.15,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 1.11,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "OPEN",
-      "sessions_held": 15
+      "sessions_held": 14
     },
     {
       "symbol": "HDFCAMC",
@@ -46,16 +46,16 @@
       "weighted_entry": 2686.45,
       "risk_per_share": 53.35,
       "target_2r": 2793.15,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 1.44,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -0.56,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-27",
       "exit_date": "2026-08-28",
       "exit_price": 2573.0,
       "status": "CLOSED",
-      "sessions_held": 63
+      "sessions_held": 62
     },
     {
       "symbol": "HDFCAMC",
@@ -73,16 +73,16 @@
       "weighted_entry": 2717.58,
       "risk_per_share": 102.14,
       "target_2r": 2921.87,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 0.28,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -1.7,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-24",
       "exit_date": "2026-06-25",
       "exit_price": 2638.8,
       "status": "CLOSED",
-      "sessions_held": 110
+      "sessions_held": 109
     },
     {
       "symbol": "HDFCAMC",
@@ -100,16 +100,16 @@
       "weighted_entry": 2710.3,
       "risk_per_share": 104.7,
       "target_2r": 2919.71,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 0.55,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -1.44,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-27",
       "exit_date": "2026-05-29",
       "exit_price": 2658.16,
       "status": "CLOSED",
-      "sessions_held": 128
+      "sessions_held": 127
     },
     {
       "symbol": "HDFCAMC",
@@ -127,16 +127,16 @@
       "weighted_entry": 2671.97,
       "risk_per_share": 128.44,
       "target_2r": 2928.85,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 1.99,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -0.03,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-30",
       "exit_date": "2026-05-04",
       "exit_price": 2666.67,
       "status": "CLOSED",
-      "sessions_held": 155
+      "sessions_held": 154
     },
     {
       "symbol": "HDFCAMC",
@@ -154,16 +154,16 @@
       "weighted_entry": 2745.21,
       "risk_per_share": 100.38,
       "target_2r": 2945.98,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -0.73,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -2.69,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-19",
       "exit_date": "2026-02-20",
       "exit_price": 2683.6,
       "status": "CLOSED",
-      "sessions_held": 198
+      "sessions_held": 197
     },
     {
       "symbol": "HDFCAMC",
@@ -181,16 +181,16 @@
       "weighted_entry": 2731.34,
       "risk_per_share": 78.13,
       "target_2r": 2887.61,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -0.23,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -2.2,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-01",
       "exit_date": "2026-01-02",
       "exit_price": 2591.52,
       "status": "CLOSED",
-      "sessions_held": 222
+      "sessions_held": 221
     },
     {
       "symbol": "HDFCAMC",
@@ -208,16 +208,16 @@
       "weighted_entry": 2741.29,
       "risk_per_share": 79.28,
       "target_2r": 2899.84,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -0.59,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -2.55,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-26",
       "exit_date": "2025-12-29",
       "exit_price": 2590.54,
       "status": "CLOSED",
-      "sessions_held": 227
+      "sessions_held": 226
     },
     {
       "symbol": "HDFCAMC",
@@ -235,16 +235,16 @@
       "weighted_entry": 2787.73,
       "risk_per_share": 91.26,
       "target_2r": 2970.25,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -2.25,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -4.18,
       "target_2r_touched": false,
       "hard_stop_date": "2025-10-23",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-10-23",
       "exit_price": 2748.38,
       "status": "CLOSED",
-      "sessions_held": 273
+      "sessions_held": 272
     },
     {
       "symbol": "HDFCAMC",
@@ -262,16 +262,16 @@
       "weighted_entry": 2776.77,
       "risk_per_share": 76.1,
       "target_2r": 2928.98,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -1.86,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -3.8,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-24",
       "exit_date": "2025-09-25",
       "exit_price": 2834.5,
       "status": "CLOSED",
-      "sessions_held": 300
+      "sessions_held": 299
     },
     {
       "symbol": "HDFCAMC",
@@ -289,16 +289,16 @@
       "weighted_entry": 1972.53,
       "risk_per_share": 88.3,
       "target_2r": 2149.12,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 38.15,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 35.43,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-06",
       "exit_date": "2025-05-07",
       "exit_price": 2066.19,
       "status": "CLOSED",
-      "sessions_held": 401
+      "sessions_held": 400
     },
     {
       "symbol": "HDFCAMC",
@@ -316,16 +316,16 @@
       "weighted_entry": 1917.01,
       "risk_per_share": 69.6,
       "target_2r": 2056.21,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 42.15,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 39.35,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-01",
       "exit_date": "2025-04-02",
       "exit_price": 1916.34,
       "status": "CLOSED",
-      "sessions_held": 416
+      "sessions_held": 415
     },
     {
       "symbol": "HDFCAMC",
@@ -343,16 +343,16 @@
       "weighted_entry": 2175.2,
       "risk_per_share": 56.66,
       "target_2r": 2288.53,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 25.28,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 22.81,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-17",
       "exit_date": "2024-12-18",
       "exit_price": 2118.06,
       "status": "CLOSED",
-      "sessions_held": 486
+      "sessions_held": 485
     },
     {
       "symbol": "HDFCAMC",
@@ -370,16 +370,16 @@
       "weighted_entry": 2174.99,
       "risk_per_share": 80.76,
       "target_2r": 2336.51,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 25.29,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 22.82,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-12",
       "exit_date": "2024-11-13",
       "exit_price": 2094.5,
       "status": "CLOSED",
-      "sessions_held": 504
+      "sessions_held": 503
     },
     {
       "symbol": "HDFCAMC",
@@ -397,16 +397,16 @@
       "weighted_entry": 2178.14,
       "risk_per_share": 72.83,
       "target_2r": 2323.8,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 25.11,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 22.64,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-22",
       "exit_date": "2024-10-23",
       "exit_price": 2155.04,
       "status": "CLOSED",
-      "sessions_held": 524
+      "sessions_held": 523
     },
     {
       "symbol": "HDFCAMC",
@@ -424,16 +424,16 @@
       "weighted_entry": 2130.02,
       "risk_per_share": 77.46,
       "target_2r": 2284.94,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 27.94,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 25.41,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-06",
       "exit_date": "2024-09-09",
       "exit_price": 2121.9,
       "status": "CLOSED",
-      "sessions_held": 568
+      "sessions_held": 567
     },
     {
       "symbol": "HDFCAMC",
@@ -451,16 +451,16 @@
       "weighted_entry": 2115.06,
       "risk_per_share": 119.08,
       "target_2r": 2353.21,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 28.84,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 26.3,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-07-16",
       "exit_date": "2024-07-18",
       "exit_price": 1963.33,
       "status": "CLOSED",
-      "sessions_held": 608
+      "sessions_held": 607
     },
     {
       "symbol": "HDFCAMC",
@@ -478,16 +478,16 @@
       "weighted_entry": 2080.21,
       "risk_per_share": 62.53,
       "target_2r": 2205.27,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 31.0,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 28.41,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-30",
       "exit_date": "2024-05-31",
       "exit_price": 1779.1,
       "status": "CLOSED",
-      "sessions_held": 626
+      "sessions_held": 625
     },
     {
       "symbol": "HDFCAMC",
@@ -505,16 +505,16 @@
       "weighted_entry": 2088.94,
       "risk_per_share": 56.43,
       "target_2r": 2201.8,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 30.45,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 27.88,
       "target_2r_touched": false,
       "hard_stop_date": "2024-05-07",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-05-07",
       "exit_price": 1793.45,
       "status": "CLOSED",
-      "sessions_held": 637
+      "sessions_held": 636
     },
     {
       "symbol": "HDFCAMC",
@@ -532,16 +532,16 @@
       "weighted_entry": 2074.26,
       "risk_per_share": 67.69,
       "target_2r": 2209.64,
-      "latest_close": 2725.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 31.38,
+      "latest_close": 2671.3,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 28.78,
       "target_2r_touched": false,
       "hard_stop_date": "2024-04-02",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-04-02",
       "exit_price": 1730.57,
       "status": "CLOSED",
-      "sessions_held": 659
+      "sessions_held": 658
     }
   ]
 }

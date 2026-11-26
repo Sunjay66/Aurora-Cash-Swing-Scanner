@@ -1,7 +1,7 @@
 {
   "symbol": "ADANIGREEN",
   "company": "Adani Green Energy Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-25",
   "setups": [
     {
       "symbol": "ADANIGREEN",
@@ -19,16 +19,16 @@
       "weighted_entry": 1397.64,
       "risk_per_share": 53.38,
       "target_2r": 1504.39,
-      "latest_close": 1348.8,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -3.49,
+      "latest_close": 1364.5,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -2.37,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-23",
       "exit_date": "2026-11-25",
       "exit_price": 1414.8,
       "status": "CLOSED",
-      "sessions_held": 16
+      "sessions_held": 15
     },
     {
       "symbol": "ADANIGREEN",
@@ -46,16 +46,16 @@
       "weighted_entry": 1388.92,
       "risk_per_share": 59.23,
       "target_2r": 1507.38,
-      "latest_close": 1348.8,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -2.89,
+      "latest_close": 1364.5,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -1.76,
       "target_2r_touched": false,
       "hard_stop_date": "2026-10-21",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-10-21",
       "exit_price": 1252.37,
       "status": "CLOSED",
-      "sessions_held": 27
+      "sessions_held": 26
     },
     {
       "symbol": "ADANIGREEN",
@@ -73,16 +73,16 @@
       "weighted_entry": 1397.57,
       "risk_per_share": 50.52,
       "target_2r": 1498.6,
-      "latest_close": 1348.8,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -3.49,
+      "latest_close": 1364.5,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -2.37,
       "target_2r_touched": false,
       "hard_stop_date": "2026-10-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-10-08",
       "exit_price": 1292.18,
       "status": "CLOSED",
-      "sessions_held": 33
+      "sessions_held": 32
     },
     {
       "symbol": "ADANIGREEN",
@@ -100,16 +100,16 @@
       "weighted_entry": 1088.47,
       "risk_per_share": 56.86,
       "target_2r": 1202.19,
-      "latest_close": 1348.8,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 23.92,
+      "latest_close": 1364.5,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 25.36,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-12",
       "exit_date": "2026-05-13",
       "exit_price": 1302.1,
       "status": "CLOSED",
-      "sessions_held": 157
+      "sessions_held": 156
     },
     {
       "symbol": "ADANIGREEN",
@@ -127,16 +127,16 @@
       "weighted_entry": 1076.68,
       "risk_per_share": 60.42,
       "target_2r": 1197.52,
-      "latest_close": 1348.8,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 25.27,
+      "latest_close": 1364.5,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 26.73,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-13",
       "exit_date": "2026-02-16",
       "exit_price": 949.5,
       "status": "CLOSED",
-      "sessions_held": 196
+      "sessions_held": 195
     },
     {
       "symbol": "ADANIGREEN",
@@ -154,16 +154,16 @@
       "weighted_entry": 1087.07,
       "risk_per_share": 21.21,
       "target_2r": 1129.49,
-      "latest_close": 1348.8,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 24.08,
+      "latest_close": 1364.5,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 25.52,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-06",
       "exit_date": "2026-01-07",
       "exit_price": 1019.0,
       "status": "CLOSED",
-      "sessions_held": 219
+      "sessions_held": 218
     },
     {
       "symbol": "ADANIGREEN",
@@ -181,16 +181,16 @@
       "weighted_entry": 1108.38,
       "risk_per_share": 36.76,
       "target_2r": 1181.89,
-      "latest_close": 1348.8,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 21.69,
+      "latest_close": 1364.5,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 23.11,
       "target_2r_touched": false,
       "hard_stop_date": "2025-11-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-11-06",
       "exit_price": 1075.84,
       "status": "CLOSED",
-      "sessions_held": 265
+      "sessions_held": 264
     },
     {
       "symbol": "ADANIGREEN",
@@ -208,16 +208,16 @@
       "weighted_entry": 1112.6,
       "risk_per_share": 26.65,
       "target_2r": 1165.89,
-      "latest_close": 1348.8,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 21.23,
+      "latest_close": 1364.5,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 22.64,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-26",
       "exit_date": "2025-09-29",
       "exit_price": 1053.9,
       "status": "CLOSED",
-      "sessions_held": 297
+      "sessions_held": 296
     },
     {
       "symbol": "ADANIGREEN",
@@ -235,16 +235,16 @@
       "weighted_entry": 1127.45,
       "risk_per_share": 38.29,
       "target_2r": 1204.03,
-      "latest_close": 1348.8,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 19.63,
+      "latest_close": 1364.5,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 21.02,
       "target_2r_touched": false,
       "hard_stop_date": "2025-07-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-04",
       "exit_price": 991.71,
       "status": "CLOSED",
-      "sessions_held": 348
+      "sessions_held": 347
     },
     {
       "symbol": "ADANIGREEN",
@@ -262,16 +262,16 @@
       "weighted_entry": 1003.65,
       "risk_per_share": 58.44,
       "target_2r": 1120.53,
-      "latest_close": 1348.8,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 34.39,
+      "latest_close": 1364.5,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 35.95,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-03",
       "exit_date": "2025-06-04",
       "exit_price": 997.5,
       "status": "CLOSED",
-      "sessions_held": 382
+      "sessions_held": 381
     },
     {
       "symbol": "ADANIGREEN",
@@ -289,16 +289,16 @@
       "weighted_entry": 996.24,
       "risk_per_share": 53.16,
       "target_2r": 1102.56,
-      "latest_close": 1348.8,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 35.39,
+      "latest_close": 1364.5,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 36.97,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-25",
       "exit_date": "2025-04-28",
       "exit_price": 915.35,
       "status": "CLOSED",
-      "sessions_held": 400
+      "sessions_held": 399
     },
     {
       "symbol": "ADANIGREEN",
@@ -316,16 +316,16 @@
       "weighted_entry": 992.2,
       "risk_per_share": 51.4,
       "target_2r": 1095.0,
-      "latest_close": 1348.8,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 35.94,
+      "latest_close": 1364.5,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 37.52,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-01",
       "exit_date": "2025-04-02",
       "exit_price": 926.9,
       "status": "CLOSED",
-      "sessions_held": 416
+      "sessions_held": 415
     },
     {
       "symbol": "ADANIGREEN",
@@ -343,16 +343,16 @@
       "weighted_entry": 1226.0,
       "risk_per_share": 87.63,
       "target_2r": 1401.26,
-      "latest_close": 1348.8,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 10.02,
+      "latest_close": 1364.5,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 11.3,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-27",
       "exit_date": "2024-09-30",
       "exit_price": 1985.0,
       "status": "CLOSED",
-      "sessions_held": 542
+      "sessions_held": 541
     },
     {
       "symbol": "ADANIGREEN",
@@ -370,16 +370,16 @@
       "weighted_entry": 1818.67,
       "risk_per_share": 76.6,
       "target_2r": 1971.87,
-      "latest_close": 1348.8,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -25.84,
+      "latest_close": 1364.5,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -24.97,
       "target_2r_touched": false,
       "hard_stop_date": "2024-08-05",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-08-05",
       "exit_price": 1768.4,
       "status": "CLOSED",
-      "sessions_held": 577
+      "sessions_held": 576
     },
     {
       "symbol": "ADANIGREEN",
@@ -397,16 +397,16 @@
       "weighted_entry": 1826.61,
       "risk_per_share": 88.11,
       "target_2r": 2002.83,
-      "latest_close": 1348.8,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -26.16,
+      "latest_close": 1364.5,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -25.3,
       "target_2r_touched": true,
       "hard_stop_date": "2024-06-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-06-04",
       "exit_price": 1790.89,
       "status": "CLOSED",
-      "sessions_held": 624
+      "sessions_held": 623
     },
     {
       "symbol": "ADANIGREEN",
@@ -424,16 +424,16 @@
       "weighted_entry": 1881.93,
       "risk_per_share": 97.82,
       "target_2r": 2077.57,
-      "latest_close": 1348.8,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -28.33,
+      "latest_close": 1364.5,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -27.49,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-12",
       "exit_date": "2024-04-15",
       "exit_price": 1801.0,
       "status": "CLOSED",
-      "sessions_held": 653
+      "sessions_held": 652
     }
   ]
 }

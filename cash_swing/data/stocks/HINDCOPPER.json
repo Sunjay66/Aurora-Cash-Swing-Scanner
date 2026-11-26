@@ -1,7 +1,7 @@
 {
   "symbol": "HINDCOPPER",
   "company": "Hindustan Copper Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-25",
   "setups": [
     {
       "symbol": "HINDCOPPER",
@@ -19,16 +19,16 @@
       "weighted_entry": 545.28,
       "risk_per_share": 18.56,
       "target_2r": 582.41,
-      "latest_close": 411.15,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -24.6,
+      "latest_close": 398.9,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -26.85,
       "target_2r_touched": false,
       "hard_stop_date": "2026-08-10",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-08-10",
       "exit_price": 521.84,
       "status": "CLOSED",
-      "sessions_held": 76
+      "sessions_held": 75
     },
     {
       "symbol": "HINDCOPPER",
@@ -46,16 +46,16 @@
       "weighted_entry": 553.51,
       "risk_per_share": 35.75,
       "target_2r": 625.02,
-      "latest_close": 411.15,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -25.72,
+      "latest_close": 398.9,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -27.93,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-24",
       "exit_date": "2026-04-27",
       "exit_price": 544.73,
       "status": "CLOSED",
-      "sessions_held": 155
+      "sessions_held": 154
     },
     {
       "symbol": "HINDCOPPER",
@@ -73,16 +73,16 @@
       "weighted_entry": 486.13,
       "risk_per_share": 12.51,
       "target_2r": 511.15,
-      "latest_close": 411.15,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -15.42,
+      "latest_close": 398.9,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -17.94,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-08",
       "exit_date": "2026-01-09",
       "exit_price": 516.46,
       "status": "CLOSED",
-      "sessions_held": 241
+      "sessions_held": 240
     },
     {
       "symbol": "HINDCOPPER",
@@ -100,16 +100,16 @@
       "weighted_entry": 268.18,
       "risk_per_share": 8.12,
       "target_2r": 284.41,
-      "latest_close": 411.15,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 53.31,
+      "latest_close": 398.9,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 48.74,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-14",
       "exit_date": "2025-10-15",
       "exit_price": 330.02,
       "status": "CLOSED",
-      "sessions_held": 298
+      "sessions_held": 297
     },
     {
       "symbol": "HINDCOPPER",
@@ -127,16 +127,16 @@
       "weighted_entry": 233.93,
       "risk_per_share": 11.71,
       "target_2r": 257.34,
-      "latest_close": 411.15,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 75.76,
+      "latest_close": 398.9,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 70.52,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-12",
       "exit_date": "2025-06-13",
       "exit_price": 244.93,
       "status": "CLOSED",
-      "sessions_held": 382
+      "sessions_held": 381
     },
     {
       "symbol": "HINDCOPPER",
@@ -154,16 +154,16 @@
       "weighted_entry": 234.36,
       "risk_per_share": 13.19,
       "target_2r": 260.74,
-      "latest_close": 411.15,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 75.43,
+      "latest_close": 398.9,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 70.21,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-25",
       "exit_date": "2025-04-28",
       "exit_price": 211.26,
       "status": "CLOSED",
-      "sessions_held": 395
+      "sessions_held": 394
     },
     {
       "symbol": "HINDCOPPER",
@@ -181,16 +181,16 @@
       "weighted_entry": 236.23,
       "risk_per_share": 11.69,
       "target_2r": 259.6,
-      "latest_close": 411.15,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 74.04,
+      "latest_close": 398.9,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 68.86,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-26",
       "exit_date": "2025-03-27",
       "exit_price": 222.0,
       "status": "CLOSED",
-      "sessions_held": 415
+      "sessions_held": 414
     },
     {
       "symbol": "HINDCOPPER",
@@ -208,16 +208,16 @@
       "weighted_entry": 248.67,
       "risk_per_share": 9.76,
       "target_2r": 268.19,
-      "latest_close": 411.15,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 65.34,
+      "latest_close": 398.9,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 60.42,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-17",
       "exit_date": "2024-12-18",
       "exit_price": 279.54,
       "status": "CLOSED",
-      "sessions_held": 487
+      "sessions_held": 486
     },
     {
       "symbol": "HINDCOPPER",
@@ -235,16 +235,16 @@
       "weighted_entry": 336.53,
       "risk_per_share": 10.86,
       "target_2r": 358.25,
-      "latest_close": 411.15,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 22.17,
+      "latest_close": 398.9,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 18.53,
       "target_2r_touched": false,
       "hard_stop_date": "2024-09-19",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-09-19",
       "exit_price": 309.25,
       "status": "CLOSED",
-      "sessions_held": 541
+      "sessions_held": 540
     },
     {
       "symbol": "HINDCOPPER",
@@ -262,16 +262,16 @@
       "weighted_entry": 334.86,
       "risk_per_share": 16.69,
       "target_2r": 368.23,
-      "latest_close": 411.15,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 22.78,
+      "latest_close": 398.9,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 19.12,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-02",
       "exit_date": "2024-09-03",
       "exit_price": 315.74,
       "status": "CLOSED",
-      "sessions_held": 561
+      "sessions_held": 560
     },
     {
       "symbol": "HINDCOPPER",
@@ -289,16 +289,16 @@
       "weighted_entry": 323.17,
       "risk_per_share": 19.38,
       "target_2r": 361.94,
-      "latest_close": 411.15,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 27.22,
+      "latest_close": 398.9,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 23.43,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-06",
       "exit_date": "2024-05-07",
       "exit_price": 373.95,
       "status": "CLOSED",
-      "sessions_held": 660
+      "sessions_held": 659
     },
     {
       "symbol": "HINDCOPPER",
@@ -316,16 +316,16 @@
       "weighted_entry": 326.39,
       "risk_per_share": 16.25,
       "target_2r": 358.89,
-      "latest_close": 411.15,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 25.97,
+      "latest_close": 398.9,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 22.22,
       "target_2r_touched": false,
       "hard_stop_date": "2024-03-11",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-03-11",
       "exit_price": 264.36,
       "status": "CLOSED",
-      "sessions_held": 673
+      "sessions_held": 672
     }
   ]
 }

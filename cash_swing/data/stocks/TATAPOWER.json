@@ -1,7 +1,7 @@
 {
   "symbol": "TATAPOWER",
   "company": "Tata Power Co. Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-25",
   "setups": [
     {
       "symbol": "TATAPOWER",
@@ -19,16 +19,16 @@
       "weighted_entry": 365.0,
       "risk_per_share": 10.72,
       "target_2r": 386.44,
-      "latest_close": 323.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -11.37,
+      "latest_close": 323.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -11.51,
       "target_2r_touched": false,
       "hard_stop_date": "2026-11-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-11-06",
       "exit_price": 354.28,
       "status": "CLOSED",
-      "sessions_held": 14
+      "sessions_held": 13
     },
     {
       "symbol": "TATAPOWER",
@@ -46,16 +46,16 @@
       "weighted_entry": 366.5,
       "risk_per_share": 9.45,
       "target_2r": 385.4,
-      "latest_close": 323.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -11.73,
+      "latest_close": 323.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -11.87,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-24",
       "exit_date": "2026-09-25",
       "exit_price": 363.0,
       "status": "CLOSED",
-      "sessions_held": 42
+      "sessions_held": 41
     },
     {
       "symbol": "TATAPOWER",
@@ -73,16 +73,16 @@
       "weighted_entry": 382.5,
       "risk_per_share": 7.4,
       "target_2r": 397.3,
-      "latest_close": 323.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -15.42,
+      "latest_close": 323.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -15.56,
       "target_2r_touched": false,
       "hard_stop_date": "2026-08-19",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-08-19",
       "exit_price": 375.1,
       "status": "CLOSED",
-      "sessions_held": 70
+      "sessions_held": 69
     },
     {
       "symbol": "TATAPOWER",
@@ -100,16 +100,16 @@
       "weighted_entry": 357.21,
       "risk_per_share": 10.74,
       "target_2r": 378.69,
-      "latest_close": 323.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -9.44,
+      "latest_close": 323.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -9.58,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-19",
       "exit_date": "2026-02-20",
       "exit_price": 367.03,
       "status": "CLOSED",
-      "sessions_held": 194
+      "sessions_held": 193
     },
     {
       "symbol": "TATAPOWER",
@@ -127,16 +127,16 @@
       "weighted_entry": 362.23,
       "risk_per_share": 6.5,
       "target_2r": 375.23,
-      "latest_close": 323.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -10.69,
+      "latest_close": 323.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -10.83,
       "target_2r_touched": true,
       "hard_stop_date": "2026-01-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-06",
       "exit_price": 383.59,
       "status": "CLOSED",
-      "sessions_held": 220
+      "sessions_held": 219
     },
     {
       "symbol": "TATAPOWER",
@@ -154,16 +154,16 @@
       "weighted_entry": 391.18,
       "risk_per_share": 7.82,
       "target_2r": 406.81,
-      "latest_close": 323.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -17.3,
+      "latest_close": 323.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -17.43,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-24",
       "exit_date": "2025-09-25",
       "exit_price": 387.9,
       "status": "CLOSED",
-      "sessions_held": 295
+      "sessions_held": 294
     },
     {
       "symbol": "TATAPOWER",
@@ -181,16 +181,16 @@
       "weighted_entry": 394.91,
       "risk_per_share": 11.39,
       "target_2r": 417.68,
-      "latest_close": 323.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -18.08,
+      "latest_close": 323.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -18.21,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-03",
       "exit_date": "2025-07-04",
       "exit_price": 396.54,
       "status": "CLOSED",
-      "sessions_held": 351
+      "sessions_held": 350
     },
     {
       "symbol": "TATAPOWER",
@@ -208,16 +208,16 @@
       "weighted_entry": 391.61,
       "risk_per_share": 16.86,
       "target_2r": 425.32,
-      "latest_close": 323.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -17.39,
+      "latest_close": 323.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -17.52,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-22",
       "exit_date": "2025-05-23",
       "exit_price": 391.41,
       "status": "CLOSED",
-      "sessions_held": 383
+      "sessions_held": 382
     },
     {
       "symbol": "TATAPOWER",
@@ -235,16 +235,16 @@
       "weighted_entry": 369.72,
       "risk_per_share": 12.44,
       "target_2r": 394.61,
-      "latest_close": 323.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -12.5,
+      "latest_close": 323.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -12.64,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-04",
       "exit_date": "2025-04-07",
-      "exit_price": 332.96,
+      "exit_price": 332.97,
       "status": "CLOSED",
-      "sessions_held": 416
+      "sessions_held": 415
     },
     {
       "symbol": "TATAPOWER",
@@ -262,16 +262,16 @@
       "weighted_entry": 384.5,
       "risk_per_share": 13.3,
       "target_2r": 411.09,
-      "latest_close": 323.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -15.86,
+      "latest_close": 323.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -15.99,
       "target_2r_touched": true,
       "hard_stop_date": "2024-12-12",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-12-12",
       "exit_price": 424.4,
       "status": "CLOSED",
-      "sessions_held": 487
+      "sessions_held": 486
     },
     {
       "symbol": "TATAPOWER",
@@ -289,16 +289,16 @@
       "weighted_entry": 440.64,
       "risk_per_share": 10.58,
       "target_2r": 461.8,
-      "latest_close": 323.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -26.58,
+      "latest_close": 323.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -26.7,
       "target_2r_touched": false,
       "hard_stop_date": "2024-09-11",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-09-11",
       "exit_price": 429.98,
       "status": "CLOSED",
-      "sessions_held": 547
+      "sessions_held": 546
     },
     {
       "symbol": "TATAPOWER",
@@ -316,16 +316,16 @@
       "weighted_entry": 438.11,
       "risk_per_share": 9.73,
       "target_2r": 457.58,
-      "latest_close": 323.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -26.16,
+      "latest_close": 323.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -26.27,
       "target_2r_touched": false,
       "hard_stop_date": "2024-09-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-09-04",
       "exit_price": 420.9,
       "status": "CLOSED",
-      "sessions_held": 554
+      "sessions_held": 553
     },
     {
       "symbol": "TATAPOWER",
@@ -343,16 +343,16 @@
       "weighted_entry": 440.76,
       "risk_per_share": 16.86,
       "target_2r": 474.48,
-      "latest_close": 323.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -26.6,
+      "latest_close": 323.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -26.72,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-05",
       "exit_date": "2024-08-06",
       "exit_price": 432.76,
       "status": "CLOSED",
-      "sessions_held": 576
+      "sessions_held": 575
     },
     {
       "symbol": "TATAPOWER",
@@ -370,16 +370,16 @@
       "weighted_entry": 439.62,
       "risk_per_share": 11.13,
       "target_2r": 461.88,
-      "latest_close": 323.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -26.41,
+      "latest_close": 323.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -26.53,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-07-12",
       "exit_date": "2024-07-15",
       "exit_price": 431.17,
       "status": "CLOSED",
-      "sessions_held": 588
+      "sessions_held": 587
     },
     {
       "symbol": "TATAPOWER",
@@ -397,16 +397,16 @@
       "weighted_entry": 440.64,
       "risk_per_share": 24.23,
       "target_2r": 489.1,
-      "latest_close": 323.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -26.58,
+      "latest_close": 323.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -26.7,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-19",
       "exit_date": "2024-06-20",
       "exit_price": 435.68,
       "status": "CLOSED",
-      "sessions_held": 610
+      "sessions_held": 609
     },
     {
       "symbol": "TATAPOWER",
@@ -424,16 +424,16 @@
       "weighted_entry": 437.11,
       "risk_per_share": 17.18,
       "target_2r": 471.46,
-      "latest_close": 323.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -25.99,
+      "latest_close": 323.0,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -26.1,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-28",
       "exit_date": "2024-05-29",
       "exit_price": 427.81,
       "status": "CLOSED",
-      "sessions_held": 626
+      "sessions_held": 625
     }
   ]
 }

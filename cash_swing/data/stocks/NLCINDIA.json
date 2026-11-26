@@ -1,7 +1,7 @@
 {
   "symbol": "NLCINDIA",
   "company": "NLC India Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-25",
   "setups": [
     {
       "symbol": "NLCINDIA",
@@ -19,16 +19,16 @@
       "weighted_entry": 262.11,
       "risk_per_share": 14.22,
       "target_2r": 290.56,
-      "latest_close": 228.92,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -12.66,
+      "latest_close": 226.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -13.74,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-23",
       "exit_date": "2026-03-24",
       "exit_price": 256.2,
       "status": "CLOSED",
-      "sessions_held": 170
+      "sessions_held": 169
     },
     {
       "symbol": "NLCINDIA",
@@ -46,16 +46,16 @@
       "weighted_entry": 263.15,
       "risk_per_share": 12.07,
       "target_2r": 287.29,
-      "latest_close": 228.92,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -13.01,
+      "latest_close": 226.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -14.08,
       "target_2r_touched": false,
       "hard_stop_date": "2026-02-02",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-02-02",
       "exit_price": 245.88,
       "status": "CLOSED",
-      "sessions_held": 202
+      "sessions_held": 201
     },
     {
       "symbol": "NLCINDIA",
@@ -73,16 +73,16 @@
       "weighted_entry": 259.17,
       "risk_per_share": 9.54,
       "target_2r": 278.26,
-      "latest_close": 228.92,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -11.67,
+      "latest_close": 226.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -12.76,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-08",
       "exit_date": "2026-01-09",
       "exit_price": 252.7,
       "status": "CLOSED",
-      "sessions_held": 226
+      "sessions_held": 225
     },
     {
       "symbol": "NLCINDIA",
@@ -100,16 +100,16 @@
       "weighted_entry": 259.05,
       "risk_per_share": 9.21,
       "target_2r": 277.47,
-      "latest_close": 228.92,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -11.63,
+      "latest_close": 226.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -12.72,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-08",
       "exit_date": "2025-10-09",
       "exit_price": 264.75,
       "status": "CLOSED",
-      "sessions_held": 298
+      "sessions_held": 297
     },
     {
       "symbol": "NLCINDIA",
@@ -127,16 +127,16 @@
       "weighted_entry": 241.54,
       "risk_per_share": 10.03,
       "target_2r": 261.6,
-      "latest_close": 228.92,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -5.22,
+      "latest_close": 226.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -6.39,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-14",
       "exit_date": "2025-08-18",
       "exit_price": 232.73,
       "status": "CLOSED",
-      "sessions_held": 317
+      "sessions_held": 316
     },
     {
       "symbol": "NLCINDIA",
@@ -154,16 +154,16 @@
       "weighted_entry": 237.91,
       "risk_per_share": 6.1,
       "target_2r": 250.11,
-      "latest_close": 228.92,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -3.78,
+      "latest_close": 226.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -4.96,
       "target_2r_touched": false,
       "hard_stop_date": "2025-07-18",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-18",
       "exit_price": 230.43,
       "status": "CLOSED",
-      "sessions_held": 336
+      "sessions_held": 335
     },
     {
       "symbol": "NLCINDIA",
@@ -181,16 +181,16 @@
       "weighted_entry": 238.57,
       "risk_per_share": 10.25,
       "target_2r": 259.07,
-      "latest_close": 228.92,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -4.05,
+      "latest_close": 226.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -5.23,
       "target_2r_touched": false,
       "hard_stop_date": "2025-05-20",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-05-20",
       "exit_price": 234.06,
       "status": "CLOSED",
-      "sessions_held": 378
+      "sessions_held": 377
     },
     {
       "symbol": "NLCINDIA",
@@ -208,16 +208,16 @@
       "weighted_entry": 236.67,
       "risk_per_share": 13.64,
       "target_2r": 263.95,
-      "latest_close": 228.92,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -3.28,
+      "latest_close": 226.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -4.47,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-25",
       "exit_date": "2025-04-28",
       "exit_price": 231.42,
       "status": "CLOSED",
-      "sessions_held": 399
+      "sessions_held": 398
     },
     {
       "symbol": "NLCINDIA",
@@ -235,16 +235,16 @@
       "weighted_entry": 234.77,
       "risk_per_share": 18.21,
       "target_2r": 271.19,
-      "latest_close": 228.92,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -2.49,
+      "latest_close": 226.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -3.69,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-11",
       "exit_date": "2025-03-12",
       "exit_price": 213.46,
       "status": "CLOSED",
-      "sessions_held": 425
+      "sessions_held": 424
     },
     {
       "symbol": "NLCINDIA",
@@ -262,16 +262,16 @@
       "weighted_entry": 235.43,
       "risk_per_share": 17.14,
       "target_2r": 269.7,
-      "latest_close": 228.92,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -2.76,
+      "latest_close": 226.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -3.96,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-24",
       "exit_date": "2025-02-25",
       "exit_price": 212.0,
       "status": "CLOSED",
-      "sessions_held": 433
+      "sessions_held": 432
     },
     {
       "symbol": "NLCINDIA",
@@ -289,16 +289,16 @@
       "weighted_entry": 252.58,
       "risk_per_share": 11.69,
       "target_2r": 275.95,
-      "latest_close": 228.92,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -9.37,
+      "latest_close": 226.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -10.48,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-12",
       "exit_date": "2024-12-13",
       "exit_price": 249.85,
       "status": "CLOSED",
-      "sessions_held": 495
+      "sessions_held": 494
     },
     {
       "symbol": "NLCINDIA",
@@ -316,16 +316,16 @@
       "weighted_entry": 259.47,
       "risk_per_share": 13.53,
       "target_2r": 286.54,
-      "latest_close": 228.92,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -11.77,
+      "latest_close": 226.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -12.86,
       "target_2r_touched": true,
       "hard_stop_date": "2024-10-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-10-04",
       "exit_price": 265.08,
       "status": "CLOSED",
-      "sessions_held": 537
+      "sessions_held": 536
     },
     {
       "symbol": "NLCINDIA",
@@ -343,16 +343,16 @@
       "weighted_entry": 256.89,
       "risk_per_share": 13.42,
       "target_2r": 283.72,
-      "latest_close": 228.92,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -10.89,
+      "latest_close": 226.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -11.99,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-03",
       "exit_date": "2024-09-04",
       "exit_price": 259.46,
       "status": "CLOSED",
-      "sessions_held": 559
+      "sessions_held": 558
     },
     {
       "symbol": "NLCINDIA",
@@ -370,16 +370,16 @@
       "weighted_entry": 226.35,
       "risk_per_share": 16.37,
       "target_2r": 259.1,
-      "latest_close": 228.92,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 1.13,
+      "latest_close": 226.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -0.11,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-07-19",
       "exit_date": "2024-07-22",
       "exit_price": 257.64,
       "status": "CLOSED",
-      "sessions_held": 607
+      "sessions_held": 606
     },
     {
       "symbol": "NLCINDIA",
@@ -397,16 +397,16 @@
       "weighted_entry": 228.08,
       "risk_per_share": 14.12,
       "target_2r": 256.32,
-      "latest_close": 228.92,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 0.37,
+      "latest_close": 226.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -0.87,
       "target_2r_touched": false,
       "hard_stop_date": "2024-06-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-06-04",
       "exit_price": 217.56,
       "status": "CLOSED",
-      "sessions_held": 615
+      "sessions_held": 614
     },
     {
       "symbol": "NLCINDIA",
@@ -424,16 +424,16 @@
       "weighted_entry": 227.81,
       "risk_per_share": 14.94,
       "target_2r": 257.68,
-      "latest_close": 228.92,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 0.49,
+      "latest_close": 226.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -0.75,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-24",
       "exit_date": "2024-05-27",
       "exit_price": 224.71,
       "status": "CLOSED",
-      "sessions_held": 625
+      "sessions_held": 624
     },
     {
       "symbol": "NLCINDIA",
@@ -451,16 +451,16 @@
       "weighted_entry": 220.94,
       "risk_per_share": 15.41,
       "target_2r": 251.75,
-      "latest_close": 228.92,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 3.61,
+      "latest_close": 226.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 2.34,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-15",
       "exit_date": "2024-04-16",
       "exit_price": 215.05,
       "status": "CLOSED",
-      "sessions_held": 655
+      "sessions_held": 654
     }
   ]
 }

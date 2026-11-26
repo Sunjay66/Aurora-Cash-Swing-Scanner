@@ -1,7 +1,7 @@
 {
   "symbol": "GROWW",
   "company": "Billionbrains Garage Ventures Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-25",
   "setups": [
     {
       "symbol": "GROWW",
@@ -19,16 +19,16 @@
       "weighted_entry": 207.34,
       "risk_per_share": 8.27,
       "target_2r": 223.88,
-      "latest_close": 220.01,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 6.11,
+      "latest_close": 217.48,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 4.89,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-23",
       "exit_date": "2026-11-25",
       "exit_price": 220.0,
       "status": "CLOSED",
-      "sessions_held": 16
+      "sessions_held": 15
     },
     {
       "symbol": "GROWW",
@@ -46,16 +46,16 @@
       "weighted_entry": 206.53,
       "risk_per_share": 6.92,
       "target_2r": 220.37,
-      "latest_close": 220.01,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 6.53,
+      "latest_close": 217.48,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 5.3,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-10-21",
       "exit_date": "2026-10-22",
       "exit_price": 190.0,
       "status": "CLOSED",
-      "sessions_held": 31
+      "sessions_held": 30
     },
     {
       "symbol": "GROWW",
@@ -73,16 +73,16 @@
       "weighted_entry": 208.21,
       "risk_per_share": 6.64,
       "target_2r": 221.5,
-      "latest_close": 220.01,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 5.67,
+      "latest_close": 217.48,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 4.45,
       "target_2r_touched": false,
       "hard_stop_date": "2026-09-16",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-09-16",
       "exit_price": 193.56,
       "status": "CLOSED",
-      "sessions_held": 49
+      "sessions_held": 48
     },
     {
       "symbol": "GROWW",
@@ -100,16 +100,16 @@
       "weighted_entry": 208.15,
       "risk_per_share": 6.55,
       "target_2r": 221.25,
-      "latest_close": 220.01,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 5.7,
+      "latest_close": 217.48,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 4.48,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-26",
       "exit_date": "2026-08-27",
       "exit_price": 195.9,
       "status": "CLOSED",
-      "sessions_held": 62
+      "sessions_held": 61
     },
     {
       "symbol": "GROWW",
@@ -127,16 +127,16 @@
       "weighted_entry": 208.93,
       "risk_per_share": 7.76,
       "target_2r": 224.45,
-      "latest_close": 220.01,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 5.3,
+      "latest_close": 217.48,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 4.09,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-22",
       "exit_date": "2026-06-23",
       "exit_price": 198.0,
       "status": "CLOSED",
-      "sessions_held": 113
+      "sessions_held": 112
     },
     {
       "symbol": "GROWW",
@@ -154,16 +154,16 @@
       "weighted_entry": 198.19,
       "risk_per_share": 8.46,
       "target_2r": 215.1,
-      "latest_close": 220.01,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 11.01,
+      "latest_close": 217.48,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 9.73,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-06",
       "exit_date": "2026-05-07",
       "exit_price": 212.0,
       "status": "CLOSED",
-      "sessions_held": 159
+      "sessions_held": 158
     },
     {
       "symbol": "GROWW",
@@ -181,16 +181,16 @@
       "weighted_entry": 166.29,
       "risk_per_share": 9.13,
       "target_2r": 184.55,
-      "latest_close": 220.01,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 32.3,
+      "latest_close": 217.48,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 30.78,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-31",
       "exit_date": "2026-01-01",
       "exit_price": 156.23,
       "status": "CLOSED",
-      "sessions_held": 228
+      "sessions_held": 227
     }
   ]
 }

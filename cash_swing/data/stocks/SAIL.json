@@ -1,7 +1,7 @@
 {
   "symbol": "SAIL",
   "company": "Steel Authority of India Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-25",
   "setups": [
     {
       "symbol": "SAIL",
@@ -19,16 +19,16 @@
       "weighted_entry": 177.0,
       "risk_per_share": 7.66,
       "target_2r": 192.33,
-      "latest_close": 160.96,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -9.06,
+      "latest_close": 161.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -8.98,
       "target_2r_touched": false,
       "hard_stop_date": "2026-11-16",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-11-16",
       "exit_price": 169.34,
       "status": "CLOSED",
-      "sessions_held": 10
+      "sessions_held": 9
     },
     {
       "symbol": "SAIL",
@@ -46,16 +46,16 @@
       "weighted_entry": 180.17,
       "risk_per_share": 6.7,
       "target_2r": 193.56,
-      "latest_close": 160.96,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -10.66,
+      "latest_close": 161.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -10.58,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-29",
       "exit_date": "2026-09-30",
       "exit_price": 181.85,
       "status": "CLOSED",
-      "sessions_held": 39
+      "sessions_held": 38
     },
     {
       "symbol": "SAIL",
@@ -73,16 +73,16 @@
       "weighted_entry": 180.71,
       "risk_per_share": 6.43,
       "target_2r": 193.57,
-      "latest_close": 160.96,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -10.93,
+      "latest_close": 161.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -10.85,
       "target_2r_touched": false,
       "hard_stop_date": "2026-08-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-08-13",
       "exit_price": 166.26,
       "status": "CLOSED",
-      "sessions_held": 77
+      "sessions_held": 76
     },
     {
       "symbol": "SAIL",
@@ -100,16 +100,16 @@
       "weighted_entry": 177.0,
       "risk_per_share": 9.32,
       "target_2r": 195.64,
-      "latest_close": 160.96,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -9.06,
+      "latest_close": 161.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": -8.98,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-11",
       "exit_date": "2026-05-12",
       "exit_price": 177.57,
       "status": "CLOSED",
-      "sessions_held": 159
+      "sessions_held": 158
     },
     {
       "symbol": "SAIL",
@@ -127,16 +127,16 @@
       "weighted_entry": 144.7,
       "risk_per_share": 4.57,
       "target_2r": 153.84,
-      "latest_close": 160.96,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 11.24,
+      "latest_close": 161.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 11.33,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-20",
       "exit_date": "2026-01-21",
       "exit_price": 143.13,
       "status": "CLOSED",
-      "sessions_held": 223
+      "sessions_held": 222
     },
     {
       "symbol": "SAIL",
@@ -154,16 +154,16 @@
       "weighted_entry": 143.03,
       "risk_per_share": 5.13,
       "target_2r": 153.29,
-      "latest_close": 160.96,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 12.53,
+      "latest_close": 161.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 12.63,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-17",
       "exit_date": "2025-11-18",
       "exit_price": 138.79,
       "status": "CLOSED",
-      "sessions_held": 265
+      "sessions_held": 264
     },
     {
       "symbol": "SAIL",
@@ -181,16 +181,16 @@
       "weighted_entry": 127.37,
       "risk_per_share": 3.78,
       "target_2r": 134.92,
-      "latest_close": 160.96,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 26.38,
+      "latest_close": 161.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 26.49,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-26",
       "exit_date": "2025-09-29",
       "exit_price": 129.7,
       "status": "CLOSED",
-      "sessions_held": 302
+      "sessions_held": 301
     },
     {
       "symbol": "SAIL",
@@ -208,16 +208,16 @@
       "weighted_entry": 124.79,
       "risk_per_share": 5.24,
       "target_2r": 135.28,
-      "latest_close": 160.96,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 28.99,
+      "latest_close": 161.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 29.1,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-12",
       "exit_date": "2025-06-13",
       "exit_price": 123.37,
       "status": "CLOSED",
-      "sessions_held": 383
+      "sessions_held": 382
     },
     {
       "symbol": "SAIL",
@@ -235,16 +235,16 @@
       "weighted_entry": 123.79,
       "risk_per_share": 5.74,
       "target_2r": 135.26,
-      "latest_close": 160.96,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 30.03,
+      "latest_close": 161.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 30.14,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-25",
       "exit_date": "2025-04-28",
       "exit_price": 112.11,
       "status": "CLOSED",
-      "sessions_held": 399
+      "sessions_held": 398
     },
     {
       "symbol": "SAIL",
@@ -262,16 +262,16 @@
       "weighted_entry": 111.66,
       "risk_per_share": 5.04,
       "target_2r": 121.74,
-      "latest_close": 160.96,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 44.16,
+      "latest_close": 161.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 44.28,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-04",
       "exit_date": "2025-04-07",
       "exit_price": 98.79,
       "status": "CLOSED",
-      "sessions_held": 416
+      "sessions_held": 415
     },
     {
       "symbol": "SAIL",
@@ -289,16 +289,16 @@
       "weighted_entry": 111.52,
       "risk_per_share": 5.96,
       "target_2r": 123.44,
-      "latest_close": 160.96,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 44.33,
+      "latest_close": 161.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 44.45,
       "target_2r_touched": false,
       "hard_stop_date": "2025-03-10",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-03-10",
       "exit_price": 104.69,
       "status": "CLOSED",
-      "sessions_held": 425
+      "sessions_held": 424
     },
     {
       "symbol": "SAIL",
@@ -316,16 +316,16 @@
       "weighted_entry": 110.94,
       "risk_per_share": 6.08,
       "target_2r": 123.09,
-      "latest_close": 160.96,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 45.09,
+      "latest_close": 161.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 45.21,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-25",
       "exit_date": "2025-02-27",
       "exit_price": 103.53,
       "status": "CLOSED",
-      "sessions_held": 432
+      "sessions_held": 431
     },
     {
       "symbol": "SAIL",
@@ -343,16 +343,16 @@
       "weighted_entry": 113.17,
       "risk_per_share": 4.69,
       "target_2r": 122.56,
-      "latest_close": 160.96,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 42.23,
+      "latest_close": 161.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 42.36,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-24",
       "exit_date": "2024-12-26",
       "exit_price": 115.53,
       "status": "CLOSED",
-      "sessions_held": 476
+      "sessions_held": 475
     },
     {
       "symbol": "SAIL",
@@ -370,16 +370,16 @@
       "weighted_entry": 113.73,
       "risk_per_share": 3.86,
       "target_2r": 121.46,
-      "latest_close": 160.96,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 41.53,
+      "latest_close": 161.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 41.65,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-16",
       "exit_date": "2024-12-17",
       "exit_price": 119.71,
       "status": "CLOSED",
-      "sessions_held": 490
+      "sessions_held": 489
     },
     {
       "symbol": "SAIL",
@@ -397,16 +397,16 @@
       "weighted_entry": 116.43,
       "risk_per_share": 6.26,
       "target_2r": 128.95,
-      "latest_close": 160.96,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 38.24,
+      "latest_close": 161.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 38.36,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-15",
       "exit_date": "2024-10-16",
       "exit_price": 126.93,
       "status": "CLOSED",
-      "sessions_held": 524
+      "sessions_held": 523
     },
     {
       "symbol": "SAIL",
@@ -424,16 +424,16 @@
       "weighted_entry": 117.1,
       "risk_per_share": 4.85,
       "target_2r": 126.8,
-      "latest_close": 160.96,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 37.45,
+      "latest_close": 161.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 37.57,
       "target_2r_touched": true,
       "hard_stop_date": "2024-10-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-10-04",
       "exit_price": 131.63,
       "status": "CLOSED",
-      "sessions_held": 535
+      "sessions_held": 534
     },
     {
       "symbol": "SAIL",
@@ -451,16 +451,16 @@
       "weighted_entry": 120.92,
       "risk_per_share": 6.66,
       "target_2r": 134.25,
-      "latest_close": 160.96,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 33.11,
+      "latest_close": 161.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 33.22,
       "target_2r_touched": true,
       "hard_stop_date": "2024-07-10",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-07-10",
       "exit_price": 145.5,
       "status": "CLOSED",
-      "sessions_held": 591
+      "sessions_held": 590
     },
     {
       "symbol": "SAIL",
@@ -478,16 +478,16 @@
       "weighted_entry": 116.46,
       "risk_per_share": 7.81,
       "target_2r": 132.08,
-      "latest_close": 160.96,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 38.21,
+      "latest_close": 161.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 38.33,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-18",
       "exit_date": "2024-04-19",
       "exit_price": 138.23,
       "status": "CLOSED",
-      "sessions_held": 658
+      "sessions_held": 657
     },
     {
       "symbol": "SAIL",
@@ -505,16 +505,16 @@
       "weighted_entry": 117.28,
       "risk_per_share": 6.82,
       "target_2r": 130.92,
-      "latest_close": 160.96,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 37.24,
+      "latest_close": 161.1,
+      "latest_date": "2026-11-25",
+      "unrealised_return_pct": 37.36,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-11",
       "exit_date": "2024-03-12",
       "exit_price": 130.16,
       "status": "CLOSED",
-      "sessions_held": 674
+      "sessions_held": 673
     }
   ]
 }
