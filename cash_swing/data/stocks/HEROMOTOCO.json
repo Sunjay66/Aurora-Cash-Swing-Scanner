@@ -1,7 +1,7 @@
 {
   "symbol": "HEROMOTOCO",
   "company": "Hero MotoCorp Ltd.",
-  "market_date": "2026-11-23",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "HEROMOTOCO",
@@ -19,16 +19,16 @@
       "weighted_entry": 5430.0,
       "risk_per_share": 191.34,
       "target_2r": 5812.68,
-      "latest_close": 5535.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 1.93,
+      "latest_close": 5789.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 6.61,
       "target_2r_touched": false,
       "hard_stop_date": "2026-10-29",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-10-29",
       "exit_price": 5139.66,
       "status": "CLOSED",
-      "sessions_held": 17
+      "sessions_held": 19
     },
     {
       "symbol": "HEROMOTOCO",
@@ -46,16 +46,16 @@
       "weighted_entry": 5119.84,
       "risk_per_share": 111.83,
       "target_2r": 5343.49,
-      "latest_close": 5535.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 8.11,
+      "latest_close": 5789.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 13.07,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-19",
       "exit_date": "2026-08-20",
       "exit_price": 5740.0,
       "status": "CLOSED",
-      "sessions_held": 86
+      "sessions_held": 88
     },
     {
       "symbol": "HEROMOTOCO",
@@ -73,16 +73,16 @@
       "weighted_entry": 5097.01,
       "risk_per_share": 136.01,
       "target_2r": 5369.03,
-      "latest_close": 5535.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 8.59,
+      "latest_close": 5789.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 13.58,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-14",
       "exit_date": "2026-07-15",
       "exit_price": 4843.65,
       "status": "CLOSED",
-      "sessions_held": 91
+      "sessions_held": 93
     },
     {
       "symbol": "HEROMOTOCO",
@@ -100,16 +100,16 @@
       "weighted_entry": 5119.76,
       "risk_per_share": 131.69,
       "target_2r": 5383.13,
-      "latest_close": 5535.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 8.11,
+      "latest_close": 5789.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 13.07,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-24",
       "exit_date": "2026-06-25",
       "exit_price": 4883.07,
       "status": "CLOSED",
-      "sessions_held": 107
+      "sessions_held": 109
     },
     {
       "symbol": "HEROMOTOCO",
@@ -127,16 +127,16 @@
       "weighted_entry": 5185.3,
       "risk_per_share": 189.27,
       "target_2r": 5563.83,
-      "latest_close": 5535.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 6.74,
+      "latest_close": 5789.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 11.64,
       "target_2r_touched": false,
       "hard_stop_date": "2026-05-12",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-05-12",
       "exit_price": 4996.94,
       "status": "CLOSED",
-      "sessions_held": 135
+      "sessions_held": 137
     },
     {
       "symbol": "HEROMOTOCO",
@@ -154,16 +154,16 @@
       "weighted_entry": 5287.54,
       "risk_per_share": 198.02,
       "target_2r": 5683.59,
-      "latest_close": 5535.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 4.68,
+      "latest_close": 5789.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 9.48,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-11",
       "exit_date": "2026-03-12",
       "exit_price": 5507.98,
       "status": "CLOSED",
-      "sessions_held": 173
+      "sessions_held": 175
     },
     {
       "symbol": "HEROMOTOCO",
@@ -181,16 +181,16 @@
       "weighted_entry": 5531.63,
       "risk_per_share": 190.08,
       "target_2r": 5911.8,
-      "latest_close": 5535.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 0.06,
+      "latest_close": 5789.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 4.65,
       "target_2r_touched": false,
       "hard_stop_date": "2026-03-02",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-03-02",
       "exit_price": 5484.33,
       "status": "CLOSED",
-      "sessions_held": 180
+      "sessions_held": 182
     },
     {
       "symbol": "HEROMOTOCO",
@@ -208,16 +208,16 @@
       "weighted_entry": 5609.99,
       "risk_per_share": 205.2,
       "target_2r": 6020.39,
-      "latest_close": 5535.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -1.34,
+      "latest_close": 5789.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 3.19,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-13",
       "exit_date": "2026-02-16",
       "exit_price": 5497.14,
       "status": "CLOSED",
-      "sessions_held": 195
+      "sessions_held": 197
     },
     {
       "symbol": "HEROMOTOCO",
@@ -235,16 +235,16 @@
       "weighted_entry": 5669.46,
       "risk_per_share": 154.8,
       "target_2r": 5979.05,
-      "latest_close": 5535.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -2.37,
+      "latest_close": 5789.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 2.11,
       "target_2r_touched": false,
       "hard_stop_date": "2026-01-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-08",
       "exit_price": 5677.56,
       "status": "CLOSED",
-      "sessions_held": 216
+      "sessions_held": 218
     },
     {
       "symbol": "HEROMOTOCO",
@@ -262,16 +262,16 @@
       "weighted_entry": 5620.9,
       "risk_per_share": 161.87,
       "target_2r": 5944.65,
-      "latest_close": 5535.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -1.53,
+      "latest_close": 5789.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 2.99,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-08",
       "exit_date": "2025-12-09",
       "exit_price": 5958.51,
       "status": "CLOSED",
-      "sessions_held": 251
+      "sessions_held": 253
     },
     {
       "symbol": "HEROMOTOCO",
@@ -289,16 +289,16 @@
       "weighted_entry": 5209.68,
       "risk_per_share": 111.14,
       "target_2r": 5431.96,
-      "latest_close": 5535.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 6.24,
+      "latest_close": 5789.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 11.12,
       "target_2r_touched": false,
       "hard_stop_date": "2025-07-22",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-22",
       "exit_price": 4130.24,
       "status": "CLOSED",
-      "sessions_held": 335
+      "sessions_held": 337
     },
     {
       "symbol": "HEROMOTOCO",
@@ -316,16 +316,16 @@
       "weighted_entry": 5149.92,
       "risk_per_share": 105.72,
       "target_2r": 5361.35,
-      "latest_close": 5535.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 7.48,
+      "latest_close": 5789.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 12.41,
       "target_2r_touched": false,
       "hard_stop_date": "2025-07-11",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-11",
       "exit_price": 4027.1,
       "status": "CLOSED",
-      "sessions_held": 342
+      "sessions_held": 344
     },
     {
       "symbol": "HEROMOTOCO",
@@ -343,16 +343,16 @@
       "weighted_entry": 3812.36,
       "risk_per_share": 142.78,
       "target_2r": 4097.93,
-      "latest_close": 5535.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 45.19,
+      "latest_close": 5789.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 51.85,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-29",
       "exit_date": "2025-04-30",
       "exit_price": 3668.78,
       "status": "CLOSED",
-      "sessions_held": 398
+      "sessions_held": 400
     },
     {
       "symbol": "HEROMOTOCO",
@@ -370,16 +370,16 @@
       "weighted_entry": 3802.89,
       "risk_per_share": 110.33,
       "target_2r": 4023.56,
-      "latest_close": 5535.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 45.55,
+      "latest_close": 5789.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 52.23,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-04",
       "exit_price": 3479.7,
       "status": "CLOSED",
-      "sessions_held": 406
+      "sessions_held": 408
     },
     {
       "symbol": "HEROMOTOCO",
@@ -397,16 +397,16 @@
       "weighted_entry": 3930.98,
       "risk_per_share": 124.77,
       "target_2r": 4180.53,
-      "latest_close": 5535.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 40.8,
+      "latest_close": 5789.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 47.27,
       "target_2r_touched": false,
       "hard_stop_date": "2025-02-03",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-02-03",
       "exit_price": 3981.21,
       "status": "CLOSED",
-      "sessions_held": 445
+      "sessions_held": 447
     },
     {
       "symbol": "HEROMOTOCO",
@@ -424,16 +424,16 @@
       "weighted_entry": 4106.57,
       "risk_per_share": 155.57,
       "target_2r": 4417.71,
-      "latest_close": 5535.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 34.78,
+      "latest_close": 5789.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 40.97,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-27",
       "exit_date": "2024-09-30",
       "exit_price": 5471.55,
       "status": "CLOSED",
-      "sessions_held": 555
+      "sessions_held": 557
     },
     {
       "symbol": "HEROMOTOCO",
@@ -451,16 +451,16 @@
       "weighted_entry": 3953.29,
       "risk_per_share": 119.2,
       "target_2r": 4191.69,
-      "latest_close": 5535.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 40.01,
+      "latest_close": 5789.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 46.43,
       "target_2r_touched": true,
       "hard_stop_date": "2024-05-07",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-05-07",
       "exit_price": 4102.1,
       "status": "CLOSED",
-      "sessions_held": 634
+      "sessions_held": 636
     },
     {
       "symbol": "HEROMOTOCO",
@@ -478,16 +478,16 @@
       "weighted_entry": 3975.34,
       "risk_per_share": 145.83,
       "target_2r": 4267.01,
-      "latest_close": 5535.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 39.23,
+      "latest_close": 5789.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 45.62,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-27",
       "exit_date": "2024-03-28",
       "exit_price": 4245.74,
       "status": "CLOSED",
-      "sessions_held": 658
+      "sessions_held": 660
     },
     {
       "symbol": "HEROMOTOCO",
@@ -505,16 +505,16 @@
       "weighted_entry": 3953.81,
       "risk_per_share": 126.68,
       "target_2r": 4207.16,
-      "latest_close": 5535.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 39.99,
+      "latest_close": 5789.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 46.42,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-13",
       "exit_date": "2024-03-14",
       "exit_price": 4108.33,
       "status": "CLOSED",
-      "sessions_held": 670
+      "sessions_held": 672
     }
   ]
 }

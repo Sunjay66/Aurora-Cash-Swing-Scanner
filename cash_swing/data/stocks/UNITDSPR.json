@@ -1,7 +1,7 @@
 {
   "symbol": "UNITDSPR",
   "company": "United Spirits Ltd.",
-  "market_date": "2026-11-23",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "UNITDSPR",
@@ -19,16 +19,16 @@
       "weighted_entry": 1402.23,
       "risk_per_share": 52.34,
       "target_2r": 1506.9,
-      "latest_close": 1478.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 5.4,
-      "target_2r_touched": false,
+      "latest_close": 1488.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 6.15,
+      "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
-      "status": "OPEN",
-      "sessions_held": 12
+      "status": "TWO_R",
+      "sessions_held": 14
     },
     {
       "symbol": "UNITDSPR",
@@ -46,16 +46,16 @@
       "weighted_entry": 1347.06,
       "risk_per_share": 33.0,
       "target_2r": 1413.05,
-      "latest_close": 1478.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 9.72,
+      "latest_close": 1488.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 10.5,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-13",
       "exit_date": "2026-07-14",
       "exit_price": 1373.0,
       "status": "CLOSED",
-      "sessions_held": 108
+      "sessions_held": 110
     },
     {
       "symbol": "UNITDSPR",
@@ -73,16 +73,16 @@
       "weighted_entry": 1358.9,
       "risk_per_share": 44.48,
       "target_2r": 1447.86,
-      "latest_close": 1478.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 8.76,
+      "latest_close": 1488.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 9.54,
       "target_2r_touched": false,
       "hard_stop_date": "2026-04-30",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-04-30",
       "exit_price": 1321.6,
       "status": "CLOSED",
-      "sessions_held": 147
+      "sessions_held": 149
     },
     {
       "symbol": "UNITDSPR",
@@ -100,16 +100,16 @@
       "weighted_entry": 1389.18,
       "risk_per_share": 35.54,
       "target_2r": 1460.27,
-      "latest_close": 1478.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 6.39,
+      "latest_close": 1488.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 7.15,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-19",
       "exit_date": "2026-02-20",
       "exit_price": 1390.29,
       "status": "CLOSED",
-      "sessions_held": 194
+      "sessions_held": 196
     },
     {
       "symbol": "UNITDSPR",
@@ -127,16 +127,16 @@
       "weighted_entry": 1404.38,
       "risk_per_share": 33.62,
       "target_2r": 1471.63,
-      "latest_close": 1478.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 5.24,
+      "latest_close": 1488.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 5.99,
       "target_2r_touched": false,
       "hard_stop_date": "2026-01-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-01",
       "exit_price": 1396.35,
       "status": "CLOSED",
-      "sessions_held": 220
+      "sessions_held": 222
     },
     {
       "symbol": "UNITDSPR",
@@ -154,16 +154,16 @@
       "weighted_entry": 1346.59,
       "risk_per_share": 33.04,
       "target_2r": 1412.68,
-      "latest_close": 1478.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 9.76,
+      "latest_close": 1488.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 10.54,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-10",
       "exit_date": "2025-11-11",
       "exit_price": 1396.19,
       "status": "CLOSED",
-      "sessions_held": 271
+      "sessions_held": 273
     },
     {
       "symbol": "UNITDSPR",
@@ -181,16 +181,16 @@
       "weighted_entry": 1343.73,
       "risk_per_share": 32.48,
       "target_2r": 1408.68,
-      "latest_close": 1478.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 9.99,
+      "latest_close": 1488.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 10.77,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-08",
       "exit_date": "2025-10-09",
       "exit_price": 1316.96,
       "status": "CLOSED",
-      "sessions_held": 281
+      "sessions_held": 283
     },
     {
       "symbol": "UNITDSPR",
@@ -208,16 +208,16 @@
       "weighted_entry": 1342.49,
       "risk_per_share": 28.9,
       "target_2r": 1400.3,
-      "latest_close": 1478.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 10.09,
+      "latest_close": 1488.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 10.88,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-25",
       "exit_date": "2025-09-26",
       "exit_price": 1303.82,
       "status": "CLOSED",
-      "sessions_held": 291
+      "sessions_held": 293
     },
     {
       "symbol": "UNITDSPR",
@@ -235,16 +235,16 @@
       "weighted_entry": 1347.93,
       "risk_per_share": 28.26,
       "target_2r": 1404.45,
-      "latest_close": 1478.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 9.65,
+      "latest_close": 1488.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 10.43,
       "target_2r_touched": false,
       "hard_stop_date": "2025-09-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-09-04",
       "exit_price": 1319.22,
       "status": "CLOSED",
-      "sessions_held": 301
+      "sessions_held": 303
     },
     {
       "symbol": "UNITDSPR",
@@ -262,16 +262,16 @@
       "weighted_entry": 1393.39,
       "risk_per_share": 43.44,
       "target_2r": 1480.26,
-      "latest_close": 1478.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 6.07,
+      "latest_close": 1488.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 6.83,
       "target_2r_touched": true,
       "hard_stop_date": "2025-06-11",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-06-11",
       "exit_price": 1495.58,
       "status": "CLOSED",
-      "sessions_held": 366
+      "sessions_held": 368
     },
     {
       "symbol": "UNITDSPR",
@@ -289,16 +289,16 @@
       "weighted_entry": 1481.78,
       "risk_per_share": 37.46,
       "target_2r": 1556.69,
-      "latest_close": 1478.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -0.25,
+      "latest_close": 1488.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 0.45,
       "target_2r_touched": false,
       "hard_stop_date": "2025-03-25",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-03-25",
       "exit_price": 1333.5,
       "status": "CLOSED",
-      "sessions_held": 412
+      "sessions_held": 414
     },
     {
       "symbol": "UNITDSPR",
@@ -316,16 +316,16 @@
       "weighted_entry": 1487.24,
       "risk_per_share": 37.29,
       "target_2r": 1561.83,
-      "latest_close": 1478.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": -0.62,
+      "latest_close": 1488.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 0.08,
       "target_2r_touched": false,
       "hard_stop_date": "2024-11-25",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-11-25",
       "exit_price": 1450.1,
       "status": "CLOSED",
-      "sessions_held": 495
+      "sessions_held": 497
     },
     {
       "symbol": "UNITDSPR",
@@ -343,16 +343,16 @@
       "weighted_entry": 1403.04,
       "risk_per_share": 39.87,
       "target_2r": 1482.79,
-      "latest_close": 1478.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 5.34,
+      "latest_close": 1488.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 6.09,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-14",
       "exit_date": "2024-06-18",
       "exit_price": 1233.94,
       "status": "CLOSED",
-      "sessions_held": 612
+      "sessions_held": 614
     },
     {
       "symbol": "UNITDSPR",
@@ -370,16 +370,16 @@
       "weighted_entry": 1382.88,
       "risk_per_share": 35.55,
       "target_2r": 1453.99,
-      "latest_close": 1478.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 6.88,
+      "latest_close": 1488.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 7.64,
       "target_2r_touched": false,
       "hard_stop_date": "2024-04-03",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-04-03",
       "exit_price": 1104.74,
       "status": "CLOSED",
-      "sessions_held": 654
+      "sessions_held": 656
     },
     {
       "symbol": "UNITDSPR",
@@ -397,16 +397,16 @@
       "weighted_entry": 1360.69,
       "risk_per_share": 35.04,
       "target_2r": 1430.77,
-      "latest_close": 1478.0,
-      "latest_date": "2026-11-23",
-      "unrealised_return_pct": 8.62,
+      "latest_close": 1488.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 9.39,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-28",
       "exit_date": "2024-02-29",
       "exit_price": 1108.1,
       "status": "CLOSED",
-      "sessions_held": 685
+      "sessions_held": 687
     }
   ]
 }

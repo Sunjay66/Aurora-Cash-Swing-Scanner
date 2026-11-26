@@ -1,7 +1,7 @@
 {
   "symbol": "INDIANB",
   "company": "Indian Bank",
-  "market_date": "2026-11-23",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "INDIANB",
@@ -20,7 +20,7 @@
       "risk_per_share": 31.14,
       "target_2r": 928.49,
       "latest_close": 933.0,
-      "latest_date": "2026-11-23",
+      "latest_date": "2026-11-26",
       "unrealised_return_pct": 7.71,
       "target_2r_touched": false,
       "hard_stop_date": null,
@@ -28,7 +28,7 @@
       "exit_date": "2026-10-26",
       "exit_price": 832.4,
       "status": "CLOSED",
-      "sessions_held": 24
+      "sessions_held": 26
     },
     {
       "symbol": "INDIANB",
@@ -47,7 +47,7 @@
       "risk_per_share": 33.62,
       "target_2r": 934.33,
       "latest_close": 933.0,
-      "latest_date": "2026-11-23",
+      "latest_date": "2026-11-26",
       "unrealised_return_pct": 7.6,
       "target_2r_touched": false,
       "hard_stop_date": null,
@@ -55,7 +55,7 @@
       "exit_date": "2026-07-23",
       "exit_price": 827.0,
       "status": "CLOSED",
-      "sessions_held": 87
+      "sessions_held": 89
     },
     {
       "symbol": "INDIANB",
@@ -74,7 +74,7 @@
       "risk_per_share": 28.81,
       "target_2r": 931.21,
       "latest_close": 933.0,
-      "latest_date": "2026-11-23",
+      "latest_date": "2026-11-26",
       "unrealised_return_pct": 6.8,
       "target_2r_touched": false,
       "hard_stop_date": "2026-06-11",
@@ -82,7 +82,7 @@
       "exit_date": "2026-06-11",
       "exit_price": 824.95,
       "status": "CLOSED",
-      "sessions_held": 114
+      "sessions_held": 116
     },
     {
       "symbol": "INDIANB",
@@ -101,7 +101,7 @@
       "risk_per_share": 47.4,
       "target_2r": 988.44,
       "latest_close": 933.0,
-      "latest_date": "2026-11-23",
+      "latest_date": "2026-11-26",
       "unrealised_return_pct": 4.41,
       "target_2r_touched": false,
       "hard_stop_date": null,
@@ -109,7 +109,7 @@
       "exit_date": "2026-04-21",
       "exit_price": 914.52,
       "status": "CLOSED",
-      "sessions_held": 155
+      "sessions_held": 157
     },
     {
       "symbol": "INDIANB",
@@ -128,7 +128,7 @@
       "risk_per_share": 20.52,
       "target_2r": 906.08,
       "latest_close": 933.0,
-      "latest_date": "2026-11-23",
+      "latest_date": "2026-11-26",
       "unrealised_return_pct": 7.86,
       "target_2r_touched": false,
       "hard_stop_date": null,
@@ -136,7 +136,7 @@
       "exit_date": "2026-01-09",
       "exit_price": 813.81,
       "status": "CLOSED",
-      "sessions_held": 219
+      "sessions_held": 221
     },
     {
       "symbol": "INDIANB",
@@ -155,7 +155,7 @@
       "risk_per_share": 20.42,
       "target_2r": 836.82,
       "latest_close": 933.0,
-      "latest_date": "2026-11-23",
+      "latest_date": "2026-11-26",
       "unrealised_return_pct": 17.21,
       "target_2r_touched": false,
       "hard_stop_date": null,
@@ -163,7 +163,7 @@
       "exit_date": "2025-08-28",
       "exit_price": 641.34,
       "status": "CLOSED",
-      "sessions_held": 319
+      "sessions_held": 321
     },
     {
       "symbol": "INDIANB",
@@ -182,7 +182,7 @@
       "risk_per_share": 17.4,
       "target_2r": 838.61,
       "latest_close": 933.0,
-      "latest_date": "2026-11-23",
+      "latest_date": "2026-11-26",
       "unrealised_return_pct": 16.07,
       "target_2r_touched": false,
       "hard_stop_date": "2025-07-25",
@@ -190,7 +190,7 @@
       "exit_date": "2025-07-25",
       "exit_price": 621.79,
       "status": "CLOSED",
-      "sessions_held": 328
+      "sessions_held": 330
     },
     {
       "symbol": "INDIANB",
@@ -209,7 +209,7 @@
       "risk_per_share": 21.05,
       "target_2r": 569.35,
       "latest_close": 933.0,
-      "latest_date": "2026-11-23",
+      "latest_date": "2026-11-26",
       "unrealised_return_pct": 76.96,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-01",
@@ -217,7 +217,7 @@
       "exit_date": "2025-04-01",
       "exit_price": 506.92,
       "status": "CLOSED",
-      "sessions_held": 412
+      "sessions_held": 414
     },
     {
       "symbol": "INDIANB",
@@ -236,7 +236,7 @@
       "risk_per_share": 24.06,
       "target_2r": 573.65,
       "latest_close": 933.0,
-      "latest_date": "2026-11-23",
+      "latest_date": "2026-11-26",
       "unrealised_return_pct": 77.53,
       "target_2r_touched": false,
       "hard_stop_date": "2025-02-03",
@@ -244,7 +244,7 @@
       "exit_date": "2025-02-03",
       "exit_price": 497.08,
       "status": "CLOSED",
-      "sessions_held": 447
+      "sessions_held": 449
     },
     {
       "symbol": "INDIANB",
@@ -263,7 +263,7 @@
       "risk_per_share": 25.0,
       "target_2r": 579.1,
       "latest_close": 933.0,
-      "latest_date": "2026-11-23",
+      "latest_date": "2026-11-26",
       "unrealised_return_pct": 76.34,
       "target_2r_touched": true,
       "hard_stop_date": null,
@@ -271,7 +271,7 @@
       "exit_date": "2024-12-12",
       "exit_price": 558.37,
       "status": "CLOSED",
-      "sessions_held": 493
+      "sessions_held": 495
     },
     {
       "symbol": "INDIANB",
@@ -290,7 +290,7 @@
       "risk_per_share": 23.03,
       "target_2r": 605.85,
       "latest_close": 933.0,
-      "latest_date": "2026-11-23",
+      "latest_date": "2026-11-26",
       "unrealised_return_pct": 66.67,
       "target_2r_touched": false,
       "hard_stop_date": null,
@@ -298,7 +298,7 @@
       "exit_date": "2024-11-11",
       "exit_price": 525.15,
       "status": "CLOSED",
-      "sessions_held": 511
+      "sessions_held": 513
     },
     {
       "symbol": "INDIANB",
@@ -317,7 +317,7 @@
       "risk_per_share": 14.9,
       "target_2r": 584.85,
       "latest_close": 933.0,
-      "latest_date": "2026-11-23",
+      "latest_date": "2026-11-26",
       "unrealised_return_pct": 68.1,
       "target_2r_touched": false,
       "hard_stop_date": null,
@@ -325,7 +325,7 @@
       "exit_date": "2024-07-24",
       "exit_price": 529.83,
       "status": "CLOSED",
-      "sessions_held": 586
+      "sessions_held": 588
     },
     {
       "symbol": "INDIANB",
@@ -344,7 +344,7 @@
       "risk_per_share": 13.19,
       "target_2r": 579.3,
       "latest_close": 933.0,
-      "latest_date": "2026-11-23",
+      "latest_date": "2026-11-26",
       "unrealised_return_pct": 68.74,
       "target_2r_touched": false,
       "hard_stop_date": null,
@@ -352,7 +352,7 @@
       "exit_date": "2024-07-08",
       "exit_price": 514.46,
       "status": "CLOSED",
-      "sessions_held": 591
+      "sessions_held": 593
     },
     {
       "symbol": "INDIANB",
@@ -371,7 +371,7 @@
       "risk_per_share": 38.05,
       "target_2r": 629.89,
       "latest_close": 933.0,
-      "latest_date": "2026-11-23",
+      "latest_date": "2026-11-26",
       "unrealised_return_pct": 68.48,
       "target_2r_touched": false,
       "hard_stop_date": null,
@@ -379,7 +379,7 @@
       "exit_date": "2024-06-25",
       "exit_price": 518.13,
       "status": "CLOSED",
-      "sessions_held": 605
+      "sessions_held": 607
     },
     {
       "symbol": "INDIANB",
@@ -398,7 +398,7 @@
       "risk_per_share": 25.47,
       "target_2r": 599.53,
       "latest_close": 933.0,
-      "latest_date": "2026-11-23",
+      "latest_date": "2026-11-26",
       "unrealised_return_pct": 70.07,
       "target_2r_touched": false,
       "hard_stop_date": "2024-06-04",
@@ -406,7 +406,7 @@
       "exit_date": "2024-06-04",
       "exit_price": 476.62,
       "status": "CLOSED",
-      "sessions_held": 624
+      "sessions_held": 626
     },
     {
       "symbol": "INDIANB",
@@ -425,7 +425,7 @@
       "risk_per_share": 19.33,
       "target_2r": 584.09,
       "latest_close": 933.0,
-      "latest_date": "2026-11-23",
+      "latest_date": "2026-11-26",
       "unrealised_return_pct": 71.06,
       "target_2r_touched": false,
       "hard_stop_date": null,
@@ -433,7 +433,7 @@
       "exit_date": "2024-05-07",
       "exit_price": 504.15,
       "status": "CLOSED",
-      "sessions_held": 638
+      "sessions_held": 640
     },
     {
       "symbol": "INDIANB",
@@ -452,7 +452,7 @@
       "risk_per_share": 28.22,
       "target_2r": 604.68,
       "latest_close": 933.0,
-      "latest_date": "2026-11-23",
+      "latest_date": "2026-11-26",
       "unrealised_return_pct": 70.18,
       "target_2r_touched": false,
       "hard_stop_date": null,
@@ -460,7 +460,7 @@
       "exit_date": "2024-04-16",
       "exit_price": 477.59,
       "status": "CLOSED",
-      "sessions_held": 653
+      "sessions_held": 655
     },
     {
       "symbol": "INDIANB",
@@ -479,7 +479,7 @@
       "risk_per_share": 16.95,
       "target_2r": 549.06,
       "latest_close": 933.0,
-      "latest_date": "2026-11-23",
+      "latest_date": "2026-11-26",
       "unrealised_return_pct": 81.11,
       "target_2r_touched": false,
       "hard_stop_date": null,
@@ -487,7 +487,7 @@
       "exit_date": "2024-01-10",
       "exit_price": 393.99,
       "status": "CLOSED",
-      "sessions_held": 711
+      "sessions_held": 713
     }
   ]
 }
