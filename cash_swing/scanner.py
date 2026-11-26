@@ -114,7 +114,7 @@ def main():
                 if second_entry and second_entry>0:
                     qty2=max(0,min(int((CAPITAL*RISK_PCT/100*.75)//risk),int((CAPITAL*ALLOC_PCT/100*.75)//second_entry)))
                 total=qty1+qty2
-                avg=((qty1*entry+qty2*second_entry)/total) if total else entry
+                avg=((qty1*entry+qty2*(second_entry or 0.0))/total) if total else entry
                 target=avg+2*risk
                 stop_date=None; ema_exit_signal=None; exit_date=None; exit_price=None; target_hit=False
                 start=entry_ix
