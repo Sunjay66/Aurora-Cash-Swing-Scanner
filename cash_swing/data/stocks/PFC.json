@@ -442,7 +442,7 @@
       "entry_date": "2024-03-12",
       "entry_price": 385.57,
       "atr14": 11.69,
-      "initial_stop": 370.96,
+      "initial_stop": 370.95,
       "stage2_signal_date": "2024-04-04",
       "stage2_entry_date": "2024-04-05",
       "stage2_entry_price": 371.57,
@@ -458,7 +458,7 @@
       "hard_stop_date": "2024-03-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-03-13",
-      "exit_price": 370.96,
+      "exit_price": 370.95,
       "status": "CLOSED",
       "sessions_held": 670
     }
