@@ -1,7 +1,7 @@
 {
   "symbol": "VEDL",
   "company": "Vedanta Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "VEDL",
@@ -19,16 +19,16 @@
       "weighted_entry": 260.0,
       "risk_per_share": 10.09,
       "target_2r": 280.18,
-      "latest_close": 245.31,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -5.65,
+      "latest_close": 238.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -8.46,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-16",
       "exit_date": "2026-11-17",
       "exit_price": 251.7,
       "status": "CLOSED",
-      "sessions_held": 14
+      "sessions_held": 13
     },
     {
       "symbol": "VEDL",
@@ -46,16 +46,16 @@
       "weighted_entry": 270.62,
       "risk_per_share": 9.59,
       "target_2r": 289.81,
-      "latest_close": 245.31,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -9.35,
+      "latest_close": 238.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -12.05,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-31",
       "exit_date": "2026-09-01",
       "exit_price": 274.54,
       "status": "CLOSED",
-      "sessions_held": 64
+      "sessions_held": 63
     },
     {
       "symbol": "VEDL",
@@ -73,16 +73,16 @@
       "weighted_entry": 274.54,
       "risk_per_share": 7.94,
       "target_2r": 290.41,
-      "latest_close": 245.31,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -10.65,
+      "latest_close": 238.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -13.31,
       "target_2r_touched": false,
       "hard_stop_date": "2026-08-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-08-13",
       "exit_price": 266.6,
       "status": "CLOSED",
-      "sessions_held": 75
+      "sessions_held": 74
     },
     {
       "symbol": "VEDL",
@@ -100,16 +100,16 @@
       "weighted_entry": 719.68,
       "risk_per_share": 32.3,
       "target_2r": 784.28,
-      "latest_close": 245.31,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -65.91,
+      "latest_close": 238.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -66.93,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-23",
       "exit_date": "2026-04-24",
       "exit_price": 720.61,
       "status": "CLOSED",
-      "sessions_held": 159
+      "sessions_held": 158
     },
     {
       "symbol": "VEDL",
@@ -127,16 +127,16 @@
       "weighted_entry": 418.25,
       "risk_per_share": 11.75,
       "target_2r": 441.74,
-      "latest_close": 245.31,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -41.35,
+      "latest_close": 238.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -43.1,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-28",
       "exit_date": "2025-08-29",
       "exit_price": 409.38,
       "status": "CLOSED",
-      "sessions_held": 313
+      "sessions_held": 312
     },
     {
       "symbol": "VEDL",
@@ -154,16 +154,16 @@
       "weighted_entry": 420.43,
       "risk_per_share": 11.62,
       "target_2r": 443.67,
-      "latest_close": 245.31,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -41.65,
+      "latest_close": 238.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -43.39,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-25",
       "exit_date": "2025-07-28",
       "exit_price": 412.51,
       "status": "CLOSED",
-      "sessions_held": 332
+      "sessions_held": 331
     },
     {
       "symbol": "VEDL",
@@ -181,16 +181,16 @@
       "weighted_entry": 401.28,
       "risk_per_share": 14.05,
       "target_2r": 429.38,
-      "latest_close": 245.31,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -38.87,
+      "latest_close": 238.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -40.69,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-30",
       "exit_date": "2025-06-02",
       "exit_price": 397.21,
       "status": "CLOSED",
-      "sessions_held": 384
+      "sessions_held": 383
     },
     {
       "symbol": "VEDL",
@@ -208,16 +208,16 @@
       "weighted_entry": 425.45,
       "risk_per_share": 17.9,
       "target_2r": 461.26,
-      "latest_close": 245.31,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -42.34,
+      "latest_close": 238.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -44.06,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-01",
       "exit_date": "2025-04-02",
       "exit_price": 415.7,
       "status": "CLOSED",
-      "sessions_held": 424
+      "sessions_held": 423
     },
     {
       "symbol": "VEDL",
@@ -235,16 +235,16 @@
       "weighted_entry": 442.48,
       "risk_per_share": 11.79,
       "target_2r": 466.06,
-      "latest_close": 245.31,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -44.56,
+      "latest_close": 238.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -46.21,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-18",
       "exit_date": "2024-12-19",
       "exit_price": 433.64,
       "status": "CLOSED",
-      "sessions_held": 490
+      "sessions_held": 489
     },
     {
       "symbol": "VEDL",
@@ -262,16 +262,16 @@
       "weighted_entry": 434.76,
       "risk_per_share": 15.82,
       "target_2r": 466.39,
-      "latest_close": 245.31,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -43.58,
+      "latest_close": 238.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -45.26,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-04",
       "exit_date": "2024-09-05",
       "exit_price": 398.67,
       "status": "CLOSED",
-      "sessions_held": 562
+      "sessions_held": 561
     },
     {
       "symbol": "VEDL",
@@ -289,16 +289,16 @@
       "weighted_entry": 361.54,
       "risk_per_share": 9.03,
       "target_2r": 379.6,
-      "latest_close": 245.31,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -32.15,
+      "latest_close": 238.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -34.17,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-07",
       "exit_date": "2024-05-08",
       "exit_price": 327.22,
       "status": "CLOSED",
-      "sessions_held": 658
+      "sessions_held": 657
     },
     {
       "symbol": "VEDL",
@@ -316,16 +316,16 @@
       "weighted_entry": 363.58,
       "risk_per_share": 8.7,
       "target_2r": 380.99,
-      "latest_close": 245.31,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -32.53,
+      "latest_close": 238.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -34.54,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-11",
       "exit_date": "2024-03-12",
       "exit_price": 229.8,
       "status": "CLOSED",
-      "sessions_held": 674
+      "sessions_held": 673
     }
   ]
 }

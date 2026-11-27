@@ -1,7 +1,7 @@
 {
   "symbol": "GODREJPROP",
   "company": "Godrej Properties Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "GODREJPROP",
@@ -19,16 +19,16 @@
       "weighted_entry": 1853.37,
       "risk_per_share": 76.88,
       "target_2r": 2007.14,
-      "latest_close": 1943.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 4.84,
+      "latest_close": 2004.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 8.14,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "TWO_R",
-      "sessions_held": 15
+      "sessions_held": 14
     },
     {
       "symbol": "GODREJPROP",
@@ -46,16 +46,16 @@
       "weighted_entry": 1786.25,
       "risk_per_share": 75.0,
       "target_2r": 1936.25,
-      "latest_close": 1943.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 8.78,
+      "latest_close": 2004.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 12.21,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-22",
       "exit_date": "2026-07-23",
       "exit_price": 2064.02,
       "status": "CLOSED",
-      "sessions_held": 111
+      "sessions_held": 110
     },
     {
       "symbol": "GODREJPROP",
@@ -73,16 +73,16 @@
       "weighted_entry": 1787.97,
       "risk_per_share": 89.22,
       "target_2r": 1966.41,
-      "latest_close": 1943.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 8.67,
+      "latest_close": 2004.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 12.1,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-05",
       "exit_date": "2026-05-06",
       "exit_price": 1810.35,
       "status": "CLOSED",
-      "sessions_held": 156
+      "sessions_held": 155
     },
     {
       "symbol": "GODREJPROP",
@@ -100,16 +100,16 @@
       "weighted_entry": 1811.65,
       "risk_per_share": 93.38,
       "target_2r": 1998.4,
-      "latest_close": 1943.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 7.25,
+      "latest_close": 2004.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 10.63,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-24",
       "exit_date": "2026-02-25",
       "exit_price": 1780.79,
       "status": "CLOSED",
-      "sessions_held": 193
+      "sessions_held": 192
     },
     {
       "symbol": "GODREJPROP",
@@ -127,16 +127,16 @@
       "weighted_entry": 1887.13,
       "risk_per_share": 47.69,
       "target_2r": 1982.51,
-      "latest_close": 1943.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 2.96,
+      "latest_close": 2004.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 6.21,
       "target_2r_touched": true,
       "hard_stop_date": "2026-01-09",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-09",
       "exit_price": 2070.97,
       "status": "CLOSED",
-      "sessions_held": 219
+      "sessions_held": 218
     },
     {
       "symbol": "GODREJPROP",
@@ -154,16 +154,16 @@
       "weighted_entry": 2185.06,
       "risk_per_share": 63.34,
       "target_2r": 2311.73,
-      "latest_close": 1943.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -11.08,
+      "latest_close": 2004.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -8.27,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-08",
       "exit_date": "2025-10-09",
       "exit_price": 2023.62,
       "status": "CLOSED",
-      "sessions_held": 281
+      "sessions_held": 280
     },
     {
       "symbol": "GODREJPROP",
@@ -181,16 +181,16 @@
       "weighted_entry": 2189.78,
       "risk_per_share": 54.86,
       "target_2r": 2299.5,
-      "latest_close": 1943.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -11.27,
+      "latest_close": 2004.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -8.47,
       "target_2r_touched": false,
       "hard_stop_date": "2025-09-24",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-09-24",
       "exit_price": 2025.09,
       "status": "CLOSED",
-      "sessions_held": 294
+      "sessions_held": 293
     },
     {
       "symbol": "GODREJPROP",
@@ -208,16 +208,16 @@
       "weighted_entry": 2266.67,
       "risk_per_share": 67.22,
       "target_2r": 2401.11,
-      "latest_close": 1943.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -14.28,
+      "latest_close": 2004.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -11.58,
       "target_2r_touched": false,
       "hard_stop_date": "2025-07-23",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-23",
       "exit_price": 2325.22,
       "status": "CLOSED",
-      "sessions_held": 334
+      "sessions_held": 333
     },
     {
       "symbol": "GODREJPROP",
@@ -235,16 +235,16 @@
       "weighted_entry": 2168.41,
       "risk_per_share": 122.27,
       "target_2r": 2412.94,
-      "latest_close": 1943.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -10.4,
+      "latest_close": 2004.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -7.57,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-19",
       "exit_date": "2025-06-20",
       "exit_price": 2368.55,
       "status": "CLOSED",
-      "sessions_held": 384
+      "sessions_held": 383
     },
     {
       "symbol": "GODREJPROP",
@@ -262,16 +262,16 @@
       "weighted_entry": 2170.32,
       "risk_per_share": 109.76,
       "target_2r": 2389.85,
-      "latest_close": 1943.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -10.47,
+      "latest_close": 2004.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -7.65,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-06",
       "exit_date": "2025-05-07",
       "exit_price": 2065.02,
       "status": "CLOSED",
-      "sessions_held": 396
+      "sessions_held": 395
     },
     {
       "symbol": "GODREJPROP",
@@ -289,16 +289,16 @@
       "weighted_entry": 2181.65,
       "risk_per_share": 96.48,
       "target_2r": 2374.62,
-      "latest_close": 1943.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -10.94,
+      "latest_close": 2004.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -8.13,
       "target_2r_touched": false,
       "hard_stop_date": "2025-03-27",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-03-27",
       "exit_price": 2090.94,
       "status": "CLOSED",
-      "sessions_held": 415
+      "sessions_held": 414
     },
     {
       "symbol": "GODREJPROP",
@@ -316,16 +316,16 @@
       "weighted_entry": 2972.9,
       "risk_per_share": 131.6,
       "target_2r": 3236.11,
-      "latest_close": 1943.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -34.64,
+      "latest_close": 2004.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -32.58,
       "target_2r_touched": false,
       "hard_stop_date": "2024-12-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-12-04",
       "exit_price": 2814.16,
       "status": "CLOSED",
-      "sessions_held": 492
+      "sessions_held": 491
     },
     {
       "symbol": "GODREJPROP",
@@ -343,16 +343,16 @@
       "weighted_entry": 3012.86,
       "risk_per_share": 154.05,
       "target_2r": 3320.96,
-      "latest_close": 1943.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -35.51,
+      "latest_close": 2004.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -33.48,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-17",
       "exit_date": "2024-10-18",
       "exit_price": 3075.04,
       "status": "CLOSED",
-      "sessions_held": 525
+      "sessions_held": 524
     },
     {
       "symbol": "GODREJPROP",
@@ -370,16 +370,16 @@
       "weighted_entry": 3181.29,
       "risk_per_share": 108.51,
       "target_2r": 3398.32,
-      "latest_close": 1943.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -38.92,
+      "latest_close": 2004.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -37.0,
       "target_2r_touched": false,
       "hard_stop_date": "2024-10-03",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-10-03",
       "exit_price": 3068.48,
       "status": "CLOSED",
-      "sessions_held": 539
+      "sessions_held": 538
     },
     {
       "symbol": "GODREJPROP",
@@ -397,16 +397,16 @@
       "weighted_entry": 2964.96,
       "risk_per_share": 109.31,
       "target_2r": 3183.57,
-      "latest_close": 1943.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -34.47,
+      "latest_close": 2004.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -32.4,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-18",
       "exit_date": "2024-04-19",
       "exit_price": 2505.89,
       "status": "CLOSED",
-      "sessions_held": 656
+      "sessions_held": 655
     }
   ]
 }

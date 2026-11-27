@@ -1,7 +1,7 @@
 {
   "symbol": "IRFC",
   "company": "Indian Railway Finance Corporation Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "IRFC",
@@ -19,16 +19,16 @@
       "weighted_entry": 82.38,
       "risk_per_share": 3.02,
       "target_2r": 88.41,
-      "latest_close": 82.25,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -0.16,
+      "latest_close": 82.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -0.1,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-18",
       "exit_date": "2026-11-19",
       "exit_price": 80.75,
       "status": "CLOSED",
-      "sessions_held": 14
+      "sessions_held": 13
     },
     {
       "symbol": "IRFC",
@@ -46,16 +46,16 @@
       "weighted_entry": 86.56,
       "risk_per_share": 2.71,
       "target_2r": 91.98,
-      "latest_close": 82.25,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -4.98,
+      "latest_close": 82.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -4.93,
       "target_2r_touched": true,
       "hard_stop_date": "2026-06-24",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-06-24",
       "exit_price": 92.6,
       "status": "CLOSED",
-      "sessions_held": 109
+      "sessions_held": 108
     },
     {
       "symbol": "IRFC",
@@ -73,16 +73,16 @@
       "weighted_entry": 87.74,
       "risk_per_share": 4.95,
       "target_2r": 97.65,
-      "latest_close": 82.25,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -6.26,
+      "latest_close": 82.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -6.2,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-11",
       "exit_date": "2026-05-12",
       "exit_price": 100.93,
       "status": "CLOSED",
-      "sessions_held": 154
+      "sessions_held": 153
     },
     {
       "symbol": "IRFC",
@@ -100,16 +100,16 @@
       "weighted_entry": 122.18,
       "risk_per_share": 3.69,
       "target_2r": 129.55,
-      "latest_close": 82.25,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -32.68,
+      "latest_close": 82.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -32.64,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-08",
       "exit_date": "2026-01-09",
       "exit_price": 121.09,
       "status": "CLOSED",
-      "sessions_held": 227
+      "sessions_held": 226
     },
     {
       "symbol": "IRFC",
@@ -127,16 +127,16 @@
       "weighted_entry": 123.48,
       "risk_per_share": 3.27,
       "target_2r": 130.02,
-      "latest_close": 82.25,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -33.39,
+      "latest_close": 82.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -33.35,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-23",
       "exit_date": "2025-09-24",
       "exit_price": 123.04,
       "status": "CLOSED",
-      "sessions_held": 296
+      "sessions_held": 295
     },
     {
       "symbol": "IRFC",
@@ -154,16 +154,16 @@
       "weighted_entry": 126.1,
       "risk_per_share": 4.51,
       "target_2r": 135.11,
-      "latest_close": 82.25,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -34.77,
+      "latest_close": 82.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -34.74,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-03",
       "exit_date": "2025-07-04",
       "exit_price": 135.07,
       "status": "CLOSED",
-      "sessions_held": 350
+      "sessions_held": 349
     },
     {
       "symbol": "IRFC",
@@ -181,16 +181,16 @@
       "weighted_entry": 134.37,
       "risk_per_share": 5.56,
       "target_2r": 145.5,
-      "latest_close": 82.25,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -38.79,
+      "latest_close": 82.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -38.75,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-12",
       "exit_date": "2025-06-13",
       "exit_price": 131.46,
       "status": "CLOSED",
-      "sessions_held": 381
+      "sessions_held": 380
     },
     {
       "symbol": "IRFC",
@@ -208,16 +208,16 @@
       "weighted_entry": 134.35,
       "risk_per_share": 5.33,
       "target_2r": 145.01,
-      "latest_close": 82.25,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -38.78,
+      "latest_close": 82.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -38.74,
       "target_2r_touched": false,
       "hard_stop_date": "2025-03-27",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-03-27",
       "exit_price": 121.0,
       "status": "CLOSED",
-      "sessions_held": 415
+      "sessions_held": 414
     },
     {
       "symbol": "IRFC",
@@ -235,16 +235,16 @@
       "weighted_entry": 139.33,
       "risk_per_share": 6.96,
       "target_2r": 153.25,
-      "latest_close": 82.25,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -40.97,
+      "latest_close": 82.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -40.93,
       "target_2r_touched": false,
       "hard_stop_date": "2025-02-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-02-01",
       "exit_price": 138.94,
       "status": "CLOSED",
-      "sessions_held": 449
+      "sessions_held": 448
     },
     {
       "symbol": "IRFC",
@@ -262,16 +262,16 @@
       "weighted_entry": 151.94,
       "risk_per_share": 6.41,
       "target_2r": 164.77,
-      "latest_close": 82.25,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -45.87,
+      "latest_close": 82.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -45.83,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-02",
       "exit_date": "2024-12-03",
       "exit_price": 142.16,
       "status": "CLOSED",
-      "sessions_held": 494
+      "sessions_held": 493
     },
     {
       "symbol": "IRFC",
@@ -289,16 +289,16 @@
       "weighted_entry": 151.81,
       "risk_per_share": 8.04,
       "target_2r": 167.89,
-      "latest_close": 82.25,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -45.82,
+      "latest_close": 82.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -45.79,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-08",
       "exit_date": "2024-11-11",
       "exit_price": 140.92,
       "status": "CLOSED",
-      "sessions_held": 510
+      "sessions_held": 509
     },
     {
       "symbol": "IRFC",
@@ -316,16 +316,16 @@
       "weighted_entry": 150.53,
       "risk_per_share": 5.46,
       "target_2r": 161.45,
-      "latest_close": 82.25,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -45.36,
+      "latest_close": 82.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -45.33,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-07",
       "exit_date": "2024-05-08",
       "exit_price": 141.79,
       "status": "CLOSED",
-      "sessions_held": 643
+      "sessions_held": 642
     },
     {
       "symbol": "IRFC",
@@ -343,16 +343,16 @@
       "weighted_entry": 149.77,
       "risk_per_share": 10.51,
       "target_2r": 170.78,
-      "latest_close": 82.25,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -45.08,
+      "latest_close": 82.3,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -45.05,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-12",
       "exit_date": "2024-04-15",
       "exit_price": 131.42,
       "status": "CLOSED",
-      "sessions_held": 656
+      "sessions_held": 655
     }
   ]
 }

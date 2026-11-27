@@ -1,7 +1,7 @@
 {
   "symbol": "JINDALSTEL",
   "company": "Jindal Steel Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "JINDALSTEL",
@@ -19,16 +19,16 @@
       "weighted_entry": 1151.15,
       "risk_per_share": 32.42,
       "target_2r": 1215.99,
-      "latest_close": 1138.7,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -1.08,
+      "latest_close": 1114.8,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -3.16,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-17",
       "exit_date": "2026-11-18",
       "exit_price": 1129.0,
       "status": "CLOSED",
-      "sessions_held": 16
+      "sessions_held": 15
     },
     {
       "symbol": "JINDALSTEL",
@@ -46,16 +46,16 @@
       "weighted_entry": 1165.76,
       "risk_per_share": 40.32,
       "target_2r": 1246.4,
-      "latest_close": 1138.7,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -2.32,
+      "latest_close": 1114.8,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -4.37,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-28",
       "exit_date": "2026-09-29",
       "exit_price": 1137.5,
       "status": "CLOSED",
-      "sessions_held": 43
+      "sessions_held": 42
     },
     {
       "symbol": "JINDALSTEL",
@@ -73,16 +73,16 @@
       "weighted_entry": 1138.85,
       "risk_per_share": 31.25,
       "target_2r": 1201.34,
-      "latest_close": 1138.7,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -0.01,
+      "latest_close": 1114.8,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -2.11,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-11",
       "exit_date": "2026-08-12",
       "exit_price": 1094.04,
       "status": "CLOSED",
-      "sessions_held": 81
+      "sessions_held": 80
     },
     {
       "symbol": "JINDALSTEL",
@@ -100,16 +100,16 @@
       "weighted_entry": 1167.09,
       "risk_per_share": 58.18,
       "target_2r": 1283.46,
-      "latest_close": 1138.7,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -2.43,
+      "latest_close": 1114.8,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -4.48,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-29",
       "exit_date": "2026-04-30",
       "exit_price": 1221.81,
       "status": "CLOSED",
-      "sessions_held": 157
+      "sessions_held": 156
     },
     {
       "symbol": "JINDALSTEL",
@@ -127,16 +127,16 @@
       "weighted_entry": 1075.36,
       "risk_per_share": 28.98,
       "target_2r": 1133.33,
-      "latest_close": 1138.7,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 5.89,
+      "latest_close": 1114.8,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 3.67,
       "target_2r_touched": false,
       "hard_stop_date": "2026-01-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-08",
       "exit_price": 1037.91,
       "status": "CLOSED",
-      "sessions_held": 222
+      "sessions_held": 221
     },
     {
       "symbol": "JINDALSTEL",
@@ -154,16 +154,16 @@
       "weighted_entry": 1073.86,
       "risk_per_share": 29.86,
       "target_2r": 1133.57,
-      "latest_close": 1138.7,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 6.04,
+      "latest_close": 1114.8,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 3.81,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-06",
       "exit_date": "2025-11-07",
       "exit_price": 1033.15,
       "status": "CLOSED",
-      "sessions_held": 267
+      "sessions_held": 266
     },
     {
       "symbol": "JINDALSTEL",
@@ -181,16 +181,16 @@
       "weighted_entry": 1064.82,
       "risk_per_share": 32.04,
       "target_2r": 1128.89,
-      "latest_close": 1138.7,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 6.94,
+      "latest_close": 1114.8,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 4.69,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-17",
       "exit_date": "2025-09-18",
       "exit_price": 1038.09,
       "status": "CLOSED",
-      "sessions_held": 304
+      "sessions_held": 303
     },
     {
       "symbol": "JINDALSTEL",
@@ -208,16 +208,16 @@
       "weighted_entry": 1043.39,
       "risk_per_share": 29.81,
       "target_2r": 1103.01,
-      "latest_close": 1138.7,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 9.14,
+      "latest_close": 1114.8,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 6.84,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-09",
       "exit_date": "2025-07-10",
       "exit_price": 937.46,
       "status": "CLOSED",
-      "sessions_held": 348
+      "sessions_held": 347
     },
     {
       "symbol": "JINDALSTEL",
@@ -235,16 +235,16 @@
       "weighted_entry": 1029.55,
       "risk_per_share": 39.54,
       "target_2r": 1108.63,
-      "latest_close": 1138.7,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 10.6,
+      "latest_close": 1114.8,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 8.28,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-27",
       "exit_date": "2025-05-28",
       "exit_price": 940.05,
       "status": "CLOSED",
-      "sessions_held": 383
+      "sessions_held": 382
     },
     {
       "symbol": "JINDALSTEL",
@@ -262,16 +262,16 @@
       "weighted_entry": 910.03,
       "risk_per_share": 43.28,
       "target_2r": 996.59,
-      "latest_close": 1138.7,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 25.13,
+      "latest_close": 1114.8,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 22.5,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-25",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-25",
       "exit_price": 874.25,
       "status": "CLOSED",
-      "sessions_held": 397
+      "sessions_held": 396
     },
     {
       "symbol": "JINDALSTEL",
@@ -289,16 +289,16 @@
       "weighted_entry": 911.7,
       "risk_per_share": 35.27,
       "target_2r": 982.25,
-      "latest_close": 1138.7,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 24.9,
+      "latest_close": 1114.8,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 22.28,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-28",
       "exit_date": "2025-03-03",
       "exit_price": 848.79,
       "status": "CLOSED",
-      "sessions_held": 433
+      "sessions_held": 432
     },
     {
       "symbol": "JINDALSTEL",
@@ -316,16 +316,16 @@
       "weighted_entry": 934.62,
       "risk_per_share": 34.23,
       "target_2r": 1003.08,
-      "latest_close": 1138.7,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 21.84,
+      "latest_close": 1114.8,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 19.28,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-06",
       "exit_date": "2025-01-07",
       "exit_price": 931.58,
       "status": "CLOSED",
-      "sessions_held": 469
+      "sessions_held": 468
     },
     {
       "symbol": "JINDALSTEL",
@@ -343,16 +343,16 @@
       "weighted_entry": 974.39,
       "risk_per_share": 29.49,
       "target_2r": 1033.38,
-      "latest_close": 1138.7,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 16.86,
+      "latest_close": 1114.8,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 14.41,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-17",
       "exit_date": "2024-12-18",
       "exit_price": 956.39,
       "status": "CLOSED",
-      "sessions_held": 490
+      "sessions_held": 489
     },
     {
       "symbol": "JINDALSTEL",
@@ -370,16 +370,16 @@
       "weighted_entry": 1023.64,
       "risk_per_share": 26.7,
       "target_2r": 1077.05,
-      "latest_close": 1138.7,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 11.24,
+      "latest_close": 1114.8,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 8.91,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-19",
       "exit_date": "2024-09-20",
       "exit_price": 1011.83,
       "status": "CLOSED",
-      "sessions_held": 547
+      "sessions_held": 546
     },
     {
       "symbol": "JINDALSTEL",
@@ -397,16 +397,16 @@
       "weighted_entry": 1025.05,
       "risk_per_share": 28.09,
       "target_2r": 1081.22,
-      "latest_close": 1138.7,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 11.09,
+      "latest_close": 1114.8,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 8.76,
       "target_2r_touched": false,
       "hard_stop_date": "2024-08-29",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-08-29",
       "exit_price": 953.7,
       "status": "CLOSED",
-      "sessions_held": 559
+      "sessions_held": 558
     },
     {
       "symbol": "JINDALSTEL",
@@ -424,16 +424,16 @@
       "weighted_entry": 945.94,
       "risk_per_share": 27.7,
       "target_2r": 1001.35,
-      "latest_close": 1138.7,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 20.38,
+      "latest_close": 1114.8,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 17.85,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-09",
       "exit_date": "2024-02-12",
       "exit_price": 757.0,
       "status": "CLOSED",
-      "sessions_held": 698
+      "sessions_held": 697
     }
   ]
 }

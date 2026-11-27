@@ -1,7 +1,7 @@
 {
   "symbol": "TMCV",
   "company": "Tata Motors Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "TMCV",
@@ -19,16 +19,16 @@
       "weighted_entry": 445.0,
       "risk_per_share": 20.06,
       "target_2r": 485.12,
-      "latest_close": 424.95,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -4.51,
+      "latest_close": 431.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -3.15,
       "target_2r_touched": false,
       "hard_stop_date": "2026-11-16",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-11-16",
       "exit_price": 424.94,
       "status": "CLOSED",
-      "sessions_held": 12
+      "sessions_held": 11
     },
     {
       "symbol": "TMCV",
@@ -46,16 +46,16 @@
       "weighted_entry": 443.74,
       "risk_per_share": 14.09,
       "target_2r": 471.92,
-      "latest_close": 424.95,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -4.24,
+      "latest_close": 431.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -2.87,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-27",
       "exit_date": "2026-08-28",
       "exit_price": 474.75,
       "status": "CLOSED",
-      "sessions_held": 80
+      "sessions_held": 79
     },
     {
       "symbol": "TMCV",
@@ -73,16 +73,16 @@
       "weighted_entry": 420.7,
       "risk_per_share": 19.19,
       "target_2r": 459.07,
-      "latest_close": 424.95,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 1.01,
+      "latest_close": 431.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 2.45,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-08",
       "exit_date": "2026-07-09",
       "exit_price": 417.2,
       "status": "CLOSED",
-      "sessions_held": 112
+      "sessions_held": 111
     },
     {
       "symbol": "TMCV",
@@ -100,16 +100,16 @@
       "weighted_entry": 427.93,
       "risk_per_share": 27.59,
       "target_2r": 483.1,
-      "latest_close": 424.95,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -0.7,
+      "latest_close": 431.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 0.72,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-23",
       "exit_date": "2026-04-24",
       "exit_price": 427.18,
       "status": "CLOSED",
-      "sessions_held": 152
+      "sessions_held": 151
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "COALINDIA",
   "company": "Coal India Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "COALINDIA",
@@ -19,16 +19,16 @@
       "weighted_entry": 406.4,
       "risk_per_share": 11.83,
       "target_2r": 430.06,
-      "latest_close": 388.85,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -4.32,
+      "latest_close": 388.9,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -4.31,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-16",
       "exit_date": "2026-11-17",
       "exit_price": 397.5,
       "status": "CLOSED",
-      "sessions_held": 11
+      "sessions_held": 10
     },
     {
       "symbol": "COALINDIA",
@@ -46,16 +46,16 @@
       "weighted_entry": 414.59,
       "risk_per_share": 9.67,
       "target_2r": 433.94,
-      "latest_close": 388.85,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -6.21,
+      "latest_close": 388.9,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -6.2,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-15",
       "exit_date": "2026-09-16",
       "exit_price": 408.72,
       "status": "CLOSED",
-      "sessions_held": 55
+      "sessions_held": 54
     },
     {
       "symbol": "COALINDIA",
@@ -73,16 +73,16 @@
       "weighted_entry": 424.36,
       "risk_per_share": 17.2,
       "target_2r": 458.76,
-      "latest_close": 388.85,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -8.37,
+      "latest_close": 388.9,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -8.36,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-08",
       "exit_date": "2026-06-09",
       "exit_price": 441.66,
       "status": "CLOSED",
-      "sessions_held": 123
+      "sessions_held": 122
     },
     {
       "symbol": "COALINDIA",
@@ -100,16 +100,16 @@
       "weighted_entry": 421.94,
       "risk_per_share": 16.02,
       "target_2r": 453.99,
-      "latest_close": 388.85,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -7.84,
+      "latest_close": 388.9,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -7.83,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-29",
       "exit_date": "2026-06-01",
       "exit_price": 433.72,
       "status": "CLOSED",
-      "sessions_held": 125
+      "sessions_held": 124
     },
     {
       "symbol": "COALINDIA",
@@ -127,16 +127,16 @@
       "weighted_entry": 421.85,
       "risk_per_share": 12.82,
       "target_2r": 447.48,
-      "latest_close": 388.85,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -7.82,
+      "latest_close": 388.9,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -7.81,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-07",
       "exit_date": "2026-05-08",
       "exit_price": 438.14,
       "status": "CLOSED",
-      "sessions_held": 147
+      "sessions_held": 146
     },
     {
       "symbol": "COALINDIA",
@@ -154,16 +154,16 @@
       "weighted_entry": 413.72,
       "risk_per_share": 10.5,
       "target_2r": 434.72,
-      "latest_close": 388.85,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -6.01,
+      "latest_close": 388.9,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -6.0,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-02",
       "exit_date": "2026-03-04",
       "exit_price": 404.7,
       "status": "CLOSED",
-      "sessions_held": 186
+      "sessions_held": 185
     },
     {
       "symbol": "COALINDIA",
@@ -181,16 +181,16 @@
       "weighted_entry": 401.02,
       "risk_per_share": 5.84,
       "target_2r": 412.7,
-      "latest_close": 388.85,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -3.04,
+      "latest_close": 388.9,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -3.02,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-20",
       "exit_date": "2026-01-21",
       "exit_price": 389.06,
       "status": "CLOSED",
-      "sessions_held": 237
+      "sessions_held": 236
     },
     {
       "symbol": "COALINDIA",
@@ -208,16 +208,16 @@
       "weighted_entry": 400.79,
       "risk_per_share": 7.44,
       "target_2r": 415.67,
-      "latest_close": 388.85,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -2.98,
+      "latest_close": 388.9,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -2.97,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-19",
       "exit_date": "2025-11-20",
       "exit_price": 357.23,
       "status": "CLOSED",
-      "sessions_held": 259
+      "sessions_held": 258
     },
     {
       "symbol": "COALINDIA",
@@ -235,16 +235,16 @@
       "weighted_entry": 400.74,
       "risk_per_share": 5.54,
       "target_2r": 411.83,
-      "latest_close": 388.85,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -2.97,
+      "latest_close": 388.9,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -2.95,
       "target_2r_touched": false,
       "hard_stop_date": "2025-10-29",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-10-29",
       "exit_price": 351.94,
       "status": "CLOSED",
-      "sessions_held": 271
+      "sessions_held": 270
     },
     {
       "symbol": "COALINDIA",
@@ -262,16 +262,16 @@
       "weighted_entry": 355.1,
       "risk_per_share": 7.23,
       "target_2r": 369.56,
-      "latest_close": 388.85,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 9.5,
+      "latest_close": 388.9,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 9.52,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-21",
       "exit_date": "2025-08-22",
       "exit_price": 345.2,
       "status": "CLOSED",
-      "sessions_held": 318
+      "sessions_held": 317
     },
     {
       "symbol": "COALINDIA",
@@ -289,16 +289,16 @@
       "weighted_entry": 357.21,
       "risk_per_share": 8.02,
       "target_2r": 373.25,
-      "latest_close": 388.85,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 8.86,
+      "latest_close": 388.9,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 8.87,
       "target_2r_touched": false,
       "hard_stop_date": "2025-06-12",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-06-12",
       "exit_price": 347.82,
       "status": "CLOSED",
-      "sessions_held": 365
+      "sessions_held": 364
     },
     {
       "symbol": "COALINDIA",
@@ -316,16 +316,16 @@
       "weighted_entry": 357.84,
       "risk_per_share": 10.89,
       "target_2r": 379.62,
-      "latest_close": 388.85,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 8.67,
+      "latest_close": 388.9,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 8.68,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-22",
       "exit_date": "2025-05-23",
       "exit_price": 355.22,
       "status": "CLOSED",
-      "sessions_held": 382
+      "sessions_held": 381
     },
     {
       "symbol": "COALINDIA",
@@ -343,16 +343,16 @@
       "weighted_entry": 356.78,
       "risk_per_share": 12.99,
       "target_2r": 382.76,
-      "latest_close": 388.85,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 8.99,
+      "latest_close": 388.9,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 9.0,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-25",
       "exit_date": "2025-04-28",
       "exit_price": 348.96,
       "status": "CLOSED",
-      "sessions_held": 402
+      "sessions_held": 401
     },
     {
       "symbol": "COALINDIA",
@@ -370,16 +370,16 @@
       "weighted_entry": 356.2,
       "risk_per_share": 12.12,
       "target_2r": 380.43,
-      "latest_close": 388.85,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 9.17,
+      "latest_close": 388.9,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 9.18,
       "target_2r_touched": false,
       "hard_stop_date": "2025-03-11",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-03-11",
       "exit_price": 327.48,
       "status": "CLOSED",
-      "sessions_held": 425
+      "sessions_held": 424
     },
     {
       "symbol": "COALINDIA",
@@ -397,16 +397,16 @@
       "weighted_entry": 359.36,
       "risk_per_share": 12.09,
       "target_2r": 383.54,
-      "latest_close": 388.85,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 8.2,
+      "latest_close": 388.9,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 8.22,
       "target_2r_touched": false,
       "hard_stop_date": "2025-02-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-02-01",
       "exit_price": 339.31,
       "status": "CLOSED",
-      "sessions_held": 449
+      "sessions_held": 448
     },
     {
       "symbol": "COALINDIA",
@@ -424,16 +424,16 @@
       "weighted_entry": 377.46,
       "risk_per_share": 11.0,
       "target_2r": 399.47,
-      "latest_close": 388.85,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 3.02,
+      "latest_close": 388.9,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 3.03,
       "target_2r_touched": true,
       "hard_stop_date": "2024-10-03",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-10-03",
       "exit_price": 421.38,
       "status": "CLOSED",
-      "sessions_held": 535
+      "sessions_held": 534
     },
     {
       "symbol": "COALINDIA",
@@ -451,16 +451,16 @@
       "weighted_entry": 372.6,
       "risk_per_share": 10.26,
       "target_2r": 393.11,
-      "latest_close": 388.85,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 4.36,
+      "latest_close": 388.9,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 4.38,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-07-19",
       "exit_date": "2024-07-22",
       "exit_price": 407.6,
       "status": "CLOSED",
-      "sessions_held": 595
+      "sessions_held": 594
     },
     {
       "symbol": "COALINDIA",
@@ -478,16 +478,16 @@
       "weighted_entry": 364.09,
       "risk_per_share": 14.9,
       "target_2r": 393.89,
-      "latest_close": 388.85,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 6.8,
+      "latest_close": 388.9,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 6.82,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-09",
       "exit_date": "2024-04-10",
       "exit_price": 369.64,
       "status": "CLOSED",
-      "sessions_held": 656
+      "sessions_held": 655
     }
   ]
 }

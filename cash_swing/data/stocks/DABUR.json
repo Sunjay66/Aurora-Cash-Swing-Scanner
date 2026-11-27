@@ -1,7 +1,7 @@
 {
   "symbol": "DABUR",
   "company": "Dabur India Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "DABUR",
@@ -19,16 +19,16 @@
       "weighted_entry": 419.96,
       "risk_per_share": 11.57,
       "target_2r": 443.11,
-      "latest_close": 412.75,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -1.72,
+      "latest_close": 418.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -0.35,
       "target_2r_touched": false,
       "hard_stop_date": "2026-11-05",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-11-05",
       "exit_price": 386.73,
       "status": "CLOSED",
-      "sessions_held": 15
+      "sessions_held": 14
     },
     {
       "symbol": "DABUR",
@@ -46,16 +46,16 @@
       "weighted_entry": 430.48,
       "risk_per_share": 10.55,
       "target_2r": 451.58,
-      "latest_close": 412.75,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -4.12,
+      "latest_close": 418.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -2.78,
       "target_2r_touched": false,
       "hard_stop_date": "2026-07-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-07-08",
       "exit_price": 428.52,
       "status": "CLOSED",
-      "sessions_held": 101
+      "sessions_held": 100
     },
     {
       "symbol": "DABUR",
@@ -73,16 +73,16 @@
       "weighted_entry": 432.79,
       "risk_per_share": 16.79,
       "target_2r": 466.37,
-      "latest_close": 412.75,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -4.63,
+      "latest_close": 418.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -3.3,
       "target_2r_touched": false,
       "hard_stop_date": "2026-04-30",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-04-30",
       "exit_price": 432.06,
       "status": "CLOSED",
-      "sessions_held": 149
+      "sessions_held": 148
     },
     {
       "symbol": "DABUR",
@@ -100,16 +100,16 @@
       "weighted_entry": 445.67,
       "risk_per_share": 12.1,
       "target_2r": 469.88,
-      "latest_close": 412.75,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -7.39,
+      "latest_close": 418.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -6.1,
       "target_2r_touched": true,
       "hard_stop_date": "2026-03-02",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-03-02",
       "exit_price": 489.84,
       "status": "CLOSED",
-      "sessions_held": 185
+      "sessions_held": 184
     },
     {
       "symbol": "DABUR",
@@ -127,16 +127,16 @@
       "weighted_entry": 445.34,
       "risk_per_share": 15.85,
       "target_2r": 477.04,
-      "latest_close": 412.75,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -7.32,
+      "latest_close": 418.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -6.03,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-13",
       "exit_date": "2026-02-16",
       "exit_price": 501.67,
       "status": "CLOSED",
-      "sessions_held": 195
+      "sessions_held": 194
     },
     {
       "symbol": "DABUR",
@@ -154,16 +154,16 @@
       "weighted_entry": 508.63,
       "risk_per_share": 10.21,
       "target_2r": 529.05,
-      "latest_close": 412.75,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -18.85,
+      "latest_close": 418.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -17.72,
       "target_2r_touched": false,
       "hard_stop_date": "2026-01-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-06",
       "exit_price": 502.32,
       "status": "CLOSED",
-      "sessions_held": 221
+      "sessions_held": 220
     },
     {
       "symbol": "DABUR",
@@ -181,16 +181,16 @@
       "weighted_entry": 508.68,
       "risk_per_share": 13.01,
       "target_2r": 534.7,
-      "latest_close": 412.75,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -18.86,
+      "latest_close": 418.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -17.73,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-19",
       "exit_date": "2025-11-20",
       "exit_price": 507.69,
       "status": "CLOSED",
-      "sessions_held": 262
+      "sessions_held": 261
     },
     {
       "symbol": "DABUR",
@@ -208,16 +208,16 @@
       "weighted_entry": 506.42,
       "risk_per_share": 10.65,
       "target_2r": 527.71,
-      "latest_close": 412.75,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -18.5,
+      "latest_close": 418.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -17.36,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-28",
       "exit_date": "2025-10-29",
       "exit_price": 489.79,
       "status": "CLOSED",
-      "sessions_held": 268
+      "sessions_held": 267
     },
     {
       "symbol": "DABUR",
@@ -235,16 +235,16 @@
       "weighted_entry": 509.9,
       "risk_per_share": 14.28,
       "target_2r": 538.46,
-      "latest_close": 412.75,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -19.05,
+      "latest_close": 418.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -17.93,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-21",
       "exit_date": "2025-08-22",
       "exit_price": 502.05,
       "status": "CLOSED",
-      "sessions_held": 314
+      "sessions_held": 313
     },
     {
       "symbol": "DABUR",
@@ -262,16 +262,16 @@
       "weighted_entry": 487.43,
       "risk_per_share": 8.82,
       "target_2r": 505.07,
-      "latest_close": 412.75,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -15.32,
+      "latest_close": 418.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -14.14,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-21",
       "exit_date": "2025-07-22",
       "exit_price": 501.52,
       "status": "CLOSED",
-      "sessions_held": 350
+      "sessions_held": 349
     },
     {
       "symbol": "DABUR",
@@ -289,16 +289,16 @@
       "weighted_entry": 485.85,
       "risk_per_share": 11.98,
       "target_2r": 509.81,
-      "latest_close": 412.75,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -15.05,
+      "latest_close": 418.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -13.86,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-06",
       "exit_date": "2025-06-09",
       "exit_price": 465.91,
       "status": "CLOSED",
-      "sessions_held": 374
+      "sessions_held": 373
     },
     {
       "symbol": "DABUR",
@@ -316,16 +316,16 @@
       "weighted_entry": 492.51,
       "risk_per_share": 9.48,
       "target_2r": 511.46,
-      "latest_close": 412.75,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -16.19,
+      "latest_close": 418.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -15.03,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-01",
       "exit_price": 479.5,
       "status": "CLOSED",
-      "sessions_held": 412
+      "sessions_held": 411
     },
     {
       "symbol": "DABUR",
@@ -343,16 +343,16 @@
       "weighted_entry": 495.25,
       "risk_per_share": 12.46,
       "target_2r": 520.17,
-      "latest_close": 412.75,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -16.66,
+      "latest_close": 418.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -15.5,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-13",
       "exit_date": "2025-01-14",
       "exit_price": 493.41,
       "status": "CLOSED",
-      "sessions_held": 465
+      "sessions_held": 464
     },
     {
       "symbol": "DABUR",
@@ -370,16 +370,16 @@
       "weighted_entry": 520.27,
       "risk_per_share": 18.56,
       "target_2r": 557.38,
-      "latest_close": 412.75,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -20.67,
+      "latest_close": 418.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -19.56,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-30",
       "exit_date": "2024-09-02",
       "exit_price": 611.24,
       "status": "CLOSED",
-      "sessions_held": 561
+      "sessions_held": 560
     },
     {
       "symbol": "DABUR",
@@ -397,16 +397,16 @@
       "weighted_entry": 521.89,
       "risk_per_share": 11.22,
       "target_2r": 544.33,
-      "latest_close": 412.75,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -20.91,
+      "latest_close": 418.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -19.81,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-16",
       "exit_date": "2024-05-17",
       "exit_price": 518.36,
       "status": "CLOSED",
-      "sessions_held": 636
+      "sessions_held": 635
     },
     {
       "symbol": "DABUR",
@@ -424,16 +424,16 @@
       "weighted_entry": 523.41,
       "risk_per_share": 14.14,
       "target_2r": 551.68,
-      "latest_close": 412.75,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -21.14,
+      "latest_close": 418.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -20.04,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-22",
       "exit_date": "2024-02-23",
       "exit_price": 517.31,
       "status": "CLOSED",
-      "sessions_held": 684
+      "sessions_held": 683
     },
     {
       "symbol": "DABUR",
@@ -451,16 +451,16 @@
       "weighted_entry": 525.45,
       "risk_per_share": 10.74,
       "target_2r": 546.94,
-      "latest_close": 412.75,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -21.45,
+      "latest_close": 418.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -20.35,
       "target_2r_touched": false,
       "hard_stop_date": "2024-01-03",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-01-03",
       "exit_price": 523.65,
       "status": "CLOSED",
-      "sessions_held": 718
+      "sessions_held": 717
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "MOTHERSON",
   "company": "Samvardhana Motherson International Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "MOTHERSON",
@@ -19,16 +19,16 @@
       "weighted_entry": 161.15,
       "risk_per_share": 5.59,
       "target_2r": 172.34,
-      "latest_close": 161.5,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 0.22,
+      "latest_close": 164.61,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 2.15,
       "target_2r_touched": false,
       "hard_stop_date": "2026-11-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-11-06",
       "exit_price": 155.56,
       "status": "CLOSED",
-      "sessions_held": 15
+      "sessions_held": 14
     },
     {
       "symbol": "MOTHERSON",
@@ -46,16 +46,16 @@
       "weighted_entry": 165.0,
       "risk_per_share": 4.85,
       "target_2r": 174.7,
-      "latest_close": 161.5,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -2.12,
+      "latest_close": 164.61,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -0.24,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-28",
       "exit_date": "2026-09-29",
       "exit_price": 162.08,
       "status": "CLOSED",
-      "sessions_held": 41
+      "sessions_held": 40
     },
     {
       "symbol": "MOTHERSON",
@@ -73,16 +73,16 @@
       "weighted_entry": 144.2,
       "risk_per_share": 4.91,
       "target_2r": 154.01,
-      "latest_close": 161.5,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 12.0,
+      "latest_close": 164.61,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 14.15,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-25",
       "exit_date": "2026-08-26",
       "exit_price": 167.0,
       "status": "CLOSED",
-      "sessions_held": 86
+      "sessions_held": 85
     },
     {
       "symbol": "MOTHERSON",
@@ -100,16 +100,16 @@
       "weighted_entry": 145.0,
       "risk_per_share": 4.49,
       "target_2r": 153.97,
-      "latest_close": 161.5,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 11.38,
+      "latest_close": 164.61,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 13.52,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-22",
       "exit_date": "2026-07-23",
       "exit_price": 142.2,
       "status": "CLOSED",
-      "sessions_held": 88
+      "sessions_held": 87
     },
     {
       "symbol": "MOTHERSON",
@@ -127,16 +127,16 @@
       "weighted_entry": 123.85,
       "risk_per_share": 6.38,
       "target_2r": 136.62,
-      "latest_close": 161.5,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 30.4,
+      "latest_close": 164.61,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 32.91,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-29",
       "exit_date": "2026-04-30",
       "exit_price": 123.03,
       "status": "CLOSED",
-      "sessions_held": 155
+      "sessions_held": 154
     },
     {
       "symbol": "MOTHERSON",
@@ -154,16 +154,16 @@
       "weighted_entry": 123.7,
       "risk_per_share": 5.18,
       "target_2r": 134.07,
-      "latest_close": 161.5,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 30.55,
+      "latest_close": 164.61,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 33.07,
       "target_2r_touched": false,
       "hard_stop_date": "2026-02-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-02-06",
       "exit_price": 116.18,
       "status": "CLOSED",
-      "sessions_held": 199
+      "sessions_held": 198
     },
     {
       "symbol": "MOTHERSON",
@@ -181,16 +181,16 @@
       "weighted_entry": 120.76,
       "risk_per_share": 3.58,
       "target_2r": 127.93,
-      "latest_close": 161.5,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 33.73,
+      "latest_close": 164.61,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 36.31,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-24",
       "exit_date": "2025-11-25",
       "exit_price": 108.69,
       "status": "CLOSED",
-      "sessions_held": 256
+      "sessions_held": 255
     },
     {
       "symbol": "MOTHERSON",
@@ -208,16 +208,16 @@
       "weighted_entry": 103.48,
       "risk_per_share": 3.39,
       "target_2r": 110.27,
-      "latest_close": 161.5,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 56.06,
+      "latest_close": 164.61,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 59.07,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-25",
       "exit_date": "2025-09-26",
       "exit_price": 104.49,
       "status": "CLOSED",
-      "sessions_held": 300
+      "sessions_held": 299
     },
     {
       "symbol": "MOTHERSON",
@@ -235,16 +235,16 @@
       "weighted_entry": 93.49,
       "risk_per_share": 5.44,
       "target_2r": 104.38,
-      "latest_close": 161.5,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 72.74,
+      "latest_close": 164.61,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 76.06,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-02",
       "exit_date": "2025-05-05",
       "exit_price": 87.74,
       "status": "CLOSED",
-      "sessions_held": 398
+      "sessions_held": 397
     },
     {
       "symbol": "MOTHERSON",
@@ -262,16 +262,16 @@
       "weighted_entry": 93.84,
       "risk_per_share": 3.52,
       "target_2r": 100.87,
-      "latest_close": 161.5,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 72.1,
+      "latest_close": 164.61,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 75.41,
       "target_2r_touched": false,
       "hard_stop_date": "2025-03-27",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-03-27",
       "exit_price": 86.05,
       "status": "CLOSED",
-      "sessions_held": 414
+      "sessions_held": 413
     },
     {
       "symbol": "MOTHERSON",
@@ -289,16 +289,16 @@
       "weighted_entry": 101.95,
       "risk_per_share": 4.43,
       "target_2r": 110.81,
-      "latest_close": 161.5,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 58.41,
+      "latest_close": 164.61,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 61.46,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-03",
       "exit_date": "2024-10-04",
       "exit_price": 134.48,
       "status": "CLOSED",
-      "sessions_held": 543
+      "sessions_held": 542
     },
     {
       "symbol": "MOTHERSON",
@@ -316,16 +316,16 @@
       "weighted_entry": 103.37,
       "risk_per_share": 6.33,
       "target_2r": 116.03,
-      "latest_close": 161.5,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 56.23,
+      "latest_close": 164.61,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 59.24,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-02",
       "exit_date": "2024-09-03",
       "exit_price": 127.4,
       "status": "CLOSED",
-      "sessions_held": 561
+      "sessions_held": 560
     },
     {
       "symbol": "MOTHERSON",
@@ -343,16 +343,16 @@
       "weighted_entry": 90.12,
       "risk_per_share": 3.17,
       "target_2r": 96.47,
-      "latest_close": 161.5,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 79.2,
+      "latest_close": 164.61,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 82.65,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-09",
       "exit_date": "2024-04-10",
       "exit_price": 77.46,
       "status": "CLOSED",
-      "sessions_held": 659
+      "sessions_held": 658
     }
   ]
 }

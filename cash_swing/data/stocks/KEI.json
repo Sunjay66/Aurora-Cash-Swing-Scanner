@@ -1,7 +1,7 @@
 {
   "symbol": "KEI",
   "company": "KEI Industries Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "KEI",
@@ -19,16 +19,16 @@
       "weighted_entry": 5525.0,
       "risk_per_share": 188.12,
       "target_2r": 5901.23,
-      "latest_close": 3753.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -32.06,
+      "latest_close": 3646.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -34.01,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-21",
       "exit_date": "2026-08-24",
       "exit_price": 5549.0,
       "status": "CLOSED",
-      "sessions_held": 77
+      "sessions_held": 76
     },
     {
       "symbol": "KEI",
@@ -46,16 +46,16 @@
       "weighted_entry": 4774.3,
       "risk_per_share": 231.94,
       "target_2r": 5238.17,
-      "latest_close": 3753.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -21.37,
+      "latest_close": 3646.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -23.63,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-12",
       "exit_date": "2026-05-13",
       "exit_price": 4991.1,
       "status": "CLOSED",
-      "sessions_held": 155
+      "sessions_held": 154
     },
     {
       "symbol": "KEI",
@@ -73,16 +73,16 @@
       "weighted_entry": 4473.67,
       "risk_per_share": 225.5,
       "target_2r": 4924.67,
-      "latest_close": 3753.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -16.09,
+      "latest_close": 3646.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -18.5,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-09",
       "exit_date": "2026-03-10",
       "exit_price": 4854.5,
       "status": "CLOSED",
-      "sessions_held": 198
+      "sessions_held": 197
     },
     {
       "symbol": "KEI",
@@ -100,16 +100,16 @@
       "weighted_entry": 4447.65,
       "risk_per_share": 136.45,
       "target_2r": 4720.55,
-      "latest_close": 3753.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -15.6,
+      "latest_close": 3646.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -18.02,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-08",
       "exit_date": "2026-01-09",
       "exit_price": 4399.19,
       "status": "CLOSED",
-      "sessions_held": 230
+      "sessions_held": 229
     },
     {
       "symbol": "KEI",
@@ -127,16 +127,16 @@
       "weighted_entry": 4395.29,
       "risk_per_share": 122.71,
       "target_2r": 4640.71,
-      "latest_close": 3753.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -14.59,
+      "latest_close": 3646.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -17.05,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-17",
       "exit_date": "2025-12-18",
       "exit_price": 4085.16,
       "status": "CLOSED",
-      "sessions_held": 233
+      "sessions_held": 232
     },
     {
       "symbol": "KEI",
@@ -154,16 +154,16 @@
       "weighted_entry": 4391.53,
       "risk_per_share": 90.67,
       "target_2r": 4572.87,
-      "latest_close": 3753.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -14.52,
+      "latest_close": 3646.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -16.98,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-21",
       "exit_date": "2025-11-24",
       "exit_price": 4075.57,
       "status": "CLOSED",
-      "sessions_held": 253
+      "sessions_held": 252
     },
     {
       "symbol": "KEI",
@@ -181,16 +181,16 @@
       "weighted_entry": 4344.68,
       "risk_per_share": 118.5,
       "target_2r": 4581.69,
-      "latest_close": 3753.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -13.6,
+      "latest_close": 3646.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -16.08,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-26",
       "exit_date": "2025-08-28",
       "exit_price": 3870.22,
       "status": "CLOSED",
-      "sessions_held": 314
+      "sessions_held": 313
     },
     {
       "symbol": "KEI",
@@ -208,16 +208,16 @@
       "weighted_entry": 3315.83,
       "risk_per_share": 145.45,
       "target_2r": 3606.73,
-      "latest_close": 3753.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 13.21,
+      "latest_close": 3646.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 9.96,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-03",
       "exit_date": "2025-06-04",
       "exit_price": 3525.83,
       "status": "CLOSED",
-      "sessions_held": 394
+      "sessions_held": 393
     },
     {
       "symbol": "KEI",
@@ -235,16 +235,16 @@
       "weighted_entry": 3648.54,
       "risk_per_share": 160.54,
       "target_2r": 3969.61,
-      "latest_close": 3753.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 2.89,
+      "latest_close": 3646.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -0.07,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-03",
       "exit_date": "2025-01-06",
       "exit_price": 4340.77,
       "status": "CLOSED",
-      "sessions_held": 474
+      "sessions_held": 473
     },
     {
       "symbol": "KEI",
@@ -262,16 +262,16 @@
       "weighted_entry": 4403.89,
       "risk_per_share": 174.65,
       "target_2r": 4753.19,
-      "latest_close": 3753.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -14.76,
+      "latest_close": 3646.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -17.21,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-13",
       "exit_date": "2024-12-16",
       "exit_price": 4435.12,
       "status": "CLOSED",
-      "sessions_held": 495
+      "sessions_held": 494
     },
     {
       "symbol": "KEI",
@@ -289,16 +289,16 @@
       "weighted_entry": 4574.92,
       "risk_per_share": 186.74,
       "target_2r": 4948.39,
-      "latest_close": 3753.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -17.95,
+      "latest_close": 3646.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -20.3,
       "target_2r_touched": false,
       "hard_stop_date": "2024-10-16",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-10-16",
       "exit_price": 4404.45,
       "status": "CLOSED",
-      "sessions_held": 526
+      "sessions_held": 525
     },
     {
       "symbol": "KEI",
@@ -316,16 +316,16 @@
       "weighted_entry": 4602.12,
       "risk_per_share": 190.55,
       "target_2r": 4983.22,
-      "latest_close": 3753.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -18.43,
+      "latest_close": 3646.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -20.78,
       "target_2r_touched": false,
       "hard_stop_date": "2024-08-27",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-08-27",
       "exit_price": 4499.93,
       "status": "CLOSED",
-      "sessions_held": 563
+      "sessions_held": 562
     },
     {
       "symbol": "KEI",
@@ -343,16 +343,16 @@
       "weighted_entry": 4259.71,
       "risk_per_share": 204.79,
       "target_2r": 4669.28,
-      "latest_close": 3753.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -11.87,
+      "latest_close": 3646.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -14.41,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-19",
       "exit_date": "2024-04-22",
       "exit_price": 3789.94,
       "status": "CLOSED",
-      "sessions_held": 663
+      "sessions_held": 662
     },
     {
       "symbol": "KEI",
@@ -370,16 +370,16 @@
       "weighted_entry": 4154.81,
       "risk_per_share": 140.41,
       "target_2r": 4435.64,
-      "latest_close": 3753.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -9.65,
+      "latest_close": 3646.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -12.25,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-29",
       "exit_date": "2024-03-01",
       "exit_price": 3219.6,
       "status": "CLOSED",
-      "sessions_held": 678
+      "sessions_held": 677
     },
     {
       "symbol": "KEI",
@@ -397,16 +397,16 @@
       "weighted_entry": 4225.51,
       "risk_per_share": 195.82,
       "target_2r": 4617.16,
-      "latest_close": 3753.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -11.16,
+      "latest_close": 3646.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -13.71,
       "target_2r_touched": false,
       "hard_stop_date": "2024-01-29",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-01-29",
       "exit_price": 3111.5,
       "status": "CLOSED",
-      "sessions_held": 701
+      "sessions_held": 700
     },
     {
       "symbol": "KEI",
@@ -424,16 +424,16 @@
       "weighted_entry": 4111.25,
       "risk_per_share": 162.17,
       "target_2r": 4435.59,
-      "latest_close": 3753.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -8.69,
+      "latest_close": 3646.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -11.32,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-01-19",
       "exit_date": "2024-01-23",
       "exit_price": 3019.25,
       "status": "CLOSED",
-      "sessions_held": 705
+      "sessions_held": 704
     }
   ]
 }

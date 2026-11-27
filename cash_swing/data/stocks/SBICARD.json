@@ -1,7 +1,7 @@
 {
   "symbol": "SBICARD",
   "company": "SBI Cards and Payment Services Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "SBICARD",
@@ -19,16 +19,16 @@
       "weighted_entry": 596.0,
       "risk_per_share": 24.54,
       "target_2r": 645.07,
-      "latest_close": 565.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -5.07,
+      "latest_close": 586.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -1.66,
       "target_2r_touched": false,
       "hard_stop_date": "2026-11-16",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-11-16",
       "exit_price": 571.46,
       "status": "CLOSED",
-      "sessions_held": 12
+      "sessions_held": 11
     },
     {
       "symbol": "SBICARD",
@@ -46,16 +46,16 @@
       "weighted_entry": 661.0,
       "risk_per_share": 26.72,
       "target_2r": 714.45,
-      "latest_close": 565.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -14.4,
+      "latest_close": 586.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -11.33,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-11",
       "exit_date": "2026-09-15",
       "exit_price": 652.1,
       "status": "CLOSED",
-      "sessions_held": 56
+      "sessions_held": 55
     },
     {
       "symbol": "SBICARD",
@@ -73,16 +73,16 @@
       "weighted_entry": 647.1,
       "risk_per_share": 19.8,
       "target_2r": 686.71,
-      "latest_close": 565.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -12.56,
+      "latest_close": 586.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -9.43,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-27",
       "exit_date": "2026-08-28",
       "exit_price": 645.0,
       "status": "CLOSED",
-      "sessions_held": 64
+      "sessions_held": 63
     },
     {
       "symbol": "SBICARD",
@@ -100,16 +100,16 @@
       "weighted_entry": 656.4,
       "risk_per_share": 21.88,
       "target_2r": 700.17,
-      "latest_close": 565.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -13.8,
+      "latest_close": 586.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -10.71,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-22",
       "exit_date": "2026-07-23",
       "exit_price": 626.85,
       "status": "CLOSED",
-      "sessions_held": 93
+      "sessions_held": 92
     },
     {
       "symbol": "SBICARD",
@@ -127,16 +127,16 @@
       "weighted_entry": 652.95,
       "risk_per_share": 17.99,
       "target_2r": 688.92,
-      "latest_close": 565.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -13.35,
+      "latest_close": 586.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -10.24,
       "target_2r_touched": false,
       "hard_stop_date": "2026-06-23",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-06-23",
       "exit_price": 612.51,
       "status": "CLOSED",
-      "sessions_held": 108
+      "sessions_held": 107
     },
     {
       "symbol": "SBICARD",
@@ -154,16 +154,16 @@
       "weighted_entry": 707.21,
       "risk_per_share": 24.5,
       "target_2r": 756.21,
-      "latest_close": 565.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -20.0,
+      "latest_close": 586.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -17.12,
       "target_2r_touched": true,
       "hard_stop_date": "2026-01-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-08",
       "exit_price": 873.41,
       "status": "CLOSED",
-      "sessions_held": 219
+      "sessions_held": 218
     },
     {
       "symbol": "SBICARD",
@@ -181,16 +181,16 @@
       "weighted_entry": 870.47,
       "risk_per_share": 23.48,
       "target_2r": 917.42,
-      "latest_close": 565.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -35.0,
+      "latest_close": 586.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -32.67,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-26",
       "exit_date": "2025-09-29",
       "exit_price": 866.96,
       "status": "CLOSED",
-      "sessions_held": 299
+      "sessions_held": 298
     },
     {
       "symbol": "SBICARD",
@@ -208,16 +208,16 @@
       "weighted_entry": 872.21,
       "risk_per_share": 33.03,
       "target_2r": 938.27,
-      "latest_close": 565.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -35.13,
+      "latest_close": 586.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -32.8,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-25",
       "exit_date": "2025-04-28",
       "exit_price": 863.03,
       "status": "CLOSED",
-      "sessions_held": 402
+      "sessions_held": 401
     },
     {
       "symbol": "SBICARD",
@@ -235,16 +235,16 @@
       "weighted_entry": 709.13,
       "risk_per_share": 23.35,
       "target_2r": 755.84,
-      "latest_close": 565.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -20.21,
+      "latest_close": 586.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -17.35,
       "target_2r_touched": false,
       "hard_stop_date": "2025-01-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-01-13",
       "exit_price": 701.93,
       "status": "CLOSED",
-      "sessions_held": 468
+      "sessions_held": 467
     },
     {
       "symbol": "SBICARD",
@@ -262,16 +262,16 @@
       "weighted_entry": 702.61,
       "risk_per_share": 17.82,
       "target_2r": 738.25,
-      "latest_close": 565.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -19.47,
+      "latest_close": 586.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -16.58,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-17",
       "exit_date": "2024-12-18",
       "exit_price": 709.39,
       "status": "CLOSED",
-      "sessions_held": 492
+      "sessions_held": 491
     },
     {
       "symbol": "SBICARD",
@@ -289,16 +289,16 @@
       "weighted_entry": 741.11,
       "risk_per_share": 14.14,
       "target_2r": 769.4,
-      "latest_close": 565.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -23.65,
+      "latest_close": 586.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -20.92,
       "target_2r_touched": false,
       "hard_stop_date": "2024-08-29",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-08-29",
       "exit_price": 720.88,
       "status": "CLOSED",
-      "sessions_held": 558
+      "sessions_held": 557
     },
     {
       "symbol": "SBICARD",
@@ -316,16 +316,16 @@
       "weighted_entry": 726.42,
       "risk_per_share": 18.25,
       "target_2r": 762.93,
-      "latest_close": 565.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -22.11,
+      "latest_close": 586.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -19.32,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-28",
       "exit_date": "2024-07-01",
       "exit_price": 719.32,
       "status": "CLOSED",
-      "sessions_held": 609
+      "sessions_held": 608
     },
     {
       "symbol": "SBICARD",
@@ -343,16 +343,16 @@
       "weighted_entry": 734.38,
       "risk_per_share": 16.9,
       "target_2r": 768.19,
-      "latest_close": 565.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -22.96,
+      "latest_close": 586.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -20.19,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-15",
       "exit_date": "2024-04-16",
       "exit_price": 709.39,
       "status": "CLOSED",
-      "sessions_held": 652
+      "sessions_held": 651
     },
     {
       "symbol": "SBICARD",
@@ -370,16 +370,16 @@
       "weighted_entry": 737.37,
       "risk_per_share": 17.87,
       "target_2r": 773.11,
-      "latest_close": 565.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -23.27,
+      "latest_close": 586.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -20.51,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-26",
       "exit_date": "2024-02-27",
       "exit_price": 721.68,
       "status": "CLOSED",
-      "sessions_held": 681
+      "sessions_held": 680
     }
   ]
 }

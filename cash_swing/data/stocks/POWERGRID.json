@@ -1,7 +1,7 @@
 {
   "symbol": "POWERGRID",
   "company": "Power Grid Corporation of India Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "POWERGRID",
@@ -19,16 +19,16 @@
       "weighted_entry": 267.29,
       "risk_per_share": 7.61,
       "target_2r": 282.51,
-      "latest_close": 268.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 0.34,
+      "latest_close": 266.95,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -0.13,
       "target_2r_touched": false,
       "hard_stop_date": "2026-11-03",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-11-03",
       "exit_price": 255.83,
       "status": "CLOSED",
-      "sessions_held": 18
+      "sessions_held": 17
     },
     {
       "symbol": "POWERGRID",
@@ -46,16 +46,16 @@
       "weighted_entry": 271.8,
       "risk_per_share": 5.98,
       "target_2r": 283.76,
-      "latest_close": 268.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -1.33,
+      "latest_close": 266.95,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -1.78,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-28",
       "exit_date": "2026-07-29",
       "exit_price": 279.44,
       "status": "CLOSED",
-      "sessions_held": 86
+      "sessions_held": 85
     },
     {
       "symbol": "POWERGRID",
@@ -73,16 +73,16 @@
       "weighted_entry": 274.77,
       "risk_per_share": 10.6,
       "target_2r": 295.97,
-      "latest_close": 268.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -2.39,
+      "latest_close": 266.95,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -2.84,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-06",
       "exit_date": "2026-05-07",
       "exit_price": 310.67,
       "status": "CLOSED",
-      "sessions_held": 156
+      "sessions_held": 155
     },
     {
       "symbol": "POWERGRID",
@@ -100,16 +100,16 @@
       "weighted_entry": 283.48,
       "risk_per_share": 8.21,
       "target_2r": 299.89,
-      "latest_close": 268.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -5.39,
+      "latest_close": 266.95,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -5.83,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-27",
       "exit_date": "2026-03-02",
       "exit_price": 285.34,
       "status": "CLOSED",
-      "sessions_held": 200
+      "sessions_held": 199
     },
     {
       "symbol": "POWERGRID",
@@ -127,16 +127,16 @@
       "weighted_entry": 277.48,
       "risk_per_share": 5.72,
       "target_2r": 288.92,
-      "latest_close": 268.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -3.34,
+      "latest_close": 266.95,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -3.79,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-07",
       "exit_date": "2026-01-08",
       "exit_price": 256.87,
       "status": "CLOSED",
-      "sessions_held": 220
+      "sessions_held": 219
     },
     {
       "symbol": "POWERGRID",
@@ -154,16 +154,16 @@
       "weighted_entry": 277.69,
       "risk_per_share": 6.68,
       "target_2r": 291.06,
-      "latest_close": 268.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -3.42,
+      "latest_close": 266.95,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -3.87,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-08",
       "exit_date": "2025-10-09",
       "exit_price": 272.72,
       "status": "CLOSED",
-      "sessions_held": 281
+      "sessions_held": 280
     },
     {
       "symbol": "POWERGRID",
@@ -181,16 +181,16 @@
       "weighted_entry": 277.2,
       "risk_per_share": 6.04,
       "target_2r": 289.27,
-      "latest_close": 268.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -3.25,
+      "latest_close": 266.95,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -3.7,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-19",
       "exit_date": "2025-09-22",
       "exit_price": 274.63,
       "status": "CLOSED",
-      "sessions_held": 297
+      "sessions_held": 296
     },
     {
       "symbol": "POWERGRID",
@@ -208,16 +208,16 @@
       "weighted_entry": 284.82,
       "risk_per_share": 6.92,
       "target_2r": 298.65,
-      "latest_close": 268.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -5.83,
+      "latest_close": 266.95,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -6.27,
       "target_2r_touched": false,
       "hard_stop_date": "2025-07-02",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-02",
       "exit_price": 279.87,
       "status": "CLOSED",
-      "sessions_held": 349
+      "sessions_held": 348
     },
     {
       "symbol": "POWERGRID",
@@ -235,16 +235,16 @@
       "weighted_entry": 281.73,
       "risk_per_share": 8.79,
       "target_2r": 299.32,
-      "latest_close": 268.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -4.8,
+      "latest_close": 266.95,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -5.25,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-07",
       "exit_date": "2025-04-08",
       "exit_price": 278.17,
       "status": "CLOSED",
-      "sessions_held": 417
+      "sessions_held": 416
     },
     {
       "symbol": "POWERGRID",
@@ -262,16 +262,16 @@
       "weighted_entry": 314.47,
       "risk_per_share": 10.75,
       "target_2r": 335.98,
-      "latest_close": 268.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -14.71,
+      "latest_close": 266.95,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -15.11,
       "target_2r_touched": false,
       "hard_stop_date": "2024-11-29",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-11-29",
       "exit_price": 311.19,
       "status": "CLOSED",
-      "sessions_held": 498
+      "sessions_held": 497
     },
     {
       "symbol": "POWERGRID",
@@ -286,19 +286,19 @@
       "stage2_entry_price": 312.06,
       "quantity_stage1": 157,
       "quantity_stage2": 480,
-      "weighted_entry": 313.41,
+      "weighted_entry": 313.4,
       "risk_per_share": 6.66,
       "target_2r": 326.73,
-      "latest_close": 268.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -14.42,
+      "latest_close": 266.95,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -14.82,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-03",
       "exit_date": "2024-10-04",
       "exit_price": 318.46,
       "status": "CLOSED",
-      "sessions_held": 540
+      "sessions_held": 539
     },
     {
       "symbol": "POWERGRID",
@@ -316,16 +316,16 @@
       "weighted_entry": 312.61,
       "risk_per_share": 6.76,
       "target_2r": 326.12,
-      "latest_close": 268.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -14.21,
+      "latest_close": 266.95,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -14.61,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-18",
       "exit_date": "2024-09-19",
       "exit_price": 312.14,
       "status": "CLOSED",
-      "sessions_held": 543
+      "sessions_held": 542
     },
     {
       "symbol": "POWERGRID",
@@ -343,16 +343,16 @@
       "weighted_entry": 306.84,
       "risk_per_share": 19.18,
       "target_2r": 345.2,
-      "latest_close": 268.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -12.59,
+      "latest_close": 266.95,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -13.0,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-07-19",
       "exit_date": "2024-07-22",
       "exit_price": 303.86,
       "status": "CLOSED",
-      "sessions_held": 611
+      "sessions_held": 610
     },
     {
       "symbol": "POWERGRID",
@@ -370,16 +370,16 @@
       "weighted_entry": 296.54,
       "risk_per_share": 9.87,
       "target_2r": 316.27,
-      "latest_close": 268.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -9.56,
+      "latest_close": 266.95,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -9.98,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-12",
       "exit_date": "2024-04-15",
       "exit_price": 248.84,
       "status": "CLOSED",
-      "sessions_held": 656
+      "sessions_held": 655
     }
   ]
 }

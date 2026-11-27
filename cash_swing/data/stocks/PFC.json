@@ -1,7 +1,7 @@
 {
   "symbol": "PFC",
   "company": "Power Finance Corporation Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "PFC",
@@ -19,16 +19,16 @@
       "weighted_entry": 341.74,
       "risk_per_share": 10.91,
       "target_2r": 363.56,
-      "latest_close": 327.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -4.08,
+      "latest_close": 331.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -3.11,
       "target_2r_touched": false,
       "hard_stop_date": "2026-11-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-11-13",
       "exit_price": 330.82,
       "status": "CLOSED",
-      "sessions_held": 11
+      "sessions_held": 10
     },
     {
       "symbol": "PFC",
@@ -46,16 +46,16 @@
       "weighted_entry": 413.45,
       "risk_per_share": 10.13,
       "target_2r": 433.7,
-      "latest_close": 327.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -20.72,
+      "latest_close": 331.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -19.92,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-05",
       "exit_date": "2026-08-06",
       "exit_price": 406.47,
       "status": "CLOSED",
-      "sessions_held": 82
+      "sessions_held": 81
     },
     {
       "symbol": "PFC",
@@ -73,16 +73,16 @@
       "weighted_entry": 428.84,
       "risk_per_share": 13.79,
       "target_2r": 456.43,
-      "latest_close": 327.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -23.56,
+      "latest_close": 331.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -22.79,
       "target_2r_touched": false,
       "hard_stop_date": "2026-06-29",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-06-29",
       "exit_price": 415.05,
       "status": "CLOSED",
-      "sessions_held": 108
+      "sessions_held": 107
     },
     {
       "symbol": "PFC",
@@ -100,16 +100,16 @@
       "weighted_entry": 405.18,
       "risk_per_share": 20.57,
       "target_2r": 446.31,
-      "latest_close": 327.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -19.1,
+      "latest_close": 331.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -18.28,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-29",
       "exit_date": "2026-04-30",
       "exit_price": 449.17,
       "status": "CLOSED",
-      "sessions_held": 158
+      "sessions_held": 157
     },
     {
       "symbol": "PFC",
@@ -127,16 +127,16 @@
       "weighted_entry": 360.58,
       "risk_per_share": 8.08,
       "target_2r": 376.75,
-      "latest_close": 327.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -9.09,
+      "latest_close": 331.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -8.18,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-08",
       "exit_date": "2026-01-09",
       "exit_price": 345.85,
       "status": "CLOSED",
-      "sessions_held": 222
+      "sessions_held": 221
     },
     {
       "symbol": "PFC",
@@ -154,16 +154,16 @@
       "weighted_entry": 368.53,
       "risk_per_share": 9.12,
       "target_2r": 386.77,
-      "latest_close": 327.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -11.05,
+      "latest_close": 331.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -10.16,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-04",
       "exit_date": "2025-11-06",
       "exit_price": 373.0,
       "status": "CLOSED",
-      "sessions_held": 263
+      "sessions_held": 262
     },
     {
       "symbol": "PFC",
@@ -181,16 +181,16 @@
       "weighted_entry": 385.75,
       "risk_per_share": 7.74,
       "target_2r": 401.22,
-      "latest_close": 327.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -15.02,
+      "latest_close": 331.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -14.17,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-25",
       "exit_date": "2025-09-26",
       "exit_price": 381.28,
       "status": "CLOSED",
-      "sessions_held": 294
+      "sessions_held": 293
     },
     {
       "symbol": "PFC",
@@ -208,16 +208,16 @@
       "weighted_entry": 389.07,
       "risk_per_share": 13.57,
       "target_2r": 416.21,
-      "latest_close": 327.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -15.75,
+      "latest_close": 331.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -14.9,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-03",
       "exit_date": "2025-07-04",
       "exit_price": 387.88,
       "status": "CLOSED",
-      "sessions_held": 351
+      "sessions_held": 350
     },
     {
       "symbol": "PFC",
@@ -235,16 +235,16 @@
       "weighted_entry": 388.35,
       "risk_per_share": 12.05,
       "target_2r": 412.45,
-      "latest_close": 327.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -15.59,
+      "latest_close": 331.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -14.74,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-12",
       "exit_date": "2025-06-13",
       "exit_price": 374.16,
       "status": "CLOSED",
-      "sessions_held": 365
+      "sessions_held": 364
     },
     {
       "symbol": "PFC",
@@ -262,16 +262,16 @@
       "weighted_entry": 390.34,
       "risk_per_share": 15.42,
       "target_2r": 421.19,
-      "latest_close": 327.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -16.02,
+      "latest_close": 331.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -15.18,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-30",
       "exit_date": "2025-06-02",
       "exit_price": 376.96,
       "status": "CLOSED",
-      "sessions_held": 373
+      "sessions_held": 372
     },
     {
       "symbol": "PFC",
@@ -289,16 +289,16 @@
       "weighted_entry": 392.02,
       "risk_per_share": 16.19,
       "target_2r": 424.41,
-      "latest_close": 327.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -16.38,
+      "latest_close": 331.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -15.54,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-20",
       "exit_date": "2025-05-21",
       "exit_price": 377.89,
       "status": "CLOSED",
-      "sessions_held": 379
+      "sessions_held": 378
     },
     {
       "symbol": "PFC",
@@ -316,16 +316,16 @@
       "weighted_entry": 386.41,
       "risk_per_share": 15.93,
       "target_2r": 418.28,
-      "latest_close": 327.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -15.17,
+      "latest_close": 331.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -14.31,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-13",
       "exit_date": "2025-03-17",
       "exit_price": 357.34,
       "status": "CLOSED",
-      "sessions_held": 424
+      "sessions_held": 423
     },
     {
       "symbol": "PFC",
@@ -343,16 +343,16 @@
       "weighted_entry": 455.51,
       "risk_per_share": 22.78,
       "target_2r": 501.08,
-      "latest_close": 327.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -28.04,
+      "latest_close": 331.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -27.31,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-13",
       "exit_date": "2024-12-16",
       "exit_price": 461.1,
       "status": "CLOSED",
-      "sessions_held": 498
+      "sessions_held": 497
     },
     {
       "symbol": "PFC",
@@ -370,16 +370,16 @@
       "weighted_entry": 464.68,
       "risk_per_share": 17.03,
       "target_2r": 498.75,
-      "latest_close": 327.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -29.46,
+      "latest_close": 331.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -28.75,
       "target_2r_touched": true,
       "hard_stop_date": "2024-09-09",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-09-09",
       "exit_price": 467.42,
       "status": "CLOSED",
-      "sessions_held": 558
+      "sessions_held": 557
     },
     {
       "symbol": "PFC",
@@ -397,16 +397,16 @@
       "weighted_entry": 431.49,
       "risk_per_share": 12.85,
       "target_2r": 457.2,
-      "latest_close": 327.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -24.03,
+      "latest_close": 331.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -23.27,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-07",
       "exit_date": "2024-05-08",
       "exit_price": 376.94,
       "status": "CLOSED",
-      "sessions_held": 641
+      "sessions_held": 640
     },
     {
       "symbol": "PFC",
@@ -424,16 +424,16 @@
       "weighted_entry": 372.71,
       "risk_per_share": 20.61,
       "target_2r": 413.94,
-      "latest_close": 327.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -12.05,
+      "latest_close": 331.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -11.17,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-09",
       "exit_date": "2024-04-10",
       "exit_price": 360.83,
       "status": "CLOSED",
-      "sessions_held": 655
+      "sessions_held": 654
     },
     {
       "symbol": "PFC",
@@ -442,7 +442,7 @@
       "entry_date": "2024-03-12",
       "entry_price": 385.57,
       "atr14": 11.69,
-      "initial_stop": 370.95,
+      "initial_stop": 370.96,
       "stage2_signal_date": "2024-04-04",
       "stage2_entry_date": "2024-04-05",
       "stage2_entry_price": 371.57,
@@ -451,16 +451,16 @@
       "weighted_entry": 374.97,
       "risk_per_share": 14.62,
       "target_2r": 404.2,
-      "latest_close": 327.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -12.58,
+      "latest_close": 331.1,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -11.7,
       "target_2r_touched": false,
       "hard_stop_date": "2024-03-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-03-13",
-      "exit_price": 370.95,
+      "exit_price": 370.96,
       "status": "CLOSED",
-      "sessions_held": 670
+      "sessions_held": 669
     }
   ]
 }

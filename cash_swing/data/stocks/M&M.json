@@ -1,7 +1,7 @@
 {
   "symbol": "M&M",
   "company": "Mahindra & Mahindra Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "M&M",
@@ -19,16 +19,16 @@
       "weighted_entry": 3334.21,
       "risk_per_share": 89.36,
       "target_2r": 3512.93,
-      "latest_close": 3450.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 3.47,
+      "latest_close": 3487.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 4.6,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "TWO_R",
-      "sessions_held": 14
+      "sessions_held": 13
     },
     {
       "symbol": "M&M",
@@ -46,16 +46,16 @@
       "weighted_entry": 3161.81,
       "risk_per_share": 94.68,
       "target_2r": 3351.16,
-      "latest_close": 3450.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 9.11,
+      "latest_close": 3487.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 10.3,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-30",
       "exit_date": "2026-07-01",
       "exit_price": 3055.91,
       "status": "CLOSED",
-      "sessions_held": 105
+      "sessions_held": 104
     },
     {
       "symbol": "M&M",
@@ -73,16 +73,16 @@
       "weighted_entry": 3160.2,
       "risk_per_share": 104.74,
       "target_2r": 3369.68,
-      "latest_close": 3450.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 9.17,
+      "latest_close": 3487.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 10.36,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-19",
       "exit_date": "2026-06-22",
       "exit_price": 3052.94,
       "status": "CLOSED",
-      "sessions_held": 111
+      "sessions_held": 110
     },
     {
       "symbol": "M&M",
@@ -100,16 +100,16 @@
       "weighted_entry": 3202.98,
       "risk_per_share": 110.19,
       "target_2r": 3423.36,
-      "latest_close": 3450.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 7.71,
+      "latest_close": 3487.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 8.88,
       "target_2r_touched": false,
       "hard_stop_date": "2026-05-12",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-05-12",
       "exit_price": 3167.29,
       "status": "CLOSED",
-      "sessions_held": 140
+      "sessions_held": 139
     },
     {
       "symbol": "M&M",
@@ -127,16 +127,16 @@
       "weighted_entry": 3188.16,
       "risk_per_share": 129.89,
       "target_2r": 3447.95,
-      "latest_close": 3450.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 8.21,
+      "latest_close": 3487.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 9.39,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-22",
       "exit_date": "2026-04-23",
       "exit_price": 3072.73,
       "status": "CLOSED",
-      "sessions_held": 155
+      "sessions_held": 154
     },
     {
       "symbol": "M&M",
@@ -154,16 +154,16 @@
       "weighted_entry": 3284.72,
       "risk_per_share": 134.82,
       "target_2r": 3554.35,
-      "latest_close": 3450.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 5.03,
+      "latest_close": 3487.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 6.17,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-12",
       "exit_date": "2026-02-13",
       "exit_price": 3493.31,
       "status": "CLOSED",
-      "sessions_held": 195
+      "sessions_held": 194
     },
     {
       "symbol": "M&M",
@@ -181,16 +181,16 @@
       "weighted_entry": 3296.55,
       "risk_per_share": 70.39,
       "target_2r": 3437.34,
-      "latest_close": 3450.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 4.65,
+      "latest_close": 3487.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 5.79,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-08",
       "exit_date": "2026-01-09",
       "exit_price": 3673.52,
       "status": "CLOSED",
-      "sessions_held": 222
+      "sessions_held": 221
     },
     {
       "symbol": "M&M",
@@ -208,16 +208,16 @@
       "weighted_entry": 3258.33,
       "risk_per_share": 87.72,
       "target_2r": 3433.78,
-      "latest_close": 3450.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 5.88,
+      "latest_close": 3487.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 7.03,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-28",
       "exit_date": "2025-10-29",
       "exit_price": 3542.8,
       "status": "CLOSED",
-      "sessions_held": 274
+      "sessions_held": 273
     },
     {
       "symbol": "M&M",
@@ -235,16 +235,16 @@
       "weighted_entry": 2865.81,
       "risk_per_share": 103.97,
       "target_2r": 3073.75,
-      "latest_close": 3450.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 20.38,
+      "latest_close": 3487.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 21.69,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-20",
       "exit_date": "2025-05-21",
       "exit_price": 3007.01,
       "status": "CLOSED",
-      "sessions_held": 397
+      "sessions_held": 396
     },
     {
       "symbol": "M&M",
@@ -262,16 +262,16 @@
       "weighted_entry": 2956.6,
       "risk_per_share": 111.85,
       "target_2r": 3180.29,
-      "latest_close": 3450.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 16.69,
+      "latest_close": 3487.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 17.96,
       "target_2r_touched": true,
       "hard_stop_date": "2025-02-07",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-02-07",
       "exit_price": 3054.2,
       "status": "CLOSED",
-      "sessions_held": 447
+      "sessions_held": 446
     },
     {
       "symbol": "M&M",
@@ -289,16 +289,16 @@
       "weighted_entry": 3134.88,
       "risk_per_share": 83.87,
       "target_2r": 3302.62,
-      "latest_close": 3450.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 10.05,
+      "latest_close": 3487.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 11.25,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-08",
       "exit_date": "2025-01-09",
       "exit_price": 3047.06,
       "status": "CLOSED",
-      "sessions_held": 471
+      "sessions_held": 470
     },
     {
       "symbol": "M&M",
@@ -316,16 +316,16 @@
       "weighted_entry": 3128.65,
       "risk_per_share": 135.59,
       "target_2r": 3399.83,
-      "latest_close": 3450.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 10.27,
+      "latest_close": 3487.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 11.47,
       "target_2r_touched": false,
       "hard_stop_date": "2024-11-28",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-11-28",
       "exit_price": 2883.2,
       "status": "CLOSED",
-      "sessions_held": 498
+      "sessions_held": 497
     },
     {
       "symbol": "M&M",
@@ -343,16 +343,16 @@
       "weighted_entry": 3053.77,
       "risk_per_share": 72.94,
       "target_2r": 3199.65,
-      "latest_close": 3450.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 12.98,
+      "latest_close": 3487.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 14.2,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-04",
       "exit_date": "2024-10-07",
       "exit_price": 2972.65,
       "status": "CLOSED",
-      "sessions_held": 542
+      "sessions_held": 541
     },
     {
       "symbol": "M&M",
@@ -370,16 +370,16 @@
       "weighted_entry": 3047.61,
       "risk_per_share": 66.22,
       "target_2r": 3180.05,
-      "latest_close": 3450.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 13.2,
+      "latest_close": 3487.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 14.43,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-29",
       "exit_date": "2024-08-30",
       "exit_price": 2729.18,
       "status": "CLOSED",
-      "sessions_held": 557
+      "sessions_held": 556
     },
     {
       "symbol": "M&M",
@@ -397,16 +397,16 @@
       "weighted_entry": 3056.76,
       "risk_per_share": 93.77,
       "target_2r": 3244.31,
-      "latest_close": 3450.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 12.86,
+      "latest_close": 3487.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 14.09,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-01",
       "exit_date": "2024-08-02",
       "exit_price": 2758.93,
       "status": "CLOSED",
-      "sessions_held": 582
+      "sessions_held": 581
     },
     {
       "symbol": "M&M",
@@ -424,16 +424,16 @@
       "weighted_entry": 2569.18,
       "risk_per_share": 49.18,
       "target_2r": 2667.54,
-      "latest_close": 3450.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 34.28,
+      "latest_close": 3487.5,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 35.74,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-09",
       "exit_date": "2024-02-12",
       "exit_price": 1611.96,
       "status": "CLOSED",
-      "sessions_held": 695
+      "sessions_held": 694
     }
   ]
 }

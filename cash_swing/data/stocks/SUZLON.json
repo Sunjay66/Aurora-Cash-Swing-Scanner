@@ -1,7 +1,7 @@
 {
   "symbol": "SUZLON",
   "company": "Suzlon Energy Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "SUZLON",
@@ -19,16 +19,16 @@
       "weighted_entry": 50.45,
       "risk_per_share": 2.06,
       "target_2r": 54.56,
-      "latest_close": 36.38,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -27.89,
+      "latest_close": 36.29,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -28.06,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-06",
       "exit_date": "2026-05-07",
       "exit_price": 54.59,
       "status": "CLOSED",
-      "sessions_held": 157
+      "sessions_held": 156
     },
     {
       "symbol": "SUZLON",
@@ -46,16 +46,16 @@
       "weighted_entry": 52.93,
       "risk_per_share": 1.44,
       "target_2r": 55.8,
-      "latest_close": 36.38,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -31.27,
+      "latest_close": 36.29,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -31.44,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-07",
       "exit_date": "2026-01-08",
       "exit_price": 52.9,
       "status": "CLOSED",
-      "sessions_held": 219
+      "sessions_held": 218
     },
     {
       "symbol": "SUZLON",
@@ -73,16 +73,16 @@
       "weighted_entry": 54.13,
       "risk_per_share": 1.69,
       "target_2r": 57.51,
-      "latest_close": 36.38,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -32.79,
+      "latest_close": 36.29,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -32.95,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-07",
       "exit_date": "2025-11-10",
       "exit_price": 57.9,
       "status": "CLOSED",
-      "sessions_held": 266
+      "sessions_held": 265
     },
     {
       "symbol": "SUZLON",
@@ -100,16 +100,16 @@
       "weighted_entry": 54.44,
       "risk_per_share": 1.41,
       "target_2r": 57.26,
-      "latest_close": 36.38,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -33.17,
+      "latest_close": 36.29,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -33.34,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-23",
       "exit_date": "2025-09-24",
       "exit_price": 58.78,
       "status": "CLOSED",
-      "sessions_held": 291
+      "sessions_held": 290
     },
     {
       "symbol": "SUZLON",
@@ -127,16 +127,16 @@
       "weighted_entry": 55.87,
       "risk_per_share": 2.59,
       "target_2r": 61.06,
-      "latest_close": 36.38,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -34.89,
+      "latest_close": 36.29,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -35.05,
       "target_2r_touched": true,
       "hard_stop_date": "2025-07-02",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-02",
       "exit_price": 65.06,
       "status": "CLOSED",
-      "sessions_held": 350
+      "sessions_held": 349
     },
     {
       "symbol": "SUZLON",
@@ -154,16 +154,16 @@
       "weighted_entry": 54.71,
       "risk_per_share": 3.09,
       "target_2r": 60.88,
-      "latest_close": 36.38,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -33.5,
+      "latest_close": 36.29,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -33.67,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-12",
       "exit_date": "2025-06-13",
       "exit_price": 64.19,
       "status": "CLOSED",
-      "sessions_held": 382
+      "sessions_held": 381
     },
     {
       "symbol": "SUZLON",
@@ -181,16 +181,16 @@
       "weighted_entry": 60.24,
       "risk_per_share": 3.71,
       "target_2r": 67.66,
-      "latest_close": 36.38,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -39.61,
+      "latest_close": 36.29,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -39.76,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-25",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-25",
       "exit_price": 57.24,
       "status": "CLOSED",
-      "sessions_held": 398
+      "sessions_held": 397
     },
     {
       "symbol": "SUZLON",
@@ -208,16 +208,16 @@
       "weighted_entry": 58.69,
       "risk_per_share": 3.23,
       "target_2r": 65.15,
-      "latest_close": 36.38,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -38.01,
+      "latest_close": 36.29,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -38.16,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-01",
       "exit_date": "2025-04-02",
       "exit_price": 55.84,
       "status": "CLOSED",
-      "sessions_held": 420
+      "sessions_held": 419
     },
     {
       "symbol": "SUZLON",
@@ -235,16 +235,16 @@
       "weighted_entry": 62.0,
       "risk_per_share": 3.41,
       "target_2r": 68.82,
-      "latest_close": 36.38,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -41.32,
+      "latest_close": 36.29,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -41.47,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-11",
       "exit_date": "2024-12-12",
       "exit_price": 65.61,
       "status": "CLOSED",
-      "sessions_held": 489
+      "sessions_held": 488
     },
     {
       "symbol": "SUZLON",
@@ -262,16 +262,16 @@
       "weighted_entry": 44.06,
       "risk_per_share": 1.66,
       "target_2r": 47.38,
-      "latest_close": 36.38,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -17.44,
+      "latest_close": 36.29,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -17.64,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-28",
       "exit_date": "2024-05-29",
       "exit_price": 43.9,
       "status": "CLOSED",
-      "sessions_held": 627
+      "sessions_held": 626
     },
     {
       "symbol": "SUZLON",
@@ -289,16 +289,16 @@
       "weighted_entry": 43.85,
       "risk_per_share": 2.22,
       "target_2r": 48.3,
-      "latest_close": 36.38,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -17.03,
+      "latest_close": 36.29,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -17.24,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-03",
       "exit_date": "2024-05-06",
       "exit_price": 42.0,
       "status": "CLOSED",
-      "sessions_held": 643
+      "sessions_held": 642
     },
     {
       "symbol": "SUZLON",
@@ -316,16 +316,16 @@
       "weighted_entry": 44.5,
       "risk_per_share": 2.64,
       "target_2r": 49.79,
-      "latest_close": 36.38,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -18.25,
+      "latest_close": 36.29,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -18.45,
       "target_2r_touched": false,
       "hard_stop_date": "2024-04-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-04-08",
       "exit_price": 41.86,
       "status": "CLOSED",
-      "sessions_held": 655
+      "sessions_held": 654
     },
     {
       "symbol": "SUZLON",
@@ -343,16 +343,16 @@
       "weighted_entry": 42.8,
       "risk_per_share": 1.82,
       "target_2r": 46.43,
-      "latest_close": 36.38,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -15.0,
+      "latest_close": 36.29,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -15.21,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-01-16",
       "exit_date": "2024-01-17",
       "exit_price": 41.5,
       "status": "CLOSED",
-      "sessions_held": 713
+      "sessions_held": 712
     }
   ]
 }

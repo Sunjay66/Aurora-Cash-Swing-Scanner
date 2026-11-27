@@ -1,7 +1,7 @@
 {
   "symbol": "MAZDOCK",
   "company": "Mazagoan Dock Shipbuilders Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "MAZDOCK",
@@ -19,16 +19,16 @@
       "weighted_entry": 2532.93,
       "risk_per_share": 69.64,
       "target_2r": 2672.2,
-      "latest_close": 1890.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -25.38,
+      "latest_close": 1817.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -28.26,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-24",
       "exit_date": "2026-08-25",
       "exit_price": 2532.59,
       "status": "CLOSED",
-      "sessions_held": 76
+      "sessions_held": 75
     },
     {
       "symbol": "MAZDOCK",
@@ -46,16 +46,16 @@
       "weighted_entry": 2494.81,
       "risk_per_share": 80.97,
       "target_2r": 2656.75,
-      "latest_close": 1890.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -24.24,
+      "latest_close": 1817.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -27.17,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-24",
       "exit_date": "2026-06-25",
       "exit_price": 2488.31,
       "status": "CLOSED",
-      "sessions_held": 110
+      "sessions_held": 109
     },
     {
       "symbol": "MAZDOCK",
@@ -73,16 +73,16 @@
       "weighted_entry": 2573.01,
       "risk_per_share": 141.38,
       "target_2r": 2855.77,
-      "latest_close": 1890.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -26.55,
+      "latest_close": 1817.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -29.38,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-04",
       "exit_date": "2026-05-05",
       "exit_price": 2602.77,
       "status": "CLOSED",
-      "sessions_held": 157
+      "sessions_held": 156
     },
     {
       "symbol": "MAZDOCK",
@@ -100,16 +100,16 @@
       "weighted_entry": 2586.67,
       "risk_per_share": 128.16,
       "target_2r": 2842.99,
-      "latest_close": 1890.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -26.93,
+      "latest_close": 1817.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -29.76,
       "target_2r_touched": false,
       "hard_stop_date": "2026-03-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-03-13",
       "exit_price": 2370.21,
       "status": "CLOSED",
-      "sessions_held": 176
+      "sessions_held": 175
     },
     {
       "symbol": "MAZDOCK",
@@ -127,16 +127,16 @@
       "weighted_entry": 2547.56,
       "risk_per_share": 97.67,
       "target_2r": 2742.91,
-      "latest_close": 1890.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -25.81,
+      "latest_close": 1817.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -28.68,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-02",
       "exit_date": "2026-02-03",
       "exit_price": 2470.66,
       "status": "CLOSED",
-      "sessions_held": 202
+      "sessions_held": 201
     },
     {
       "symbol": "MAZDOCK",
@@ -154,16 +154,16 @@
       "weighted_entry": 2650.26,
       "risk_per_share": 74.64,
       "target_2r": 2799.53,
-      "latest_close": 1890.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -28.69,
+      "latest_close": 1817.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -31.44,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-21",
       "exit_date": "2025-11-24",
       "exit_price": 2703.83,
       "status": "CLOSED",
-      "sessions_held": 252
+      "sessions_held": 251
     },
     {
       "symbol": "MAZDOCK",
@@ -181,16 +181,16 @@
       "weighted_entry": 2685.45,
       "risk_per_share": 94.54,
       "target_2r": 2874.52,
-      "latest_close": 1890.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -29.62,
+      "latest_close": 1817.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -32.34,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-25",
       "exit_date": "2025-09-26",
       "exit_price": 2891.0,
       "status": "CLOSED",
-      "sessions_held": 297
+      "sessions_held": 296
     },
     {
       "symbol": "MAZDOCK",
@@ -208,16 +208,16 @@
       "weighted_entry": 2749.9,
       "risk_per_share": 118.56,
       "target_2r": 2987.02,
-      "latest_close": 1890.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -31.27,
+      "latest_close": 1817.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -33.92,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-10",
       "exit_date": "2025-07-11",
       "exit_price": 3216.77,
       "status": "CLOSED",
-      "sessions_held": 343
+      "sessions_held": 342
     },
     {
       "symbol": "MAZDOCK",
@@ -235,16 +235,16 @@
       "weighted_entry": 2299.82,
       "risk_per_share": 143.71,
       "target_2r": 2587.25,
-      "latest_close": 1890.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -17.82,
+      "latest_close": 1817.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -20.99,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-01",
       "exit_date": "2025-04-02",
       "exit_price": 2554.12,
       "status": "CLOSED",
-      "sessions_held": 424
+      "sessions_held": 423
     },
     {
       "symbol": "MAZDOCK",
@@ -262,16 +262,16 @@
       "weighted_entry": 2327.41,
       "risk_per_share": 139.14,
       "target_2r": 2605.7,
-      "latest_close": 1890.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -18.79,
+      "latest_close": 1817.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -21.93,
       "target_2r_touched": false,
       "hard_stop_date": "2025-01-22",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-01-22",
       "exit_price": 2291.47,
       "status": "CLOSED",
-      "sessions_held": 458
+      "sessions_held": 457
     },
     {
       "symbol": "MAZDOCK",
@@ -289,16 +289,16 @@
       "weighted_entry": 2250.92,
       "risk_per_share": 97.67,
       "target_2r": 2446.26,
-      "latest_close": 1890.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -16.03,
+      "latest_close": 1817.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -19.28,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-20",
       "exit_date": "2024-12-23",
       "exit_price": 2378.24,
       "status": "CLOSED",
-      "sessions_held": 495
+      "sessions_held": 494
     },
     {
       "symbol": "MAZDOCK",
@@ -316,16 +316,16 @@
       "weighted_entry": 2234.47,
       "risk_per_share": 106.29,
       "target_2r": 2447.06,
-      "latest_close": 1890.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -15.42,
+      "latest_close": 1817.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -18.68,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-17",
       "exit_date": "2024-10-18",
       "exit_price": 2114.98,
       "status": "CLOSED",
-      "sessions_held": 524
+      "sessions_held": 523
     },
     {
       "symbol": "MAZDOCK",
@@ -343,16 +343,16 @@
       "weighted_entry": 1890.17,
       "risk_per_share": 74.54,
       "target_2r": 2039.25,
-      "latest_close": 1890.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -0.01,
+      "latest_close": 1817.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -3.87,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-04",
       "exit_date": "2024-06-05",
       "exit_price": 1319.85,
       "status": "CLOSED",
-      "sessions_held": 629
+      "sessions_held": 628
     },
     {
       "symbol": "MAZDOCK",
@@ -370,16 +370,16 @@
       "weighted_entry": 1071.32,
       "risk_per_share": 62.3,
       "target_2r": 1195.92,
-      "latest_close": 1890.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 76.42,
+      "latest_close": 1817.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 69.6,
       "target_2r_touched": false,
       "hard_stop_date": "2024-04-15",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-04-15",
       "exit_price": 1034.74,
       "status": "CLOSED",
-      "sessions_held": 655
+      "sessions_held": 654
     }
   ]
 }

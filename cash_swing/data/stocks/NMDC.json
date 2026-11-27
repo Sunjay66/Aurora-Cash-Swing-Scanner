@@ -1,7 +1,7 @@
 {
   "symbol": "NMDC",
   "company": "NMDC Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "NMDC",
@@ -19,16 +19,16 @@
       "weighted_entry": 85.45,
       "risk_per_share": 2.32,
       "target_2r": 90.1,
-      "latest_close": 67.96,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -20.46,
+      "latest_close": 67.24,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -21.31,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-01",
       "exit_date": "2026-09-02",
       "exit_price": 83.76,
       "status": "CLOSED",
-      "sessions_held": 63
+      "sessions_held": 62
     },
     {
       "symbol": "NMDC",
@@ -46,16 +46,16 @@
       "weighted_entry": 85.42,
       "risk_per_share": 2.03,
       "target_2r": 89.48,
-      "latest_close": 67.96,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -20.44,
+      "latest_close": 67.24,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -21.28,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-07",
       "exit_date": "2026-08-10",
       "exit_price": 83.82,
       "status": "CLOSED",
-      "sessions_held": 76
+      "sessions_held": 75
     },
     {
       "symbol": "NMDC",
@@ -73,16 +73,16 @@
       "weighted_entry": 84.74,
       "risk_per_share": 3.3,
       "target_2r": 91.35,
-      "latest_close": 67.96,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -19.8,
+      "latest_close": 67.24,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -20.65,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-04",
       "exit_date": "2026-05-05",
       "exit_price": 87.81,
       "status": "CLOSED",
-      "sessions_held": 159
+      "sessions_held": 158
     },
     {
       "symbol": "NMDC",
@@ -100,16 +100,16 @@
       "weighted_entry": 81.57,
       "risk_per_share": 2.68,
       "target_2r": 86.92,
-      "latest_close": 67.96,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -16.68,
+      "latest_close": 67.24,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -17.57,
       "target_2r_touched": false,
       "hard_stop_date": "2026-03-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-03-04",
       "exit_price": 77.24,
       "status": "CLOSED",
-      "sessions_held": 185
+      "sessions_held": 184
     },
     {
       "symbol": "NMDC",
@@ -127,16 +127,16 @@
       "weighted_entry": 81.58,
       "risk_per_share": 3.01,
       "target_2r": 87.6,
-      "latest_close": 67.96,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -16.69,
+      "latest_close": 67.24,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -17.58,
       "target_2r_touched": false,
       "hard_stop_date": "2026-01-30",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-30",
       "exit_price": 76.94,
       "status": "CLOSED",
-      "sessions_held": 203
+      "sessions_held": 202
     },
     {
       "symbol": "NMDC",
@@ -154,16 +154,16 @@
       "weighted_entry": 79.57,
       "risk_per_share": 1.87,
       "target_2r": 83.31,
-      "latest_close": 67.96,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -14.59,
+      "latest_close": 67.24,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -15.5,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-18",
       "exit_date": "2025-12-19",
       "exit_price": 73.26,
       "status": "CLOSED",
-      "sessions_held": 236
+      "sessions_held": 235
     },
     {
       "symbol": "NMDC",
@@ -181,16 +181,16 @@
       "weighted_entry": 79.63,
       "risk_per_share": 1.7,
       "target_2r": 83.02,
-      "latest_close": 67.96,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -14.65,
+      "latest_close": 67.24,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -15.56,
       "target_2r_touched": false,
       "hard_stop_date": "2025-12-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-12-08",
       "exit_price": 71.25,
       "status": "CLOSED",
-      "sessions_held": 242
+      "sessions_held": 241
     },
     {
       "symbol": "NMDC",
@@ -208,16 +208,16 @@
       "weighted_entry": 80.0,
       "risk_per_share": 2.08,
       "target_2r": 84.15,
-      "latest_close": 67.96,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -15.05,
+      "latest_close": 67.24,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -15.95,
       "target_2r_touched": false,
       "hard_stop_date": "2025-11-18",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-11-18",
       "exit_price": 72.13,
       "status": "CLOSED",
-      "sessions_held": 257
+      "sessions_held": 256
     },
     {
       "symbol": "NMDC",
@@ -235,16 +235,16 @@
       "weighted_entry": 78.74,
       "risk_per_share": 2.0,
       "target_2r": 82.74,
-      "latest_close": 67.96,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -13.69,
+      "latest_close": 67.24,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -14.61,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-25",
       "exit_date": "2025-09-26",
       "exit_price": 73.0,
       "status": "CLOSED",
-      "sessions_held": 305
+      "sessions_held": 304
     },
     {
       "symbol": "NMDC",
@@ -262,16 +262,16 @@
       "weighted_entry": 78.04,
       "risk_per_share": 1.74,
       "target_2r": 81.53,
-      "latest_close": 67.96,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -12.92,
+      "latest_close": 67.24,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -13.84,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-28",
       "exit_date": "2025-07-29",
       "exit_price": 66.55,
       "status": "CLOSED",
-      "sessions_held": 335
+      "sessions_held": 334
     },
     {
       "symbol": "NMDC",
@@ -289,16 +289,16 @@
       "weighted_entry": 76.61,
       "risk_per_share": 2.79,
       "target_2r": 82.19,
-      "latest_close": 67.96,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -11.29,
+      "latest_close": 67.24,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -12.23,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-28",
       "exit_date": "2025-05-29",
       "exit_price": 67.42,
       "status": "CLOSED",
-      "sessions_held": 383
+      "sessions_held": 382
     },
     {
       "symbol": "NMDC",
@@ -316,16 +316,16 @@
       "weighted_entry": 76.9,
       "risk_per_share": 3.02,
       "target_2r": 82.94,
-      "latest_close": 67.96,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -11.62,
+      "latest_close": 67.24,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -12.56,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-25",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-25",
       "exit_price": 61.52,
       "status": "CLOSED",
-      "sessions_held": 398
+      "sessions_held": 397
     },
     {
       "symbol": "NMDC",
@@ -343,16 +343,16 @@
       "weighted_entry": 63.52,
       "risk_per_share": 2.86,
       "target_2r": 69.24,
-      "latest_close": 67.96,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 6.99,
+      "latest_close": 67.24,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 5.86,
       "target_2r_touched": false,
       "hard_stop_date": "2025-03-11",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-03-11",
       "exit_price": 58.16,
       "status": "CLOSED",
-      "sessions_held": 425
+      "sessions_held": 424
     },
     {
       "symbol": "NMDC",
@@ -370,16 +370,16 @@
       "weighted_entry": 63.56,
       "risk_per_share": 2.89,
       "target_2r": 69.34,
-      "latest_close": 67.96,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 6.93,
+      "latest_close": 67.24,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 5.79,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-25",
       "exit_date": "2025-02-27",
       "exit_price": 59.42,
       "status": "CLOSED",
-      "sessions_held": 433
+      "sessions_held": 432
     },
     {
       "symbol": "NMDC",
@@ -397,16 +397,16 @@
       "weighted_entry": 70.68,
       "risk_per_share": 2.79,
       "target_2r": 76.26,
-      "latest_close": 67.96,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -3.85,
+      "latest_close": 67.24,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -4.87,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-13",
       "exit_date": "2024-12-16",
       "exit_price": 71.12,
       "status": "CLOSED",
-      "sessions_held": 493
+      "sessions_held": 492
     },
     {
       "symbol": "NMDC",
@@ -424,16 +424,16 @@
       "weighted_entry": 73.3,
       "risk_per_share": 3.41,
       "target_2r": 80.12,
-      "latest_close": 67.96,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -7.28,
+      "latest_close": 67.24,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -8.27,
       "target_2r_touched": false,
       "hard_stop_date": "2024-11-12",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-11-12",
       "exit_price": 68.92,
       "status": "CLOSED",
-      "sessions_held": 509
+      "sessions_held": 508
     },
     {
       "symbol": "NMDC",
@@ -451,16 +451,16 @@
       "weighted_entry": 68.28,
       "risk_per_share": 2.44,
       "target_2r": 73.17,
-      "latest_close": 67.96,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -0.47,
+      "latest_close": 67.24,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -1.53,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-07",
       "exit_date": "2024-10-08",
       "exit_price": 68.15,
       "status": "CLOSED",
-      "sessions_held": 537
+      "sessions_held": 536
     },
     {
       "symbol": "NMDC",
@@ -478,16 +478,16 @@
       "weighted_entry": 71.16,
       "risk_per_share": 5.02,
       "target_2r": 81.19,
-      "latest_close": 67.96,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -4.49,
+      "latest_close": 67.24,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -5.5,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-24",
       "exit_date": "2024-06-25",
       "exit_price": 80.54,
       "status": "CLOSED",
-      "sessions_held": 608
+      "sessions_held": 607
     },
     {
       "symbol": "NMDC",
@@ -505,16 +505,16 @@
       "weighted_entry": 68.05,
       "risk_per_share": 2.6,
       "target_2r": 73.24,
-      "latest_close": 67.96,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -0.13,
+      "latest_close": 67.24,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -1.19,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-09",
       "exit_date": "2024-05-10",
       "exit_price": 76.45,
       "status": "CLOSED",
-      "sessions_held": 652
+      "sessions_held": 651
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "GRASIM",
   "company": "Grasim Industries Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "GRASIM",
@@ -19,16 +19,16 @@
       "weighted_entry": 3141.17,
       "risk_per_share": 83.23,
       "target_2r": 3307.64,
-      "latest_close": 3124.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -0.54,
+      "latest_close": 3179.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 1.2,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-12",
       "exit_date": "2026-11-13",
       "exit_price": 3125.0,
       "status": "CLOSED",
-      "sessions_held": 16
+      "sessions_held": 15
     },
     {
       "symbol": "GRASIM",
@@ -46,16 +46,16 @@
       "weighted_entry": 3173.37,
       "risk_per_share": 70.94,
       "target_2r": 3315.25,
-      "latest_close": 3124.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -1.55,
+      "latest_close": 3179.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 0.18,
       "target_2r_touched": false,
       "hard_stop_date": "2026-08-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-08-04",
       "exit_price": 3138.06,
       "status": "CLOSED",
-      "sessions_held": 79
+      "sessions_held": 78
     },
     {
       "symbol": "GRASIM",
@@ -73,16 +73,16 @@
       "weighted_entry": 3159.89,
       "risk_per_share": 75.59,
       "target_2r": 3311.06,
-      "latest_close": 3124.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -1.13,
+      "latest_close": 3179.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 0.6,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-23",
       "exit_date": "2026-07-24",
       "exit_price": 3090.37,
       "status": "CLOSED",
-      "sessions_held": 88
+      "sessions_held": 87
     },
     {
       "symbol": "GRASIM",
@@ -100,16 +100,16 @@
       "weighted_entry": 2768.26,
       "risk_per_share": 105.47,
       "target_2r": 2979.19,
-      "latest_close": 3124.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 12.86,
+      "latest_close": 3179.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 14.84,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-23",
       "exit_date": "2026-04-24",
       "exit_price": 2752.13,
       "status": "CLOSED",
-      "sessions_held": 156
+      "sessions_held": 155
     },
     {
       "symbol": "GRASIM",
@@ -127,16 +127,16 @@
       "weighted_entry": 2801.52,
       "risk_per_share": 71.0,
       "target_2r": 2943.52,
-      "latest_close": 3124.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 11.52,
+      "latest_close": 3179.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 13.47,
       "target_2r_touched": false,
       "hard_stop_date": "2026-02-02",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-02-02",
       "exit_price": 2731.49,
       "status": "CLOSED",
-      "sessions_held": 204
+      "sessions_held": 203
     },
     {
       "symbol": "GRASIM",
@@ -154,16 +154,16 @@
       "weighted_entry": 2823.44,
       "risk_per_share": 50.66,
       "target_2r": 2924.76,
-      "latest_close": 3124.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 10.65,
+      "latest_close": 3179.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 12.59,
       "target_2r_touched": false,
       "hard_stop_date": "2025-12-17",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-12-17",
       "exit_price": 2776.55,
       "status": "CLOSED",
-      "sessions_held": 235
+      "sessions_held": 234
     },
     {
       "symbol": "GRASIM",
@@ -181,16 +181,16 @@
       "weighted_entry": 2829.56,
       "risk_per_share": 61.01,
       "target_2r": 2951.58,
-      "latest_close": 3124.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 10.41,
+      "latest_close": 3179.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 12.35,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-31",
       "exit_date": "2025-11-03",
       "exit_price": 2887.01,
       "status": "CLOSED",
-      "sessions_held": 274
+      "sessions_held": 273
     },
     {
       "symbol": "GRASIM",
@@ -208,16 +208,16 @@
       "weighted_entry": 2813.34,
       "risk_per_share": 69.35,
       "target_2r": 2952.05,
-      "latest_close": 3124.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 11.05,
+      "latest_close": 3179.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 13.0,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-25",
       "exit_date": "2025-08-26",
       "exit_price": 2794.89,
       "status": "CLOSED",
-      "sessions_held": 316
+      "sessions_held": 315
     },
     {
       "symbol": "GRASIM",
@@ -235,16 +235,16 @@
       "weighted_entry": 2812.09,
       "risk_per_share": 61.6,
       "target_2r": 2935.3,
-      "latest_close": 3124.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 11.1,
+      "latest_close": 3179.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 13.05,
       "target_2r_touched": false,
       "hard_stop_date": "2025-08-07",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-08-07",
       "exit_price": 2719.59,
       "status": "CLOSED",
-      "sessions_held": 323
+      "sessions_held": 322
     },
     {
       "symbol": "GRASIM",
@@ -262,16 +262,16 @@
       "weighted_entry": 2774.42,
       "risk_per_share": 69.78,
       "target_2r": 2913.97,
-      "latest_close": 3124.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 12.61,
+      "latest_close": 3179.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 14.58,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-04",
       "exit_date": "2025-07-07",
       "exit_price": 2791.12,
       "status": "CLOSED",
-      "sessions_held": 361
+      "sessions_held": 360
     },
     {
       "symbol": "GRASIM",
@@ -289,16 +289,16 @@
       "weighted_entry": 2562.54,
       "risk_per_share": 60.24,
       "target_2r": 2683.02,
-      "latest_close": 3124.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 21.92,
+      "latest_close": 3179.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 24.06,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-07",
       "exit_date": "2025-04-08",
       "exit_price": 2532.87,
       "status": "CLOSED",
-      "sessions_held": 416
+      "sessions_held": 415
     },
     {
       "symbol": "GRASIM",
@@ -316,16 +316,16 @@
       "weighted_entry": 2565.58,
       "risk_per_share": 72.69,
       "target_2r": 2710.96,
-      "latest_close": 3124.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 21.77,
+      "latest_close": 3179.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 23.91,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-01",
       "exit_date": "2025-02-03",
       "exit_price": 2401.75,
       "status": "CLOSED",
-      "sessions_held": 450
+      "sessions_held": 449
     },
     {
       "symbol": "GRASIM",
@@ -343,16 +343,16 @@
       "weighted_entry": 2665.22,
       "risk_per_share": 78.89,
       "target_2r": 2823.0,
-      "latest_close": 3124.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 17.22,
+      "latest_close": 3179.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 19.28,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-10",
       "exit_date": "2024-12-11",
       "exit_price": 2648.09,
       "status": "CLOSED",
-      "sessions_held": 492
+      "sessions_held": 491
     },
     {
       "symbol": "GRASIM",
@@ -370,16 +370,16 @@
       "weighted_entry": 2687.2,
       "risk_per_share": 80.51,
       "target_2r": 2848.22,
-      "latest_close": 3124.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 16.26,
+      "latest_close": 3179.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 18.3,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-04",
       "exit_date": "2024-10-07",
       "exit_price": 2741.46,
       "status": "CLOSED",
-      "sessions_held": 535
+      "sessions_held": 534
     },
     {
       "symbol": "GRASIM",
@@ -397,16 +397,16 @@
       "weighted_entry": 2679.46,
       "risk_per_share": 94.42,
       "target_2r": 2868.3,
-      "latest_close": 3124.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 16.6,
+      "latest_close": 3179.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 18.64,
       "target_2r_touched": false,
       "hard_stop_date": "2024-08-29",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-08-29",
       "exit_price": 2639.09,
       "status": "CLOSED",
-      "sessions_held": 560
+      "sessions_held": 559
     },
     {
       "symbol": "GRASIM",
@@ -424,16 +424,16 @@
       "weighted_entry": 2594.29,
       "risk_per_share": 103.56,
       "target_2r": 2801.4,
-      "latest_close": 3124.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 20.43,
+      "latest_close": 3179.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 22.54,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-07-19",
       "exit_date": "2024-07-22",
       "exit_price": 2673.57,
       "status": "CLOSED",
-      "sessions_held": 610
+      "sessions_held": 609
     },
     {
       "symbol": "GRASIM",
@@ -451,16 +451,16 @@
       "weighted_entry": 2496.33,
       "risk_per_share": 51.12,
       "target_2r": 2598.58,
-      "latest_close": 3124.2,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 25.15,
+      "latest_close": 3179.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 27.35,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-05",
       "exit_date": "2024-02-06",
       "exit_price": 2060.09,
       "status": "CLOSED",
-      "sessions_held": 699
+      "sessions_held": 698
     }
   ]
 }

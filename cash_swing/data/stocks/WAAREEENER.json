@@ -1,7 +1,7 @@
 {
   "symbol": "WAAREEENER",
   "company": "Waaree Energies Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "WAAREEENER",
@@ -19,16 +19,16 @@
       "weighted_entry": 2450.0,
       "risk_per_share": 103.49,
       "target_2r": 2656.98,
-      "latest_close": 2377.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -2.98,
+      "latest_close": 2385.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -2.64,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-16",
       "exit_date": "2026-11-17",
       "exit_price": 2428.8,
       "status": "CLOSED",
-      "sessions_held": 12
+      "sessions_held": 11
     },
     {
       "symbol": "WAAREEENER",
@@ -46,16 +46,16 @@
       "weighted_entry": 2498.0,
       "risk_per_share": 92.86,
       "target_2r": 2683.71,
-      "latest_close": 2377.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -4.84,
+      "latest_close": 2385.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -4.52,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-10-21",
       "exit_date": "2026-10-22",
       "exit_price": 2425.3,
       "status": "CLOSED",
-      "sessions_held": 26
+      "sessions_held": 25
     },
     {
       "symbol": "WAAREEENER",
@@ -73,16 +73,16 @@
       "weighted_entry": 3122.39,
       "risk_per_share": 144.08,
       "target_2r": 3410.56,
-      "latest_close": 2377.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -23.87,
+      "latest_close": 2385.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -23.61,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-24",
       "exit_date": "2026-04-27",
       "exit_price": 3331.38,
       "status": "CLOSED",
-      "sessions_held": 170
+      "sessions_held": 169
     },
     {
       "symbol": "WAAREEENER",
@@ -100,16 +100,16 @@
       "weighted_entry": 3112.55,
       "risk_per_share": 139.85,
       "target_2r": 3392.25,
-      "latest_close": 2377.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -23.63,
+      "latest_close": 2385.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -23.37,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-17",
       "exit_date": "2026-02-18",
       "exit_price": 3047.61,
       "status": "CLOSED",
-      "sessions_held": 201
+      "sessions_held": 200
     },
     {
       "symbol": "WAAREEENER",
@@ -127,16 +127,16 @@
       "weighted_entry": 3215.01,
       "risk_per_share": 146.41,
       "target_2r": 3507.83,
-      "latest_close": 2377.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -26.07,
+      "latest_close": 2385.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -25.81,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-28",
       "exit_date": "2025-10-29",
       "exit_price": 3487.16,
       "status": "CLOSED",
-      "sessions_held": 276
+      "sessions_held": 275
     },
     {
       "symbol": "WAAREEENER",
@@ -154,16 +154,16 @@
       "weighted_entry": 3198.96,
       "risk_per_share": 157.36,
       "target_2r": 3513.68,
-      "latest_close": 2377.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -25.69,
+      "latest_close": 2385.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -25.44,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-08",
       "exit_date": "2025-10-09",
       "exit_price": 3323.52,
       "status": "CLOSED",
-      "sessions_held": 283
+      "sessions_held": 282
     },
     {
       "symbol": "WAAREEENER",
@@ -181,16 +181,16 @@
       "weighted_entry": 3150.44,
       "risk_per_share": 159.33,
       "target_2r": 3469.1,
-      "latest_close": 2377.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -24.55,
+      "latest_close": 2385.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -24.29,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-01",
       "exit_date": "2025-09-02",
       "exit_price": 3223.66,
       "status": "CLOSED",
-      "sessions_held": 312
+      "sessions_held": 311
     },
     {
       "symbol": "WAAREEENER",
@@ -208,16 +208,16 @@
       "weighted_entry": 3085.23,
       "risk_per_share": 147.75,
       "target_2r": 3380.73,
-      "latest_close": 2377.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -22.96,
+      "latest_close": 2385.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -22.69,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-02",
       "exit_date": "2025-07-03",
       "exit_price": 2975.99,
       "status": "CLOSED",
-      "sessions_held": 355
+      "sessions_held": 354
     },
     {
       "symbol": "WAAREEENER",
@@ -235,16 +235,16 @@
       "weighted_entry": 2811.86,
       "risk_per_share": 132.3,
       "target_2r": 3076.47,
-      "latest_close": 2377.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -15.47,
+      "latest_close": 2385.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -15.17,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-30",
       "exit_date": "2025-05-02",
       "exit_price": 2606.39,
       "status": "CLOSED",
-      "sessions_held": 398
+      "sessions_held": 397
     },
     {
       "symbol": "WAAREEENER",
@@ -262,16 +262,16 @@
       "weighted_entry": 2768.38,
       "risk_per_share": 110.61,
       "target_2r": 2989.59,
-      "latest_close": 2377.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -14.14,
+      "latest_close": 2385.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -13.84,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-02",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-02",
       "exit_price": 2281.17,
       "status": "CLOSED",
-      "sessions_held": 415
+      "sessions_held": 414
     },
     {
       "symbol": "WAAREEENER",
@@ -289,16 +289,16 @@
       "weighted_entry": 2915.69,
       "risk_per_share": 196.51,
       "target_2r": 3308.7,
-      "latest_close": 2377.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -18.48,
+      "latest_close": 2385.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -18.19,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-18",
       "exit_date": "2024-12-19",
       "exit_price": 2946.03,
       "status": "CLOSED",
-      "sessions_held": 488
+      "sessions_held": 487
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "ADANIENT",
   "company": "Adani Enterprises Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "ADANIENT",
@@ -19,16 +19,16 @@
       "weighted_entry": 2720.0,
       "risk_per_share": 96.56,
       "target_2r": 2913.12,
-      "latest_close": 2640.4,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -2.93,
+      "latest_close": 2660.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -2.21,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-13",
       "exit_date": "2026-11-16",
       "exit_price": 2693.5,
       "status": "CLOSED",
-      "sessions_held": 11
+      "sessions_held": 10
     },
     {
       "symbol": "ADANIENT",
@@ -46,16 +46,16 @@
       "weighted_entry": 3080.0,
       "risk_per_share": 122.33,
       "target_2r": 3324.66,
-      "latest_close": 2640.4,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -14.27,
+      "latest_close": 2660.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -13.64,
       "target_2r_touched": false,
       "hard_stop_date": "2026-09-15",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-09-15",
       "exit_price": 2957.67,
       "status": "CLOSED",
-      "sessions_held": 50
+      "sessions_held": 49
     },
     {
       "symbol": "ADANIENT",
@@ -73,16 +73,16 @@
       "weighted_entry": 3125.0,
       "risk_per_share": 78.96,
       "target_2r": 3282.93,
-      "latest_close": 2640.4,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -15.51,
+      "latest_close": 2660.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -14.88,
       "target_2r_touched": false,
       "hard_stop_date": "2026-08-31",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-08-31",
       "exit_price": 3046.04,
       "status": "CLOSED",
-      "sessions_held": 62
+      "sessions_held": 61
     },
     {
       "symbol": "ADANIENT",
@@ -100,16 +100,16 @@
       "weighted_entry": 2184.2,
       "risk_per_share": 109.04,
       "target_2r": 2402.28,
-      "latest_close": 2640.4,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 20.89,
+      "latest_close": 2660.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 21.78,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-12",
       "exit_date": "2026-05-13",
       "exit_price": 2400.03,
       "status": "CLOSED",
-      "sessions_held": 156
+      "sessions_held": 155
     },
     {
       "symbol": "ADANIENT",
@@ -127,16 +127,16 @@
       "weighted_entry": 2238.15,
       "risk_per_share": 109.73,
       "target_2r": 2457.6,
-      "latest_close": 2640.4,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 17.97,
+      "latest_close": 2660.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 18.85,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-13",
       "exit_date": "2026-02-16",
       "exit_price": 2123.25,
       "status": "CLOSED",
-      "sessions_held": 198
+      "sessions_held": 197
     },
     {
       "symbol": "ADANIENT",
@@ -154,16 +154,16 @@
       "weighted_entry": 2584.63,
       "risk_per_share": 58.7,
       "target_2r": 2702.03,
-      "latest_close": 2640.4,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 2.16,
+      "latest_close": 2660.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 2.92,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-29",
       "exit_date": "2025-09-30",
       "exit_price": 2520.87,
       "status": "CLOSED",
-      "sessions_held": 297
+      "sessions_held": 296
     },
     {
       "symbol": "ADANIENT",
@@ -181,16 +181,16 @@
       "weighted_entry": 2636.77,
       "risk_per_share": 86.17,
       "target_2r": 2809.1,
-      "latest_close": 2640.4,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 0.14,
+      "latest_close": 2660.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 0.88,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-07",
       "exit_date": "2025-07-08",
       "exit_price": 2584.84,
       "status": "CLOSED",
-      "sessions_held": 351
+      "sessions_held": 350
     },
     {
       "symbol": "ADANIENT",
@@ -208,16 +208,16 @@
       "weighted_entry": 2598.23,
       "risk_per_share": 113.89,
       "target_2r": 2826.02,
-      "latest_close": 2640.4,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 1.62,
+      "latest_close": 2660.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 2.38,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-03",
       "exit_date": "2025-06-04",
       "exit_price": 2477.66,
       "status": "CLOSED",
-      "sessions_held": 383
+      "sessions_held": 382
     },
     {
       "symbol": "ADANIENT",
@@ -235,16 +235,16 @@
       "weighted_entry": 2363.94,
       "risk_per_share": 82.29,
       "target_2r": 2528.52,
-      "latest_close": 2640.4,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 11.69,
+      "latest_close": 2660.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 12.52,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-28",
       "exit_date": "2025-04-01",
       "exit_price": 2309.82,
       "status": "CLOSED",
-      "sessions_held": 420
+      "sessions_held": 419
     },
     {
       "symbol": "ADANIENT",
@@ -262,16 +262,16 @@
       "weighted_entry": 2460.33,
       "risk_per_share": 94.97,
       "target_2r": 2650.28,
-      "latest_close": 2640.4,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 7.32,
+      "latest_close": 2660.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 8.12,
       "target_2r_touched": false,
       "hard_stop_date": "2025-01-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-01-06",
       "exit_price": 2482.6,
       "status": "CLOSED",
-      "sessions_held": 470
+      "sessions_held": 469
     },
     {
       "symbol": "ADANIENT",
@@ -289,16 +289,16 @@
       "weighted_entry": 3101.31,
       "risk_per_share": 75.25,
       "target_2r": 3251.82,
-      "latest_close": 2640.4,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -14.86,
+      "latest_close": 2660.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -14.23,
       "target_2r_touched": false,
       "hard_stop_date": "2024-10-07",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-10-07",
       "exit_price": 3006.84,
       "status": "CLOSED",
-      "sessions_held": 537
+      "sessions_held": 536
     },
     {
       "symbol": "ADANIENT",
@@ -313,19 +313,19 @@
       "stage2_entry_price": 3107.72,
       "quantity_stage1": 15,
       "quantity_stage2": 48,
-      "weighted_entry": 3126.73,
+      "weighted_entry": 3126.72,
       "risk_per_share": 121.28,
       "target_2r": 3369.29,
-      "latest_close": 2640.4,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -15.55,
+      "latest_close": 2660.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -14.93,
       "target_2r_touched": false,
       "hard_stop_date": "2024-08-12",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-08-12",
       "exit_price": 3066.26,
       "status": "CLOSED",
-      "sessions_held": 571
+      "sessions_held": 570
     },
     {
       "symbol": "ADANIENT",
@@ -343,16 +343,16 @@
       "weighted_entry": 3128.97,
       "risk_per_share": 93.99,
       "target_2r": 3316.96,
-      "latest_close": 2640.4,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -15.61,
+      "latest_close": 2660.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -14.99,
       "target_2r_touched": false,
       "hard_stop_date": "2024-08-05",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-08-05",
       "exit_price": 3082.09,
       "status": "CLOSED",
-      "sessions_held": 575
+      "sessions_held": 574
     },
     {
       "symbol": "ADANIENT",
@@ -370,16 +370,16 @@
       "weighted_entry": 3295.62,
       "risk_per_share": 123.86,
       "target_2r": 3543.34,
-      "latest_close": 2640.4,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -19.88,
+      "latest_close": 2660.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -19.29,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-30",
       "exit_date": "2024-05-31",
       "exit_price": 3220.95,
       "status": "CLOSED",
-      "sessions_held": 625
+      "sessions_held": 624
     },
     {
       "symbol": "ADANIENT",
@@ -397,16 +397,16 @@
       "weighted_entry": 3326.1,
       "risk_per_share": 140.5,
       "target_2r": 3607.1,
-      "latest_close": 2640.4,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -20.62,
+      "latest_close": 2660.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -20.03,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-09",
       "exit_date": "2024-04-10",
       "exit_price": 3195.74,
       "status": "CLOSED",
-      "sessions_held": 656
+      "sessions_held": 655
     }
   ]
 }

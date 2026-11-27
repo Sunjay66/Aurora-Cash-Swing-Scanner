@@ -1,7 +1,7 @@
 {
   "symbol": "COLPAL",
   "company": "Colgate Palmolive (India) Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "COLPAL",
@@ -19,16 +19,16 @@
       "weighted_entry": 1730.0,
       "risk_per_share": 59.81,
       "target_2r": 1849.61,
-      "latest_close": 1770.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 2.31,
+      "latest_close": 1800.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 4.05,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-18",
       "exit_date": "2026-11-19",
       "exit_price": 1687.0,
       "status": "CLOSED",
-      "sessions_held": 10
+      "sessions_held": 9
     },
     {
       "symbol": "COLPAL",
@@ -46,16 +46,16 @@
       "weighted_entry": 2081.41,
       "risk_per_share": 59.52,
       "target_2r": 2200.45,
-      "latest_close": 1770.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -14.96,
+      "latest_close": 1800.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -13.52,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-30",
       "exit_date": "2026-07-31",
       "exit_price": 2077.79,
       "status": "CLOSED",
-      "sessions_held": 89
+      "sessions_held": 88
     },
     {
       "symbol": "COLPAL",
@@ -73,16 +73,16 @@
       "weighted_entry": 2072.52,
       "risk_per_share": 53.57,
       "target_2r": 2179.65,
-      "latest_close": 1770.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -14.6,
+      "latest_close": 1800.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -13.15,
       "target_2r_touched": false,
       "hard_stop_date": "2026-07-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-07-08",
       "exit_price": 1998.71,
       "status": "CLOSED",
-      "sessions_held": 99
+      "sessions_held": 98
     },
     {
       "symbol": "COLPAL",
@@ -100,16 +100,16 @@
       "weighted_entry": 2060.05,
       "risk_per_share": 73.74,
       "target_2r": 2207.54,
-      "latest_close": 1770.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -14.08,
+      "latest_close": 1800.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -12.62,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-30",
       "exit_date": "2026-05-04",
       "exit_price": 2054.26,
       "status": "CLOSED",
-      "sessions_held": 152
+      "sessions_held": 151
     },
     {
       "symbol": "COLPAL",
@@ -127,16 +127,16 @@
       "weighted_entry": 2146.55,
       "risk_per_share": 45.07,
       "target_2r": 2236.68,
-      "latest_close": 1770.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -17.54,
+      "latest_close": 1800.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -16.14,
       "target_2r_touched": false,
       "hard_stop_date": "2026-01-20",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-20",
       "exit_price": 2072.28,
       "status": "CLOSED",
-      "sessions_held": 210
+      "sessions_held": 209
     },
     {
       "symbol": "COLPAL",
@@ -154,16 +154,16 @@
       "weighted_entry": 2306.03,
       "risk_per_share": 55.94,
       "target_2r": 2417.92,
-      "latest_close": 1770.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -23.24,
+      "latest_close": 1800.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -21.94,
       "target_2r_touched": false,
       "hard_stop_date": "2025-08-22",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-08-22",
       "exit_price": 2212.1,
       "status": "CLOSED",
-      "sessions_held": 312
+      "sessions_held": 311
     },
     {
       "symbol": "COLPAL",
@@ -181,16 +181,16 @@
       "weighted_entry": 2333.36,
       "risk_per_share": 49.91,
       "target_2r": 2433.18,
-      "latest_close": 1770.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -24.14,
+      "latest_close": 1800.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -22.86,
       "target_2r_touched": false,
       "hard_stop_date": "2025-07-10",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-10",
       "exit_price": 2326.96,
       "status": "CLOSED",
-      "sessions_held": 344
+      "sessions_held": 343
     },
     {
       "symbol": "COLPAL",
@@ -208,16 +208,16 @@
       "weighted_entry": 2513.02,
       "risk_per_share": 73.24,
       "target_2r": 2659.5,
-      "latest_close": 1770.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -29.57,
+      "latest_close": 1800.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -28.37,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-30",
       "exit_date": "2025-05-02",
       "exit_price": 2448.51,
       "status": "CLOSED",
-      "sessions_held": 403
+      "sessions_held": 402
     },
     {
       "symbol": "COLPAL",
@@ -232,19 +232,19 @@
       "stage2_entry_price": 2555.22,
       "quantity_stage1": 18,
       "quantity_stage2": 58,
-      "weighted_entry": 2591.02,
+      "weighted_entry": 2591.01,
       "risk_per_share": 95.54,
       "target_2r": 2782.1,
-      "latest_close": 1770.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -31.69,
+      "latest_close": 1800.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -30.53,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-03",
       "exit_date": "2025-02-04",
       "exit_price": 2646.58,
       "status": "CLOSED",
-      "sessions_held": 449
+      "sessions_held": 448
     },
     {
       "symbol": "COLPAL",
@@ -262,23 +262,23 @@
       "weighted_entry": 2588.61,
       "risk_per_share": 87.57,
       "target_2r": 2763.75,
-      "latest_close": 1770.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -31.62,
+      "latest_close": 1800.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -30.46,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-13",
       "exit_date": "2025-01-14",
       "exit_price": 2622.81,
       "status": "CLOSED",
-      "sessions_held": 464
+      "sessions_held": 463
     },
     {
       "symbol": "COLPAL",
       "company": "Colgate Palmolive (India) Ltd.",
       "signal_date": "2024-06-04",
       "entry_date": "2024-06-05",
-      "entry_price": 2657.15,
+      "entry_price": 2657.16,
       "atr14": 63.36,
       "initial_stop": 2577.95,
       "stage2_signal_date": "2025-04-28",
@@ -289,16 +289,16 @@
       "weighted_entry": 2579.36,
       "risk_per_share": 79.2,
       "target_2r": 2737.76,
-      "latest_close": 1770.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -31.38,
+      "latest_close": 1800.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -30.22,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-19",
       "exit_date": "2024-06-20",
       "exit_price": 2730.98,
       "status": "CLOSED",
-      "sessions_held": 615
+      "sessions_held": 614
     },
     {
       "symbol": "COLPAL",
@@ -316,16 +316,16 @@
       "weighted_entry": 2540.98,
       "risk_per_share": 78.62,
       "target_2r": 2698.23,
-      "latest_close": 1770.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -30.34,
+      "latest_close": 1800.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -29.16,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-09",
       "exit_date": "2024-05-10",
       "exit_price": 2588.3,
       "status": "CLOSED",
-      "sessions_held": 643
+      "sessions_held": 642
     },
     {
       "symbol": "COLPAL",
@@ -343,16 +343,16 @@
       "weighted_entry": 2502.03,
       "risk_per_share": 56.67,
       "target_2r": 2615.36,
-      "latest_close": 1770.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -29.26,
+      "latest_close": 1800.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": -28.06,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-19",
       "exit_date": "2024-03-20",
       "exit_price": 2451.0,
       "status": "CLOSED",
-      "sessions_held": 675
+      "sessions_held": 674
     }
   ]
 }

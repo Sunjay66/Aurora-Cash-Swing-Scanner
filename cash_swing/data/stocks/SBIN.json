@@ -1,7 +1,7 @@
 {
   "symbol": "SBIN",
   "company": "State Bank of India",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "SBIN",
@@ -19,16 +19,16 @@
       "weighted_entry": 1058.83,
       "risk_per_share": 25.4,
       "target_2r": 1109.62,
-      "latest_close": 1123.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 6.15,
+      "latest_close": 1136.65,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 7.35,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "TWO_R",
-      "sessions_held": 16
+      "sessions_held": 15
     },
     {
       "symbol": "SBIN",
@@ -46,16 +46,16 @@
       "weighted_entry": 1080.11,
       "risk_per_share": 19.0,
       "target_2r": 1118.11,
-      "latest_close": 1123.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 4.05,
+      "latest_close": 1136.65,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 5.23,
       "target_2r_touched": false,
       "hard_stop_date": "2026-09-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-09-01",
       "exit_price": 1032.3,
       "status": "CLOSED",
-      "sessions_held": 59
+      "sessions_held": 58
     },
     {
       "symbol": "SBIN",
@@ -73,16 +73,16 @@
       "weighted_entry": 1079.17,
       "risk_per_share": 22.19,
       "target_2r": 1123.54,
-      "latest_close": 1123.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 4.14,
+      "latest_close": 1136.65,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 5.33,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-14",
       "exit_date": "2026-08-17",
       "exit_price": 1064.2,
       "status": "CLOSED",
-      "sessions_held": 79
+      "sessions_held": 78
     },
     {
       "symbol": "SBIN",
@@ -100,16 +100,16 @@
       "weighted_entry": 1029.2,
       "risk_per_share": 24.69,
       "target_2r": 1078.58,
-      "latest_close": 1123.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 9.2,
+      "latest_close": 1136.65,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 10.44,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-30",
       "exit_date": "2026-07-01",
       "exit_price": 1031.0,
       "status": "CLOSED",
-      "sessions_held": 116
+      "sessions_held": 115
     },
     {
       "symbol": "SBIN",
@@ -127,16 +127,16 @@
       "weighted_entry": 1077.32,
       "risk_per_share": 43.54,
       "target_2r": 1164.4,
-      "latest_close": 1123.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 4.32,
+      "latest_close": 1136.65,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 5.51,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-28",
       "exit_date": "2026-04-29",
       "exit_price": 1074.63,
       "status": "CLOSED",
-      "sessions_held": 151
+      "sessions_held": 150
     },
     {
       "symbol": "SBIN",
@@ -154,16 +154,16 @@
       "weighted_entry": 991.96,
       "risk_per_share": 10.84,
       "target_2r": 1013.65,
-      "latest_close": 1123.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 13.3,
+      "latest_close": 1136.65,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 14.59,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-07",
       "exit_date": "2025-10-08",
       "exit_price": 851.45,
       "status": "CLOSED",
-      "sessions_held": 298
+      "sessions_held": 297
     },
     {
       "symbol": "SBIN",
@@ -181,16 +181,16 @@
       "weighted_entry": 991.52,
       "risk_per_share": 14.01,
       "target_2r": 1019.55,
-      "latest_close": 1123.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 13.35,
+      "latest_close": 1136.65,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 14.64,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-22",
       "exit_date": "2025-08-25",
       "exit_price": 802.98,
       "status": "CLOSED",
-      "sessions_held": 318
+      "sessions_held": 317
     },
     {
       "symbol": "SBIN",
@@ -208,16 +208,16 @@
       "weighted_entry": 986.48,
       "risk_per_share": 13.81,
       "target_2r": 1014.09,
-      "latest_close": 1123.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 13.93,
+      "latest_close": 1136.65,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 15.22,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-03",
       "exit_date": "2025-07-04",
       "exit_price": 794.43,
       "status": "CLOSED",
-      "sessions_held": 350
+      "sessions_held": 349
     },
     {
       "symbol": "SBIN",
@@ -235,16 +235,16 @@
       "weighted_entry": 742.53,
       "risk_per_share": 17.04,
       "target_2r": 776.61,
-      "latest_close": 1123.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 51.36,
+      "latest_close": 1136.65,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 53.08,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-04",
       "exit_date": "2025-04-07",
       "exit_price": 702.96,
       "status": "CLOSED",
-      "sessions_held": 417
+      "sessions_held": 416
     },
     {
       "symbol": "SBIN",
@@ -262,16 +262,16 @@
       "weighted_entry": 764.9,
       "risk_per_share": 30.33,
       "target_2r": 825.56,
-      "latest_close": 1123.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 46.93,
+      "latest_close": 1136.65,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 48.6,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-12",
       "exit_date": "2024-12-13",
       "exit_price": 821.02,
       "status": "CLOSED",
-      "sessions_held": 497
+      "sessions_held": 496
     },
     {
       "symbol": "SBIN",
@@ -289,16 +289,16 @@
       "weighted_entry": 798.67,
       "risk_per_share": 20.92,
       "target_2r": 840.5,
-      "latest_close": 1123.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 40.72,
+      "latest_close": 1136.65,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 42.32,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-12",
       "exit_date": "2024-11-13",
       "exit_price": 792.85,
       "status": "CLOSED",
-      "sessions_held": 514
+      "sessions_held": 513
     },
     {
       "symbol": "SBIN",
@@ -316,16 +316,16 @@
       "weighted_entry": 793.13,
       "risk_per_share": 18.49,
       "target_2r": 830.12,
-      "latest_close": 1123.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 41.7,
+      "latest_close": 1136.65,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 43.31,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-22",
       "exit_date": "2024-10-23",
       "exit_price": 760.74,
       "status": "CLOSED",
-      "sessions_held": 525
+      "sessions_held": 524
     },
     {
       "symbol": "SBIN",
@@ -343,16 +343,16 @@
       "weighted_entry": 777.27,
       "risk_per_share": 19.8,
       "target_2r": 816.88,
-      "latest_close": 1123.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 44.6,
+      "latest_close": 1136.65,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 46.24,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-15",
       "exit_date": "2024-04-16",
       "exit_price": 711.49,
       "status": "CLOSED",
-      "sessions_held": 657
+      "sessions_held": 656
     },
     {
       "symbol": "SBIN",
@@ -370,16 +370,16 @@
       "weighted_entry": 744.69,
       "risk_per_share": 19.17,
       "target_2r": 783.02,
-      "latest_close": 1123.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 50.92,
+      "latest_close": 1136.65,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 52.63,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-27",
       "exit_date": "2024-02-28",
-      "exit_price": 710.16,
+      "exit_price": 710.17,
       "status": "CLOSED",
-      "sessions_held": 696
+      "sessions_held": 695
     }
   ]
 }

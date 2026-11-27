@@ -1,7 +1,7 @@
 {
   "symbol": "AUROPHARMA",
   "company": "Aurobindo Pharma Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "AUROPHARMA",
@@ -19,16 +19,16 @@
       "weighted_entry": 1691.59,
       "risk_per_share": 55.25,
       "target_2r": 1802.09,
-      "latest_close": 1791.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 5.92,
+      "latest_close": 1811.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 7.06,
       "target_2r_touched": true,
       "hard_stop_date": null,
-      "ema9_exit_signal_date": "2026-11-27",
+      "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
-      "status": "CLOSED",
-      "sessions_held": 16
+      "status": "TWO_R",
+      "sessions_held": 15
     },
     {
       "symbol": "AUROPHARMA",
@@ -46,16 +46,16 @@
       "weighted_entry": 1686.11,
       "risk_per_share": 44.27,
       "target_2r": 1774.65,
-      "latest_close": 1791.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 6.27,
+      "latest_close": 1811.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 7.41,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-10-13",
       "exit_date": "2026-10-14",
       "exit_price": 1677.65,
       "status": "CLOSED",
-      "sessions_held": 32
+      "sessions_held": 31
     },
     {
       "symbol": "AUROPHARMA",
@@ -73,16 +73,16 @@
       "weighted_entry": 1486.57,
       "risk_per_share": 46.84,
       "target_2r": 1580.25,
-      "latest_close": 1791.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 20.53,
+      "latest_close": 1811.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 21.82,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-08",
       "exit_date": "2026-07-09",
       "exit_price": 1549.13,
       "status": "CLOSED",
-      "sessions_held": 108
+      "sessions_held": 107
     },
     {
       "symbol": "AUROPHARMA",
@@ -100,16 +100,16 @@
       "weighted_entry": 1473.42,
       "risk_per_share": 48.77,
       "target_2r": 1570.96,
-      "latest_close": 1791.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 21.61,
+      "latest_close": 1811.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 22.91,
       "target_2r_touched": false,
       "hard_stop_date": "2026-06-15",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-06-15",
       "exit_price": 1424.65,
       "status": "CLOSED",
-      "sessions_held": 115
+      "sessions_held": 114
     },
     {
       "symbol": "AUROPHARMA",
@@ -127,16 +127,16 @@
       "weighted_entry": 1218.62,
       "risk_per_share": 54.88,
       "target_2r": 1328.39,
-      "latest_close": 1791.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 47.03,
+      "latest_close": 1811.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 48.61,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-18",
       "exit_date": "2026-03-19",
       "exit_price": 1250.26,
       "status": "CLOSED",
-      "sessions_held": 184
+      "sessions_held": 183
     },
     {
       "symbol": "AUROPHARMA",
@@ -154,16 +154,16 @@
       "weighted_entry": 1211.38,
       "risk_per_share": 45.44,
       "target_2r": 1302.27,
-      "latest_close": 1791.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 47.91,
+      "latest_close": 1811.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 49.5,
       "target_2r_touched": false,
       "hard_stop_date": "2026-02-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-02-04",
       "exit_price": 1176.03,
       "status": "CLOSED",
-      "sessions_held": 200
+      "sessions_held": 199
     },
     {
       "symbol": "AUROPHARMA",
@@ -181,16 +181,16 @@
       "weighted_entry": 1209.93,
       "risk_per_share": 28.71,
       "target_2r": 1267.36,
-      "latest_close": 1791.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 48.09,
+      "latest_close": 1811.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 49.68,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-08",
       "exit_date": "2026-01-09",
       "exit_price": 1201.45,
       "status": "CLOSED",
-      "sessions_held": 220
+      "sessions_held": 219
     },
     {
       "symbol": "AUROPHARMA",
@@ -208,16 +208,16 @@
       "weighted_entry": 1208.45,
       "risk_per_share": 28.79,
       "target_2r": 1266.03,
-      "latest_close": 1791.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 48.27,
+      "latest_close": 1811.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 49.86,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-26",
       "exit_date": "2025-12-29",
       "exit_price": 1201.65,
       "status": "CLOSED",
-      "sessions_held": 230
+      "sessions_held": 229
     },
     {
       "symbol": "AUROPHARMA",
@@ -235,16 +235,16 @@
       "weighted_entry": 1179.29,
       "risk_per_share": 30.63,
       "target_2r": 1240.54,
-      "latest_close": 1791.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 51.94,
+      "latest_close": 1811.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 53.57,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-07",
       "exit_date": "2025-11-10",
       "exit_price": 1121.85,
       "status": "CLOSED",
-      "sessions_held": 266
+      "sessions_held": 265
     },
     {
       "symbol": "AUROPHARMA",
@@ -262,16 +262,16 @@
       "weighted_entry": 1113.79,
       "risk_per_share": 31.36,
       "target_2r": 1176.52,
-      "latest_close": 1791.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 60.87,
+      "latest_close": 1811.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 62.6,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-24",
       "exit_date": "2025-09-25",
       "exit_price": 1087.98,
       "status": "CLOSED",
-      "sessions_held": 296
+      "sessions_held": 295
     },
     {
       "symbol": "AUROPHARMA",
@@ -289,16 +289,16 @@
       "weighted_entry": 1127.83,
       "risk_per_share": 27.76,
       "target_2r": 1183.35,
-      "latest_close": 1791.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 58.87,
+      "latest_close": 1811.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 60.57,
       "target_2r_touched": false,
       "hard_stop_date": "2025-08-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-08-01",
       "exit_price": 1113.61,
       "status": "CLOSED",
-      "sessions_held": 326
+      "sessions_held": 325
     },
     {
       "symbol": "AUROPHARMA",
@@ -316,16 +316,16 @@
       "weighted_entry": 1128.26,
       "risk_per_share": 35.42,
       "target_2r": 1199.1,
-      "latest_close": 1791.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 58.81,
+      "latest_close": 1811.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 60.51,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-18",
       "exit_date": "2025-07-21",
       "exit_price": 1130.46,
       "status": "CLOSED",
-      "sessions_held": 337
+      "sessions_held": 336
     },
     {
       "symbol": "AUROPHARMA",
@@ -343,16 +343,16 @@
       "weighted_entry": 1136.8,
       "risk_per_share": 34.68,
       "target_2r": 1206.17,
-      "latest_close": 1791.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 57.62,
+      "latest_close": 1811.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 59.31,
       "target_2r_touched": false,
       "hard_stop_date": "2025-07-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-08",
       "exit_price": 1144.41,
       "status": "CLOSED",
-      "sessions_held": 344
+      "sessions_held": 343
     },
     {
       "symbol": "AUROPHARMA",
@@ -370,16 +370,16 @@
       "weighted_entry": 1234.4,
       "risk_per_share": 72.82,
       "target_2r": 1380.05,
-      "latest_close": 1791.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 45.16,
+      "latest_close": 1811.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 46.71,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-02",
       "exit_date": "2025-05-05",
       "exit_price": 1210.85,
       "status": "CLOSED",
-      "sessions_held": 397
+      "sessions_held": 396
     },
     {
       "symbol": "AUROPHARMA",
@@ -397,16 +397,16 @@
       "weighted_entry": 1227.91,
       "risk_per_share": 36.58,
       "target_2r": 1301.06,
-      "latest_close": 1791.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 45.92,
+      "latest_close": 1811.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 47.49,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-26",
       "exit_date": "2025-03-27",
       "exit_price": 1141.38,
       "status": "CLOSED",
-      "sessions_held": 415
+      "sessions_held": 414
     },
     {
       "symbol": "AUROPHARMA",
@@ -424,16 +424,16 @@
       "weighted_entry": 1258.99,
       "risk_per_share": 40.35,
       "target_2r": 1339.69,
-      "latest_close": 1791.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 42.32,
+      "latest_close": 1811.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 43.84,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-07",
       "exit_date": "2025-01-08",
       "exit_price": 1292.29,
       "status": "CLOSED",
-      "sessions_held": 472
+      "sessions_held": 471
     },
     {
       "symbol": "AUROPHARMA",
@@ -451,16 +451,16 @@
       "weighted_entry": 1247.75,
       "risk_per_share": 38.66,
       "target_2r": 1325.07,
-      "latest_close": 1791.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 43.6,
+      "latest_close": 1811.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 45.14,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-06",
       "exit_date": "2024-08-07",
       "exit_price": 1405.98,
       "status": "CLOSED",
-      "sessions_held": 593
+      "sessions_held": 592
     },
     {
       "symbol": "AUROPHARMA",
@@ -478,16 +478,16 @@
       "weighted_entry": 1097.18,
       "risk_per_share": 46.03,
       "target_2r": 1189.24,
-      "latest_close": 1791.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 63.31,
+      "latest_close": 1811.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 65.06,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-12",
       "exit_date": "2024-04-15",
       "exit_price": 1066.94,
       "status": "CLOSED",
-      "sessions_held": 657
+      "sessions_held": 656
     },
     {
       "symbol": "AUROPHARMA",
@@ -505,16 +505,16 @@
       "weighted_entry": 1089.3,
       "risk_per_share": 36.26,
       "target_2r": 1161.81,
-      "latest_close": 1791.8,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 64.49,
+      "latest_close": 1811.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 66.25,
       "target_2r_touched": false,
       "hard_stop_date": "2024-03-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-03-06",
       "exit_price": 1036.89,
       "status": "CLOSED",
-      "sessions_held": 672
+      "sessions_held": 671
     }
   ]
 }

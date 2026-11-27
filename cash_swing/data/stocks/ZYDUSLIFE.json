@@ -1,7 +1,7 @@
 {
   "symbol": "ZYDUSLIFE",
   "company": "Zydus Lifesciences Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "ZYDUSLIFE",
@@ -19,16 +19,16 @@
       "weighted_entry": 1167.0,
       "risk_per_share": 41.34,
       "target_2r": 1249.68,
-      "latest_close": 1156.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -0.87,
+      "latest_close": 1194.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 2.33,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-04",
       "exit_date": "2026-11-05",
       "exit_price": 1200.0,
       "status": "CLOSED",
-      "sessions_held": 21
+      "sessions_held": 20
     },
     {
       "symbol": "ZYDUSLIFE",
@@ -46,16 +46,16 @@
       "weighted_entry": 1161.0,
       "risk_per_share": 37.73,
       "target_2r": 1236.46,
-      "latest_close": 1156.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -0.35,
+      "latest_close": 1194.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 2.86,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-30",
       "exit_date": "2026-10-01",
       "exit_price": 1151.0,
       "status": "CLOSED",
-      "sessions_held": 45
+      "sessions_held": 44
     },
     {
       "symbol": "ZYDUSLIFE",
@@ -73,16 +73,16 @@
       "weighted_entry": 1190.0,
       "risk_per_share": 44.02,
       "target_2r": 1278.04,
-      "latest_close": 1156.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -2.78,
+      "latest_close": 1194.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 0.35,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-02",
       "exit_date": "2026-09-03",
       "exit_price": 1154.2,
       "status": "CLOSED",
-      "sessions_held": 61
+      "sessions_held": 60
     },
     {
       "symbol": "ZYDUSLIFE",
@@ -100,16 +100,16 @@
       "weighted_entry": 1190.0,
       "risk_per_share": 33.35,
       "target_2r": 1256.69,
-      "latest_close": 1156.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": -2.78,
+      "latest_close": 1194.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 0.35,
       "target_2r_touched": false,
       "hard_stop_date": "2026-08-12",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-08-12",
       "exit_price": 1156.65,
       "status": "CLOSED",
-      "sessions_held": 73
+      "sessions_held": 72
     },
     {
       "symbol": "ZYDUSLIFE",
@@ -127,16 +127,16 @@
       "weighted_entry": 1130.0,
       "risk_per_share": 27.74,
       "target_2r": 1185.48,
-      "latest_close": 1156.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 2.38,
+      "latest_close": 1194.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 5.68,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-05",
       "exit_date": "2026-08-06",
       "exit_price": 1121.0,
       "status": "CLOSED",
-      "sessions_held": 78
+      "sessions_held": 77
     },
     {
       "symbol": "ZYDUSLIFE",
@@ -154,16 +154,16 @@
       "weighted_entry": 939.2,
       "risk_per_share": 33.31,
       "target_2r": 1005.83,
-      "latest_close": 1156.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 23.18,
+      "latest_close": 1194.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 27.15,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-24",
       "exit_date": "2026-04-27",
       "exit_price": 928.77,
       "status": "CLOSED",
-      "sessions_held": 155
+      "sessions_held": 154
     },
     {
       "symbol": "ZYDUSLIFE",
@@ -181,16 +181,16 @@
       "weighted_entry": 937.79,
       "risk_per_share": 24.79,
       "target_2r": 987.36,
-      "latest_close": 1156.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 23.36,
+      "latest_close": 1194.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 27.34,
       "target_2r_touched": false,
       "hard_stop_date": "2026-02-10",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-02-10",
       "exit_price": 894.39,
       "status": "CLOSED",
-      "sessions_held": 196
+      "sessions_held": 195
     },
     {
       "symbol": "ZYDUSLIFE",
@@ -208,16 +208,16 @@
       "weighted_entry": 960.92,
       "risk_per_share": 21.87,
       "target_2r": 1004.67,
-      "latest_close": 1156.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 20.4,
+      "latest_close": 1194.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 24.28,
       "target_2r_touched": true,
       "hard_stop_date": "2025-10-30",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-10-30",
       "exit_price": 993.11,
       "status": "CLOSED",
-      "sessions_held": 268
+      "sessions_held": 267
     },
     {
       "symbol": "ZYDUSLIFE",
@@ -235,16 +235,16 @@
       "weighted_entry": 954.67,
       "risk_per_share": 30.12,
       "target_2r": 1014.92,
-      "latest_close": 1156.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 21.18,
+      "latest_close": 1194.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 25.09,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-26",
       "exit_date": "2025-08-28",
       "exit_price": 986.96,
       "status": "CLOSED",
-      "sessions_held": 316
+      "sessions_held": 315
     },
     {
       "symbol": "ZYDUSLIFE",
@@ -262,16 +262,16 @@
       "weighted_entry": 951.81,
       "risk_per_share": 21.88,
       "target_2r": 995.57,
-      "latest_close": 1156.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 21.55,
+      "latest_close": 1194.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 25.47,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-31",
       "exit_date": "2025-08-01",
       "exit_price": 969.13,
       "status": "CLOSED",
-      "sessions_held": 330
+      "sessions_held": 329
     },
     {
       "symbol": "ZYDUSLIFE",
@@ -289,16 +289,16 @@
       "weighted_entry": 909.05,
       "risk_per_share": 34.14,
       "target_2r": 977.34,
-      "latest_close": 1156.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 27.27,
+      "latest_close": 1194.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 31.37,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-08",
       "exit_date": "2025-05-09",
       "exit_price": 848.51,
       "status": "CLOSED",
-      "sessions_held": 391
+      "sessions_held": 390
     },
     {
       "symbol": "ZYDUSLIFE",
@@ -316,16 +316,16 @@
       "weighted_entry": 918.89,
       "risk_per_share": 25.22,
       "target_2r": 969.33,
-      "latest_close": 1156.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 25.9,
+      "latest_close": 1194.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 29.96,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-25",
       "exit_date": "2025-03-26",
       "exit_price": 896.71,
       "status": "CLOSED",
-      "sessions_held": 414
+      "sessions_held": 413
     },
     {
       "symbol": "ZYDUSLIFE",
@@ -343,16 +343,16 @@
       "weighted_entry": 938.37,
       "risk_per_share": 36.08,
       "target_2r": 1010.52,
-      "latest_close": 1156.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 23.29,
+      "latest_close": 1194.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 27.26,
       "target_2r_touched": false,
       "hard_stop_date": "2025-02-10",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-02-10",
       "exit_price": 959.81,
       "status": "CLOSED",
-      "sessions_held": 444
+      "sessions_held": 443
     },
     {
       "symbol": "ZYDUSLIFE",
@@ -370,16 +370,16 @@
       "weighted_entry": 938.54,
       "risk_per_share": 28.84,
       "target_2r": 996.23,
-      "latest_close": 1156.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 23.27,
+      "latest_close": 1194.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 27.24,
       "target_2r_touched": false,
       "hard_stop_date": "2025-01-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-01-08",
       "exit_price": 967.78,
       "status": "CLOSED",
-      "sessions_held": 467
+      "sessions_held": 466
     },
     {
       "symbol": "ZYDUSLIFE",
@@ -395,18 +395,18 @@
       "quantity_stage1": 51,
       "quantity_stage2": 162,
       "weighted_entry": 934.81,
-      "risk_per_share": 25.93,
+      "risk_per_share": 25.92,
       "target_2r": 986.66,
-      "latest_close": 1156.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 23.76,
+      "latest_close": 1194.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 27.75,
       "target_2r_touched": false,
       "hard_stop_date": "2025-01-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-01-06",
       "exit_price": 953.96,
       "status": "CLOSED",
-      "sessions_held": 470
+      "sessions_held": 469
     },
     {
       "symbol": "ZYDUSLIFE",
@@ -424,16 +424,16 @@
       "weighted_entry": 935.32,
       "risk_per_share": 21.72,
       "target_2r": 978.75,
-      "latest_close": 1156.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 23.69,
+      "latest_close": 1194.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 27.68,
       "target_2r_touched": true,
       "hard_stop_date": "2024-12-10",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-12-10",
       "exit_price": 961.23,
       "status": "CLOSED",
-      "sessions_held": 488
+      "sessions_held": 487
     },
     {
       "symbol": "ZYDUSLIFE",
@@ -451,16 +451,16 @@
       "weighted_entry": 936.81,
       "risk_per_share": 36.55,
       "target_2r": 1009.91,
-      "latest_close": 1156.9,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 23.49,
+      "latest_close": 1194.2,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 27.48,
       "target_2r_touched": true,
       "hard_stop_date": "2024-05-07",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-05-07",
       "exit_price": 952.72,
       "status": "CLOSED",
-      "sessions_held": 636
+      "sessions_held": 635
     }
   ]
 }

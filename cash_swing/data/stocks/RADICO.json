@@ -1,7 +1,7 @@
 {
   "symbol": "RADICO",
   "company": "Radico Khaitan Ltd",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "RADICO",
@@ -19,16 +19,16 @@
       "weighted_entry": 4521.5,
       "risk_per_share": 191.22,
       "target_2r": 4903.95,
-      "latest_close": 4646.6,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 2.77,
+      "latest_close": 4671.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 3.31,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "OPEN",
-      "sessions_held": 13
+      "sessions_held": 12
     },
     {
       "symbol": "RADICO",
@@ -46,16 +46,16 @@
       "weighted_entry": 4544.42,
       "risk_per_share": 160.97,
       "target_2r": 4866.37,
-      "latest_close": 4646.6,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 2.25,
+      "latest_close": 4671.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 2.79,
       "target_2r_touched": false,
       "hard_stop_date": "2026-10-15",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-10-15",
       "exit_price": 4398.03,
       "status": "CLOSED",
-      "sessions_held": 31
+      "sessions_held": 30
     },
     {
       "symbol": "RADICO",
@@ -73,16 +73,16 @@
       "weighted_entry": 4551.42,
       "risk_per_share": 140.25,
       "target_2r": 4831.92,
-      "latest_close": 4646.6,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 2.09,
+      "latest_close": 4671.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 2.63,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-24",
       "exit_date": "2026-09-25",
       "exit_price": 4494.9,
       "status": "CLOSED",
-      "sessions_held": 43
+      "sessions_held": 42
     },
     {
       "symbol": "RADICO",
@@ -100,16 +100,16 @@
       "weighted_entry": 3176.49,
       "risk_per_share": 131.76,
       "target_2r": 3440.01,
-      "latest_close": 4646.6,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 46.28,
+      "latest_close": 4671.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 47.05,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-27",
       "exit_date": "2026-05-29",
       "exit_price": 3434.38,
       "status": "CLOSED",
-      "sessions_held": 156
+      "sessions_held": 155
     },
     {
       "symbol": "RADICO",
@@ -127,16 +127,16 @@
       "weighted_entry": 3208.44,
       "risk_per_share": 122.03,
       "target_2r": 3452.51,
-      "latest_close": 4646.6,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 44.82,
+      "latest_close": 4671.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 45.58,
       "target_2r_touched": false,
       "hard_stop_date": "2026-03-17",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-03-17",
       "exit_price": 2721.66,
       "status": "CLOSED",
-      "sessions_held": 174
+      "sessions_held": 173
     },
     {
       "symbol": "RADICO",
@@ -154,16 +154,16 @@
       "weighted_entry": 3326.66,
       "risk_per_share": 118.06,
       "target_2r": 3562.78,
-      "latest_close": 4646.6,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 39.68,
+      "latest_close": 4671.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 40.41,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-01",
       "exit_date": "2026-01-02",
       "exit_price": 3246.7,
       "status": "CLOSED",
-      "sessions_held": 227
+      "sessions_held": 226
     },
     {
       "symbol": "RADICO",
@@ -181,16 +181,16 @@
       "weighted_entry": 3223.46,
       "risk_per_share": 94.51,
       "target_2r": 3412.48,
-      "latest_close": 4646.6,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 44.15,
+      "latest_close": 4671.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 44.91,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-23",
       "exit_date": "2025-09-24",
       "exit_price": 2973.3,
       "status": "CLOSED",
-      "sessions_held": 296
+      "sessions_held": 295
     },
     {
       "symbol": "RADICO",
@@ -208,16 +208,16 @@
       "weighted_entry": 3127.11,
       "risk_per_share": 87.59,
       "target_2r": 3302.29,
-      "latest_close": 4646.6,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 48.59,
+      "latest_close": 4671.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 49.37,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-25",
       "exit_date": "2025-07-28",
       "exit_price": 2704.9,
       "status": "CLOSED",
-      "sessions_held": 343
+      "sessions_held": 342
     },
     {
       "symbol": "RADICO",
@@ -235,16 +235,16 @@
       "weighted_entry": 3106.35,
       "risk_per_share": 81.26,
       "target_2r": 3268.86,
-      "latest_close": 4646.6,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 49.58,
+      "latest_close": 4671.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 50.37,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-11",
       "exit_date": "2025-06-12",
       "exit_price": 2560.4,
       "status": "CLOSED",
-      "sessions_held": 369
+      "sessions_held": 368
     },
     {
       "symbol": "RADICO",
@@ -262,16 +262,16 @@
       "weighted_entry": 2280.22,
       "risk_per_share": 128.6,
       "target_2r": 2537.42,
-      "latest_close": 4646.6,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 103.78,
+      "latest_close": 4671.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 104.85,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-04",
       "exit_date": "2025-04-07",
       "exit_price": 2191.95,
       "status": "CLOSED",
-      "sessions_held": 422
+      "sessions_held": 421
     },
     {
       "symbol": "RADICO",
@@ -289,16 +289,16 @@
       "weighted_entry": 2157.47,
       "risk_per_share": 61.12,
       "target_2r": 2279.71,
-      "latest_close": 4646.6,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 115.37,
+      "latest_close": 4671.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 116.5,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-25",
       "exit_date": "2024-09-26",
       "exit_price": 2110.95,
       "status": "CLOSED",
-      "sessions_held": 560
+      "sessions_held": 559
     },
     {
       "symbol": "RADICO",
@@ -316,16 +316,16 @@
       "weighted_entry": 1762.25,
       "risk_per_share": 63.01,
       "target_2r": 1888.26,
-      "latest_close": 4646.6,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 163.67,
+      "latest_close": 4671.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 165.06,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-01",
       "exit_date": "2024-08-02",
       "exit_price": 1703.74,
       "status": "CLOSED",
-      "sessions_held": 578
+      "sessions_held": 577
     },
     {
       "symbol": "RADICO",
@@ -343,16 +343,16 @@
       "weighted_entry": 1715.22,
       "risk_per_share": 73.53,
       "target_2r": 1862.27,
-      "latest_close": 4646.6,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 170.9,
+      "latest_close": 4671.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 172.33,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-28",
       "exit_date": "2024-07-01",
       "exit_price": 1776.46,
       "status": "CLOSED",
-      "sessions_held": 610
+      "sessions_held": 609
     },
     {
       "symbol": "RADICO",
@@ -370,16 +370,16 @@
       "weighted_entry": 1710.34,
       "risk_per_share": 77.6,
       "target_2r": 1865.54,
-      "latest_close": 4646.6,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 171.68,
+      "latest_close": 4671.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 173.1,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-08",
       "exit_date": "2024-04-09",
       "exit_price": 1666.51,
       "status": "CLOSED",
-      "sessions_held": 660
+      "sessions_held": 659
     },
     {
       "symbol": "RADICO",
@@ -397,16 +397,16 @@
       "weighted_entry": 1714.07,
       "risk_per_share": 55.2,
       "target_2r": 1824.46,
-      "latest_close": 4646.6,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 171.09,
+      "latest_close": 4671.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 172.51,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-13",
       "exit_date": "2024-02-14",
       "exit_price": 1690.63,
       "status": "CLOSED",
-      "sessions_held": 696
+      "sessions_held": 695
     },
     {
       "symbol": "RADICO",
@@ -424,16 +424,16 @@
       "weighted_entry": 1713.56,
       "risk_per_share": 54.23,
       "target_2r": 1822.03,
-      "latest_close": 4646.6,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 171.17,
+      "latest_close": 4671.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 172.59,
       "target_2r_touched": false,
       "hard_stop_date": "2024-01-29",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-01-29",
       "exit_price": 1604.77,
       "status": "CLOSED",
-      "sessions_held": 700
+      "sessions_held": 699
     }
   ]
 }

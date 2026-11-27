@@ -1,7 +1,7 @@
 {
   "symbol": "DIVISLAB",
   "company": "Divi's Laboratories Ltd.",
-  "market_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "setups": [
     {
       "symbol": "DIVISLAB",
@@ -19,16 +19,16 @@
       "weighted_entry": 9563.0,
       "risk_per_share": 334.69,
       "target_2r": 10232.38,
-      "latest_close": 11560.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 20.88,
+      "latest_close": 11631.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 21.63,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "TWO_R",
-      "sessions_held": 20
+      "sessions_held": 19
     },
     {
       "symbol": "DIVISLAB",
@@ -46,16 +46,16 @@
       "weighted_entry": 6869.67,
       "risk_per_share": 160.63,
       "target_2r": 7190.94,
-      "latest_close": 11560.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 68.28,
+      "latest_close": 11631.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 69.31,
       "target_2r_touched": false,
       "hard_stop_date": "2026-07-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-07-08",
       "exit_price": 6709.04,
       "status": "CLOSED",
-      "sessions_held": 99
+      "sessions_held": 98
     },
     {
       "symbol": "DIVISLAB",
@@ -73,16 +73,16 @@
       "weighted_entry": 6634.14,
       "risk_per_share": 193.44,
       "target_2r": 7021.03,
-      "latest_close": 11560.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 74.25,
+      "latest_close": 11631.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 75.32,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-25",
       "exit_date": "2026-06-29",
       "exit_price": 6672.48,
       "status": "CLOSED",
-      "sessions_held": 111
+      "sessions_held": 110
     },
     {
       "symbol": "DIVISLAB",
@@ -100,16 +100,16 @@
       "weighted_entry": 6431.93,
       "risk_per_share": 202.11,
       "target_2r": 6836.15,
-      "latest_close": 11560.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 79.73,
+      "latest_close": 11631.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 80.83,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-25",
       "exit_date": "2026-05-26",
       "exit_price": 6727.26,
       "status": "CLOSED",
-      "sessions_held": 153
+      "sessions_held": 152
     },
     {
       "symbol": "DIVISLAB",
@@ -127,16 +127,16 @@
       "weighted_entry": 6292.12,
       "risk_per_share": 276.67,
       "target_2r": 6845.46,
-      "latest_close": 11560.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 83.72,
+      "latest_close": 11631.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 84.85,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-04",
       "exit_date": "2026-03-05",
       "exit_price": 6290.56,
       "status": "CLOSED",
-      "sessions_held": 189
+      "sessions_held": 188
     },
     {
       "symbol": "DIVISLAB",
@@ -154,16 +154,16 @@
       "weighted_entry": 6392.97,
       "risk_per_share": 171.44,
       "target_2r": 6735.84,
-      "latest_close": 11560.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 80.82,
+      "latest_close": 11631.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 81.93,
       "target_2r_touched": false,
       "hard_stop_date": "2026-01-12",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-12",
       "exit_price": 6481.13,
       "status": "CLOSED",
-      "sessions_held": 219
+      "sessions_held": 218
     },
     {
       "symbol": "DIVISLAB",
@@ -181,16 +181,16 @@
       "weighted_entry": 6609.3,
       "risk_per_share": 158.05,
       "target_2r": 6925.4,
-      "latest_close": 11560.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 74.91,
+      "latest_close": 11631.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 75.98,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-26",
       "exit_date": "2025-12-29",
       "exit_price": 6423.51,
       "status": "CLOSED",
-      "sessions_held": 228
+      "sessions_held": 227
     },
     {
       "symbol": "DIVISLAB",
@@ -208,16 +208,16 @@
       "weighted_entry": 6525.45,
       "risk_per_share": 198.82,
       "target_2r": 6923.1,
-      "latest_close": 11560.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 77.15,
+      "latest_close": 11631.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 78.24,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-27",
       "exit_date": "2025-10-28",
       "exit_price": 6468.33,
       "status": "CLOSED",
-      "sessions_held": 278
+      "sessions_held": 277
     },
     {
       "symbol": "DIVISLAB",
@@ -235,16 +235,16 @@
       "weighted_entry": 6098.1,
       "risk_per_share": 301.04,
       "target_2r": 6700.18,
-      "latest_close": 11560.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 89.57,
+      "latest_close": 11631.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 90.73,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-08",
       "exit_date": "2025-05-09",
       "exit_price": 5791.14,
       "status": "CLOSED",
-      "sessions_held": 398
+      "sessions_held": 397
     },
     {
       "symbol": "DIVISLAB",
@@ -262,16 +262,16 @@
       "weighted_entry": 6067.24,
       "risk_per_share": 187.62,
       "target_2r": 6442.49,
-      "latest_close": 11560.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 90.53,
+      "latest_close": 11631.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 91.7,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-04",
       "exit_price": 5522.72,
       "status": "CLOSED",
-      "sessions_held": 407
+      "sessions_held": 406
     },
     {
       "symbol": "DIVISLAB",
@@ -289,16 +289,16 @@
       "weighted_entry": 6089.05,
       "risk_per_share": 167.91,
       "target_2r": 6424.87,
-      "latest_close": 11560.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 89.85,
+      "latest_close": 11631.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 91.02,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-28",
       "exit_date": "2025-04-01",
       "exit_price": 5699.93,
       "status": "CLOSED",
-      "sessions_held": 416
+      "sessions_held": 415
     },
     {
       "symbol": "DIVISLAB",
@@ -316,16 +316,16 @@
       "weighted_entry": 6071.69,
       "risk_per_share": 279.82,
       "target_2r": 6631.32,
-      "latest_close": 11560.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 90.39,
+      "latest_close": 11631.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 91.56,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-10",
       "exit_date": "2025-02-11",
       "exit_price": 5898.66,
       "status": "CLOSED",
-      "sessions_held": 445
+      "sessions_held": 444
     },
     {
       "symbol": "DIVISLAB",
@@ -343,16 +343,16 @@
       "weighted_entry": 6057.24,
       "risk_per_share": 160.07,
       "target_2r": 6377.38,
-      "latest_close": 11560.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 90.85,
+      "latest_close": 11631.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 92.02,
       "target_2r_touched": false,
       "hard_stop_date": "2025-01-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-01-06",
       "exit_price": 5877.43,
       "status": "CLOSED",
-      "sessions_held": 472
+      "sessions_held": 471
     },
     {
       "symbol": "DIVISLAB",
@@ -370,16 +370,16 @@
       "weighted_entry": 6005.22,
       "risk_per_share": 197.45,
       "target_2r": 6400.11,
-      "latest_close": 11560.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 92.5,
+      "latest_close": 11631.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 93.68,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-28",
       "exit_date": "2024-11-29",
       "exit_price": 5972.12,
       "status": "CLOSED",
-      "sessions_held": 500
+      "sessions_held": 499
     },
     {
       "symbol": "DIVISLAB",
@@ -397,16 +397,16 @@
       "weighted_entry": 3699.72,
       "risk_per_share": 101.4,
       "target_2r": 3902.52,
-      "latest_close": 11560.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 212.46,
+      "latest_close": 11631.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 214.38,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-18",
       "exit_date": "2024-04-19",
       "exit_price": 3607.3,
       "status": "CLOSED",
-      "sessions_held": 655
+      "sessions_held": 654
     },
     {
       "symbol": "DIVISLAB",
@@ -424,16 +424,16 @@
       "weighted_entry": 3878.77,
       "risk_per_share": 104.74,
       "target_2r": 4088.25,
-      "latest_close": 11560.0,
-      "latest_date": "2026-11-27",
-      "unrealised_return_pct": 198.03,
+      "latest_close": 11631.0,
+      "latest_date": "2026-11-26",
+      "unrealised_return_pct": 199.86,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-01-08",
       "exit_date": "2024-01-09",
       "exit_price": 3891.02,
       "status": "CLOSED",
-      "sessions_held": 720
+      "sessions_held": 719
     }
   ]
 }
