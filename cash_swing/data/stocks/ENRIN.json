@@ -1,7 +1,7 @@
 {
   "symbol": "ENRIN",
   "company": "Siemens Energy India Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "ENRIN",
@@ -19,16 +19,16 @@
       "weighted_entry": 3160.0,
       "risk_per_share": 151.01,
       "target_2r": 3462.02,
-      "latest_close": 2970.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -6.01,
+      "latest_close": 3102.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -1.84,
       "target_2r_touched": false,
       "hard_stop_date": "2026-11-18",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-11-18",
       "exit_price": 3008.99,
       "status": "CLOSED",
-      "sessions_held": 7
+      "sessions_held": 9
     },
     {
       "symbol": "ENRIN",
@@ -46,16 +46,16 @@
       "weighted_entry": 3357.1,
       "risk_per_share": 151.21,
       "target_2r": 3659.51,
-      "latest_close": 2970.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -11.53,
+      "latest_close": 3102.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -7.6,
       "target_2r_touched": false,
       "hard_stop_date": "2026-10-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-10-08",
       "exit_price": 3205.89,
       "status": "CLOSED",
-      "sessions_held": 35
+      "sessions_held": 37
     },
     {
       "symbol": "ENRIN",
@@ -73,16 +73,16 @@
       "weighted_entry": 3580.56,
       "risk_per_share": 165.5,
       "target_2r": 3911.56,
-      "latest_close": 2970.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -17.05,
+      "latest_close": 3102.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -13.37,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-19",
       "exit_date": "2026-08-20",
       "exit_price": 3509.0,
       "status": "CLOSED",
-      "sessions_held": 72
+      "sessions_held": 74
     },
     {
       "symbol": "ENRIN",
@@ -100,16 +100,16 @@
       "weighted_entry": 2922.5,
       "risk_per_share": 125.48,
       "target_2r": 3173.46,
-      "latest_close": 2970.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 1.63,
+      "latest_close": 3102.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 6.14,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-06",
       "exit_date": "2026-05-07",
       "exit_price": 3190.1,
       "status": "CLOSED",
-      "sessions_held": 153
+      "sessions_held": 155
     },
     {
       "symbol": "ENRIN",
@@ -127,16 +127,16 @@
       "weighted_entry": 2886.37,
       "risk_per_share": 134.36,
       "target_2r": 3155.08,
-      "latest_close": 2970.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 2.9,
+      "latest_close": 3102.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 7.47,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-05",
       "exit_date": "2026-03-06",
       "exit_price": 2864.0,
       "status": "CLOSED",
-      "sessions_held": 197
+      "sessions_held": 199
     },
     {
       "symbol": "ENRIN",
@@ -154,16 +154,16 @@
       "weighted_entry": 3313.9,
       "risk_per_share": 113.47,
       "target_2r": 3540.84,
-      "latest_close": 2970.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -10.38,
+      "latest_close": 3102.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -6.39,
       "target_2r_touched": false,
       "hard_stop_date": "2025-11-24",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-11-24",
       "exit_price": 3159.25,
       "status": "CLOSED",
-      "sessions_held": 256
+      "sessions_held": 258
     }
   ]
 }

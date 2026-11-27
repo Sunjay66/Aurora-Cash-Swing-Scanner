@@ -1,7 +1,7 @@
 {
   "symbol": "ETERNAL",
   "company": "Eternal Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "ETERNAL",
@@ -19,16 +19,16 @@
       "weighted_entry": 337.0,
       "risk_per_share": 13.43,
       "target_2r": 363.86,
-      "latest_close": 371.7,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 10.3,
+      "latest_close": 363.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 7.72,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-23",
       "exit_date": "2026-11-25",
       "exit_price": 368.55,
       "status": "CLOSED",
-      "sessions_held": 17
+      "sessions_held": 19
     },
     {
       "symbol": "ETERNAL",
@@ -46,16 +46,16 @@
       "weighted_entry": 328.0,
       "risk_per_share": 11.58,
       "target_2r": 351.17,
-      "latest_close": 371.7,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 13.32,
+      "latest_close": 363.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 10.67,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-10-08",
       "exit_date": "2026-10-09",
       "exit_price": 322.1,
       "status": "CLOSED",
-      "sessions_held": 32
+      "sessions_held": 34
     },
     {
       "symbol": "ETERNAL",
@@ -73,16 +73,16 @@
       "weighted_entry": 328.5,
       "risk_per_share": 9.88,
       "target_2r": 348.26,
-      "latest_close": 371.7,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 13.15,
+      "latest_close": 363.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 10.5,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-28",
       "exit_date": "2026-09-29",
       "exit_price": 333.0,
       "status": "CLOSED",
-      "sessions_held": 45
+      "sessions_held": 47
     },
     {
       "symbol": "ETERNAL",
@@ -100,16 +100,16 @@
       "weighted_entry": 261.8,
       "risk_per_share": 10.36,
       "target_2r": 282.53,
-      "latest_close": 371.7,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 41.98,
+      "latest_close": 363.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 38.65,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-24",
       "exit_date": "2026-06-25",
       "exit_price": 254.0,
       "status": "CLOSED",
-      "sessions_held": 110
+      "sessions_held": 112
     },
     {
       "symbol": "ETERNAL",
@@ -127,16 +127,16 @@
       "weighted_entry": 262.52,
       "risk_per_share": 9.19,
       "target_2r": 280.91,
-      "latest_close": 371.7,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 41.59,
+      "latest_close": 363.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 38.27,
       "target_2r_touched": false,
       "hard_stop_date": "2026-06-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-06-01",
       "exit_price": 247.56,
       "status": "CLOSED",
-      "sessions_held": 123
+      "sessions_held": 125
     },
     {
       "symbol": "ETERNAL",
@@ -154,16 +154,16 @@
       "weighted_entry": 260.52,
       "risk_per_share": 11.9,
       "target_2r": 284.32,
-      "latest_close": 371.7,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 42.67,
+      "latest_close": 363.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 39.33,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-28",
       "exit_date": "2026-04-29",
       "exit_price": 263.3,
       "status": "CLOSED",
-      "sessions_held": 152
+      "sessions_held": 154
     },
     {
       "symbol": "ETERNAL",
@@ -181,16 +181,16 @@
       "weighted_entry": 270.09,
       "risk_per_share": 20.08,
       "target_2r": 310.25,
-      "latest_close": 371.7,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 37.62,
+      "latest_close": 363.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 34.4,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-13",
       "exit_date": "2026-02-16",
       "exit_price": 285.2,
       "status": "CLOSED",
-      "sessions_held": 196
+      "sessions_held": 198
     },
     {
       "symbol": "ETERNAL",
@@ -208,16 +208,16 @@
       "weighted_entry": 272.41,
       "risk_per_share": 9.39,
       "target_2r": 291.18,
-      "latest_close": 371.7,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 36.45,
+      "latest_close": 363.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 33.26,
       "target_2r_touched": true,
       "hard_stop_date": "2026-01-16",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-16",
       "exit_price": 289.86,
       "status": "CLOSED",
-      "sessions_held": 211
+      "sessions_held": 213
     },
     {
       "symbol": "ETERNAL",
@@ -235,16 +235,16 @@
       "weighted_entry": 259.34,
       "risk_per_share": 10.27,
       "target_2r": 279.87,
-      "latest_close": 371.7,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 43.33,
+      "latest_close": 363.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 39.97,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-13",
       "exit_date": "2025-06-16",
       "exit_price": 249.0,
       "status": "CLOSED",
-      "sessions_held": 367
+      "sessions_held": 369
     },
     {
       "symbol": "ETERNAL",
@@ -262,16 +262,16 @@
       "weighted_entry": 230.87,
       "risk_per_share": 10.41,
       "target_2r": 251.69,
-      "latest_close": 371.7,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 61.0,
+      "latest_close": 363.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 57.23,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-28",
       "exit_date": "2025-04-29",
       "exit_price": 228.37,
       "status": "CLOSED",
-      "sessions_held": 398
+      "sessions_held": 400
     },
     {
       "symbol": "ETERNAL",
@@ -289,16 +289,16 @@
       "weighted_entry": 242.96,
       "risk_per_share": 11.94,
       "target_2r": 266.85,
-      "latest_close": 371.7,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 52.99,
+      "latest_close": 363.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 49.41,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-12",
       "exit_date": "2024-12-13",
       "exit_price": 279.0,
       "status": "CLOSED",
-      "sessions_held": 499
+      "sessions_held": 501
     },
     {
       "symbol": "ETERNAL",
@@ -316,16 +316,16 @@
       "weighted_entry": 267.5,
       "risk_per_share": 11.77,
       "target_2r": 291.04,
-      "latest_close": 371.7,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 38.96,
+      "latest_close": 363.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 35.7,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-27",
       "exit_date": "2024-09-30",
       "exit_price": 277.9,
       "status": "CLOSED",
-      "sessions_held": 549
+      "sessions_held": 551
     },
     {
       "symbol": "ETERNAL",
@@ -343,16 +343,16 @@
       "weighted_entry": 251.61,
       "risk_per_share": 11.48,
       "target_2r": 274.56,
-      "latest_close": 371.7,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 47.73,
+      "latest_close": 363.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 44.27,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-07-23",
       "exit_date": "2024-07-24",
       "exit_price": 217.85,
       "status": "CLOSED",
-      "sessions_held": 603
+      "sessions_held": 605
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "ASTRAL",
   "company": "Astral Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "ASTRAL",
@@ -19,16 +19,16 @@
       "weighted_entry": 1442.3,
       "risk_per_share": 42.58,
       "target_2r": 1527.47,
-      "latest_close": 1246.2,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -13.6,
+      "latest_close": 1262.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -12.47,
       "target_2r_touched": false,
       "hard_stop_date": "2026-10-21",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-10-21",
       "exit_price": 1399.72,
       "status": "CLOSED",
-      "sessions_held": 27
+      "sessions_held": 29
     },
     {
       "symbol": "ASTRAL",
@@ -46,16 +46,16 @@
       "weighted_entry": 1521.19,
       "risk_per_share": 43.34,
       "target_2r": 1607.88,
-      "latest_close": 1246.2,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -18.08,
+      "latest_close": 1262.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -17.01,
       "target_2r_touched": false,
       "hard_stop_date": "2026-08-03",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-08-03",
       "exit_price": 1432.59,
       "status": "CLOSED",
-      "sessions_held": 83
+      "sessions_held": 85
     },
     {
       "symbol": "ASTRAL",
@@ -73,16 +73,16 @@
       "weighted_entry": 1544.85,
       "risk_per_share": 53.12,
       "target_2r": 1651.09,
-      "latest_close": 1246.2,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -19.33,
+      "latest_close": 1262.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -18.28,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-19",
       "exit_date": "2026-06-22",
       "exit_price": 1541.76,
       "status": "CLOSED",
-      "sessions_held": 109
+      "sessions_held": 111
     },
     {
       "symbol": "ASTRAL",
@@ -100,16 +100,16 @@
       "weighted_entry": 1549.92,
       "risk_per_share": 61.33,
       "target_2r": 1672.58,
-      "latest_close": 1246.2,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -19.6,
+      "latest_close": 1262.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -18.54,
       "target_2r_touched": false,
       "hard_stop_date": "2026-06-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-06-01",
       "exit_price": 1530.29,
       "status": "CLOSED",
-      "sessions_held": 123
+      "sessions_held": 125
     },
     {
       "symbol": "ASTRAL",
@@ -127,16 +127,16 @@
       "weighted_entry": 1489.63,
       "risk_per_share": 53.25,
       "target_2r": 1596.12,
-      "latest_close": 1246.2,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -16.34,
+      "latest_close": 1262.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -15.25,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-06",
       "exit_date": "2026-02-09",
       "exit_price": 1472.75,
       "status": "CLOSED",
-      "sessions_held": 200
+      "sessions_held": 202
     },
     {
       "symbol": "ASTRAL",
@@ -154,16 +154,16 @@
       "weighted_entry": 1467.2,
       "risk_per_share": 40.31,
       "target_2r": 1547.81,
-      "latest_close": 1246.2,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -15.06,
+      "latest_close": 1262.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -13.95,
       "target_2r_touched": false,
       "hard_stop_date": "2026-01-09",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-09",
       "exit_price": 1445.8,
       "status": "CLOSED",
-      "sessions_held": 218
+      "sessions_held": 220
     },
     {
       "symbol": "ASTRAL",
@@ -181,16 +181,16 @@
       "weighted_entry": 1439.19,
       "risk_per_share": 39.26,
       "target_2r": 1517.72,
-      "latest_close": 1246.2,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -13.41,
+      "latest_close": 1262.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -12.28,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-24",
       "exit_date": "2025-10-27",
       "exit_price": 1425.41,
       "status": "CLOSED",
-      "sessions_held": 273
+      "sessions_held": 275
     },
     {
       "symbol": "ASTRAL",
@@ -208,16 +208,16 @@
       "weighted_entry": 1459.34,
       "risk_per_share": 44.71,
       "target_2r": 1548.76,
-      "latest_close": 1246.2,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -14.61,
+      "latest_close": 1262.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -13.49,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-19",
       "exit_date": "2025-09-22",
       "exit_price": 1434.77,
       "status": "CLOSED",
-      "sessions_held": 302
+      "sessions_held": 304
     },
     {
       "symbol": "ASTRAL",
@@ -235,16 +235,16 @@
       "weighted_entry": 1478.81,
       "risk_per_share": 32.04,
       "target_2r": 1542.89,
-      "latest_close": 1246.2,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -15.73,
+      "latest_close": 1262.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -14.63,
       "target_2r_touched": false,
       "hard_stop_date": "2025-07-22",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-22",
       "exit_price": 1469.66,
       "status": "CLOSED",
-      "sessions_held": 333
+      "sessions_held": 335
     },
     {
       "symbol": "ASTRAL",
@@ -262,16 +262,16 @@
       "weighted_entry": 1460.01,
       "risk_per_share": 55.38,
       "target_2r": 1570.78,
-      "latest_close": 1246.2,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -14.64,
+      "latest_close": 1262.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -13.53,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-12",
       "exit_date": "2025-06-13",
       "exit_price": 1463.01,
       "status": "CLOSED",
-      "sessions_held": 379
+      "sessions_held": 381
     },
     {
       "symbol": "ASTRAL",
@@ -289,16 +289,16 @@
       "weighted_entry": 1467.48,
       "risk_per_share": 57.93,
       "target_2r": 1583.35,
-      "latest_close": 1246.2,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -15.08,
+      "latest_close": 1262.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -13.97,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-25",
       "exit_date": "2025-04-28",
       "exit_price": 1327.85,
       "status": "CLOSED",
-      "sessions_held": 395
+      "sessions_held": 397
     },
     {
       "symbol": "ASTRAL",
@@ -316,16 +316,16 @@
       "weighted_entry": 1459.88,
       "risk_per_share": 41.47,
       "target_2r": 1542.81,
-      "latest_close": 1246.2,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -14.64,
+      "latest_close": 1262.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -13.52,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-07",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-07",
       "exit_price": 1243.16,
       "status": "CLOSED",
-      "sessions_held": 405
+      "sessions_held": 407
     },
     {
       "symbol": "ASTRAL",
@@ -343,16 +343,16 @@
       "weighted_entry": 1564.67,
       "risk_per_share": 53.35,
       "target_2r": 1671.37,
-      "latest_close": 1246.2,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -20.35,
+      "latest_close": 1262.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -19.31,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-17",
       "exit_date": "2024-12-18",
       "exit_price": 1820.06,
       "status": "CLOSED",
-      "sessions_held": 491
+      "sessions_held": 493
     },
     {
       "symbol": "ASTRAL",
@@ -370,16 +370,16 @@
       "weighted_entry": 1604.27,
       "risk_per_share": 47.52,
       "target_2r": 1699.31,
-      "latest_close": 1246.2,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -22.32,
+      "latest_close": 1262.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -21.3,
       "target_2r_touched": true,
       "hard_stop_date": "2024-09-30",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-09-30",
       "exit_price": 1971.69,
       "status": "CLOSED",
-      "sessions_held": 536
+      "sessions_held": 538
     },
     {
       "symbol": "ASTRAL",
@@ -397,16 +397,16 @@
       "weighted_entry": 1665.17,
       "risk_per_share": 105.33,
       "target_2r": 1875.83,
-      "latest_close": 1246.2,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -25.16,
+      "latest_close": 1262.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -24.18,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-19",
       "exit_date": "2024-06-20",
       "exit_price": 2204.5,
       "status": "CLOSED",
-      "sessions_held": 610
+      "sessions_held": 612
     },
     {
       "symbol": "ASTRAL",
@@ -424,16 +424,16 @@
       "weighted_entry": 1602.06,
       "risk_per_share": 56.0,
       "target_2r": 1714.06,
-      "latest_close": 1246.2,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -22.21,
+      "latest_close": 1262.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -21.19,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-21",
       "exit_date": "2024-05-22",
       "exit_price": 2070.61,
       "status": "CLOSED",
-      "sessions_held": 637
+      "sessions_held": 639
     },
     {
       "symbol": "ASTRAL",
@@ -451,16 +451,16 @@
       "weighted_entry": 1619.9,
       "risk_per_share": 86.45,
       "target_2r": 1792.8,
-      "latest_close": 1246.2,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -23.07,
+      "latest_close": 1262.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -22.06,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-08",
       "exit_date": "2024-04-09",
       "exit_price": 2027.59,
       "status": "CLOSED",
-      "sessions_held": 654
+      "sessions_held": 656
     },
     {
       "symbol": "ASTRAL",
@@ -478,16 +478,16 @@
       "weighted_entry": 1924.22,
       "risk_per_share": 64.71,
       "target_2r": 2053.64,
-      "latest_close": 1246.2,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -35.24,
+      "latest_close": 1262.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -34.39,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-09",
       "exit_date": "2024-02-12",
       "exit_price": 1838.56,
       "status": "CLOSED",
-      "sessions_held": 694
+      "sessions_held": 696
     },
     {
       "symbol": "ASTRAL",
@@ -505,16 +505,16 @@
       "weighted_entry": 1943.69,
       "risk_per_share": 53.82,
       "target_2r": 2051.33,
-      "latest_close": 1246.2,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -35.88,
+      "latest_close": 1262.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -35.05,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2023-12-18",
       "exit_date": "2023-12-19",
       "exit_price": 1925.46,
       "status": "CLOSED",
-      "sessions_held": 725
+      "sessions_held": 727
     }
   ]
 }

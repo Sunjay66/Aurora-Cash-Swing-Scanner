@@ -1,7 +1,7 @@
 {
   "symbol": "DLF",
   "company": "DLF Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "DLF",
@@ -19,16 +19,16 @@
       "weighted_entry": 670.0,
       "risk_per_share": 21.69,
       "target_2r": 713.38,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 18.66,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 20.22,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-10-21",
       "exit_date": "2026-10-22",
       "exit_price": 657.0,
       "status": "CLOSED",
-      "sessions_held": 26
+      "sessions_held": 28
     },
     {
       "symbol": "DLF",
@@ -46,16 +46,16 @@
       "weighted_entry": 680.0,
       "risk_per_share": 20.56,
       "target_2r": 721.12,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 16.91,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 18.45,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-28",
       "exit_date": "2026-09-29",
       "exit_price": 660.5,
       "status": "CLOSED",
-      "sessions_held": 39
+      "sessions_held": 41
     },
     {
       "symbol": "DLF",
@@ -73,16 +73,16 @@
       "weighted_entry": 614.45,
       "risk_per_share": 22.34,
       "target_2r": 659.12,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 29.38,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 31.09,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-23",
       "exit_date": "2026-06-24",
       "exit_price": 604.21,
       "status": "CLOSED",
-      "sessions_held": 111
+      "sessions_held": 113
     },
     {
       "symbol": "DLF",
@@ -100,16 +100,16 @@
       "weighted_entry": 607.78,
       "risk_per_share": 21.43,
       "target_2r": 650.64,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 30.8,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 32.52,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-01",
       "exit_date": "2026-06-02",
       "exit_price": 569.15,
       "status": "CLOSED",
-      "sessions_held": 125
+      "sessions_held": 127
     },
     {
       "symbol": "DLF",
@@ -127,16 +127,16 @@
       "weighted_entry": 607.74,
       "risk_per_share": 27.19,
       "target_2r": 662.13,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 30.81,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 32.53,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-24",
       "exit_date": "2026-04-27",
       "exit_price": 585.55,
       "status": "CLOSED",
-      "sessions_held": 152
+      "sessions_held": 154
     },
     {
       "symbol": "DLF",
@@ -154,16 +154,16 @@
       "weighted_entry": 627.34,
       "risk_per_share": 27.9,
       "target_2r": 683.13,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 26.73,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 28.39,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-12",
       "exit_date": "2026-02-13",
       "exit_price": 633.64,
       "status": "CLOSED",
-      "sessions_held": 194
+      "sessions_held": 196
     },
     {
       "symbol": "DLF",
@@ -181,16 +181,16 @@
       "weighted_entry": 750.52,
       "risk_per_share": 16.6,
       "target_2r": 783.72,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 5.93,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 7.32,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-31",
       "exit_date": "2025-11-03",
       "exit_price": 745.64,
       "status": "CLOSED",
-      "sessions_held": 272
+      "sessions_held": 274
     },
     {
       "symbol": "DLF",
@@ -208,16 +208,16 @@
       "weighted_entry": 755.44,
       "risk_per_share": 19.23,
       "target_2r": 793.9,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 5.24,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 6.62,
       "target_2r_touched": false,
       "hard_stop_date": "2025-09-23",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-09-23",
       "exit_price": 760.68,
       "status": "CLOSED",
-      "sessions_held": 293
+      "sessions_held": 295
     },
     {
       "symbol": "DLF",
@@ -235,16 +235,16 @@
       "weighted_entry": 767.29,
       "risk_per_share": 20.6,
       "target_2r": 808.48,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 3.61,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 4.97,
       "target_2r_touched": true,
       "hard_stop_date": "2025-07-23",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-23",
       "exit_price": 812.28,
       "status": "CLOSED",
-      "sessions_held": 335
+      "sessions_held": 337
     },
     {
       "symbol": "DLF",
@@ -262,16 +262,16 @@
       "weighted_entry": 727.54,
       "risk_per_share": 29.55,
       "target_2r": 786.64,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 9.27,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 10.71,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-18",
       "exit_date": "2025-06-19",
       "exit_price": 828.46,
       "status": "CLOSED",
-      "sessions_held": 381
+      "sessions_held": 383
     },
     {
       "symbol": "DLF",
@@ -289,16 +289,16 @@
       "weighted_entry": 729.62,
       "risk_per_share": 30.75,
       "target_2r": 791.11,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 8.96,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 10.39,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-25",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-25",
       "exit_price": 644.77,
       "status": "CLOSED",
-      "sessions_held": 394
+      "sessions_held": 396
     },
     {
       "symbol": "DLF",
@@ -316,16 +316,16 @@
       "weighted_entry": 735.62,
       "risk_per_share": 26.58,
       "target_2r": 788.78,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 8.07,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 9.49,
       "target_2r_touched": false,
       "hard_stop_date": "2025-03-26",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-03-26",
       "exit_price": 669.58,
       "status": "CLOSED",
-      "sessions_held": 413
+      "sessions_held": 415
     },
     {
       "symbol": "DLF",
@@ -343,16 +343,16 @@
       "weighted_entry": 833.7,
       "risk_per_share": 29.64,
       "target_2r": 892.99,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -4.64,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -3.39,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-19",
       "exit_date": "2024-12-20",
       "exit_price": 846.21,
       "status": "CLOSED",
-      "sessions_held": 492
+      "sessions_held": 494
     },
     {
       "symbol": "DLF",
@@ -370,16 +370,16 @@
       "weighted_entry": 849.03,
       "risk_per_share": 34.22,
       "target_2r": 917.47,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -6.36,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -5.13,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-21",
       "exit_date": "2024-10-22",
       "exit_price": 841.21,
       "status": "CLOSED",
-      "sessions_held": 519
+      "sessions_held": 521
     },
     {
       "symbol": "DLF",
@@ -397,16 +397,16 @@
       "weighted_entry": 852.08,
       "risk_per_share": 32.31,
       "target_2r": 916.71,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -6.7,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -5.47,
       "target_2r_touched": false,
       "hard_stop_date": "2024-10-17",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-10-17",
       "exit_price": 838.31,
       "status": "CLOSED",
-      "sessions_held": 521
+      "sessions_held": 523
     },
     {
       "symbol": "DLF",
@@ -424,16 +424,16 @@
       "weighted_entry": 845.87,
       "risk_per_share": 22.37,
       "target_2r": 890.62,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -6.01,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -4.78,
       "target_2r_touched": false,
       "hard_stop_date": "2024-09-19",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-09-19",
       "exit_price": 822.76,
       "status": "CLOSED",
-      "sessions_held": 542
+      "sessions_held": 544
     },
     {
       "symbol": "DLF",
@@ -451,16 +451,16 @@
       "weighted_entry": 849.04,
       "risk_per_share": 35.96,
       "target_2r": 920.96,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -6.37,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -5.13,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-23",
       "exit_date": "2024-08-26",
       "exit_price": 840.96,
       "status": "CLOSED",
-      "sessions_held": 563
+      "sessions_held": 565
     },
     {
       "symbol": "DLF",
@@ -478,16 +478,16 @@
       "weighted_entry": 867.54,
       "risk_per_share": 33.79,
       "target_2r": 935.12,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -8.36,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -7.16,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-02",
       "exit_date": "2024-08-05",
       "exit_price": 816.45,
       "status": "CLOSED",
-      "sessions_held": 576
+      "sessions_held": 578
     },
     {
       "symbol": "DLF",
@@ -505,16 +505,16 @@
       "weighted_entry": 850.27,
       "risk_per_share": 47.01,
       "target_2r": 944.28,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -6.5,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -5.27,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-21",
       "exit_date": "2024-06-24",
       "exit_price": 828.14,
       "status": "CLOSED",
-      "sessions_held": 607
+      "sessions_held": 609
     },
     {
       "symbol": "DLF",
@@ -532,16 +532,16 @@
       "weighted_entry": 861.98,
       "risk_per_share": 27.55,
       "target_2r": 917.08,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -7.77,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -6.56,
       "target_2r_touched": false,
       "hard_stop_date": "2024-04-29",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-04-29",
       "exit_price": 862.5,
       "status": "CLOSED",
-      "sessions_held": 638
+      "sessions_held": 640
     },
     {
       "symbol": "DLF",
@@ -559,16 +559,16 @@
       "weighted_entry": 859.85,
       "risk_per_share": 34.29,
       "target_2r": 928.43,
-      "latest_close": 795.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -7.54,
+      "latest_close": 805.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -6.33,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-04",
       "exit_date": "2024-04-05",
       "exit_price": 867.53,
       "status": "CLOSED",
-      "sessions_held": 656
+      "sessions_held": 658
     }
   ]
 }

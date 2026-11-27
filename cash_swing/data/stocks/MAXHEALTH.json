@@ -1,7 +1,7 @@
 {
   "symbol": "MAXHEALTH",
   "company": "Max Healthcare Institute Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "MAXHEALTH",
@@ -19,16 +19,16 @@
       "weighted_entry": 1044.63,
       "risk_per_share": 35.42,
       "target_2r": 1115.47,
-      "latest_close": 1076.3,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 3.03,
+      "latest_close": 1071.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 2.55,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "OPEN",
-      "sessions_held": 12
+      "sessions_held": 14
     },
     {
       "symbol": "MAXHEALTH",
@@ -46,16 +46,16 @@
       "weighted_entry": 1073.2,
       "risk_per_share": 28.45,
       "target_2r": 1130.09,
-      "latest_close": 1076.3,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 0.29,
+      "latest_close": 1071.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -0.18,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-25",
       "exit_date": "2026-09-28",
       "exit_price": 1014.0,
       "status": "CLOSED",
-      "sessions_held": 47
+      "sessions_held": 49
     },
     {
       "symbol": "MAXHEALTH",
@@ -73,16 +73,16 @@
       "weighted_entry": 1094.12,
       "risk_per_share": 33.1,
       "target_2r": 1160.32,
-      "latest_close": 1076.3,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -1.63,
+      "latest_close": 1071.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -2.09,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-31",
       "exit_date": "2026-08-03",
       "exit_price": 1109.8,
       "status": "CLOSED",
-      "sessions_held": 82
+      "sessions_held": 84
     },
     {
       "symbol": "MAXHEALTH",
@@ -100,16 +100,16 @@
       "weighted_entry": 1069.18,
       "risk_per_share": 31.64,
       "target_2r": 1132.47,
-      "latest_close": 1076.3,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 0.67,
+      "latest_close": 1071.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 0.2,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-07",
       "exit_date": "2026-07-08",
       "exit_price": 1119.7,
       "status": "CLOSED",
-      "sessions_held": 111
+      "sessions_held": 113
     },
     {
       "symbol": "MAXHEALTH",
@@ -127,16 +127,16 @@
       "weighted_entry": 1037.33,
       "risk_per_share": 34.38,
       "target_2r": 1106.09,
-      "latest_close": 1076.3,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 3.76,
+      "latest_close": 1071.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 3.27,
       "target_2r_touched": false,
       "hard_stop_date": "2026-04-30",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-04-30",
       "exit_price": 933.34,
       "status": "CLOSED",
-      "sessions_held": 149
+      "sessions_held": 151
     },
     {
       "symbol": "MAXHEALTH",
@@ -154,16 +154,16 @@
       "weighted_entry": 1077.15,
       "risk_per_share": 38.55,
       "target_2r": 1154.25,
-      "latest_close": 1076.3,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -0.08,
+      "latest_close": 1071.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -0.54,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-02",
       "exit_date": "2026-03-04",
       "exit_price": 1063.71,
       "status": "CLOSED",
-      "sessions_held": 192
+      "sessions_held": 194
     },
     {
       "symbol": "MAXHEALTH",
@@ -181,16 +181,16 @@
       "weighted_entry": 1106.88,
       "risk_per_share": 39.15,
       "target_2r": 1185.18,
-      "latest_close": 1076.3,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -2.76,
+      "latest_close": 1071.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -3.21,
       "target_2r_touched": false,
       "hard_stop_date": "2025-12-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-12-01",
       "exit_price": 1142.65,
       "status": "CLOSED",
-      "sessions_held": 248
+      "sessions_held": 250
     },
     {
       "symbol": "MAXHEALTH",
@@ -208,16 +208,16 @@
       "weighted_entry": 1107.83,
       "risk_per_share": 37.54,
       "target_2r": 1182.91,
-      "latest_close": 1076.3,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -2.85,
+      "latest_close": 1071.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -3.3,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-24",
       "exit_date": "2025-10-27",
       "exit_price": 1177.91,
       "status": "CLOSED",
-      "sessions_held": 272
+      "sessions_held": 274
     },
     {
       "symbol": "MAXHEALTH",
@@ -235,16 +235,16 @@
       "weighted_entry": 1122.61,
       "risk_per_share": 39.94,
       "target_2r": 1202.48,
-      "latest_close": 1076.3,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -4.13,
+      "latest_close": 1071.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -4.57,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-31",
       "exit_date": "2025-08-01",
       "exit_price": 1242.79,
       "status": "CLOSED",
-      "sessions_held": 329
+      "sessions_held": 331
     },
     {
       "symbol": "MAXHEALTH",
@@ -262,16 +262,16 @@
       "weighted_entry": 1139.63,
       "risk_per_share": 51.28,
       "target_2r": 1242.19,
-      "latest_close": 1076.3,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -5.56,
+      "latest_close": 1071.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -6.0,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-28",
       "exit_date": "2025-04-01",
       "exit_price": 1102.77,
       "status": "CLOSED",
-      "sessions_held": 414
+      "sessions_held": 416
     },
     {
       "symbol": "MAXHEALTH",
@@ -289,16 +289,16 @@
       "weighted_entry": 1152.96,
       "risk_per_share": 54.48,
       "target_2r": 1261.93,
-      "latest_close": 1076.3,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -6.65,
+      "latest_close": 1071.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -7.08,
       "target_2r_touched": false,
       "hard_stop_date": "2025-02-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-02-06",
       "exit_price": 1122.07,
       "status": "CLOSED",
-      "sessions_held": 444
+      "sessions_held": 446
     },
     {
       "symbol": "MAXHEALTH",
@@ -316,16 +316,16 @@
       "weighted_entry": 1115.58,
       "risk_per_share": 50.89,
       "target_2r": 1217.36,
-      "latest_close": 1076.3,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -3.52,
+      "latest_close": 1071.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -3.97,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-23",
       "exit_date": "2024-12-24",
       "exit_price": 1148.08,
       "status": "CLOSED",
-      "sessions_held": 489
+      "sessions_held": 491
     },
     {
       "symbol": "MAXHEALTH",
@@ -343,16 +343,16 @@
       "weighted_entry": 1096.62,
       "risk_per_share": 35.81,
       "target_2r": 1168.25,
-      "latest_close": 1076.3,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -1.85,
+      "latest_close": 1071.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -2.31,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-11",
       "exit_date": "2024-11-12",
       "exit_price": 1026.99,
       "status": "CLOSED",
-      "sessions_held": 512
+      "sessions_held": 514
     },
     {
       "symbol": "MAXHEALTH",
@@ -370,16 +370,16 @@
       "weighted_entry": 891.11,
       "risk_per_share": 27.07,
       "target_2r": 945.26,
-      "latest_close": 1076.3,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 20.78,
+      "latest_close": 1071.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 20.22,
       "target_2r_touched": false,
       "hard_stop_date": "2024-09-09",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-09-09",
       "exit_price": 877.27,
       "status": "CLOSED",
-      "sessions_held": 548
+      "sessions_held": 550
     },
     {
       "symbol": "MAXHEALTH",
@@ -397,16 +397,16 @@
       "weighted_entry": 870.96,
       "risk_per_share": 44.77,
       "target_2r": 960.5,
-      "latest_close": 1076.3,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 23.58,
+      "latest_close": 1071.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 23.0,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-11",
       "exit_date": "2024-06-12",
       "exit_price": 807.23,
       "status": "CLOSED",
-      "sessions_held": 610
+      "sessions_held": 612
     },
     {
       "symbol": "MAXHEALTH",
@@ -424,16 +424,16 @@
       "weighted_entry": 873.08,
       "risk_per_share": 42.91,
       "target_2r": 958.9,
-      "latest_close": 1076.3,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 23.28,
+      "latest_close": 1071.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 22.7,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-07",
       "exit_date": "2024-05-08",
       "exit_price": 801.81,
       "status": "CLOSED",
-      "sessions_held": 637
+      "sessions_held": 639
     },
     {
       "symbol": "MAXHEALTH",
@@ -451,16 +451,16 @@
       "weighted_entry": 871.79,
       "risk_per_share": 36.51,
       "target_2r": 944.82,
-      "latest_close": 1076.3,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 23.46,
+      "latest_close": 1071.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 22.88,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-16",
       "exit_date": "2024-04-18",
       "exit_price": 819.82,
       "status": "CLOSED",
-      "sessions_held": 656
+      "sessions_held": 658
     }
   ]
 }

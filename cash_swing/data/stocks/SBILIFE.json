@@ -1,7 +1,7 @@
 {
   "symbol": "SBILIFE",
   "company": "SBI Life Insurance Company Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "SBILIFE",
@@ -19,16 +19,16 @@
       "weighted_entry": 1796.52,
       "risk_per_share": 49.84,
       "target_2r": 1896.2,
-      "latest_close": 1823.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 1.52,
+      "latest_close": 1856.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 3.31,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "OPEN",
-      "sessions_held": 12
+      "sessions_held": 14
     },
     {
       "symbol": "SBILIFE",
@@ -46,16 +46,16 @@
       "weighted_entry": 1878.93,
       "risk_per_share": 44.92,
       "target_2r": 1968.77,
-      "latest_close": 1823.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -2.93,
+      "latest_close": 1856.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -1.22,
       "target_2r_touched": false,
       "hard_stop_date": "2026-07-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-07-08",
       "exit_price": 1786.98,
       "status": "CLOSED",
-      "sessions_held": 96
+      "sessions_held": 98
     },
     {
       "symbol": "SBILIFE",
@@ -73,16 +73,16 @@
       "weighted_entry": 1891.66,
       "risk_per_share": 43.96,
       "target_2r": 1979.59,
-      "latest_close": 1823.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -3.58,
+      "latest_close": 1856.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -1.88,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-27",
       "exit_date": "2026-05-29",
       "exit_price": 1862.4,
       "status": "CLOSED",
-      "sessions_held": 126
+      "sessions_held": 128
     },
     {
       "symbol": "SBILIFE",
@@ -100,16 +100,16 @@
       "weighted_entry": 1888.78,
       "risk_per_share": 45.85,
       "target_2r": 1980.48,
-      "latest_close": 1823.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -3.44,
+      "latest_close": 1856.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -1.74,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-21",
       "exit_date": "2026-05-22",
       "exit_price": 1872.0,
       "status": "CLOSED",
-      "sessions_held": 128
+      "sessions_held": 130
     },
     {
       "symbol": "SBILIFE",
@@ -127,16 +127,16 @@
       "weighted_entry": 1913.29,
       "risk_per_share": 73.05,
       "target_2r": 2059.4,
-      "latest_close": 1823.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -4.67,
+      "latest_close": 1856.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -2.99,
       "target_2r_touched": false,
       "hard_stop_date": "2026-04-21",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-04-21",
       "exit_price": 1898.05,
       "status": "CLOSED",
-      "sessions_held": 152
+      "sessions_held": 154
     },
     {
       "symbol": "SBILIFE",
@@ -154,16 +154,16 @@
       "weighted_entry": 1933.94,
       "risk_per_share": 51.34,
       "target_2r": 2036.62,
-      "latest_close": 1823.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -5.69,
+      "latest_close": 1856.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -4.03,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-27",
       "exit_date": "2026-03-02",
       "exit_price": 2025.18,
       "status": "CLOSED",
-      "sessions_held": 187
+      "sessions_held": 189
     },
     {
       "symbol": "SBILIFE",
@@ -181,16 +181,16 @@
       "weighted_entry": 1841.09,
       "risk_per_share": 38.53,
       "target_2r": 1918.14,
-      "latest_close": 1823.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -0.93,
+      "latest_close": 1856.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 0.81,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-27",
       "exit_date": "2025-11-28",
       "exit_price": 2008.21,
       "status": "CLOSED",
-      "sessions_held": 273
+      "sessions_held": 275
     },
     {
       "symbol": "SBILIFE",
@@ -208,16 +208,16 @@
       "weighted_entry": 1846.54,
       "risk_per_share": 47.11,
       "target_2r": 1940.76,
-      "latest_close": 1823.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -1.23,
+      "latest_close": 1856.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 0.51,
       "target_2r_touched": false,
       "hard_stop_date": "2025-09-23",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-09-23",
       "exit_price": 1815.3,
       "status": "CLOSED",
-      "sessions_held": 289
+      "sessions_held": 291
     },
     {
       "symbol": "SBILIFE",
@@ -235,16 +235,16 @@
       "weighted_entry": 1842.44,
       "risk_per_share": 39.31,
       "target_2r": 1921.06,
-      "latest_close": 1823.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -1.01,
+      "latest_close": 1856.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 0.74,
       "target_2r_touched": false,
       "hard_stop_date": "2025-08-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-08-01",
       "exit_price": 1806.12,
       "status": "CLOSED",
-      "sessions_held": 327
+      "sessions_held": 329
     },
     {
       "symbol": "SBILIFE",
@@ -262,16 +262,16 @@
       "weighted_entry": 1545.7,
       "risk_per_share": 42.68,
       "target_2r": 1631.07,
-      "latest_close": 1823.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 18.0,
+      "latest_close": 1856.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 20.07,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-04",
       "exit_date": "2025-04-07",
       "exit_price": 1447.99,
       "status": "CLOSED",
-      "sessions_held": 414
+      "sessions_held": 416
     },
     {
       "symbol": "SBILIFE",
@@ -289,16 +289,16 @@
       "weighted_entry": 1538.92,
       "risk_per_share": 50.55,
       "target_2r": 1640.02,
-      "latest_close": 1823.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 18.52,
+      "latest_close": 1856.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 20.6,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-25",
       "exit_date": "2025-02-27",
       "exit_price": 1459.19,
       "status": "CLOSED",
-      "sessions_held": 435
+      "sessions_held": 437
     },
     {
       "symbol": "SBILIFE",
@@ -316,16 +316,16 @@
       "weighted_entry": 1538.75,
       "risk_per_share": 48.32,
       "target_2r": 1635.4,
-      "latest_close": 1823.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 18.53,
+      "latest_close": 1856.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 20.62,
       "target_2r_touched": false,
       "hard_stop_date": "2025-02-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-02-01",
       "exit_price": 1422.43,
       "status": "CLOSED",
-      "sessions_held": 447
+      "sessions_held": 449
     },
     {
       "symbol": "SBILIFE",
@@ -343,16 +343,16 @@
       "weighted_entry": 1533.59,
       "risk_per_share": 36.3,
       "target_2r": 1606.19,
-      "latest_close": 1823.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 18.93,
+      "latest_close": 1856.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 21.02,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-21",
       "exit_date": "2025-01-22",
       "exit_price": 1461.28,
       "status": "CLOSED",
-      "sessions_held": 464
+      "sessions_held": 466
     },
     {
       "symbol": "SBILIFE",
@@ -370,16 +370,16 @@
       "weighted_entry": 1447.7,
       "risk_per_share": 54.89,
       "target_2r": 1557.48,
-      "latest_close": 1823.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 25.99,
+      "latest_close": 1856.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 28.2,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-26",
       "exit_date": "2024-06-27",
       "exit_price": 1440.25,
       "status": "CLOSED",
-      "sessions_held": 607
+      "sessions_held": 609
     },
     {
       "symbol": "SBILIFE",
@@ -397,16 +397,16 @@
       "weighted_entry": 1461.03,
       "risk_per_share": 40.01,
       "target_2r": 1541.05,
-      "latest_close": 1823.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 24.84,
+      "latest_close": 1856.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 27.03,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-12",
       "exit_date": "2024-04-15",
       "exit_price": 1484.96,
       "status": "CLOSED",
-      "sessions_held": 649
+      "sessions_held": 651
     },
     {
       "symbol": "SBILIFE",
@@ -424,16 +424,16 @@
       "weighted_entry": 1472.05,
       "risk_per_share": 60.38,
       "target_2r": 1592.81,
-      "latest_close": 1823.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 23.9,
+      "latest_close": 1856.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 26.08,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-09",
       "exit_date": "2024-02-12",
       "exit_price": 1435.13,
       "status": "CLOSED",
-      "sessions_held": 691
+      "sessions_held": 693
     },
     {
       "symbol": "SBILIFE",
@@ -451,16 +451,16 @@
       "weighted_entry": 1467.63,
       "risk_per_share": 35.36,
       "target_2r": 1538.34,
-      "latest_close": 1823.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 24.28,
+      "latest_close": 1856.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 26.46,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-01-11",
       "exit_date": "2024-01-12",
       "exit_price": 1427.52,
       "status": "CLOSED",
-      "sessions_held": 709
+      "sessions_held": 711
     },
     {
       "symbol": "SBILIFE",
@@ -478,16 +478,16 @@
       "weighted_entry": 1467.43,
       "risk_per_share": 31.6,
       "target_2r": 1530.63,
-      "latest_close": 1823.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 24.29,
+      "latest_close": 1856.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 26.48,
       "target_2r_touched": false,
       "hard_stop_date": "2024-01-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-01-08",
       "exit_price": 1415.17,
       "status": "CLOSED",
-      "sessions_held": 711
+      "sessions_held": 713
     }
   ]
 }

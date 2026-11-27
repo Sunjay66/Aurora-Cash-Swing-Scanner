@@ -1,7 +1,7 @@
 {
   "symbol": "CUMMINSIND",
   "company": "Cummins India Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "CUMMINSIND",
@@ -19,16 +19,16 @@
       "weighted_entry": 5571.0,
       "risk_per_share": 157.31,
       "target_2r": 5885.61,
-      "latest_close": 4067.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -27.0,
+      "latest_close": 4205.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -24.51,
       "target_2r_touched": false,
       "hard_stop_date": "2026-07-28",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-07-28",
       "exit_price": 5413.69,
       "status": "CLOSED",
-      "sessions_held": 84
+      "sessions_held": 86
     },
     {
       "symbol": "CUMMINSIND",
@@ -46,16 +46,16 @@
       "weighted_entry": 4653.4,
       "risk_per_share": 210.09,
       "target_2r": 5073.58,
-      "latest_close": 4067.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -12.6,
+      "latest_close": 4205.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -9.63,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-11",
       "exit_date": "2026-05-12",
       "exit_price": 5221.69,
       "status": "CLOSED",
-      "sessions_held": 158
+      "sessions_held": 160
     },
     {
       "symbol": "CUMMINSIND",
@@ -73,16 +73,16 @@
       "weighted_entry": 4691.69,
       "risk_per_share": 228.83,
       "target_2r": 5149.34,
-      "latest_close": 4067.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -13.31,
+      "latest_close": 4205.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -10.36,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-27",
       "exit_date": "2026-03-30",
       "exit_price": 4513.56,
       "status": "CLOSED",
-      "sessions_held": 163
+      "sessions_held": 165
     },
     {
       "symbol": "CUMMINSIND",
@@ -100,16 +100,16 @@
       "weighted_entry": 4327.46,
       "risk_per_share": 175.06,
       "target_2r": 4677.58,
-      "latest_close": 4067.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -6.02,
+      "latest_close": 4205.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -2.82,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-04",
       "exit_date": "2026-03-05",
       "exit_price": 4590.92,
       "status": "CLOSED",
-      "sessions_held": 196
+      "sessions_held": 198
     },
     {
       "symbol": "CUMMINSIND",
@@ -118,7 +118,7 @@
       "entry_date": "2026-01-05",
       "entry_price": 4430.93,
       "atr14": 97.13,
-      "initial_stop": 4309.51,
+      "initial_stop": 4309.52,
       "stage2_signal_date": "2026-02-11",
       "stage2_entry_date": "2026-02-12",
       "stage2_entry_price": 4347.94,
@@ -127,16 +127,16 @@
       "weighted_entry": 4368.23,
       "risk_per_share": 121.42,
       "target_2r": 4611.06,
-      "latest_close": 4067.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -6.9,
+      "latest_close": 4205.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -3.73,
       "target_2r_touched": false,
       "hard_stop_date": "2026-01-05",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-05",
-      "exit_price": 4309.51,
+      "exit_price": 4309.52,
       "status": "CLOSED",
-      "sessions_held": 219
+      "sessions_held": 221
     },
     {
       "symbol": "CUMMINSIND",
@@ -154,16 +154,16 @@
       "weighted_entry": 4251.63,
       "risk_per_share": 98.05,
       "target_2r": 4447.73,
-      "latest_close": 4067.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -4.34,
+      "latest_close": 4205.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -1.08,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-14",
       "exit_date": "2025-11-17",
       "exit_price": 4235.35,
       "status": "CLOSED",
-      "sessions_held": 270
+      "sessions_held": 272
     },
     {
       "symbol": "CUMMINSIND",
@@ -181,16 +181,16 @@
       "weighted_entry": 2933.74,
       "risk_per_share": 116.25,
       "target_2r": 3166.24,
-      "latest_close": 4067.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 38.63,
+      "latest_close": 4205.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 43.35,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-23",
       "exit_date": "2025-05-26",
       "exit_price": 2896.03,
       "status": "CLOSED",
-      "sessions_held": 378
+      "sessions_held": 380
     },
     {
       "symbol": "CUMMINSIND",
@@ -208,16 +208,16 @@
       "weighted_entry": 2881.02,
       "risk_per_share": 106.27,
       "target_2r": 3093.56,
-      "latest_close": 4067.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 41.17,
+      "latest_close": 4205.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 45.97,
       "target_2r_touched": false,
       "hard_stop_date": "2025-05-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-05-06",
       "exit_price": 2651.85,
       "status": "CLOSED",
-      "sessions_held": 387
+      "sessions_held": 389
     },
     {
       "symbol": "CUMMINSIND",
@@ -235,16 +235,16 @@
       "weighted_entry": 2902.68,
       "risk_per_share": 140.89,
       "target_2r": 3184.46,
-      "latest_close": 4067.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 40.11,
+      "latest_close": 4205.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 44.88,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-29",
       "exit_date": "2025-04-30",
       "exit_price": 2836.27,
       "status": "CLOSED",
-      "sessions_held": 391
+      "sessions_held": 393
     },
     {
       "symbol": "CUMMINSIND",
@@ -262,16 +262,16 @@
       "weighted_entry": 2918.5,
       "risk_per_share": 136.06,
       "target_2r": 3190.63,
-      "latest_close": 4067.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 39.35,
+      "latest_close": 4205.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 44.1,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-25",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-25",
       "exit_price": 2764.76,
       "status": "CLOSED",
-      "sessions_held": 394
+      "sessions_held": 396
     },
     {
       "symbol": "CUMMINSIND",
@@ -289,16 +289,16 @@
       "weighted_entry": 2907.77,
       "risk_per_share": 111.79,
       "target_2r": 3131.35,
-      "latest_close": 4067.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 39.87,
+      "latest_close": 4205.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 44.63,
       "target_2r_touched": false,
       "hard_stop_date": "2025-03-12",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-03-12",
       "exit_price": 2746.1,
       "status": "CLOSED",
-      "sessions_held": 424
+      "sessions_held": 426
     },
     {
       "symbol": "CUMMINSIND",
@@ -316,16 +316,16 @@
       "weighted_entry": 3029.41,
       "risk_per_share": 115.66,
       "target_2r": 3260.72,
-      "latest_close": 4067.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 34.25,
+      "latest_close": 4205.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 38.82,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-17",
       "exit_date": "2024-12-18",
       "exit_price": 3440.13,
       "status": "CLOSED",
-      "sessions_held": 485
+      "sessions_held": 487
     },
     {
       "symbol": "CUMMINSIND",
@@ -343,16 +343,16 @@
       "weighted_entry": 3044.67,
       "risk_per_share": 127.55,
       "target_2r": 3299.77,
-      "latest_close": 4067.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 33.58,
+      "latest_close": 4205.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 38.13,
       "target_2r_touched": false,
       "hard_stop_date": "2024-12-05",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-12-05",
       "exit_price": 3355.29,
       "status": "CLOSED",
-      "sessions_held": 488
+      "sessions_held": 490
     },
     {
       "symbol": "CUMMINSIND",
@@ -370,16 +370,16 @@
       "weighted_entry": 3085.4,
       "risk_per_share": 100.98,
       "target_2r": 3287.36,
-      "latest_close": 4067.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 31.81,
+      "latest_close": 4205.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 36.3,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-18",
       "exit_date": "2024-09-19",
       "exit_price": 3692.74,
       "status": "CLOSED",
-      "sessions_held": 545
+      "sessions_held": 547
     },
     {
       "symbol": "CUMMINSIND",
@@ -397,16 +397,16 @@
       "weighted_entry": 3109.59,
       "risk_per_share": 167.03,
       "target_2r": 3443.66,
-      "latest_close": 4067.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 30.79,
+      "latest_close": 4205.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 35.24,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-27",
       "exit_date": "2024-08-28",
       "exit_price": 3673.31,
       "status": "CLOSED",
-      "sessions_held": 561
+      "sessions_held": 563
     },
     {
       "symbol": "CUMMINSIND",
@@ -424,16 +424,16 @@
       "weighted_entry": 3069.25,
       "risk_per_share": 223.92,
       "target_2r": 3517.09,
-      "latest_close": 4067.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 32.51,
+      "latest_close": 4205.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 37.02,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-10",
       "exit_date": "2024-06-11",
       "exit_price": 3426.12,
       "status": "CLOSED",
-      "sessions_held": 610
+      "sessions_held": 612
     }
   ]
 }

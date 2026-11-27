@@ -1,7 +1,7 @@
 {
   "symbol": "GVT&D",
   "company": "GE Vernova T&D India Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "GVT&D",
@@ -19,16 +19,16 @@
       "weighted_entry": 4170.0,
       "risk_per_share": 238.22,
       "target_2r": 4646.45,
-      "latest_close": 4070.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -2.4,
+      "latest_close": 4263.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 2.23,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-20",
       "exit_date": "2026-11-23",
       "exit_price": 4235.0,
       "status": "CLOSED",
-      "sessions_held": 10
+      "sessions_held": 12
     },
     {
       "symbol": "GVT&D",
@@ -46,16 +46,16 @@
       "weighted_entry": 4176.0,
       "risk_per_share": 228.08,
       "target_2r": 4632.16,
-      "latest_close": 4070.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -2.54,
+      "latest_close": 4263.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 2.08,
       "target_2r_touched": false,
       "hard_stop_date": "2026-11-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-11-06",
       "exit_price": 3947.92,
       "status": "CLOSED",
-      "sessions_held": 13
+      "sessions_held": 15
     },
     {
       "symbol": "GVT&D",
@@ -73,16 +73,16 @@
       "weighted_entry": 4352.0,
       "risk_per_share": 180.3,
       "target_2r": 4712.6,
-      "latest_close": 4070.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -6.48,
+      "latest_close": 4263.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -2.05,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-04",
       "exit_date": "2026-09-07",
       "exit_price": 4334.5,
       "status": "CLOSED",
-      "sessions_held": 54
+      "sessions_held": 56
     },
     {
       "symbol": "GVT&D",
@@ -100,16 +100,16 @@
       "weighted_entry": 4400.0,
       "risk_per_share": 177.75,
       "target_2r": 4755.51,
-      "latest_close": 4070.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -7.5,
+      "latest_close": 4263.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -3.11,
       "target_2r_touched": false,
       "hard_stop_date": "2026-09-02",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-09-02",
       "exit_price": 4222.25,
       "status": "CLOSED",
-      "sessions_held": 57
+      "sessions_held": 59
     },
     {
       "symbol": "GVT&D",
@@ -127,16 +127,16 @@
       "weighted_entry": 3645.98,
       "risk_per_share": 237.39,
       "target_2r": 4120.76,
-      "latest_close": 4070.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 11.63,
+      "latest_close": 4263.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 16.92,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-30",
       "exit_date": "2026-04-01",
       "exit_price": 3751.61,
       "status": "CLOSED",
-      "sessions_held": 162
+      "sessions_held": 164
     },
     {
       "symbol": "GVT&D",
@@ -154,16 +154,16 @@
       "weighted_entry": 3390.08,
       "risk_per_share": 169.3,
       "target_2r": 3728.69,
-      "latest_close": 4070.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 20.06,
+      "latest_close": 4263.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 25.75,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-19",
       "exit_date": "2026-02-20",
       "exit_price": 3550.71,
       "status": "CLOSED",
-      "sessions_held": 200
+      "sessions_held": 202
     },
     {
       "symbol": "GVT&D",
@@ -181,16 +181,16 @@
       "weighted_entry": 3332.71,
       "risk_per_share": 157.39,
       "target_2r": 3647.49,
-      "latest_close": 4070.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 22.12,
+      "latest_close": 4263.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 27.91,
       "target_2r_touched": false,
       "hard_stop_date": "2025-12-18",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-12-18",
       "exit_price": 2835.21,
       "status": "CLOSED",
-      "sessions_held": 232
+      "sessions_held": 234
     },
     {
       "symbol": "GVT&D",
@@ -208,16 +208,16 @@
       "weighted_entry": 3343.45,
       "risk_per_share": 132.04,
       "target_2r": 3607.53,
-      "latest_close": 4070.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 21.73,
+      "latest_close": 4263.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 27.5,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-06",
       "exit_date": "2025-11-07",
       "exit_price": 3002.57,
       "status": "CLOSED",
-      "sessions_held": 263
+      "sessions_held": 265
     },
     {
       "symbol": "GVT&D",
@@ -235,16 +235,16 @@
       "weighted_entry": 1652.49,
       "risk_per_share": 93.04,
       "target_2r": 1838.58,
-      "latest_close": 4070.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 146.29,
+      "latest_close": 4263.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 157.97,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-16",
       "exit_date": "2025-06-17",
       "exit_price": 2307.25,
       "status": "CLOSED",
-      "sessions_held": 394
+      "sessions_held": 396
     },
     {
       "symbol": "GVT&D",
@@ -262,16 +262,16 @@
       "weighted_entry": 1663.56,
       "risk_per_share": 88.67,
       "target_2r": 1840.9,
-      "latest_close": 4070.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 144.66,
+      "latest_close": 4263.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 156.26,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-01",
       "exit_date": "2025-04-02",
       "exit_price": 1474.49,
       "status": "CLOSED",
-      "sessions_held": 414
+      "sessions_held": 416
     },
     {
       "symbol": "GVT&D",
@@ -289,16 +289,16 @@
       "weighted_entry": 1740.54,
       "risk_per_share": 119.84,
       "target_2r": 1980.23,
-      "latest_close": 4070.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 133.83,
+      "latest_close": 4263.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 144.92,
       "target_2r_touched": false,
       "hard_stop_date": "2024-11-14",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-11-14",
       "exit_price": 1718.59,
       "status": "CLOSED",
-      "sessions_held": 503
+      "sessions_held": 505
     },
     {
       "symbol": "GVT&D",
@@ -316,16 +316,16 @@
       "weighted_entry": 1725.7,
       "risk_per_share": 126.57,
       "target_2r": 1978.84,
-      "latest_close": 4070.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 135.85,
+      "latest_close": 4263.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 147.03,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-05",
       "exit_date": "2024-11-06",
       "exit_price": 1740.5,
       "status": "CLOSED",
-      "sessions_held": 509
+      "sessions_held": 511
     },
     {
       "symbol": "GVT&D",
@@ -343,16 +343,16 @@
       "weighted_entry": 1698.92,
       "risk_per_share": 108.44,
       "target_2r": 1915.81,
-      "latest_close": 4070.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 139.56,
+      "latest_close": 4263.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 150.92,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-21",
       "exit_date": "2024-10-22",
       "exit_price": 1752.44,
       "status": "CLOSED",
-      "sessions_held": 527
+      "sessions_held": 529
     },
     {
       "symbol": "GVT&D",
@@ -370,16 +370,16 @@
       "weighted_entry": 1716.8,
       "risk_per_share": 100.31,
       "target_2r": 1917.42,
-      "latest_close": 4070.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 137.07,
+      "latest_close": 4263.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 148.31,
       "target_2r_touched": false,
       "hard_stop_date": "2024-09-16",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-09-16",
       "exit_price": 1660.1,
       "status": "CLOSED",
-      "sessions_held": 544
+      "sessions_held": 546
     },
     {
       "symbol": "GVT&D",
@@ -397,16 +397,16 @@
       "weighted_entry": 1691.05,
       "risk_per_share": 109.51,
       "target_2r": 1910.07,
-      "latest_close": 4070.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 140.68,
+      "latest_close": 4263.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 152.09,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-12",
       "exit_date": "2024-08-13",
       "exit_price": 1740.36,
       "status": "CLOSED",
-      "sessions_held": 574
+      "sessions_held": 576
     },
     {
       "symbol": "GVT&D",
@@ -424,16 +424,16 @@
       "weighted_entry": 1454.6,
       "risk_per_share": 63.86,
       "target_2r": 1582.32,
-      "latest_close": 4070.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 179.8,
+      "latest_close": 4263.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 193.07,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-10",
       "exit_date": "2024-04-12",
       "exit_price": 919.93,
       "status": "CLOSED",
-      "sessions_held": 654
+      "sessions_held": 656
     }
   ]
 }

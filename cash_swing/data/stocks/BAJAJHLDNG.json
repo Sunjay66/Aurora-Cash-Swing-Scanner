@@ -1,7 +1,7 @@
 {
   "symbol": "BAJAJHLDNG",
   "company": "Bajaj Holdings & Investment Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "BAJAJHLDNG",
@@ -19,16 +19,16 @@
       "weighted_entry": 11307.12,
       "risk_per_share": 451.16,
       "target_2r": 12209.44,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 1.05,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 3.5,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "OPEN",
-      "sessions_held": 9
+      "sessions_held": 11
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -46,16 +46,16 @@
       "weighted_entry": 11152.12,
       "risk_per_share": 334.11,
       "target_2r": 11820.33,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 2.46,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 4.94,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-10-21",
       "exit_date": "2026-10-22",
       "exit_price": 10880.0,
       "status": "CLOSED",
-      "sessions_held": 25
+      "sessions_held": 27
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -73,16 +73,16 @@
       "weighted_entry": 11168.35,
       "risk_per_share": 266.58,
       "target_2r": 11701.52,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 2.31,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 4.79,
       "target_2r_touched": false,
       "hard_stop_date": "2026-09-24",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-09-24",
       "exit_price": 11000.42,
       "status": "CLOSED",
-      "sessions_held": 42
+      "sessions_held": 44
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -100,16 +100,16 @@
       "weighted_entry": 11019.03,
       "risk_per_share": 346.12,
       "target_2r": 11711.27,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 3.69,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 6.21,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-17",
       "exit_date": "2026-08-18",
       "exit_price": 11313.44,
       "status": "CLOSED",
-      "sessions_held": 83
+      "sessions_held": 85
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -127,16 +127,16 @@
       "weighted_entry": 10505.6,
       "risk_per_share": 349.5,
       "target_2r": 11204.6,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 8.76,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 11.4,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-08",
       "exit_date": "2026-07-09",
       "exit_price": 10332.13,
       "status": "CLOSED",
-      "sessions_held": 109
+      "sessions_held": 111
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -154,16 +154,16 @@
       "weighted_entry": 10255.81,
       "risk_per_share": 463.22,
       "target_2r": 11182.26,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 11.41,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 14.11,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-11",
       "exit_date": "2026-05-12",
       "exit_price": 10222.99,
       "status": "CLOSED",
-      "sessions_held": 152
+      "sessions_held": 154
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -181,16 +181,16 @@
       "weighted_entry": 10464.79,
       "risk_per_share": 306.97,
       "target_2r": 11078.74,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 9.19,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 11.83,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-13",
       "exit_date": "2026-02-16",
       "exit_price": 10685.53,
       "status": "CLOSED",
-      "sessions_held": 194
+      "sessions_held": 196
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -207,17 +207,17 @@
       "quantity_stage2": 14,
       "weighted_entry": 10803.27,
       "risk_per_share": 505.75,
-      "target_2r": 11814.77,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 5.76,
+      "target_2r": 11814.76,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 8.33,
       "target_2r_touched": false,
       "hard_stop_date": "2025-11-11",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-11-11",
       "exit_price": 11881.65,
       "status": "CLOSED",
-      "sessions_held": 257
+      "sessions_held": 259
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -235,16 +235,16 @@
       "weighted_entry": 10801.93,
       "risk_per_share": 359.93,
       "target_2r": 11521.8,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 5.78,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 8.34,
       "target_2r_touched": true,
       "hard_stop_date": "2025-10-28",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-10-28",
       "exit_price": 12547.95,
       "status": "CLOSED",
-      "sessions_held": 268
+      "sessions_held": 270
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -262,16 +262,16 @@
       "weighted_entry": 10880.39,
       "risk_per_share": 368.28,
       "target_2r": 11616.96,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 5.01,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 7.56,
       "target_2r_touched": true,
       "hard_stop_date": "2025-09-19",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-09-19",
       "exit_price": 12984.21,
       "status": "CLOSED",
-      "sessions_held": 292
+      "sessions_held": 294
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -289,16 +289,16 @@
       "weighted_entry": 10961.79,
       "risk_per_share": 533.71,
       "target_2r": 12029.21,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 4.23,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 6.76,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-19",
       "exit_date": "2025-08-20",
       "exit_price": 13537.18,
       "status": "CLOSED",
-      "sessions_held": 314
+      "sessions_held": 316
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -316,16 +316,16 @@
       "weighted_entry": 10955.41,
       "risk_per_share": 429.01,
       "target_2r": 11813.43,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 4.3,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 6.82,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-31",
       "exit_date": "2025-08-01",
       "exit_price": 13656.4,
       "status": "CLOSED",
-      "sessions_held": 326
+      "sessions_held": 328
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -343,16 +343,16 @@
       "weighted_entry": 10813.36,
       "risk_per_share": 576.43,
       "target_2r": 11966.22,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 5.67,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 8.23,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-29",
       "exit_date": "2025-05-30",
       "exit_price": 13146.09,
       "status": "CLOSED",
-      "sessions_held": 379
+      "sessions_held": 381
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -370,16 +370,16 @@
       "weighted_entry": 10692.64,
       "risk_per_share": 653.03,
       "target_2r": 11998.7,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 6.86,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 9.45,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-30",
       "exit_date": "2025-05-02",
       "exit_price": 11699.83,
       "status": "CLOSED",
-      "sessions_held": 396
+      "sessions_held": 398
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -397,16 +397,16 @@
       "weighted_entry": 10652.21,
       "risk_per_share": 521.67,
       "target_2r": 11695.55,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 7.26,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 9.86,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-01",
       "exit_date": "2025-04-02",
       "exit_price": 11692.03,
       "status": "CLOSED",
-      "sessions_held": 414
+      "sessions_held": 416
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -424,16 +424,16 @@
       "weighted_entry": 10466.91,
       "risk_per_share": 475.1,
       "target_2r": 11417.12,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 9.16,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 11.81,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-28",
       "exit_date": "2025-01-29",
       "exit_price": 10756.1,
       "status": "CLOSED",
-      "sessions_held": 451
+      "sessions_held": 453
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -451,16 +451,16 @@
       "weighted_entry": 10358.56,
       "risk_per_share": 438.55,
       "target_2r": 11235.66,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 10.3,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 12.98,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-20",
       "exit_date": "2024-12-23",
       "exit_price": 10480.55,
       "status": "CLOSED",
-      "sessions_held": 488
+      "sessions_held": 490
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -478,16 +478,16 @@
       "weighted_entry": 10347.72,
       "risk_per_share": 375.46,
       "target_2r": 11098.64,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 10.42,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 13.1,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-13",
       "exit_date": "2024-11-14",
       "exit_price": 10269.17,
       "status": "CLOSED",
-      "sessions_held": 507
+      "sessions_held": 509
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -505,16 +505,16 @@
       "weighted_entry": 10077.81,
       "risk_per_share": 298.51,
       "target_2r": 10674.82,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 13.38,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 16.13,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-09",
       "exit_date": "2024-09-10",
       "exit_price": 10163.59,
       "status": "CLOSED",
-      "sessions_held": 562
+      "sessions_held": 564
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -532,16 +532,16 @@
       "weighted_entry": 8064.53,
       "risk_per_share": 224.8,
       "target_2r": 8514.12,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 41.68,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 45.12,
       "target_2r_touched": false,
       "hard_stop_date": "2024-06-19",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-06-19",
       "exit_price": 7926.79,
       "status": "CLOSED",
-      "sessions_held": 609
+      "sessions_held": 611
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -559,16 +559,16 @@
       "weighted_entry": 8120.21,
       "risk_per_share": 230.61,
       "target_2r": 8581.43,
-      "latest_close": 11426.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 40.71,
+      "latest_close": 11703.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 44.12,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-16",
       "exit_date": "2024-05-17",
       "exit_price": 8060.98,
       "status": "CLOSED",
-      "sessions_held": 632
+      "sessions_held": 634
     }
   ]
 }

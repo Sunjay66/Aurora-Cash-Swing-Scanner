@@ -1,7 +1,7 @@
 {
   "symbol": "RELIANCE",
   "company": "Reliance Industries Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "RELIANCE",
@@ -19,16 +19,16 @@
       "weighted_entry": 1321.95,
       "risk_per_share": 45.87,
       "target_2r": 1413.68,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 3.93,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 4.59,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "OPEN",
-      "sessions_held": 15
+      "sessions_held": 17
     },
     {
       "symbol": "RELIANCE",
@@ -46,16 +46,16 @@
       "weighted_entry": 1330.92,
       "risk_per_share": 25.01,
       "target_2r": 1380.94,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 3.23,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 3.88,
       "target_2r_touched": false,
       "hard_stop_date": "2026-09-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-09-08",
       "exit_price": 1298.09,
       "status": "CLOSED",
-      "sessions_held": 53
+      "sessions_held": 55
     },
     {
       "symbol": "RELIANCE",
@@ -73,16 +73,16 @@
       "weighted_entry": 1330.15,
       "risk_per_share": 29.55,
       "target_2r": 1389.25,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 3.29,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 3.94,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-14",
       "exit_date": "2026-08-17",
       "exit_price": 1314.0,
       "status": "CLOSED",
-      "sessions_held": 74
+      "sessions_held": 76
     },
     {
       "symbol": "RELIANCE",
@@ -100,16 +100,16 @@
       "weighted_entry": 1330.4,
       "risk_per_share": 28.36,
       "target_2r": 1387.11,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 3.27,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 3.92,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-21",
       "exit_date": "2026-07-22",
       "exit_price": 1302.0,
       "status": "CLOSED",
-      "sessions_held": 87
+      "sessions_held": 89
     },
     {
       "symbol": "RELIANCE",
@@ -127,16 +127,16 @@
       "weighted_entry": 1410.75,
       "risk_per_share": 36.71,
       "target_2r": 1484.18,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -2.61,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -2.0,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-11",
       "exit_date": "2026-05-12",
       "exit_price": 1385.59,
       "status": "CLOSED",
-      "sessions_held": 142
+      "sessions_held": 144
     },
     {
       "symbol": "RELIANCE",
@@ -154,16 +154,16 @@
       "weighted_entry": 1425.55,
       "risk_per_share": 37.27,
       "target_2r": 1500.1,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -3.62,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -3.01,
       "target_2r_touched": false,
       "hard_stop_date": "2026-02-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-02-13",
       "exit_price": 1425.96,
       "status": "CLOSED",
-      "sessions_held": 192
+      "sessions_held": 194
     },
     {
       "symbol": "RELIANCE",
@@ -181,16 +181,16 @@
       "weighted_entry": 1459.5,
       "risk_per_share": 22.17,
       "target_2r": 1503.85,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -5.87,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -5.27,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-02",
       "exit_date": "2025-12-03",
       "exit_price": 1538.09,
       "status": "CLOSED",
-      "sessions_held": 271
+      "sessions_held": 273
     },
     {
       "symbol": "RELIANCE",
@@ -208,16 +208,16 @@
       "weighted_entry": 1450.92,
       "risk_per_share": 24.51,
       "target_2r": 1499.94,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -5.31,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -4.71,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-22",
       "exit_date": "2025-09-23",
       "exit_price": 1384.6,
       "status": "CLOSED",
-      "sessions_held": 293
+      "sessions_held": 295
     },
     {
       "symbol": "RELIANCE",
@@ -235,16 +235,16 @@
       "weighted_entry": 1286.63,
       "risk_per_share": 41.4,
       "target_2r": 1369.43,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 6.78,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 7.46,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-09",
       "exit_date": "2025-05-12",
       "exit_price": 1388.01,
       "status": "CLOSED",
-      "sessions_held": 396
+      "sessions_held": 398
     },
     {
       "symbol": "RELIANCE",
@@ -262,16 +262,16 @@
       "weighted_entry": 1272.13,
       "risk_per_share": 30.68,
       "target_2r": 1333.48,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 8.0,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 8.68,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-01",
       "exit_date": "2025-04-02",
       "exit_price": 1236.87,
       "status": "CLOSED",
-      "sessions_held": 419
+      "sessions_held": 421
     },
     {
       "symbol": "RELIANCE",
@@ -289,16 +289,16 @@
       "weighted_entry": 1277.88,
       "risk_per_share": 34.25,
       "target_2r": 1346.37,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 7.51,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 8.2,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-07",
       "exit_date": "2025-02-10",
       "exit_price": 1253.67,
       "status": "CLOSED",
-      "sessions_held": 444
+      "sessions_held": 446
     },
     {
       "symbol": "RELIANCE",
@@ -316,16 +316,16 @@
       "weighted_entry": 1269.84,
       "risk_per_share": 31.77,
       "target_2r": 1333.38,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 8.19,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 8.88,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-03",
       "exit_date": "2025-02-04",
       "exit_price": 1237.36,
       "status": "CLOSED",
-      "sessions_held": 446
+      "sessions_held": 448
     },
     {
       "symbol": "RELIANCE",
@@ -343,16 +343,16 @@
       "weighted_entry": 1287.54,
       "risk_per_share": 28.93,
       "target_2r": 1345.4,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 6.71,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 7.38,
       "target_2r_touched": false,
       "hard_stop_date": "2025-01-17",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-01-17",
       "exit_price": 1282.0,
       "status": "CLOSED",
-      "sessions_held": 458
+      "sessions_held": 460
     },
     {
       "symbol": "RELIANCE",
@@ -370,16 +370,16 @@
       "weighted_entry": 1287.94,
       "risk_per_share": 35.32,
       "target_2r": 1358.58,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 6.67,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 7.35,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-09",
       "exit_date": "2024-12-10",
       "exit_price": 1278.21,
       "status": "CLOSED",
-      "sessions_held": 487
+      "sessions_held": 489
     },
     {
       "symbol": "RELIANCE",
@@ -397,16 +397,16 @@
       "weighted_entry": 1323.49,
       "risk_per_share": 24.64,
       "target_2r": 1372.78,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 3.81,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 4.47,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-30",
       "exit_date": "2024-10-01",
       "exit_price": 1467.97,
       "status": "CLOSED",
-      "sessions_held": 535
+      "sessions_held": 537
     },
     {
       "symbol": "RELIANCE",
@@ -424,16 +424,16 @@
       "weighted_entry": 1493.47,
       "risk_per_share": 24.11,
       "target_2r": 1541.69,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -8.01,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -7.42,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-05",
       "exit_date": "2024-09-06",
       "exit_price": 1479.72,
       "status": "CLOSED",
-      "sessions_held": 557
+      "sessions_held": 559
     },
     {
       "symbol": "RELIANCE",
@@ -451,16 +451,16 @@
       "weighted_entry": 1482.05,
       "risk_per_share": 49.27,
       "target_2r": 1580.58,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -7.3,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -6.71,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-19",
       "exit_date": "2024-06-20",
       "exit_price": 1441.62,
       "status": "CLOSED",
-      "sessions_held": 610
+      "sessions_held": 612
     },
     {
       "symbol": "RELIANCE",
@@ -478,16 +478,16 @@
       "weighted_entry": 1489.16,
       "risk_per_share": 34.35,
       "target_2r": 1557.86,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -7.74,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -7.16,
       "target_2r_touched": false,
       "hard_stop_date": "2024-06-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-06-04",
       "exit_price": 1445.85,
       "status": "CLOSED",
-      "sessions_held": 614
+      "sessions_held": 616
     },
     {
       "symbol": "RELIANCE",
@@ -505,16 +505,16 @@
       "weighted_entry": 1485.47,
       "risk_per_share": 35.96,
       "target_2r": 1557.4,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -7.51,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -6.93,
       "target_2r_touched": false,
       "hard_stop_date": "2024-05-29",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-05-29",
       "exit_price": 1429.26,
       "status": "CLOSED",
-      "sessions_held": 621
+      "sessions_held": 623
     },
     {
       "symbol": "RELIANCE",
@@ -532,16 +532,16 @@
       "weighted_entry": 1468.18,
       "risk_per_share": 33.07,
       "target_2r": 1534.32,
-      "latest_close": 1373.9,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -6.42,
+      "latest_close": 1382.6,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -5.83,
       "target_2r_touched": false,
       "hard_stop_date": "2024-04-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-04-04",
       "exit_price": 1442.02,
       "status": "CLOSED",
-      "sessions_held": 657
+      "sessions_held": 659
     }
   ]
 }

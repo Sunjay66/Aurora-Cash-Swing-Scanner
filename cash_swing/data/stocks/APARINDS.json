@@ -1,7 +1,7 @@
 {
   "symbol": "APARINDS",
   "company": "Apar Industries Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "APARINDS",
@@ -19,16 +19,16 @@
       "weighted_entry": 15682.55,
       "risk_per_share": 811.2,
       "target_2r": 17304.96,
-      "latest_close": 14250.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -9.13,
+      "latest_close": 14160.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -9.71,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-19",
       "exit_date": "2026-08-20",
       "exit_price": 16672.12,
       "status": "CLOSED",
-      "sessions_held": 76
+      "sessions_held": 78
     },
     {
       "symbol": "APARINDS",
@@ -46,16 +46,16 @@
       "weighted_entry": 10349.07,
       "risk_per_share": 636.36,
       "target_2r": 11621.79,
-      "latest_close": 14250.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 37.69,
+      "latest_close": 14160.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 36.82,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-30",
       "exit_date": "2026-04-01",
       "exit_price": 10314.19,
       "status": "CLOSED",
-      "sessions_held": 162
+      "sessions_held": 164
     },
     {
       "symbol": "APARINDS",
@@ -73,16 +73,16 @@
       "weighted_entry": 9574.15,
       "risk_per_share": 513.97,
       "target_2r": 10602.1,
-      "latest_close": 14250.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 48.84,
+      "latest_close": 14160.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 47.9,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-04",
       "exit_date": "2026-03-05",
       "exit_price": 10138.8,
       "status": "CLOSED",
-      "sessions_held": 198
+      "sessions_held": 200
     },
     {
       "symbol": "APARINDS",
@@ -100,16 +100,16 @@
       "weighted_entry": 9440.85,
       "risk_per_share": 320.76,
       "target_2r": 10082.37,
-      "latest_close": 14250.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 50.94,
+      "latest_close": 14160.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 49.99,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-16",
       "exit_date": "2025-12-17",
       "exit_price": 8943.45,
       "status": "CLOSED",
-      "sessions_held": 232
+      "sessions_held": 234
     },
     {
       "symbol": "APARINDS",
@@ -127,16 +127,16 @@
       "weighted_entry": 9394.51,
       "risk_per_share": 447.64,
       "target_2r": 10289.79,
-      "latest_close": 14250.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 51.68,
+      "latest_close": 14160.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 50.73,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-24",
       "exit_date": "2025-11-25",
       "exit_price": 8930.0,
       "status": "CLOSED",
-      "sessions_held": 254
+      "sessions_held": 256
     },
     {
       "symbol": "APARINDS",
@@ -154,16 +154,16 @@
       "weighted_entry": 9380.56,
       "risk_per_share": 329.08,
       "target_2r": 10038.72,
-      "latest_close": 14250.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 51.91,
+      "latest_close": 14160.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 50.95,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-31",
       "exit_date": "2025-11-03",
       "exit_price": 8645.98,
       "status": "CLOSED",
-      "sessions_held": 272
+      "sessions_held": 274
     },
     {
       "symbol": "APARINDS",
@@ -181,16 +181,16 @@
       "weighted_entry": 9302.08,
       "risk_per_share": 275.12,
       "target_2r": 9852.31,
-      "latest_close": 14250.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 53.19,
+      "latest_close": 14160.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 52.22,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-15",
       "exit_date": "2025-10-16",
       "exit_price": 8326.59,
       "status": "CLOSED",
-      "sessions_held": 275
+      "sessions_held": 277
     },
     {
       "symbol": "APARINDS",
@@ -208,16 +208,16 @@
       "weighted_entry": 9301.21,
       "risk_per_share": 266.13,
       "target_2r": 9833.47,
-      "latest_close": 14250.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 53.21,
+      "latest_close": 14160.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 52.24,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-09",
       "exit_date": "2025-10-10",
       "exit_price": 8407.81,
       "status": "CLOSED",
-      "sessions_held": 278
+      "sessions_held": 280
     },
     {
       "symbol": "APARINDS",
@@ -235,16 +235,16 @@
       "weighted_entry": 8664.24,
       "risk_per_share": 259.01,
       "target_2r": 9182.26,
-      "latest_close": 14250.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 64.47,
+      "latest_close": 14160.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 63.43,
       "target_2r_touched": false,
       "hard_stop_date": "2025-09-26",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-09-26",
       "exit_price": 8301.27,
       "status": "CLOSED",
-      "sessions_held": 294
+      "sessions_held": 296
     },
     {
       "symbol": "APARINDS",
@@ -262,16 +262,16 @@
       "weighted_entry": 7402.32,
       "risk_per_share": 321.45,
       "target_2r": 8045.22,
-      "latest_close": 14250.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 92.51,
+      "latest_close": 14160.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 91.29,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-12",
       "exit_date": "2025-06-13",
       "exit_price": 7712.9,
       "status": "CLOSED",
-      "sessions_held": 390
+      "sessions_held": 392
     },
     {
       "symbol": "APARINDS",
@@ -289,16 +289,16 @@
       "weighted_entry": 8514.71,
       "risk_per_share": 445.6,
       "target_2r": 9405.9,
-      "latest_close": 14250.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 67.36,
+      "latest_close": 14160.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 66.3,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-10",
       "exit_date": "2024-12-11",
       "exit_price": 9916.66,
       "status": "CLOSED",
-      "sessions_held": 493
+      "sessions_held": 495
     },
     {
       "symbol": "APARINDS",
@@ -307,7 +307,7 @@
       "entry_date": "2024-08-26",
       "entry_price": 8866.79,
       "atr14": 291.47,
-      "initial_stop": 8502.44,
+      "initial_stop": 8502.45,
       "stage2_signal_date": "2024-11-27",
       "stage2_entry_date": "2024-11-28",
       "stage2_entry_price": 9766.47,
@@ -316,16 +316,16 @@
       "weighted_entry": 9541.55,
       "risk_per_share": 364.34,
       "target_2r": 10270.23,
-      "latest_close": 14250.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 49.35,
+      "latest_close": 14160.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 48.4,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-02",
       "exit_date": "2024-09-03",
       "exit_price": 8785.35,
       "status": "CLOSED",
-      "sessions_held": 558
+      "sessions_held": 560
     },
     {
       "symbol": "APARINDS",
@@ -343,16 +343,16 @@
       "weighted_entry": 9551.01,
       "risk_per_share": 557.75,
       "target_2r": 10666.52,
-      "latest_close": 14250.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 49.2,
+      "latest_close": 14160.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 48.26,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-02",
       "exit_date": "2024-08-05",
       "exit_price": 8319.92,
       "status": "CLOSED",
-      "sessions_held": 575
+      "sessions_held": 577
     },
     {
       "symbol": "APARINDS",
@@ -370,16 +370,16 @@
       "weighted_entry": 9308.84,
       "risk_per_share": 472.96,
       "target_2r": 10254.77,
-      "latest_close": 14250.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 53.08,
+      "latest_close": 14160.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 52.11,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-07-11",
       "exit_date": "2024-07-12",
       "exit_price": 8503.21,
       "status": "CLOSED",
-      "sessions_held": 610
+      "sessions_held": 612
     },
     {
       "symbol": "APARINDS",
@@ -397,16 +397,16 @@
       "weighted_entry": 8664.01,
       "risk_per_share": 331.16,
       "target_2r": 9326.33,
-      "latest_close": 14250.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 64.47,
+      "latest_close": 14160.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 63.43,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-12",
       "exit_date": "2024-04-15",
       "exit_price": 6789.52,
       "status": "CLOSED",
-      "sessions_held": 659
+      "sessions_held": 661
     },
     {
       "symbol": "APARINDS",
@@ -424,16 +424,16 @@
       "weighted_entry": 8560.23,
       "risk_per_share": 314.46,
       "target_2r": 9189.15,
-      "latest_close": 14250.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 66.47,
+      "latest_close": 14160.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 65.42,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-09",
       "exit_date": "2024-02-12",
       "exit_price": 6090.88,
       "status": "CLOSED",
-      "sessions_held": 696
+      "sessions_held": 698
     },
     {
       "symbol": "APARINDS",
@@ -451,16 +451,16 @@
       "weighted_entry": 5573.89,
       "risk_per_share": 172.96,
       "target_2r": 5919.81,
-      "latest_close": 14250.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 155.66,
+      "latest_close": 14160.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 154.04,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-01-05",
       "exit_date": "2024-01-08",
       "exit_price": 5729.92,
       "status": "CLOSED",
-      "sessions_held": 720
+      "sessions_held": 722
     }
   ]
 }

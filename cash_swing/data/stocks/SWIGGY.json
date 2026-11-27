@@ -1,7 +1,7 @@
 {
   "symbol": "SWIGGY",
   "company": "Swiggy Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "SWIGGY",
@@ -19,16 +19,16 @@
       "weighted_entry": 280.45,
       "risk_per_share": 10.23,
       "target_2r": 300.91,
-      "latest_close": 177.07,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -36.86,
+      "latest_close": 180.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -35.82,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-14",
       "exit_date": "2026-07-15",
       "exit_price": 259.05,
       "status": "CLOSED",
-      "sessions_held": 96
+      "sessions_held": 98
     },
     {
       "symbol": "SWIGGY",
@@ -46,16 +46,16 @@
       "weighted_entry": 287.48,
       "risk_per_share": 14.56,
       "target_2r": 316.6,
-      "latest_close": 177.07,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -38.41,
+      "latest_close": 180.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -37.39,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-28",
       "exit_date": "2026-04-29",
       "exit_price": 288.0,
       "status": "CLOSED",
-      "sessions_held": 147
+      "sessions_held": 149
     },
     {
       "symbol": "SWIGGY",
@@ -73,16 +73,16 @@
       "weighted_entry": 313.11,
       "risk_per_share": 16.29,
       "target_2r": 345.69,
-      "latest_close": 177.07,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -43.45,
+      "latest_close": 180.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -42.51,
       "target_2r_touched": true,
       "hard_stop_date": "2025-12-16",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-12-16",
       "exit_price": 401.66,
       "status": "CLOSED",
-      "sessions_held": 233
+      "sessions_held": 235
     },
     {
       "symbol": "SWIGGY",
@@ -100,16 +100,16 @@
       "weighted_entry": 312.69,
       "risk_per_share": 14.32,
       "target_2r": 341.34,
-      "latest_close": 177.07,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -43.37,
+      "latest_close": 180.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -42.44,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-17",
       "exit_date": "2025-10-20",
       "exit_price": 435.0,
       "status": "CLOSED",
-      "sessions_held": 275
+      "sessions_held": 277
     },
     {
       "symbol": "SWIGGY",
@@ -127,16 +127,16 @@
       "weighted_entry": 314.29,
       "risk_per_share": 19.71,
       "target_2r": 353.7,
-      "latest_close": 177.07,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -43.66,
+      "latest_close": 180.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -42.73,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-29",
       "exit_date": "2025-09-01",
       "exit_price": 416.95,
       "status": "CLOSED",
-      "sessions_held": 315
+      "sessions_held": 317
     },
     {
       "symbol": "SWIGGY",
@@ -154,16 +154,16 @@
       "weighted_entry": 315.24,
       "risk_per_share": 20.44,
       "target_2r": 356.13,
-      "latest_close": 177.07,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -43.83,
+      "latest_close": 180.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -42.9,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-12",
       "exit_date": "2025-08-13",
       "exit_price": 396.45,
       "status": "CLOSED",
-      "sessions_held": 317
+      "sessions_held": 319
     },
     {
       "symbol": "SWIGGY",
@@ -181,16 +181,16 @@
       "weighted_entry": 348.64,
       "risk_per_share": 13.73,
       "target_2r": 376.09,
-      "latest_close": 177.07,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -49.21,
+      "latest_close": 180.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -48.37,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-02",
       "exit_date": "2025-07-03",
       "exit_price": 383.25,
       "status": "CLOSED",
-      "sessions_held": 368
+      "sessions_held": 370
     }
   ]
 }

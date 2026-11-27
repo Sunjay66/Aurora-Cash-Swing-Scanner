@@ -1,7 +1,7 @@
 {
   "symbol": "POLYCAB",
   "company": "Polycab India Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "POLYCAB",
@@ -19,16 +19,16 @@
       "weighted_entry": 9200.0,
       "risk_per_share": 235.27,
       "target_2r": 9670.54,
-      "latest_close": 7379.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -19.79,
+      "latest_close": 7429.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -19.25,
       "target_2r_touched": false,
       "hard_stop_date": "2026-09-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-09-01",
       "exit_price": 8964.73,
       "status": "CLOSED",
-      "sessions_held": 57
+      "sessions_held": 59
     },
     {
       "symbol": "POLYCAB",
@@ -46,16 +46,16 @@
       "weighted_entry": 9227.62,
       "risk_per_share": 213.35,
       "target_2r": 9654.32,
-      "latest_close": 7379.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -20.03,
+      "latest_close": 7429.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -19.49,
       "target_2r_touched": false,
       "hard_stop_date": "2026-08-18",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-08-18",
       "exit_price": 9102.65,
       "status": "CLOSED",
-      "sessions_held": 70
+      "sessions_held": 72
     },
     {
       "symbol": "POLYCAB",
@@ -73,16 +73,16 @@
       "weighted_entry": 9217.86,
       "risk_per_share": 220.09,
       "target_2r": 9658.04,
-      "latest_close": 7379.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -19.95,
+      "latest_close": 7429.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -19.41,
       "target_2r_touched": false,
       "hard_stop_date": "2026-08-11",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-08-11",
       "exit_price": 9054.91,
       "status": "CLOSED",
-      "sessions_held": 72
+      "sessions_held": 74
     },
     {
       "symbol": "POLYCAB",
@@ -100,16 +100,16 @@
       "weighted_entry": 7976.9,
       "risk_per_share": 343.46,
       "target_2r": 8663.82,
-      "latest_close": 7379.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -7.5,
+      "latest_close": 7429.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -6.87,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-08",
       "exit_date": "2026-06-09",
       "exit_price": 9457.13,
       "status": "CLOSED",
-      "sessions_held": 154
+      "sessions_held": 156
     },
     {
       "symbol": "POLYCAB",
@@ -127,16 +127,16 @@
       "weighted_entry": 7692.28,
       "risk_per_share": 328.97,
       "target_2r": 8350.23,
-      "latest_close": 7379.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -4.07,
+      "latest_close": 7429.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -3.42,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-13",
       "exit_date": "2026-02-16",
       "exit_price": 7581.53,
       "status": "CLOSED",
-      "sessions_held": 196
+      "sessions_held": 198
     },
     {
       "symbol": "POLYCAB",
@@ -154,16 +154,16 @@
       "weighted_entry": 7535.03,
       "risk_per_share": 242.02,
       "target_2r": 8019.07,
-      "latest_close": 7379.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -2.07,
+      "latest_close": 7429.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -1.41,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-09",
       "exit_date": "2026-01-12",
       "exit_price": 7663.64,
       "status": "CLOSED",
-      "sessions_held": 226
+      "sessions_held": 228
     },
     {
       "symbol": "POLYCAB",
@@ -180,17 +180,17 @@
       "quantity_stage2": 27,
       "weighted_entry": 5465.34,
       "risk_per_share": 238.56,
-      "target_2r": 5942.45,
-      "latest_close": 7379.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 35.01,
+      "target_2r": 5942.46,
+      "latest_close": 7429.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 35.93,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-02",
       "exit_date": "2025-05-05",
       "exit_price": 5478.7,
       "status": "CLOSED",
-      "sessions_held": 398
+      "sessions_held": 400
     },
     {
       "symbol": "POLYCAB",
@@ -208,16 +208,16 @@
       "weighted_entry": 7179.64,
       "risk_per_share": 246.18,
       "target_2r": 7672.0,
-      "latest_close": 7379.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 2.78,
+      "latest_close": 7429.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 3.47,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-18",
       "exit_date": "2024-12-19",
       "exit_price": 7274.58,
       "status": "CLOSED",
-      "sessions_held": 493
+      "sessions_held": 495
     },
     {
       "symbol": "POLYCAB",
@@ -235,16 +235,16 @@
       "weighted_entry": 7170.66,
       "risk_per_share": 188.31,
       "target_2r": 7547.27,
-      "latest_close": 7379.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 2.91,
+      "latest_close": 7429.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 3.6,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-16",
       "exit_date": "2024-10-17",
       "exit_price": 7082.77,
       "status": "CLOSED",
-      "sessions_held": 533
+      "sessions_held": 535
     },
     {
       "symbol": "POLYCAB",
@@ -262,16 +262,16 @@
       "weighted_entry": 7102.66,
       "risk_per_share": 250.99,
       "target_2r": 7604.64,
-      "latest_close": 7379.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 3.89,
+      "latest_close": 7429.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 4.59,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-02",
       "exit_date": "2024-09-03",
       "exit_price": 6649.07,
       "status": "CLOSED",
-      "sessions_held": 561
+      "sessions_held": 563
     },
     {
       "symbol": "POLYCAB",
@@ -289,16 +289,16 @@
       "weighted_entry": 7077.0,
       "risk_per_share": 271.58,
       "target_2r": 7620.16,
-      "latest_close": 7379.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 4.27,
+      "latest_close": 7429.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 4.97,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-12",
       "exit_date": "2024-08-13",
       "exit_price": 6517.98,
       "status": "CLOSED",
-      "sessions_held": 569
+      "sessions_held": 571
     },
     {
       "symbol": "POLYCAB",
@@ -316,16 +316,16 @@
       "weighted_entry": 7128.32,
       "risk_per_share": 247.58,
       "target_2r": 7623.47,
-      "latest_close": 7379.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 3.52,
+      "latest_close": 7429.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 4.22,
       "target_2r_touched": false,
       "hard_stop_date": "2024-08-05",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-08-05",
       "exit_price": 6458.05,
       "status": "CLOSED",
-      "sessions_held": 574
+      "sessions_held": 576
     },
     {
       "symbol": "POLYCAB",
@@ -343,16 +343,16 @@
       "weighted_entry": 4868.83,
       "risk_per_share": 153.96,
       "target_2r": 5176.74,
-      "latest_close": 7379.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 51.56,
+      "latest_close": 7429.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 52.58,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-13",
       "exit_date": "2024-03-14",
       "exit_price": 4689.57,
       "status": "CLOSED",
-      "sessions_held": 682
+      "sessions_held": 684
     }
   ]
 }

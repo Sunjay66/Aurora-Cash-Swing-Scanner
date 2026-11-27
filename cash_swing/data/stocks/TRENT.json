@@ -1,7 +1,7 @@
 {
   "symbol": "TRENT",
   "company": "Trent Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "TRENT",
@@ -19,16 +19,16 @@
       "weighted_entry": 3006.17,
       "risk_per_share": 98.92,
       "target_2r": 3204.01,
-      "latest_close": 3319.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 10.43,
+      "latest_close": 3273.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 8.88,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "TWO_R",
-      "sessions_held": 18
+      "sessions_held": 20
     },
     {
       "symbol": "TRENT",
@@ -46,16 +46,16 @@
       "weighted_entry": 3000.06,
       "risk_per_share": 95.68,
       "target_2r": 3191.42,
-      "latest_close": 3319.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 10.65,
+      "latest_close": 3273.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 9.1,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-10-19",
       "exit_date": "2026-10-21",
       "exit_price": 2880.0,
       "status": "CLOSED",
-      "sessions_held": 31
+      "sessions_held": 33
     },
     {
       "symbol": "TRENT",
@@ -73,16 +73,16 @@
       "weighted_entry": 3046.69,
       "risk_per_share": 72.06,
       "target_2r": 3190.82,
-      "latest_close": 3319.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 8.96,
+      "latest_close": 3273.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 7.43,
       "target_2r_touched": true,
       "hard_stop_date": "2026-08-07",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-08-07",
       "exit_price": 2985.94,
       "status": "CLOSED",
-      "sessions_held": 77
+      "sessions_held": 79
     },
     {
       "symbol": "TRENT",
@@ -100,16 +100,16 @@
       "weighted_entry": 3010.16,
       "risk_per_share": 113.44,
       "target_2r": 3237.04,
-      "latest_close": 3319.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 10.28,
+      "latest_close": 3273.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 8.73,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-07",
       "exit_date": "2026-07-08",
       "exit_price": 2921.0,
       "status": "CLOSED",
-      "sessions_held": 111
+      "sessions_held": 113
     },
     {
       "symbol": "TRENT",
@@ -127,16 +127,16 @@
       "weighted_entry": 2977.46,
       "risk_per_share": 91.15,
       "target_2r": 3159.75,
-      "latest_close": 3319.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 11.49,
+      "latest_close": 3273.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 9.93,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-01",
       "exit_date": "2026-06-02",
       "exit_price": 2699.61,
       "status": "CLOSED",
-      "sessions_held": 127
+      "sessions_held": 129
     },
     {
       "symbol": "TRENT",
@@ -154,16 +154,16 @@
       "weighted_entry": 2726.25,
       "risk_per_share": 134.77,
       "target_2r": 2995.78,
-      "latest_close": 3319.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 21.76,
+      "latest_close": 3273.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 20.05,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-30",
       "exit_date": "2026-05-04",
       "exit_price": 2752.6,
       "status": "CLOSED",
-      "sessions_held": 156
+      "sessions_held": 158
     },
     {
       "symbol": "TRENT",
@@ -181,16 +181,16 @@
       "weighted_entry": 2776.94,
       "risk_per_share": 110.02,
       "target_2r": 2996.99,
-      "latest_close": 3319.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 19.54,
+      "latest_close": 3273.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 17.86,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-19",
       "exit_date": "2026-02-20",
       "exit_price": 2705.87,
       "status": "CLOSED",
-      "sessions_held": 189
+      "sessions_held": 191
     },
     {
       "symbol": "TRENT",
@@ -208,16 +208,16 @@
       "weighted_entry": 2787.15,
       "risk_per_share": 109.81,
       "target_2r": 3006.77,
-      "latest_close": 3319.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 19.1,
+      "latest_close": 3273.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 17.43,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-01",
       "exit_date": "2026-01-02",
       "exit_price": 2862.44,
       "status": "CLOSED",
-      "sessions_held": 221
+      "sessions_held": 223
     },
     {
       "symbol": "TRENT",
@@ -235,16 +235,16 @@
       "weighted_entry": 3190.07,
       "risk_per_share": 154.77,
       "target_2r": 3499.61,
-      "latest_close": 3319.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 4.06,
+      "latest_close": 3273.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 2.6,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-08",
       "exit_date": "2025-09-09",
       "exit_price": 5322.14,
       "status": "CLOSED",
-      "sessions_held": 304
+      "sessions_held": 306
     },
     {
       "symbol": "TRENT",
@@ -262,16 +262,16 @@
       "weighted_entry": 3235.16,
       "risk_per_share": 174.65,
       "target_2r": 3584.47,
-      "latest_close": 3319.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 2.61,
+      "latest_close": 3273.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 1.17,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-26",
       "exit_date": "2025-08-28",
       "exit_price": 5287.19,
       "status": "CLOSED",
-      "sessions_held": 315
+      "sessions_held": 317
     },
     {
       "symbol": "TRENT",
@@ -289,16 +289,16 @@
       "weighted_entry": 5399.57,
       "risk_per_share": 322.35,
       "target_2r": 6044.27,
-      "latest_close": 3319.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -38.52,
+      "latest_close": 3273.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -39.38,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-25",
       "exit_date": "2025-04-28",
       "exit_price": 5113.99,
       "status": "CLOSED",
-      "sessions_held": 394
+      "sessions_held": 396
     },
     {
       "symbol": "TRENT",
@@ -316,16 +316,16 @@
       "weighted_entry": 5409.38,
       "risk_per_share": 208.09,
       "target_2r": 5825.55,
-      "latest_close": 3319.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -38.63,
+      "latest_close": 3273.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -39.49,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-07",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-07",
       "exit_price": 4996.33,
       "status": "CLOSED",
-      "sessions_held": 410
+      "sessions_held": 412
     },
     {
       "symbol": "TRENT",
@@ -343,16 +343,16 @@
       "weighted_entry": 7057.49,
       "risk_per_share": 254.45,
       "target_2r": 7566.4,
-      "latest_close": 3319.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -52.96,
+      "latest_close": 3273.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -53.62,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-17",
       "exit_date": "2024-12-18",
       "exit_price": 6921.52,
       "status": "CLOSED",
-      "sessions_held": 486
+      "sessions_held": 488
     },
     {
       "symbol": "TRENT",
@@ -370,16 +370,16 @@
       "weighted_entry": 6622.09,
       "risk_per_share": 200.82,
       "target_2r": 7023.73,
-      "latest_close": 3319.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -49.87,
+      "latest_close": 3273.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -50.57,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-02",
       "exit_date": "2024-08-05",
       "exit_price": 5349.0,
       "status": "CLOSED",
-      "sessions_held": 576
+      "sessions_held": 578
     },
     {
       "symbol": "TRENT",
@@ -397,16 +397,16 @@
       "weighted_entry": 5801.55,
       "risk_per_share": 183.06,
       "target_2r": 6167.68,
-      "latest_close": 3319.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -42.78,
+      "latest_close": 3273.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -43.58,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-26",
       "exit_date": "2024-02-27",
       "exit_price": 3855.11,
       "status": "CLOSED",
-      "sessions_held": 690
+      "sessions_held": 692
     }
   ]
 }

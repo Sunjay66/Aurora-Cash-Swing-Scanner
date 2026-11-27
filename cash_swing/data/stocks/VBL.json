@@ -1,7 +1,7 @@
 {
   "symbol": "VBL",
   "company": "Varun Beverages Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "VBL",
@@ -19,16 +19,16 @@
       "weighted_entry": 438.0,
       "risk_per_share": 18.92,
       "target_2r": 475.84,
-      "latest_close": 437.1,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -0.21,
+      "latest_close": 424.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -2.99,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-18",
       "exit_date": "2026-11-19",
       "exit_price": 422.65,
       "status": "CLOSED",
-      "sessions_held": 11
+      "sessions_held": 13
     },
     {
       "symbol": "VBL",
@@ -46,16 +46,16 @@
       "weighted_entry": 431.64,
       "risk_per_share": 10.96,
       "target_2r": 453.56,
-      "latest_close": 437.1,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 1.27,
+      "latest_close": 424.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -1.56,
       "target_2r_touched": false,
       "hard_stop_date": "2026-10-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-10-01",
       "exit_price": 420.68,
       "status": "CLOSED",
-      "sessions_held": 41
+      "sessions_held": 43
     },
     {
       "symbol": "VBL",
@@ -73,16 +73,16 @@
       "weighted_entry": 474.1,
       "risk_per_share": 17.74,
       "target_2r": 509.59,
-      "latest_close": 437.1,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -7.8,
+      "latest_close": 424.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -10.38,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-11",
       "exit_date": "2026-05-12",
       "exit_price": 497.85,
       "status": "CLOSED",
-      "sessions_held": 153
+      "sessions_held": 155
     },
     {
       "symbol": "VBL",
@@ -100,16 +100,16 @@
       "weighted_entry": 474.66,
       "risk_per_share": 12.08,
       "target_2r": 498.82,
-      "latest_close": 437.1,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -7.91,
+      "latest_close": 424.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -10.48,
       "target_2r_touched": false,
       "hard_stop_date": "2025-12-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-12-08",
       "exit_price": 467.76,
       "status": "CLOSED",
-      "sessions_held": 243
+      "sessions_held": 245
     },
     {
       "symbol": "VBL",
@@ -127,16 +127,16 @@
       "weighted_entry": 470.52,
       "risk_per_share": 11.17,
       "target_2r": 492.85,
-      "latest_close": 437.1,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -7.1,
+      "latest_close": 424.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -9.69,
       "target_2r_touched": false,
       "hard_stop_date": "2025-10-28",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-10-28",
       "exit_price": 452.09,
       "status": "CLOSED",
-      "sessions_held": 268
+      "sessions_held": 270
     },
     {
       "symbol": "VBL",
@@ -154,16 +154,16 @@
       "weighted_entry": 501.35,
       "risk_per_share": 12.63,
       "target_2r": 526.61,
-      "latest_close": 437.1,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -12.82,
+      "latest_close": 424.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -15.25,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-25",
       "exit_date": "2025-07-28",
       "exit_price": 471.42,
       "status": "CLOSED",
-      "sessions_held": 335
+      "sessions_held": 337
     },
     {
       "symbol": "VBL",
@@ -181,16 +181,16 @@
       "weighted_entry": 545.4,
       "risk_per_share": 27.39,
       "target_2r": 600.18,
-      "latest_close": 437.1,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -19.86,
+      "latest_close": 424.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -22.09,
       "target_2r_touched": false,
       "hard_stop_date": "2025-03-25",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-03-25",
       "exit_price": 514.81,
       "status": "CLOSED",
-      "sessions_held": 415
+      "sessions_held": 417
     },
     {
       "symbol": "VBL",
@@ -208,16 +208,16 @@
       "weighted_entry": 623.15,
       "risk_per_share": 27.57,
       "target_2r": 678.29,
-      "latest_close": 437.1,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -29.86,
+      "latest_close": 424.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -31.81,
       "target_2r_touched": false,
       "hard_stop_date": "2024-11-25",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-11-25",
       "exit_price": 597.81,
       "status": "CLOSED",
-      "sessions_held": 498
+      "sessions_held": 500
     },
     {
       "symbol": "VBL",
@@ -235,16 +235,16 @@
       "weighted_entry": 618.36,
       "risk_per_share": 28.17,
       "target_2r": 674.71,
-      "latest_close": 437.1,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -29.31,
+      "latest_close": 424.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -31.29,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-04",
       "exit_date": "2024-11-05",
       "exit_price": 583.69,
       "status": "CLOSED",
-      "sessions_held": 509
+      "sessions_held": 511
     },
     {
       "symbol": "VBL",
@@ -262,16 +262,16 @@
       "weighted_entry": 617.75,
       "risk_per_share": 31.15,
       "target_2r": 680.04,
-      "latest_close": 437.1,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -29.24,
+      "latest_close": 424.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -31.22,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-31",
       "exit_date": "2024-11-01",
       "exit_price": 595.61,
       "status": "CLOSED",
-      "sessions_held": 514
+      "sessions_held": 516
     },
     {
       "symbol": "VBL",
@@ -289,16 +289,16 @@
       "weighted_entry": 643.75,
       "risk_per_share": 28.89,
       "target_2r": 701.52,
-      "latest_close": 437.1,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -32.1,
+      "latest_close": 424.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -34.0,
       "target_2r_touched": false,
       "hard_stop_date": "2024-09-16",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-09-16",
       "exit_price": 616.35,
       "status": "CLOSED",
-      "sessions_held": 544
+      "sessions_held": 546
     },
     {
       "symbol": "VBL",
@@ -316,16 +316,16 @@
       "weighted_entry": 639.23,
       "risk_per_share": 25.95,
       "target_2r": 691.14,
-      "latest_close": 437.1,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -31.62,
+      "latest_close": 424.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -33.53,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-28",
       "exit_date": "2024-08-29",
       "exit_price": 609.52,
       "status": "CLOSED",
-      "sessions_held": 557
+      "sessions_held": 559
     },
     {
       "symbol": "VBL",
@@ -343,16 +343,16 @@
       "weighted_entry": 647.58,
       "risk_per_share": 22.99,
       "target_2r": 693.55,
-      "latest_close": 437.1,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -32.5,
+      "latest_close": 424.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -34.39,
       "target_2r_touched": false,
       "hard_stop_date": "2024-07-30",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-07-30",
       "exit_price": 638.02,
       "status": "CLOSED",
-      "sessions_held": 578
+      "sessions_held": 580
     },
     {
       "symbol": "VBL",
@@ -370,16 +370,16 @@
       "weighted_entry": 633.3,
       "risk_per_share": 23.1,
       "target_2r": 679.51,
-      "latest_close": 437.1,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -30.98,
+      "latest_close": 424.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -32.91,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-24",
       "exit_date": "2024-06-25",
       "exit_price": 626.84,
       "status": "CLOSED",
-      "sessions_held": 610
+      "sessions_held": 612
     },
     {
       "symbol": "VBL",
@@ -397,16 +397,16 @@
       "weighted_entry": 624.93,
       "risk_per_share": 22.42,
       "target_2r": 669.76,
-      "latest_close": 437.1,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -30.06,
+      "latest_close": 424.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -32.01,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-07",
       "exit_date": "2024-05-08",
       "exit_price": 572.09,
       "status": "CLOSED",
-      "sessions_held": 640
+      "sessions_held": 642
     },
     {
       "symbol": "VBL",
@@ -424,16 +424,16 @@
       "weighted_entry": 630.07,
       "risk_per_share": 19.54,
       "target_2r": 669.15,
-      "latest_close": 437.1,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -30.63,
+      "latest_close": 424.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -32.56,
       "target_2r_touched": false,
       "hard_stop_date": "2024-04-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-04-08",
       "exit_price": 573.98,
       "status": "CLOSED",
-      "sessions_held": 653
+      "sessions_held": 655
     }
   ]
 }

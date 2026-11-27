@@ -1,7 +1,7 @@
 {
   "symbol": "PIIND",
   "company": "PI Industries Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "PIIND",
@@ -19,16 +19,16 @@
       "weighted_entry": 2696.32,
       "risk_per_share": 69.51,
       "target_2r": 2835.34,
-      "latest_close": 1576.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -41.55,
+      "latest_close": 1606.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -40.44,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-10",
       "exit_date": "2026-08-11",
       "exit_price": 2752.0,
       "status": "CLOSED",
-      "sessions_held": 84
+      "sessions_held": 86
     },
     {
       "symbol": "PIIND",
@@ -46,16 +46,16 @@
       "weighted_entry": 3089.09,
       "risk_per_share": 140.99,
       "target_2r": 3371.06,
-      "latest_close": 1576.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -48.98,
+      "latest_close": 1606.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -48.01,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-30",
       "exit_date": "2026-05-04",
       "exit_price": 3054.34,
       "status": "CLOSED",
-      "sessions_held": 152
+      "sessions_held": 154
     },
     {
       "symbol": "PIIND",
@@ -73,16 +73,16 @@
       "weighted_entry": 3072.23,
       "risk_per_share": 138.93,
       "target_2r": 3350.09,
-      "latest_close": 1576.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -48.7,
+      "latest_close": 1606.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -47.73,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-13",
       "exit_date": "2026-02-16",
       "exit_price": 3073.6,
       "status": "CLOSED",
-      "sessions_held": 191
+      "sessions_held": 193
     },
     {
       "symbol": "PIIND",
@@ -100,16 +100,16 @@
       "weighted_entry": 3216.88,
       "risk_per_share": 79.82,
       "target_2r": 3376.53,
-      "latest_close": 1576.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -51.01,
+      "latest_close": 1606.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -50.08,
       "target_2r_touched": false,
       "hard_stop_date": "2025-11-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-11-04",
       "exit_price": 3605.87,
       "status": "CLOSED",
-      "sessions_held": 261
+      "sessions_held": 263
     },
     {
       "symbol": "PIIND",
@@ -127,16 +127,16 @@
       "weighted_entry": 3621.89,
       "risk_per_share": 160.74,
       "target_2r": 3943.37,
-      "latest_close": 1576.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -56.49,
+      "latest_close": 1606.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -55.66,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-25",
       "exit_date": "2025-04-28",
       "exit_price": 3537.74,
       "status": "CLOSED",
-      "sessions_held": 400
+      "sessions_held": 402
     },
     {
       "symbol": "PIIND",
@@ -154,16 +154,16 @@
       "weighted_entry": 3517.93,
       "risk_per_share": 139.24,
       "target_2r": 3796.41,
-      "latest_close": 1576.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -55.2,
+      "latest_close": 1606.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -54.35,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-04",
       "exit_date": "2025-04-07",
       "exit_price": 3036.6,
       "status": "CLOSED",
-      "sessions_held": 418
+      "sessions_held": 420
     },
     {
       "symbol": "PIIND",
@@ -181,16 +181,16 @@
       "weighted_entry": 3808.52,
       "risk_per_share": 158.64,
       "target_2r": 4125.8,
-      "latest_close": 1576.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -58.62,
+      "latest_close": 1606.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -57.83,
       "target_2r_touched": true,
       "hard_stop_date": "2024-11-11",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-11-11",
       "exit_price": 4433.36,
       "status": "CLOSED",
-      "sessions_held": 506
+      "sessions_held": 508
     },
     {
       "symbol": "PIIND",
@@ -208,16 +208,16 @@
       "weighted_entry": 3681.81,
       "risk_per_share": 112.14,
       "target_2r": 3906.09,
-      "latest_close": 1576.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -57.19,
+      "latest_close": 1606.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -56.38,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-07-02",
       "exit_date": "2024-07-03",
       "exit_price": 3736.33,
       "status": "CLOSED",
-      "sessions_held": 606
+      "sessions_held": 608
     },
     {
       "symbol": "PIIND",
@@ -235,16 +235,16 @@
       "weighted_entry": 3670.43,
       "risk_per_share": 122.4,
       "target_2r": 3915.23,
-      "latest_close": 1576.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -57.06,
+      "latest_close": 1606.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -56.24,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-11",
       "exit_date": "2024-06-12",
       "exit_price": 3588.01,
       "status": "CLOSED",
-      "sessions_held": 609
+      "sessions_held": 611
     },
     {
       "symbol": "PIIND",
@@ -262,16 +262,16 @@
       "weighted_entry": 3586.73,
       "risk_per_share": 116.18,
       "target_2r": 3819.09,
-      "latest_close": 1576.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -56.06,
+      "latest_close": 1606.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -55.22,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-28",
       "exit_date": "2024-02-29",
       "exit_price": 3558.41,
       "status": "CLOSED",
-      "sessions_held": 687
+      "sessions_held": 689
     }
   ]
 }

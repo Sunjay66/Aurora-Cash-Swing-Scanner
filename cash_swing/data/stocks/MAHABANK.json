@@ -1,7 +1,7 @@
 {
   "symbol": "MAHABANK",
   "company": "Bank of Maharashtra",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "MAHABANK",
@@ -19,16 +19,16 @@
       "weighted_entry": 87.88,
       "risk_per_share": 3.42,
       "target_2r": 94.73,
-      "latest_close": 98.71,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 12.32,
+      "latest_close": 95.73,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 8.93,
       "target_2r_touched": true,
       "hard_stop_date": null,
-      "ema9_exit_signal_date": null,
-      "exit_date": null,
-      "exit_price": null,
-      "status": "TWO_R",
-      "sessions_held": 12
+      "ema9_exit_signal_date": "2026-11-26",
+      "exit_date": "2026-11-27",
+      "exit_price": 94.3,
+      "status": "CLOSED",
+      "sessions_held": 14
     },
     {
       "symbol": "MAHABANK",
@@ -46,16 +46,16 @@
       "weighted_entry": 87.53,
       "risk_per_share": 3.05,
       "target_2r": 93.64,
-      "latest_close": 98.71,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 12.77,
+      "latest_close": 95.73,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 9.36,
       "target_2r_touched": false,
       "hard_stop_date": "2026-10-15",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-10-15",
       "exit_price": 80.36,
       "status": "CLOSED",
-      "sessions_held": 29
+      "sessions_held": 31
     },
     {
       "symbol": "MAHABANK",
@@ -73,16 +73,16 @@
       "weighted_entry": 87.61,
       "risk_per_share": 3.17,
       "target_2r": 93.95,
-      "latest_close": 98.71,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 12.67,
+      "latest_close": 95.73,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 9.26,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-24",
       "exit_date": "2026-09-25",
       "exit_price": 82.3,
       "status": "CLOSED",
-      "sessions_held": 41
+      "sessions_held": 43
     },
     {
       "symbol": "MAHABANK",
@@ -100,16 +100,16 @@
       "weighted_entry": 84.9,
       "risk_per_share": 2.29,
       "target_2r": 89.48,
-      "latest_close": 98.71,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 16.26,
+      "latest_close": 95.73,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 12.75,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-31",
       "exit_date": "2026-09-01",
       "exit_price": 82.0,
       "status": "CLOSED",
-      "sessions_held": 61
+      "sessions_held": 63
     },
     {
       "symbol": "MAHABANK",
@@ -127,16 +127,16 @@
       "weighted_entry": 81.22,
       "risk_per_share": 3.8,
       "target_2r": 88.82,
-      "latest_close": 98.71,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 21.53,
+      "latest_close": 95.73,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 17.86,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-12",
       "exit_date": "2026-05-13",
       "exit_price": 77.17,
       "status": "CLOSED",
-      "sessions_held": 156
+      "sessions_held": 158
     },
     {
       "symbol": "MAHABANK",
@@ -154,16 +154,16 @@
       "weighted_entry": 76.89,
       "risk_per_share": 1.31,
       "target_2r": 79.51,
-      "latest_close": 98.71,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 28.37,
+      "latest_close": 95.73,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 24.5,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-08",
       "exit_date": "2026-01-09",
       "exit_price": 60.17,
       "status": "CLOSED",
-      "sessions_held": 222
+      "sessions_held": 224
     },
     {
       "symbol": "MAHABANK",
@@ -181,16 +181,16 @@
       "weighted_entry": 58.56,
       "risk_per_share": 2.22,
       "target_2r": 62.99,
-      "latest_close": 98.71,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 68.56,
+      "latest_close": 95.73,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 63.47,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-21",
       "exit_date": "2025-11-24",
       "exit_price": 56.95,
       "status": "CLOSED",
-      "sessions_held": 252
+      "sessions_held": 254
     },
     {
       "symbol": "MAHABANK",
@@ -208,16 +208,16 @@
       "weighted_entry": 55.02,
       "risk_per_share": 1.29,
       "target_2r": 57.59,
-      "latest_close": 98.71,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 79.42,
+      "latest_close": 95.73,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 74.0,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-25",
       "exit_date": "2025-09-26",
       "exit_price": 53.84,
       "status": "CLOSED",
-      "sessions_held": 293
+      "sessions_held": 295
     },
     {
       "symbol": "MAHABANK",
@@ -235,16 +235,16 @@
       "weighted_entry": 47.89,
       "risk_per_share": 1.95,
       "target_2r": 51.79,
-      "latest_close": 98.71,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 106.13,
+      "latest_close": 95.73,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 99.91,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-06",
       "exit_date": "2025-05-07",
       "exit_price": 46.27,
       "status": "CLOSED",
-      "sessions_held": 397
+      "sessions_held": 399
     },
     {
       "symbol": "MAHABANK",
@@ -262,16 +262,16 @@
       "weighted_entry": 49.45,
       "risk_per_share": 2.22,
       "target_2r": 53.89,
-      "latest_close": 98.71,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 99.63,
+      "latest_close": 95.73,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 93.61,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-10",
       "exit_date": "2024-12-11",
       "exit_price": 53.73,
       "status": "CLOSED",
-      "sessions_held": 493
+      "sessions_held": 495
     },
     {
       "symbol": "MAHABANK",
@@ -289,16 +289,16 @@
       "weighted_entry": 49.61,
       "risk_per_share": 2.97,
       "target_2r": 55.55,
-      "latest_close": 98.71,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 98.98,
+      "latest_close": 95.73,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 92.97,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-08",
       "exit_date": "2024-11-11",
       "exit_price": 50.5,
       "status": "CLOSED",
-      "sessions_held": 506
+      "sessions_held": 508
     },
     {
       "symbol": "MAHABANK",
@@ -316,16 +316,16 @@
       "weighted_entry": 51.8,
       "risk_per_share": 2.11,
       "target_2r": 56.03,
-      "latest_close": 98.71,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 90.54,
+      "latest_close": 95.73,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 84.79,
       "target_2r_touched": true,
       "hard_stop_date": "2024-07-18",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-07-18",
       "exit_price": 63.12,
       "status": "CLOSED",
-      "sessions_held": 585
+      "sessions_held": 587
     },
     {
       "symbol": "MAHABANK",
@@ -343,16 +343,16 @@
       "weighted_entry": 50.85,
       "risk_per_share": 3.3,
       "target_2r": 57.44,
-      "latest_close": 98.71,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 94.13,
+      "latest_close": 95.73,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 88.27,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-12",
       "exit_date": "2024-04-15",
       "exit_price": 56.53,
       "status": "CLOSED",
-      "sessions_held": 656
+      "sessions_held": 658
     },
     {
       "symbol": "MAHABANK",
@@ -370,16 +370,16 @@
       "weighted_entry": 47.21,
       "risk_per_share": 1.84,
       "target_2r": 50.89,
-      "latest_close": 98.71,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 109.08,
+      "latest_close": 95.73,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 102.77,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-01-08",
       "exit_date": "2024-01-09",
       "exit_price": 42.53,
       "status": "CLOSED",
-      "sessions_held": 713
+      "sessions_held": 715
     }
   ]
 }

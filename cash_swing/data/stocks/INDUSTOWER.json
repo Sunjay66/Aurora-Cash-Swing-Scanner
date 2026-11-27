@@ -1,7 +1,7 @@
 {
   "symbol": "INDUSTOWER",
   "company": "Indus Towers Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "INDUSTOWER",
@@ -19,16 +19,16 @@
       "weighted_entry": 385.89,
       "risk_per_share": 12.03,
       "target_2r": 409.94,
-      "latest_close": 381.8,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -1.06,
+      "latest_close": 377.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -2.14,
       "target_2r_touched": false,
       "hard_stop_date": "2026-10-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-10-08",
       "exit_price": 379.97,
       "status": "CLOSED",
-      "sessions_held": 33
+      "sessions_held": 35
     },
     {
       "symbol": "INDUSTOWER",
@@ -46,16 +46,16 @@
       "weighted_entry": 385.59,
       "risk_per_share": 12.37,
       "target_2r": 410.34,
-      "latest_close": 381.8,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -0.98,
+      "latest_close": 377.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -2.06,
       "target_2r_touched": false,
       "hard_stop_date": "2026-09-16",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-09-16",
       "exit_price": 378.43,
       "status": "CLOSED",
-      "sessions_held": 48
+      "sessions_held": 50
     },
     {
       "symbol": "INDUSTOWER",
@@ -73,16 +73,16 @@
       "weighted_entry": 385.26,
       "risk_per_share": 10.49,
       "target_2r": 406.25,
-      "latest_close": 381.8,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -0.9,
+      "latest_close": 377.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -1.98,
       "target_2r_touched": false,
       "hard_stop_date": "2026-08-26",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-08-26",
       "exit_price": 378.91,
       "status": "CLOSED",
-      "sessions_held": 61
+      "sessions_held": 63
     },
     {
       "symbol": "INDUSTOWER",
@@ -100,16 +100,16 @@
       "weighted_entry": 385.83,
       "risk_per_share": 11.66,
       "target_2r": 409.15,
-      "latest_close": 381.8,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -1.04,
+      "latest_close": 377.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -2.12,
       "target_2r_touched": false,
       "hard_stop_date": "2026-07-22",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-07-22",
       "exit_price": 380.1,
       "status": "CLOSED",
-      "sessions_held": 86
+      "sessions_held": 88
     },
     {
       "symbol": "INDUSTOWER",
@@ -127,16 +127,16 @@
       "weighted_entry": 418.91,
       "risk_per_share": 15.63,
       "target_2r": 450.16,
-      "latest_close": 381.8,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -8.86,
+      "latest_close": 377.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -9.85,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-01",
       "exit_date": "2026-06-02",
       "exit_price": 413.63,
       "status": "CLOSED",
-      "sessions_held": 131
+      "sessions_held": 133
     },
     {
       "symbol": "INDUSTOWER",
@@ -154,16 +154,16 @@
       "weighted_entry": 422.82,
       "risk_per_share": 14.94,
       "target_2r": 452.7,
-      "latest_close": 381.8,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -9.7,
+      "latest_close": 377.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -10.68,
       "target_2r_touched": false,
       "hard_stop_date": "2026-02-02",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-02-02",
       "exit_price": 408.91,
       "status": "CLOSED",
-      "sessions_held": 201
+      "sessions_held": 203
     },
     {
       "symbol": "INDUSTOWER",
@@ -181,16 +181,16 @@
       "weighted_entry": 365.11,
       "risk_per_share": 9.52,
       "target_2r": 384.15,
-      "latest_close": 381.8,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 4.57,
+      "latest_close": 377.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 3.43,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-31",
       "exit_date": "2025-11-03",
       "exit_price": 352.73,
       "status": "CLOSED",
-      "sessions_held": 269
+      "sessions_held": 271
     },
     {
       "symbol": "INDUSTOWER",
@@ -208,16 +208,16 @@
       "weighted_entry": 362.67,
       "risk_per_share": 10.14,
       "target_2r": 382.95,
-      "latest_close": 381.8,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 5.27,
+      "latest_close": 377.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 4.13,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-13",
       "exit_date": "2025-10-14",
       "exit_price": 337.74,
       "status": "CLOSED",
-      "sessions_held": 282
+      "sessions_held": 284
     },
     {
       "symbol": "INDUSTOWER",
@@ -235,16 +235,16 @@
       "weighted_entry": 366.08,
       "risk_per_share": 12.31,
       "target_2r": 390.71,
-      "latest_close": 381.8,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 4.29,
+      "latest_close": 377.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 3.16,
       "target_2r_touched": false,
       "hard_stop_date": "2025-09-26",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-09-26",
       "exit_price": 337.23,
       "status": "CLOSED",
-      "sessions_held": 295
+      "sessions_held": 297
     },
     {
       "symbol": "INDUSTOWER",
@@ -262,16 +262,16 @@
       "weighted_entry": 372.92,
       "risk_per_share": 10.88,
       "target_2r": 394.67,
-      "latest_close": 381.8,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 2.38,
+      "latest_close": 377.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 1.27,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-07",
       "exit_date": "2025-07-08",
       "exit_price": 391.85,
       "status": "CLOSED",
-      "sessions_held": 356
+      "sessions_held": 358
     },
     {
       "symbol": "INDUSTOWER",
@@ -289,16 +289,16 @@
       "weighted_entry": 374.7,
       "risk_per_share": 10.87,
       "target_2r": 396.44,
-      "latest_close": 381.8,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 1.89,
+      "latest_close": 377.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 0.79,
       "target_2r_touched": false,
       "hard_stop_date": "2025-06-11",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-06-11",
       "exit_price": 372.36,
       "status": "CLOSED",
-      "sessions_held": 362
+      "sessions_held": 364
     },
     {
       "symbol": "INDUSTOWER",
@@ -316,16 +316,16 @@
       "weighted_entry": 373.21,
       "risk_per_share": 11.97,
       "target_2r": 397.16,
-      "latest_close": 381.8,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 2.3,
+      "latest_close": 377.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 1.19,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-30",
       "exit_date": "2025-06-02",
       "exit_price": 368.39,
       "status": "CLOSED",
-      "sessions_held": 369
+      "sessions_held": 371
     },
     {
       "symbol": "INDUSTOWER",
@@ -343,16 +343,16 @@
       "weighted_entry": 345.73,
       "risk_per_share": 13.85,
       "target_2r": 373.42,
-      "latest_close": 381.8,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 10.43,
+      "latest_close": 377.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 9.23,
       "target_2r_touched": false,
       "hard_stop_date": "2025-03-25",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-03-25",
       "exit_price": 328.28,
       "status": "CLOSED",
-      "sessions_held": 413
+      "sessions_held": 415
     },
     {
       "symbol": "INDUSTOWER",
@@ -370,16 +370,16 @@
       "weighted_entry": 350.55,
       "risk_per_share": 14.9,
       "target_2r": 380.35,
-      "latest_close": 381.8,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 8.92,
+      "latest_close": 377.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 7.73,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-27",
       "exit_date": "2025-01-28",
       "exit_price": 339.23,
       "status": "CLOSED",
-      "sessions_held": 458
+      "sessions_held": 460
     },
     {
       "symbol": "INDUSTOWER",
@@ -397,16 +397,16 @@
       "weighted_entry": 348.62,
       "risk_per_share": 12.04,
       "target_2r": 372.7,
-      "latest_close": 381.8,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 9.52,
+      "latest_close": 377.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 8.33,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-12",
       "exit_date": "2024-12-13",
       "exit_price": 329.6,
       "status": "CLOSED",
-      "sessions_held": 490
+      "sessions_held": 492
     },
     {
       "symbol": "INDUSTOWER",
@@ -424,16 +424,16 @@
       "weighted_entry": 351.75,
       "risk_per_share": 14.57,
       "target_2r": 380.88,
-      "latest_close": 381.8,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 8.54,
+      "latest_close": 377.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 7.36,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-01",
       "exit_date": "2024-08-02",
       "exit_price": 407.18,
       "status": "CLOSED",
-      "sessions_held": 598
+      "sessions_held": 600
     },
     {
       "symbol": "INDUSTOWER",
@@ -451,16 +451,16 @@
       "weighted_entry": 347.93,
       "risk_per_share": 20.44,
       "target_2r": 388.82,
-      "latest_close": 381.8,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 9.73,
+      "latest_close": 377.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 8.54,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-12",
       "exit_date": "2024-06-13",
       "exit_price": 331.62,
       "status": "CLOSED",
-      "sessions_held": 610
+      "sessions_held": 612
     },
     {
       "symbol": "INDUSTOWER",
@@ -478,16 +478,16 @@
       "weighted_entry": 291.98,
       "risk_per_share": 9.84,
       "target_2r": 311.65,
-      "latest_close": 381.8,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 30.76,
+      "latest_close": 377.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 29.34,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-01-17",
       "exit_date": "2024-01-18",
       "exit_price": 204.41,
       "status": "CLOSED",
-      "sessions_held": 716
+      "sessions_held": 718
     }
   ]
 }

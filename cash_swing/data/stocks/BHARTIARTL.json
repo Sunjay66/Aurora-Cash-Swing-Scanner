@@ -1,7 +1,7 @@
 {
   "symbol": "BHARTIARTL",
   "company": "Bharti Airtel Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "BHARTIARTL",
@@ -19,16 +19,16 @@
       "weighted_entry": 1955.75,
       "risk_per_share": 51.27,
       "target_2r": 2058.28,
-      "latest_close": 2117.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 8.27,
+      "latest_close": 2067.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 5.73,
       "target_2r_touched": false,
       "hard_stop_date": "2026-10-23",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-10-23",
       "exit_price": 1862.53,
       "status": "CLOSED",
-      "sessions_held": 25
+      "sessions_held": 27
     },
     {
       "symbol": "BHARTIARTL",
@@ -46,16 +46,16 @@
       "weighted_entry": 1860.07,
       "risk_per_share": 46.66,
       "target_2r": 1953.4,
-      "latest_close": 2117.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 13.84,
+      "latest_close": 2067.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 11.17,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-25",
       "exit_date": "2026-06-29",
       "exit_price": 1814.27,
       "status": "CLOSED",
-      "sessions_held": 109
+      "sessions_held": 111
     },
     {
       "symbol": "BHARTIARTL",
@@ -73,16 +73,16 @@
       "weighted_entry": 1866.37,
       "risk_per_share": 58.39,
       "target_2r": 1983.15,
-      "latest_close": 2117.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 13.46,
+      "latest_close": 2067.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 10.8,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-22",
       "exit_date": "2026-05-25",
       "exit_price": 1868.98,
       "status": "CLOSED",
-      "sessions_held": 131
+      "sessions_held": 133
     },
     {
       "symbol": "BHARTIARTL",
@@ -100,16 +100,16 @@
       "weighted_entry": 1855.34,
       "risk_per_share": 42.36,
       "target_2r": 1940.06,
-      "latest_close": 2117.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 14.13,
+      "latest_close": 2067.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 11.46,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-04",
       "exit_date": "2026-05-05",
       "exit_price": 1805.28,
       "status": "CLOSED",
-      "sessions_held": 142
+      "sessions_held": 144
     },
     {
       "symbol": "BHARTIARTL",
@@ -127,16 +127,16 @@
       "weighted_entry": 1856.21,
       "risk_per_share": 56.46,
       "target_2r": 1969.13,
-      "latest_close": 2117.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 14.08,
+      "latest_close": 2067.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 11.4,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-16",
       "exit_date": "2026-04-17",
       "exit_price": 1814.27,
       "status": "CLOSED",
-      "sessions_held": 152
+      "sessions_held": 154
     },
     {
       "symbol": "BHARTIARTL",
@@ -154,16 +154,16 @@
       "weighted_entry": 1895.07,
       "risk_per_share": 47.63,
       "target_2r": 1990.34,
-      "latest_close": 2117.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 11.74,
+      "latest_close": 2067.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 9.12,
       "target_2r_touched": false,
       "hard_stop_date": "2026-02-19",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-02-19",
       "exit_price": 1959.11,
       "status": "CLOSED",
-      "sessions_held": 187
+      "sessions_held": 189
     },
     {
       "symbol": "BHARTIARTL",
@@ -181,16 +181,16 @@
       "weighted_entry": 1921.55,
       "risk_per_share": 39.54,
       "target_2r": 2000.63,
-      "latest_close": 2117.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 10.2,
+      "latest_close": 2067.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 7.62,
       "target_2r_touched": true,
       "hard_stop_date": "2025-12-24",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-12-24",
       "exit_price": 2084.76,
       "status": "CLOSED",
-      "sessions_held": 227
+      "sessions_held": 229
     },
     {
       "symbol": "BHARTIARTL",
@@ -208,16 +208,16 @@
       "weighted_entry": 1876.11,
       "risk_per_share": 38.66,
       "target_2r": 1953.42,
-      "latest_close": 2117.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 12.87,
+      "latest_close": 2067.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 10.22,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-07",
       "exit_date": "2025-11-10",
       "exit_price": 1970.2,
       "status": "CLOSED",
-      "sessions_held": 278
+      "sessions_held": 280
     },
     {
       "symbol": "BHARTIARTL",
@@ -235,16 +235,16 @@
       "weighted_entry": 1874.43,
       "risk_per_share": 32.4,
       "target_2r": 1939.24,
-      "latest_close": 2117.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 12.97,
+      "latest_close": 2067.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 10.32,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-24",
       "exit_date": "2025-09-25",
       "exit_price": 1906.01,
       "status": "CLOSED",
-      "sessions_held": 293
+      "sessions_held": 295
     },
     {
       "symbol": "BHARTIARTL",
@@ -262,16 +262,16 @@
       "weighted_entry": 1874.89,
       "risk_per_share": 39.25,
       "target_2r": 1953.39,
-      "latest_close": 2117.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 12.94,
+      "latest_close": 2067.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 10.29,
       "target_2r_touched": false,
       "hard_stop_date": "2025-08-26",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-08-26",
       "exit_price": 1876.64,
       "status": "CLOSED",
-      "sessions_held": 309
+      "sessions_held": 311
     },
     {
       "symbol": "BHARTIARTL",
@@ -289,16 +289,16 @@
       "weighted_entry": 1811.77,
       "risk_per_share": 51.06,
       "target_2r": 1913.9,
-      "latest_close": 2117.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 16.87,
+      "latest_close": 2067.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 14.14,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-07",
       "exit_date": "2025-04-08",
       "exit_price": 1685.23,
       "status": "CLOSED",
-      "sessions_held": 414
+      "sessions_held": 416
     },
     {
       "symbol": "BHARTIARTL",
@@ -316,16 +316,16 @@
       "weighted_entry": 1583.93,
       "risk_per_share": 36.08,
       "target_2r": 1656.08,
-      "latest_close": 2117.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 33.69,
+      "latest_close": 2067.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 30.55,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-13",
       "exit_date": "2025-01-14",
       "exit_price": 1571.62,
       "status": "CLOSED",
-      "sessions_held": 462
+      "sessions_held": 464
     },
     {
       "symbol": "BHARTIARTL",
@@ -343,16 +343,16 @@
       "weighted_entry": 1631.21,
       "risk_per_share": 47.57,
       "target_2r": 1726.34,
-      "latest_close": 2117.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 29.81,
+      "latest_close": 2067.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 26.77,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-17",
       "exit_date": "2024-12-18",
       "exit_price": 1587.97,
       "status": "CLOSED",
-      "sessions_held": 482
+      "sessions_held": 484
     },
     {
       "symbol": "BHARTIARTL",
@@ -370,16 +370,16 @@
       "weighted_entry": 1640.07,
       "risk_per_share": 49.83,
       "target_2r": 1739.73,
-      "latest_close": 2117.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 29.11,
+      "latest_close": 2067.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 26.09,
       "target_2r_touched": false,
       "hard_stop_date": "2024-12-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-12-04",
       "exit_price": 1569.0,
       "status": "CLOSED",
-      "sessions_held": 490
+      "sessions_held": 492
     },
     {
       "symbol": "BHARTIARTL",
@@ -397,16 +397,16 @@
       "weighted_entry": 1416.64,
       "risk_per_share": 21.57,
       "target_2r": 1459.77,
-      "latest_close": 2117.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 49.47,
+      "latest_close": 2067.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 45.97,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-05",
       "exit_date": "2024-02-06",
       "exit_price": 1095.7,
       "status": "CLOSED",
-      "sessions_held": 718
+      "sessions_held": 720
     }
   ]
 }

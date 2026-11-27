@@ -1,7 +1,7 @@
 {
   "symbol": "OFSS",
   "company": "Oracle Financial Services Software Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "OFSS",
@@ -19,16 +19,16 @@
       "weighted_entry": 9720.0,
       "risk_per_share": 391.92,
       "target_2r": 10503.84,
-      "latest_close": 9275.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -4.58,
+      "latest_close": 9250.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -4.84,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-22",
       "exit_date": "2026-07-23",
       "exit_price": 11299.0,
       "status": "CLOSED",
-      "sessions_held": 106
+      "sessions_held": 108
     },
     {
       "symbol": "OFSS",
@@ -46,16 +46,16 @@
       "weighted_entry": 7560.44,
       "risk_per_share": 310.05,
       "target_2r": 8180.53,
-      "latest_close": 9275.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 22.68,
+      "latest_close": 9250.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 22.35,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-12",
       "exit_date": "2026-05-13",
       "exit_price": 9000.0,
       "status": "CLOSED",
-      "sessions_held": 159
+      "sessions_held": 161
     },
     {
       "symbol": "OFSS",
@@ -73,16 +73,16 @@
       "weighted_entry": 7796.69,
       "risk_per_share": 249.07,
       "target_2r": 8294.83,
-      "latest_close": 9275.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 18.96,
+      "latest_close": 9250.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 18.64,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-29",
       "exit_date": "2026-01-30",
       "exit_price": 7612.41,
       "status": "CLOSED",
-      "sessions_held": 205
+      "sessions_held": 207
     },
     {
       "symbol": "OFSS",
@@ -100,16 +100,16 @@
       "weighted_entry": 7765.78,
       "risk_per_share": 208.4,
       "target_2r": 8182.59,
-      "latest_close": 9275.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 19.43,
+      "latest_close": 9250.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 19.11,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-21",
       "exit_date": "2026-01-22",
       "exit_price": 7626.51,
       "status": "CLOSED",
-      "sessions_held": 207
+      "sessions_held": 209
     },
     {
       "symbol": "OFSS",
@@ -127,16 +127,16 @@
       "weighted_entry": 8018.72,
       "risk_per_share": 273.99,
       "target_2r": 8566.69,
-      "latest_close": 9275.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 15.67,
+      "latest_close": 9250.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 15.36,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-14",
       "exit_date": "2025-10-15",
       "exit_price": 8591.35,
       "status": "CLOSED",
-      "sessions_held": 280
+      "sessions_held": 282
     },
     {
       "symbol": "OFSS",
@@ -154,16 +154,16 @@
       "weighted_entry": 8801.0,
       "risk_per_share": 296.85,
       "target_2r": 9394.7,
-      "latest_close": 9275.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 5.39,
+      "latest_close": 9250.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 5.1,
       "target_2r_touched": false,
       "hard_stop_date": "2025-09-11",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-09-11",
       "exit_price": 9228.36,
       "status": "CLOSED",
-      "sessions_held": 297
+      "sessions_held": 299
     },
     {
       "symbol": "OFSS",
@@ -181,16 +181,16 @@
       "weighted_entry": 8533.5,
       "risk_per_share": 217.32,
       "target_2r": 8968.13,
-      "latest_close": 9275.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 8.69,
+      "latest_close": 9250.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 8.4,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-26",
       "exit_date": "2025-08-28",
       "exit_price": 8175.4,
       "status": "CLOSED",
-      "sessions_held": 308
+      "sessions_held": 310
     },
     {
       "symbol": "OFSS",
@@ -208,16 +208,16 @@
       "weighted_entry": 8164.44,
       "risk_per_share": 307.2,
       "target_2r": 8778.85,
-      "latest_close": 9275.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 13.6,
+      "latest_close": 9250.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 13.3,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-06",
       "exit_date": "2025-05-07",
       "exit_price": 7663.14,
       "status": "CLOSED",
-      "sessions_held": 396
+      "sessions_held": 398
     },
     {
       "symbol": "OFSS",
@@ -226,7 +226,7 @@
       "entry_date": "2024-11-11",
       "entry_price": 10667.08,
       "atr14": 441.39,
-      "initial_stop": 10115.34,
+      "initial_stop": 10115.35,
       "stage2_signal_date": "2025-05-16",
       "stage2_entry_date": "2025-05-19",
       "stage2_entry_price": 8371.65,
@@ -235,16 +235,16 @@
       "weighted_entry": 8911.75,
       "risk_per_share": 551.73,
       "target_2r": 10015.21,
-      "latest_close": 9275.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 4.08,
+      "latest_close": 9250.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 3.8,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-18",
       "exit_date": "2024-11-19",
       "exit_price": 10458.37,
       "status": "CLOSED",
-      "sessions_held": 504
+      "sessions_held": 506
     },
     {
       "symbol": "OFSS",
@@ -262,16 +262,16 @@
       "weighted_entry": 8824.8,
       "risk_per_share": 450.65,
       "target_2r": 9726.11,
-      "latest_close": 9275.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 5.1,
+      "latest_close": 9250.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 4.82,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-17",
       "exit_date": "2024-10-18",
       "exit_price": 10642.68,
       "status": "CLOSED",
-      "sessions_held": 525
+      "sessions_held": 527
     },
     {
       "symbol": "OFSS",
@@ -287,18 +287,18 @@
       "quantity_stage1": 4,
       "quantity_stage2": 15,
       "weighted_entry": 8715.57,
-      "risk_per_share": 499.48,
+      "risk_per_share": 499.49,
       "target_2r": 9714.54,
-      "latest_close": 9275.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 6.42,
+      "latest_close": 9250.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 6.13,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-29",
       "exit_date": "2024-08-30",
       "exit_price": 10100.14,
       "status": "CLOSED",
-      "sessions_held": 565
+      "sessions_held": 567
     },
     {
       "symbol": "OFSS",
@@ -316,16 +316,16 @@
       "weighted_entry": 8171.94,
       "risk_per_share": 261.95,
       "target_2r": 8695.84,
-      "latest_close": 9275.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 13.5,
+      "latest_close": 9250.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 13.19,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-07-11",
       "exit_date": "2024-07-12",
       "exit_price": 9544.72,
       "status": "CLOSED",
-      "sessions_held": 611
+      "sessions_held": 613
     },
     {
       "symbol": "OFSS",
@@ -343,16 +343,16 @@
       "weighted_entry": 8087.21,
       "risk_per_share": 248.72,
       "target_2r": 8584.65,
-      "latest_close": 9275.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 14.69,
+      "latest_close": 9250.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 14.38,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-21",
       "exit_date": "2024-05-22",
       "exit_price": 7114.43,
       "status": "CLOSED",
-      "sessions_held": 627
+      "sessions_held": 629
     }
   ]
 }

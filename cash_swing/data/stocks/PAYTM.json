@@ -1,7 +1,7 @@
 {
   "symbol": "PAYTM",
   "company": "One 97 Communications Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "PAYTM",
@@ -19,16 +19,16 @@
       "weighted_entry": 1754.1,
       "risk_per_share": 70.19,
       "target_2r": 1894.47,
-      "latest_close": 1719.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -2.0,
+      "latest_close": 1741.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -0.7,
       "target_2r_touched": true,
       "hard_stop_date": "2026-11-19",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-11-19",
       "exit_price": 1683.91,
       "status": "CLOSED",
-      "sessions_held": 13
+      "sessions_held": 15
     },
     {
       "symbol": "PAYTM",
@@ -46,16 +46,16 @@
       "weighted_entry": 1712.3,
       "risk_per_share": 86.84,
       "target_2r": 1885.98,
-      "latest_close": 1719.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 0.39,
+      "latest_close": 1741.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 1.73,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-10-16",
       "exit_date": "2026-10-19",
       "exit_price": 1693.5,
       "status": "CLOSED",
-      "sessions_held": 26
+      "sessions_held": 28
     },
     {
       "symbol": "PAYTM",
@@ -73,16 +73,16 @@
       "weighted_entry": 1671.0,
       "risk_per_share": 73.33,
       "target_2r": 1817.66,
-      "latest_close": 1719.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 2.87,
+      "latest_close": 1741.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 4.24,
       "target_2r_touched": false,
       "hard_stop_date": "2026-10-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-10-08",
       "exit_price": 1597.67,
       "status": "CLOSED",
-      "sessions_held": 32
+      "sessions_held": 34
     },
     {
       "symbol": "PAYTM",
@@ -100,16 +100,16 @@
       "weighted_entry": 1188.34,
       "risk_per_share": 48.63,
       "target_2r": 1285.6,
-      "latest_close": 1719.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 44.66,
+      "latest_close": 1741.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 46.58,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-21",
       "exit_date": "2026-07-22",
       "exit_price": 1301.0,
       "status": "CLOSED",
-      "sessions_held": 103
+      "sessions_held": 105
     },
     {
       "symbol": "PAYTM",
@@ -127,16 +127,16 @@
       "weighted_entry": 1166.52,
       "risk_per_share": 66.08,
       "target_2r": 1298.67,
-      "latest_close": 1719.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 47.36,
+      "latest_close": 1741.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 49.32,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-27",
       "exit_date": "2026-04-28",
       "exit_price": 1125.65,
       "status": "CLOSED",
-      "sessions_held": 155
+      "sessions_held": 157
     },
     {
       "symbol": "PAYTM",
@@ -154,16 +154,16 @@
       "weighted_entry": 1220.61,
       "risk_per_share": 38.22,
       "target_2r": 1297.06,
-      "latest_close": 1719.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 40.83,
+      "latest_close": 1741.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 42.71,
       "target_2r_touched": true,
       "hard_stop_date": "2026-01-20",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-20",
       "exit_price": 1297.88,
       "status": "CLOSED",
-      "sessions_held": 209
+      "sessions_held": 211
     },
     {
       "symbol": "PAYTM",
@@ -181,16 +181,16 @@
       "weighted_entry": 1221.63,
       "risk_per_share": 38.19,
       "target_2r": 1298.01,
-      "latest_close": 1719.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 40.71,
+      "latest_close": 1741.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 42.59,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-07",
       "exit_date": "2026-01-08",
       "exit_price": 1318.2,
       "status": "CLOSED",
-      "sessions_held": 219
+      "sessions_held": 221
     },
     {
       "symbol": "PAYTM",
@@ -208,16 +208,16 @@
       "weighted_entry": 1219.46,
       "risk_per_share": 46.72,
       "target_2r": 1312.9,
-      "latest_close": 1719.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 40.96,
+      "latest_close": 1741.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 42.84,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-26",
       "exit_date": "2025-12-29",
       "exit_price": 1316.0,
       "status": "CLOSED",
-      "sessions_held": 227
+      "sessions_held": 229
     },
     {
       "symbol": "PAYTM",
@@ -235,16 +235,16 @@
       "weighted_entry": 1213.67,
       "risk_per_share": 46.2,
       "target_2r": 1306.06,
-      "latest_close": 1719.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 41.64,
+      "latest_close": 1741.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 43.52,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-16",
       "exit_date": "2025-12-17",
       "exit_price": 1282.0,
       "status": "CLOSED",
-      "sessions_held": 232
+      "sessions_held": 234
     },
     {
       "symbol": "PAYTM",
@@ -262,16 +262,16 @@
       "weighted_entry": 1220.36,
       "risk_per_share": 42.66,
       "target_2r": 1305.68,
-      "latest_close": 1719.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 40.86,
+      "latest_close": 1741.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 42.74,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-08",
       "exit_date": "2025-12-09",
       "exit_price": 1314.8,
       "status": "CLOSED",
-      "sessions_held": 243
+      "sessions_held": 245
     },
     {
       "symbol": "PAYTM",
@@ -289,16 +289,16 @@
       "weighted_entry": 1195.93,
       "risk_per_share": 45.74,
       "target_2r": 1287.41,
-      "latest_close": 1719.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 43.74,
+      "latest_close": 1741.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 45.65,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-03",
       "exit_date": "2025-11-04",
       "exit_price": 1275.0,
       "status": "CLOSED",
-      "sessions_held": 278
+      "sessions_held": 280
     },
     {
       "symbol": "PAYTM",
@@ -316,16 +316,16 @@
       "weighted_entry": 1106.07,
       "risk_per_share": 39.36,
       "target_2r": 1184.8,
-      "latest_close": 1719.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 55.41,
+      "latest_close": 1741.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 57.48,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-08",
       "exit_date": "2025-07-09",
       "exit_price": 911.05,
       "status": "CLOSED",
-      "sessions_held": 349
+      "sessions_held": 351
     },
     {
       "symbol": "PAYTM",
@@ -343,16 +343,16 @@
       "weighted_entry": 1088.21,
       "risk_per_share": 42.83,
       "target_2r": 1173.87,
-      "latest_close": 1719.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 57.97,
+      "latest_close": 1741.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 60.07,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-28",
       "exit_date": "2025-05-29",
       "exit_price": 852.6,
       "status": "CLOSED",
-      "sessions_held": 372
+      "sessions_held": 374
     },
     {
       "symbol": "PAYTM",
@@ -370,16 +370,16 @@
       "weighted_entry": 812.55,
       "risk_per_share": 45.19,
       "target_2r": 902.93,
-      "latest_close": 1719.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 111.56,
+      "latest_close": 1741.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 114.37,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-07",
       "exit_date": "2025-04-08",
       "exit_price": 800.0,
       "status": "CLOSED",
-      "sessions_held": 412
+      "sessions_held": 414
     },
     {
       "symbol": "PAYTM",
@@ -397,16 +397,16 @@
       "weighted_entry": 401.53,
       "risk_per_share": 25.81,
       "target_2r": 453.15,
-      "latest_close": 1719.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 328.11,
+      "latest_close": 1741.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 333.81,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-27",
       "exit_date": "2024-06-28",
       "exit_price": 405.0,
       "status": "CLOSED",
-      "sessions_held": 610
+      "sessions_held": 612
     },
     {
       "symbol": "PAYTM",
@@ -424,16 +424,16 @@
       "weighted_entry": 399.27,
       "risk_per_share": 22.61,
       "target_2r": 444.48,
-      "latest_close": 1719.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 330.54,
+      "latest_close": 1741.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 336.27,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-04",
       "exit_date": "2024-06-05",
       "exit_price": 351.25,
       "status": "CLOSED",
-      "sessions_held": 614
+      "sessions_held": 616
     },
     {
       "symbol": "PAYTM",
@@ -451,16 +451,16 @@
       "weighted_entry": 410.45,
       "risk_per_share": 20.0,
       "target_2r": 450.45,
-      "latest_close": 1719.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 318.81,
+      "latest_close": 1741.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 324.39,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-09",
       "exit_date": "2024-04-10",
       "exit_price": 400.0,
       "status": "CLOSED",
-      "sessions_held": 651
+      "sessions_held": 653
     },
     {
       "symbol": "PAYTM",
@@ -478,16 +478,16 @@
       "weighted_entry": 457.38,
       "risk_per_share": 17.9,
       "target_2r": 493.17,
-      "latest_close": 1719.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 275.84,
+      "latest_close": 1741.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 280.85,
       "target_2r_touched": true,
       "hard_stop_date": "2024-02-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-02-01",
       "exit_price": 609.0,
       "status": "CLOSED",
-      "sessions_held": 705
+      "sessions_held": 707
     }
   ]
 }

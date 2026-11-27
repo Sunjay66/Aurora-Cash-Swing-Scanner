@@ -1,7 +1,7 @@
 {
   "symbol": "UNIONBANK",
   "company": "Union Bank of India",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "UNIONBANK",
@@ -19,16 +19,16 @@
       "weighted_entry": 182.73,
       "risk_per_share": 7.29,
       "target_2r": 197.32,
-      "latest_close": 213.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 16.84,
+      "latest_close": 211.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 15.52,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "TWO_R",
-      "sessions_held": 23
+      "sessions_held": 25
     },
     {
       "symbol": "UNIONBANK",
@@ -46,16 +46,16 @@
       "weighted_entry": 169.55,
       "risk_per_share": 5.68,
       "target_2r": 180.91,
-      "latest_close": 213.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 25.92,
+      "latest_close": 211.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 24.51,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-23",
       "exit_date": "2026-07-24",
       "exit_price": 167.89,
       "status": "CLOSED",
-      "sessions_held": 91
+      "sessions_held": 93
     },
     {
       "symbol": "UNIONBANK",
@@ -73,16 +73,16 @@
       "weighted_entry": 169.83,
       "risk_per_share": 6.23,
       "target_2r": 182.28,
-      "latest_close": 213.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 25.71,
+      "latest_close": 211.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 24.3,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-30",
       "exit_date": "2026-07-01",
       "exit_price": 167.8,
       "status": "CLOSED",
-      "sessions_held": 112
+      "sessions_held": 114
     },
     {
       "symbol": "UNIONBANK",
@@ -100,16 +100,16 @@
       "weighted_entry": 169.1,
       "risk_per_share": 5.76,
       "target_2r": 180.62,
-      "latest_close": 213.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 26.26,
+      "latest_close": 211.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 24.84,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-10",
       "exit_date": "2026-06-11",
       "exit_price": 159.39,
       "status": "CLOSED",
-      "sessions_held": 115
+      "sessions_held": 117
     },
     {
       "symbol": "UNIONBANK",
@@ -127,16 +127,16 @@
       "weighted_entry": 171.92,
       "risk_per_share": 10.33,
       "target_2r": 192.58,
-      "latest_close": 213.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 24.18,
+      "latest_close": 211.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 22.79,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-23",
       "exit_date": "2026-04-24",
       "exit_price": 174.16,
       "status": "CLOSED",
-      "sessions_held": 154
+      "sessions_held": 156
     },
     {
       "symbol": "UNIONBANK",
@@ -154,16 +154,16 @@
       "weighted_entry": 164.71,
       "risk_per_share": 3.24,
       "target_2r": 171.2,
-      "latest_close": 213.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 29.62,
+      "latest_close": 211.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 28.16,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-02",
       "exit_date": "2026-02-03",
       "exit_price": 173.87,
       "status": "CLOSED",
-      "sessions_held": 220
+      "sessions_held": 222
     },
     {
       "symbol": "UNIONBANK",
@@ -181,16 +181,16 @@
       "weighted_entry": 164.53,
       "risk_per_share": 5.04,
       "target_2r": 174.61,
-      "latest_close": 213.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 29.76,
+      "latest_close": 211.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 28.3,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-22",
       "exit_date": "2025-12-23",
       "exit_price": 149.49,
       "status": "CLOSED",
-      "sessions_held": 232
+      "sessions_held": 234
     },
     {
       "symbol": "UNIONBANK",
@@ -208,16 +208,16 @@
       "weighted_entry": 135.15,
       "risk_per_share": 3.63,
       "target_2r": 142.41,
-      "latest_close": 213.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 57.97,
+      "latest_close": 211.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 56.19,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-26",
       "exit_date": "2025-09-29",
       "exit_price": 130.44,
       "status": "CLOSED",
-      "sessions_held": 294
+      "sessions_held": 296
     },
     {
       "symbol": "UNIONBANK",
@@ -235,16 +235,16 @@
       "weighted_entry": 135.68,
       "risk_per_share": 3.61,
       "target_2r": 142.9,
-      "latest_close": 213.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 57.36,
+      "latest_close": 211.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 55.59,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-22",
       "exit_date": "2025-08-25",
       "exit_price": 130.91,
       "status": "CLOSED",
-      "sessions_held": 311
+      "sessions_held": 313
     },
     {
       "symbol": "UNIONBANK",
@@ -262,16 +262,16 @@
       "weighted_entry": 132.96,
       "risk_per_share": 5.81,
       "target_2r": 144.57,
-      "latest_close": 213.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 60.58,
+      "latest_close": 211.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 58.77,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-12",
       "exit_date": "2025-06-13",
       "exit_price": 136.23,
       "status": "CLOSED",
-      "sessions_held": 381
+      "sessions_held": 383
     },
     {
       "symbol": "UNIONBANK",
@@ -289,16 +289,16 @@
       "weighted_entry": 112.32,
       "risk_per_share": 4.44,
       "target_2r": 121.2,
-      "latest_close": 213.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 90.09,
+      "latest_close": 211.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 87.95,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-04",
       "exit_date": "2025-04-07",
       "exit_price": 106.91,
       "status": "CLOSED",
-      "sessions_held": 415
+      "sessions_held": 417
     },
     {
       "symbol": "UNIONBANK",
@@ -316,16 +316,16 @@
       "weighted_entry": 111.82,
       "risk_per_share": 5.21,
       "target_2r": 122.24,
-      "latest_close": 213.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 90.93,
+      "latest_close": 211.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 88.78,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-10",
       "exit_date": "2025-03-11",
       "exit_price": 106.32,
       "status": "CLOSED",
-      "sessions_held": 424
+      "sessions_held": 426
     },
     {
       "symbol": "UNIONBANK",
@@ -343,16 +343,16 @@
       "weighted_entry": 111.43,
       "risk_per_share": 5.5,
       "target_2r": 122.42,
-      "latest_close": 213.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 91.61,
+      "latest_close": 211.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 89.45,
       "target_2r_touched": false,
       "hard_stop_date": "2025-02-28",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-02-28",
       "exit_price": 103.72,
       "status": "CLOSED",
-      "sessions_held": 432
+      "sessions_held": 434
     },
     {
       "symbol": "UNIONBANK",
@@ -370,16 +370,16 @@
       "weighted_entry": 112.55,
       "risk_per_share": 4.84,
       "target_2r": 122.22,
-      "latest_close": 213.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 89.7,
+      "latest_close": 211.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 87.57,
       "target_2r_touched": false,
       "hard_stop_date": "2025-02-10",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-02-10",
       "exit_price": 108.84,
       "status": "CLOSED",
-      "sessions_held": 443
+      "sessions_held": 445
     },
     {
       "symbol": "UNIONBANK",
@@ -397,16 +397,16 @@
       "weighted_entry": 118.93,
       "risk_per_share": 4.51,
       "target_2r": 127.96,
-      "latest_close": 213.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 79.51,
+      "latest_close": 211.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 77.49,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-02",
       "exit_date": "2024-12-03",
       "exit_price": 113.54,
       "status": "CLOSED",
-      "sessions_held": 495
+      "sessions_held": 497
     },
     {
       "symbol": "UNIONBANK",
@@ -424,16 +424,16 @@
       "weighted_entry": 118.47,
       "risk_per_share": 4.49,
       "target_2r": 127.46,
-      "latest_close": 213.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 80.21,
+      "latest_close": 211.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 78.18,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-13",
       "exit_date": "2024-11-14",
       "exit_price": 108.66,
       "status": "CLOSED",
-      "sessions_held": 507
+      "sessions_held": 509
     },
     {
       "symbol": "UNIONBANK",
@@ -451,16 +451,16 @@
       "weighted_entry": 120.98,
       "risk_per_share": 4.24,
       "target_2r": 129.46,
-      "latest_close": 213.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 76.48,
+      "latest_close": 211.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 74.5,
       "target_2r_touched": false,
       "hard_stop_date": "2024-09-27",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-09-27",
       "exit_price": 116.11,
       "status": "CLOSED",
-      "sessions_held": 537
+      "sessions_held": 539
     },
     {
       "symbol": "UNIONBANK",
@@ -478,16 +478,16 @@
       "weighted_entry": 126.85,
       "risk_per_share": 7.18,
       "target_2r": 141.21,
-      "latest_close": 213.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 68.31,
+      "latest_close": 211.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 66.42,
       "target_2r_touched": true,
       "hard_stop_date": "2024-05-31",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-05-31",
       "exit_price": 136.71,
       "status": "CLOSED",
-      "sessions_held": 620
+      "sessions_held": 622
     },
     {
       "symbol": "UNIONBANK",
@@ -505,16 +505,16 @@
       "weighted_entry": 143.84,
       "risk_per_share": 5.81,
       "target_2r": 155.45,
-      "latest_close": 213.5,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 48.43,
+      "latest_close": 211.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 46.76,
       "target_2r_touched": false,
       "hard_stop_date": "2024-05-03",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-05-03",
       "exit_price": 137.9,
       "status": "CLOSED",
-      "sessions_held": 637
+      "sessions_held": 639
     }
   ]
 }

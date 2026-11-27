@@ -1,7 +1,7 @@
 {
   "symbol": "SUPREMEIND",
   "company": "Supreme Industries Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "SUPREMEIND",
@@ -19,16 +19,16 @@
       "weighted_entry": 3546.34,
       "risk_per_share": 126.7,
       "target_2r": 3799.74,
-      "latest_close": 3176.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -10.44,
+      "latest_close": 3200.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -9.77,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-10-21",
       "exit_date": "2026-10-22",
       "exit_price": 3540.71,
       "status": "CLOSED",
-      "sessions_held": 29
+      "sessions_held": 31
     },
     {
       "symbol": "SUPREMEIND",
@@ -46,16 +46,16 @@
       "weighted_entry": 3560.6,
       "risk_per_share": 117.43,
       "target_2r": 3795.45,
-      "latest_close": 3176.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -10.8,
+      "latest_close": 3200.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -10.13,
       "target_2r_touched": false,
       "hard_stop_date": "2026-07-17",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-07-17",
       "exit_price": 3396.39,
       "status": "CLOSED",
-      "sessions_held": 89
+      "sessions_held": 91
     },
     {
       "symbol": "SUPREMEIND",
@@ -73,16 +73,16 @@
       "weighted_entry": 3624.2,
       "risk_per_share": 111.94,
       "target_2r": 3848.07,
-      "latest_close": 3176.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -12.37,
+      "latest_close": 3200.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -11.7,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-27",
       "exit_date": "2026-01-28",
       "exit_price": 3413.07,
       "status": "CLOSED",
-      "sessions_held": 204
+      "sessions_held": 206
     },
     {
       "symbol": "SUPREMEIND",
@@ -100,16 +100,16 @@
       "weighted_entry": 3633.17,
       "risk_per_share": 94.52,
       "target_2r": 3822.21,
-      "latest_close": 3176.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -12.58,
+      "latest_close": 3200.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -11.92,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-09",
       "exit_date": "2026-01-12",
       "exit_price": 3454.52,
       "status": "CLOSED",
-      "sessions_held": 219
+      "sessions_held": 221
     },
     {
       "symbol": "SUPREMEIND",
@@ -127,16 +127,16 @@
       "weighted_entry": 3849.36,
       "risk_per_share": 141.49,
       "target_2r": 4132.33,
-      "latest_close": 3176.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -17.49,
+      "latest_close": 3200.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -16.87,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-18",
       "exit_date": "2025-09-19",
       "exit_price": 4415.18,
       "status": "CLOSED",
-      "sessions_held": 295
+      "sessions_held": 297
     },
     {
       "symbol": "SUPREMEIND",
@@ -154,16 +154,16 @@
       "weighted_entry": 3800.4,
       "risk_per_share": 141.62,
       "target_2r": 4083.64,
-      "latest_close": 3176.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -16.43,
+      "latest_close": 3200.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -15.8,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-28",
       "exit_date": "2025-08-29",
       "exit_price": 4445.26,
       "status": "CLOSED",
-      "sessions_held": 315
+      "sessions_held": 317
     },
     {
       "symbol": "SUPREMEIND",
@@ -181,16 +181,16 @@
       "weighted_entry": 3806.57,
       "risk_per_share": 151.0,
       "target_2r": 4108.57,
-      "latest_close": 3176.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -16.57,
+      "latest_close": 3200.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -15.93,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-12",
       "exit_date": "2025-08-13",
       "exit_price": 4162.66,
       "status": "CLOSED",
-      "sessions_held": 317
+      "sessions_held": 319
     },
     {
       "symbol": "SUPREMEIND",
@@ -208,16 +208,16 @@
       "weighted_entry": 3808.49,
       "risk_per_share": 153.1,
       "target_2r": 4114.68,
-      "latest_close": 3176.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -16.61,
+      "latest_close": 3200.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -15.98,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-01",
       "exit_date": "2025-08-04",
       "exit_price": 4172.52,
       "status": "CLOSED",
-      "sessions_held": 326
+      "sessions_held": 328
     },
     {
       "symbol": "SUPREMEIND",
@@ -235,16 +235,16 @@
       "weighted_entry": 3659.29,
       "risk_per_share": 156.49,
       "target_2r": 3972.27,
-      "latest_close": 3176.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -13.21,
+      "latest_close": 3200.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -12.55,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-02",
       "exit_date": "2025-05-05",
       "exit_price": 3384.93,
       "status": "CLOSED",
-      "sessions_held": 395
+      "sessions_held": 397
     },
     {
       "symbol": "SUPREMEIND",
@@ -262,16 +262,16 @@
       "weighted_entry": 3945.83,
       "risk_per_share": 205.97,
       "target_2r": 4357.78,
-      "latest_close": 3176.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -19.51,
+      "latest_close": 3200.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -18.9,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-13",
       "exit_date": "2024-12-16",
       "exit_price": 4732.74,
       "status": "CLOSED",
-      "sessions_held": 490
+      "sessions_held": 492
     },
     {
       "symbol": "SUPREMEIND",
@@ -289,16 +289,16 @@
       "weighted_entry": 4056.76,
       "risk_per_share": 212.98,
       "target_2r": 4482.72,
-      "latest_close": 3176.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -21.71,
+      "latest_close": 3200.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -21.12,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-10",
       "exit_date": "2024-10-11",
       "exit_price": 5231.79,
       "status": "CLOSED",
-      "sessions_held": 527
+      "sessions_held": 529
     },
     {
       "symbol": "SUPREMEIND",
@@ -316,16 +316,16 @@
       "weighted_entry": 4012.21,
       "risk_per_share": 182.18,
       "target_2r": 4376.57,
-      "latest_close": 3176.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -20.84,
+      "latest_close": 3200.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -20.24,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-24",
       "exit_date": "2024-09-25",
       "exit_price": 5280.78,
       "status": "CLOSED",
-      "sessions_held": 541
+      "sessions_held": 543
     },
     {
       "symbol": "SUPREMEIND",
@@ -343,16 +343,16 @@
       "weighted_entry": 4083.64,
       "risk_per_share": 214.75,
       "target_2r": 4513.14,
-      "latest_close": 3176.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -22.23,
+      "latest_close": 3200.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -21.64,
       "target_2r_touched": true,
       "hard_stop_date": "2024-08-27",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-08-27",
       "exit_price": 5212.75,
       "status": "CLOSED",
-      "sessions_held": 559
+      "sessions_held": 561
     },
     {
       "symbol": "SUPREMEIND",
@@ -370,16 +370,16 @@
       "weighted_entry": 4166.35,
       "risk_per_share": 213.58,
       "target_2r": 4593.5,
-      "latest_close": 3176.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -23.77,
+      "latest_close": 3200.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -23.19,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-09",
       "exit_date": "2024-04-10",
       "exit_price": 4049.52,
       "status": "CLOSED",
-      "sessions_held": 657
+      "sessions_held": 659
     },
     {
       "symbol": "SUPREMEIND",
@@ -397,16 +397,16 @@
       "weighted_entry": 4161.04,
       "risk_per_share": 204.68,
       "target_2r": 4570.4,
-      "latest_close": 3176.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -23.67,
+      "latest_close": 3200.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -23.1,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-04",
       "exit_date": "2024-03-05",
-      "exit_price": 3940.57,
+      "exit_price": 3940.58,
       "status": "CLOSED",
-      "sessions_held": 674
+      "sessions_held": 676
     }
   ]
 }

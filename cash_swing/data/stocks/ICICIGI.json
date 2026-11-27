@@ -1,7 +1,7 @@
 {
   "symbol": "ICICIGI",
   "company": "ICICI Lombard General Insurance Company Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "ICICIGI",
@@ -19,16 +19,16 @@
       "weighted_entry": 1645.8,
       "risk_per_share": 49.11,
       "target_2r": 1744.03,
-      "latest_close": 1736.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 5.52,
+      "latest_close": 1738.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 5.63,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-18",
       "exit_date": "2026-11-19",
       "exit_price": 1646.5,
       "status": "CLOSED",
-      "sessions_held": 11
+      "sessions_held": 13
     },
     {
       "symbol": "ICICIGI",
@@ -46,16 +46,16 @@
       "weighted_entry": 1650.58,
       "risk_per_share": 56.03,
       "target_2r": 1762.64,
-      "latest_close": 1736.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 5.21,
+      "latest_close": 1738.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 5.33,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-10-19",
       "exit_date": "2026-10-21",
       "exit_price": 1647.91,
       "status": "CLOSED",
-      "sessions_held": 36
+      "sessions_held": 38
     },
     {
       "symbol": "ICICIGI",
@@ -73,16 +73,16 @@
       "weighted_entry": 1709.14,
       "risk_per_share": 49.07,
       "target_2r": 1807.29,
-      "latest_close": 1736.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 1.61,
+      "latest_close": 1738.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 1.72,
       "target_2r_touched": true,
       "hard_stop_date": "2026-07-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-07-13",
       "exit_price": 1763.12,
       "status": "CLOSED",
-      "sessions_held": 95
+      "sessions_held": 97
     },
     {
       "symbol": "ICICIGI",
@@ -100,16 +100,16 @@
       "weighted_entry": 1714.91,
       "risk_per_share": 54.15,
       "target_2r": 1823.21,
-      "latest_close": 1736.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 1.26,
+      "latest_close": 1738.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 1.38,
       "target_2r_touched": true,
       "hard_stop_date": "2026-06-29",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-06-29",
       "exit_price": 1782.84,
       "status": "CLOSED",
-      "sessions_held": 108
+      "sessions_held": 110
     },
     {
       "symbol": "ICICIGI",
@@ -127,16 +127,16 @@
       "weighted_entry": 1716.32,
       "risk_per_share": 51.5,
       "target_2r": 1819.32,
-      "latest_close": 1736.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 1.18,
+      "latest_close": 1738.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 1.29,
       "target_2r_touched": false,
       "hard_stop_date": "2026-05-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-05-08",
       "exit_price": 1791.54,
       "status": "CLOSED",
-      "sessions_held": 137
+      "sessions_held": 139
     },
     {
       "symbol": "ICICIGI",
@@ -154,16 +154,16 @@
       "weighted_entry": 1724.41,
       "risk_per_share": 75.33,
       "target_2r": 1875.06,
-      "latest_close": 1736.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 0.71,
+      "latest_close": 1738.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 0.82,
       "target_2r_touched": true,
       "hard_stop_date": "2026-04-22",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-04-22",
       "exit_price": 1808.38,
       "status": "CLOSED",
-      "sessions_held": 151
+      "sessions_held": 153
     },
     {
       "symbol": "ICICIGI",
@@ -181,16 +181,16 @@
       "weighted_entry": 1926.83,
       "risk_per_share": 51.38,
       "target_2r": 2029.59,
-      "latest_close": 1736.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -9.87,
+      "latest_close": 1738.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -9.77,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-24",
       "exit_date": "2026-02-25",
       "exit_price": 1897.4,
       "status": "CLOSED",
-      "sessions_held": 192
+      "sessions_held": 194
     },
     {
       "symbol": "ICICIGI",
@@ -208,16 +208,16 @@
       "weighted_entry": 1991.93,
       "risk_per_share": 32.99,
       "target_2r": 2057.91,
-      "latest_close": 1736.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -12.82,
+      "latest_close": 1738.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -12.72,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-07",
       "exit_date": "2026-01-08",
       "exit_price": 1950.17,
       "status": "CLOSED",
-      "sessions_held": 218
+      "sessions_held": 220
     },
     {
       "symbol": "ICICIGI",
@@ -235,16 +235,16 @@
       "weighted_entry": 1977.47,
       "risk_per_share": 57.56,
       "target_2r": 2092.59,
-      "latest_close": 1736.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -12.18,
+      "latest_close": 1738.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -12.08,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-31",
       "exit_date": "2025-11-03",
       "exit_price": 1977.55,
       "status": "CLOSED",
-      "sessions_held": 273
+      "sessions_held": 275
     },
     {
       "symbol": "ICICIGI",
@@ -262,16 +262,16 @@
       "weighted_entry": 1941.0,
       "risk_per_share": 51.21,
       "target_2r": 2043.43,
-      "latest_close": 1736.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -10.53,
+      "latest_close": 1738.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -10.43,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-24",
       "exit_date": "2025-09-25",
       "exit_price": 1860.8,
       "status": "CLOSED",
-      "sessions_held": 288
+      "sessions_held": 290
     },
     {
       "symbol": "ICICIGI",
@@ -289,16 +289,16 @@
       "weighted_entry": 1971.81,
       "risk_per_share": 54.39,
       "target_2r": 2080.59,
-      "latest_close": 1736.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -11.93,
+      "latest_close": 1738.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -11.83,
       "target_2r_touched": false,
       "hard_stop_date": "2025-08-22",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-08-22",
       "exit_price": 1910.82,
       "status": "CLOSED",
-      "sessions_held": 311
+      "sessions_held": 313
     },
     {
       "symbol": "ICICIGI",
@@ -316,16 +316,16 @@
       "weighted_entry": 1810.54,
       "risk_per_share": 54.95,
       "target_2r": 1920.43,
-      "latest_close": 1736.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -4.08,
+      "latest_close": 1738.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -3.98,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-07",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-07",
       "exit_price": 1705.27,
       "status": "CLOSED",
-      "sessions_held": 412
+      "sessions_held": 414
     },
     {
       "symbol": "ICICIGI",
@@ -343,16 +343,16 @@
       "weighted_entry": 1830.95,
       "risk_per_share": 73.98,
       "target_2r": 1978.92,
-      "latest_close": 1736.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -5.15,
+      "latest_close": 1738.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -5.05,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-05",
       "exit_date": "2025-02-06",
       "exit_price": 1833.17,
       "status": "CLOSED",
-      "sessions_held": 444
+      "sessions_held": 446
     },
     {
       "symbol": "ICICIGI",
@@ -370,16 +370,16 @@
       "weighted_entry": 1836.82,
       "risk_per_share": 72.74,
       "target_2r": 1982.29,
-      "latest_close": 1736.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -5.46,
+      "latest_close": 1738.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -5.35,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-22",
       "exit_date": "2025-01-23",
       "exit_price": 1822.24,
       "status": "CLOSED",
-      "sessions_held": 458
+      "sessions_held": 460
     },
     {
       "symbol": "ICICIGI",
@@ -397,16 +397,16 @@
       "weighted_entry": 1845.62,
       "risk_per_share": 68.07,
       "target_2r": 1981.75,
-      "latest_close": 1736.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": -5.91,
+      "latest_close": 1738.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -5.8,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-17",
       "exit_date": "2024-12-18",
       "exit_price": 1886.37,
       "status": "CLOSED",
-      "sessions_held": 486
+      "sessions_held": 488
     },
     {
       "symbol": "ICICIGI",
@@ -424,16 +424,16 @@
       "weighted_entry": 1683.78,
       "risk_per_share": 59.23,
       "target_2r": 1802.24,
-      "latest_close": 1736.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 3.14,
+      "latest_close": 1738.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 3.25,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-05",
       "exit_date": "2024-08-06",
       "exit_price": 1915.37,
       "status": "CLOSED",
-      "sessions_held": 607
+      "sessions_held": 609
     },
     {
       "symbol": "ICICIGI",
@@ -451,16 +451,16 @@
       "weighted_entry": 1693.65,
       "risk_per_share": 60.43,
       "target_2r": 1814.51,
-      "latest_close": 1736.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 2.54,
+      "latest_close": 1738.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 2.65,
       "target_2r_touched": false,
       "hard_stop_date": "2024-05-03",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-05-03",
       "exit_price": 1613.17,
       "status": "CLOSED",
-      "sessions_held": 644
+      "sessions_held": 646
     },
     {
       "symbol": "ICICIGI",
@@ -478,16 +478,16 @@
       "weighted_entry": 1452.46,
       "risk_per_share": 44.49,
       "target_2r": 1541.43,
-      "latest_close": 1736.6,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 19.56,
+      "latest_close": 1738.5,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 19.69,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-01",
       "exit_date": "2024-03-04",
       "exit_price": 1616.69,
       "status": "CLOSED",
-      "sessions_held": 701
+      "sessions_held": 703
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "MCX",
   "company": "Multi Commodity Exchange of India Ltd.",
-  "market_date": "2026-11-25",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "MCX",
@@ -19,16 +19,16 @@
       "weighted_entry": 3400.0,
       "risk_per_share": 140.03,
       "target_2r": 3680.05,
-      "latest_close": 3565.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 4.85,
+      "latest_close": 3900.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 14.71,
       "target_2r_touched": false,
       "hard_stop_date": "2026-11-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-11-04",
       "exit_price": 3259.97,
       "status": "CLOSED",
-      "sessions_held": 14
+      "sessions_held": 16
     },
     {
       "symbol": "MCX",
@@ -46,16 +46,16 @@
       "weighted_entry": 3033.0,
       "risk_per_share": 103.96,
       "target_2r": 3240.92,
-      "latest_close": 3565.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 17.54,
+      "latest_close": 3900.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 28.59,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-03",
       "exit_date": "2026-09-04",
       "exit_price": 3187.8,
       "status": "CLOSED",
-      "sessions_held": 70
+      "sessions_held": 72
     },
     {
       "symbol": "MCX",
@@ -73,16 +73,16 @@
       "weighted_entry": 2947.38,
       "risk_per_share": 146.2,
       "target_2r": 3239.77,
-      "latest_close": 3565.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 20.95,
+      "latest_close": 3900.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 32.32,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-24",
       "exit_date": "2026-04-27",
       "exit_price": 2779.69,
       "status": "CLOSED",
-      "sessions_held": 157
+      "sessions_held": 159
     },
     {
       "symbol": "MCX",
@@ -100,16 +100,16 @@
       "weighted_entry": 2877.99,
       "risk_per_share": 111.3,
       "target_2r": 3100.59,
-      "latest_close": 3565.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 23.87,
+      "latest_close": 3900.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 35.51,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-13",
       "exit_date": "2026-03-16",
       "exit_price": 2467.95,
       "status": "CLOSED",
-      "sessions_held": 182
+      "sessions_held": 184
     },
     {
       "symbol": "MCX",
@@ -127,16 +127,16 @@
       "weighted_entry": 2488.15,
       "risk_per_share": 52.34,
       "target_2r": 2592.83,
-      "latest_close": 3565.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 43.28,
+      "latest_close": 3900.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 56.74,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-26",
       "exit_date": "2025-09-29",
       "exit_price": 1595.69,
       "status": "CLOSED",
-      "sessions_held": 291
+      "sessions_held": 293
     },
     {
       "symbol": "MCX",
@@ -154,16 +154,16 @@
       "weighted_entry": 1610.69,
       "risk_per_share": 64.33,
       "target_2r": 1739.35,
-      "latest_close": 3565.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 121.33,
+      "latest_close": 3900.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 142.13,
       "target_2r_touched": false,
       "hard_stop_date": "2025-08-21",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-08-21",
       "exit_price": 1591.61,
       "status": "CLOSED",
-      "sessions_held": 314
+      "sessions_held": 316
     },
     {
       "symbol": "MCX",
@@ -181,16 +181,16 @@
       "weighted_entry": 1152.73,
       "risk_per_share": 60.73,
       "target_2r": 1274.19,
-      "latest_close": 3565.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 209.27,
+      "latest_close": 3900.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 238.33,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-06",
       "exit_date": "2025-05-07",
       "exit_price": 1182.57,
       "status": "CLOSED",
-      "sessions_held": 402
+      "sessions_held": 404
     },
     {
       "symbol": "MCX",
@@ -208,16 +208,16 @@
       "weighted_entry": 1161.5,
       "risk_per_share": 47.87,
       "target_2r": 1257.25,
-      "latest_close": 3565.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 206.93,
+      "latest_close": 3900.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 235.77,
       "target_2r_touched": false,
       "hard_stop_date": "2025-03-25",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-03-25",
       "exit_price": 1029.36,
       "status": "CLOSED",
-      "sessions_held": 412
+      "sessions_held": 414
     },
     {
       "symbol": "MCX",
@@ -235,16 +235,16 @@
       "weighted_entry": 1192.6,
       "risk_per_share": 54.45,
       "target_2r": 1301.5,
-      "latest_close": 3565.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 198.93,
+      "latest_close": 3900.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 227.02,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-10",
       "exit_date": "2025-02-11",
       "exit_price": 1148.99,
       "status": "CLOSED",
-      "sessions_held": 441
+      "sessions_held": 443
     },
     {
       "symbol": "MCX",
@@ -262,16 +262,16 @@
       "weighted_entry": 1217.07,
       "risk_per_share": 45.13,
       "target_2r": 1307.32,
-      "latest_close": 3565.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 192.92,
+      "latest_close": 3900.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 220.44,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-13",
       "exit_date": "2024-12-16",
       "exit_price": 1309.38,
       "status": "CLOSED",
-      "sessions_held": 487
+      "sessions_held": 489
     },
     {
       "symbol": "MCX",
@@ -289,16 +289,16 @@
       "weighted_entry": 1051.16,
       "risk_per_share": 32.5,
       "target_2r": 1116.16,
-      "latest_close": 3565.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 239.15,
+      "latest_close": 3900.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 271.02,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-07-19",
       "exit_date": "2024-07-22",
       "exit_price": 757.32,
       "status": "CLOSED",
-      "sessions_held": 585
+      "sessions_held": 587
     },
     {
       "symbol": "MCX",
@@ -316,16 +316,16 @@
       "weighted_entry": 1069.2,
       "risk_per_share": 46.15,
       "target_2r": 1161.51,
-      "latest_close": 3565.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 233.43,
+      "latest_close": 3900.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 264.76,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-26",
       "exit_date": "2024-06-27",
       "exit_price": 755.27,
       "status": "CLOSED",
-      "sessions_held": 605
+      "sessions_held": 607
     },
     {
       "symbol": "MCX",
@@ -343,16 +343,16 @@
       "weighted_entry": 1020.66,
       "risk_per_share": 30.4,
       "target_2r": 1081.45,
-      "latest_close": 3565.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 249.28,
+      "latest_close": 3900.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 282.11,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-03",
       "exit_date": "2024-05-06",
       "exit_price": 801.5,
       "status": "CLOSED",
-      "sessions_held": 653
+      "sessions_held": 655
     },
     {
       "symbol": "MCX",
@@ -370,16 +370,16 @@
       "weighted_entry": 672.7,
       "risk_per_share": 32.21,
       "target_2r": 737.12,
-      "latest_close": 3565.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 429.95,
+      "latest_close": 3900.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 479.75,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-12",
       "exit_date": "2024-02-13",
       "exit_price": 692.5,
       "status": "CLOSED",
-      "sessions_held": 698
+      "sessions_held": 700
     },
     {
       "symbol": "MCX",
@@ -397,16 +397,16 @@
       "weighted_entry": 671.67,
       "risk_per_share": 26.19,
       "target_2r": 724.06,
-      "latest_close": 3565.0,
-      "latest_date": "2026-11-25",
-      "unrealised_return_pct": 430.77,
+      "latest_close": 3900.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 480.64,
       "target_2r_touched": false,
       "hard_stop_date": "2024-01-23",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-01-23",
       "exit_price": 614.93,
       "status": "CLOSED",
-      "sessions_held": 701
+      "sessions_held": 703
     }
   ]
 }
