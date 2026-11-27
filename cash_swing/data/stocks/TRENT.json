@@ -305,7 +305,7 @@
       "company": "Trent Ltd.",
       "signal_date": "2025-03-26",
       "entry_date": "2025-03-27",
-      "entry_price": 5348.01,
+      "entry_price": 5348.0,
       "atr14": 166.47,
       "initial_stop": 5139.92,
       "stage2_signal_date": "2025-05-21",
