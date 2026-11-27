@@ -323,7 +323,7 @@
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-23",
       "exit_date": "2024-09-24",
-      "exit_price": 6105.63,
+      "exit_price": 6105.62,
       "status": "CLOSED",
       "sessions_held": 564
     },

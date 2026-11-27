@@ -188,7 +188,7 @@
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-06",
       "exit_date": "2025-06-09",
-      "exit_price": 18255.34,
+      "exit_price": 18255.35,
       "status": "CLOSED",
       "sessions_held": 400
     },
@@ -288,7 +288,7 @@
       "quantity_stage2": 9,
       "weighted_entry": 13618.17,
       "risk_per_share": 804.74,
-      "target_2r": 15227.65,
+      "target_2r": 15227.64,
       "latest_close": 31120.0,
       "latest_date": "2026-11-27",
       "unrealised_return_pct": 128.52,

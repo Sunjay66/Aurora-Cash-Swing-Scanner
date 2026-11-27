@@ -415,7 +415,7 @@
       "entry_date": "2024-01-19",
       "entry_price": 1741.76,
       "atr14": 44.61,
-      "initial_stop": 1686.01,
+      "initial_stop": 1686.0,
       "stage2_signal_date": "2024-06-18",
       "stage2_entry_date": "2024-06-19",
       "stage2_entry_price": 1810.42,
@@ -431,7 +431,7 @@
       "hard_stop_date": "2024-01-19",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-01-19",
-      "exit_price": 1686.01,
+      "exit_price": 1686.0,
       "status": "CLOSED",
       "sessions_held": 704
     },
