@@ -1,7 +1,7 @@
 {
   "symbol": "DMART",
   "company": "Avenue Supermarts Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "DMART",
@@ -19,16 +19,16 @@
       "weighted_entry": 3470.0,
       "risk_per_share": 87.37,
       "target_2r": 3644.73,
-      "latest_close": 3533.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 1.82,
+      "latest_close": 3541.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 2.05,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-23",
       "exit_date": "2026-11-25",
       "exit_price": 3500.0,
       "status": "CLOSED",
-      "sessions_held": 10
+      "sessions_held": 11
     },
     {
       "symbol": "DMART",
@@ -46,16 +46,16 @@
       "weighted_entry": 4074.8,
       "risk_per_share": 122.72,
       "target_2r": 4320.25,
-      "latest_close": 3533.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -13.3,
+      "latest_close": 3541.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -13.09,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-17",
       "exit_date": "2026-08-18",
       "exit_price": 3989.6,
       "status": "CLOSED",
-      "sessions_held": 70
+      "sessions_held": 71
     },
     {
       "symbol": "DMART",
@@ -73,16 +73,16 @@
       "weighted_entry": 4307.06,
       "risk_per_share": 138.82,
       "target_2r": 4584.71,
-      "latest_close": 3533.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -17.97,
+      "latest_close": 3541.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -17.78,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-02",
       "exit_date": "2026-07-03",
       "exit_price": 4090.0,
       "status": "CLOSED",
-      "sessions_held": 109
+      "sessions_held": 110
     },
     {
       "symbol": "DMART",
@@ -100,16 +100,16 @@
       "weighted_entry": 4189.23,
       "risk_per_share": 153.48,
       "target_2r": 4496.2,
-      "latest_close": 3533.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -15.66,
+      "latest_close": 3541.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -15.47,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-24",
       "exit_date": "2026-04-27",
       "exit_price": 4489.8,
       "status": "CLOSED",
-      "sessions_held": 162
+      "sessions_held": 163
     },
     {
       "symbol": "DMART",
@@ -127,16 +127,16 @@
       "weighted_entry": 3943.75,
       "risk_per_share": 115.61,
       "target_2r": 4174.97,
-      "latest_close": 3533.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -10.42,
+      "latest_close": 3541.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -10.2,
       "target_2r_touched": false,
       "hard_stop_date": "2026-03-12",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-03-12",
       "exit_price": 3877.39,
       "status": "CLOSED",
-      "sessions_held": 176
+      "sessions_held": 177
     },
     {
       "symbol": "DMART",
@@ -154,16 +154,16 @@
       "weighted_entry": 3929.78,
       "risk_per_share": 121.9,
       "target_2r": 4173.59,
-      "latest_close": 3533.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -10.1,
+      "latest_close": 3541.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -9.89,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-16",
       "exit_date": "2026-02-17",
       "exit_price": 3869.9,
       "status": "CLOSED",
-      "sessions_held": 197
+      "sessions_held": 198
     },
     {
       "symbol": "DMART",
@@ -181,16 +181,16 @@
       "weighted_entry": 4199.04,
       "risk_per_share": 117.29,
       "target_2r": 4433.63,
-      "latest_close": 3533.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -15.86,
+      "latest_close": 3541.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -15.66,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-08",
       "exit_date": "2025-08-11",
       "exit_price": 4150.1,
       "status": "CLOSED",
-      "sessions_held": 324
+      "sessions_held": 325
     },
     {
       "symbol": "DMART",
@@ -208,16 +208,16 @@
       "weighted_entry": 4206.93,
       "risk_per_share": 132.26,
       "target_2r": 4471.45,
-      "latest_close": 3533.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -16.02,
+      "latest_close": 3541.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -15.82,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-04",
       "exit_date": "2025-07-07",
       "exit_price": 4279.0,
       "status": "CLOSED",
-      "sessions_held": 356
+      "sessions_held": 357
     },
     {
       "symbol": "DMART",
@@ -235,16 +235,16 @@
       "weighted_entry": 4200.38,
       "risk_per_share": 104.85,
       "target_2r": 4410.08,
-      "latest_close": 3533.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -15.89,
+      "latest_close": 3541.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -15.69,
       "target_2r_touched": false,
       "hard_stop_date": "2025-06-10",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-06-10",
       "exit_price": 4096.75,
       "status": "CLOSED",
-      "sessions_held": 364
+      "sessions_held": 365
     },
     {
       "symbol": "DMART",
@@ -262,16 +262,16 @@
       "weighted_entry": 4184.63,
       "risk_per_share": 117.9,
       "target_2r": 4420.43,
-      "latest_close": 3533.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -15.57,
+      "latest_close": 3541.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -15.37,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-27",
       "exit_date": "2025-05-28",
       "exit_price": 4094.0,
       "status": "CLOSED",
-      "sessions_held": 373
+      "sessions_held": 374
     },
     {
       "symbol": "DMART",
@@ -289,16 +289,16 @@
       "weighted_entry": 3873.77,
       "risk_per_share": 118.29,
       "target_2r": 4110.34,
-      "latest_close": 3533.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -8.8,
+      "latest_close": 3541.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -8.58,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-07",
       "exit_date": "2025-04-08",
       "exit_price": 4079.0,
       "status": "CLOSED",
-      "sessions_held": 419
+      "sessions_held": 420
     },
     {
       "symbol": "DMART",
@@ -316,16 +316,16 @@
       "weighted_entry": 3899.99,
       "risk_per_share": 129.77,
       "target_2r": 4159.53,
-      "latest_close": 3533.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -9.41,
+      "latest_close": 3541.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -9.2,
       "target_2r_touched": false,
       "hard_stop_date": "2025-02-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-02-06",
       "exit_price": 3770.18,
       "status": "CLOSED",
-      "sessions_held": 447
+      "sessions_held": 448
     },
     {
       "symbol": "DMART",
@@ -343,16 +343,16 @@
       "weighted_entry": 3930.05,
       "risk_per_share": 149.96,
       "target_2r": 4229.96,
-      "latest_close": 3533.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -10.1,
+      "latest_close": 3541.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -9.89,
       "target_2r_touched": false,
       "hard_stop_date": "2025-01-07",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-01-07",
       "exit_price": 3875.24,
       "status": "CLOSED",
-      "sessions_held": 468
+      "sessions_held": 469
     },
     {
       "symbol": "DMART",
@@ -370,16 +370,16 @@
       "weighted_entry": 4126.74,
       "risk_per_share": 147.09,
       "target_2r": 4420.93,
-      "latest_close": 3533.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -14.39,
+      "latest_close": 3541.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -14.19,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-13",
       "exit_date": "2024-09-16",
       "exit_price": 5188.05,
       "status": "CLOSED",
-      "sessions_held": 551
+      "sessions_held": 552
     },
     {
       "symbol": "DMART",
@@ -397,16 +397,16 @@
       "weighted_entry": 4114.47,
       "risk_per_share": 142.11,
       "target_2r": 4398.68,
-      "latest_close": 3533.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -14.13,
+      "latest_close": 3541.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -13.93,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-30",
       "exit_date": "2024-09-02",
       "exit_price": 4977.0,
       "status": "CLOSED",
-      "sessions_held": 555
+      "sessions_held": 556
     },
     {
       "symbol": "DMART",
@@ -424,16 +424,16 @@
       "weighted_entry": 4120.2,
       "risk_per_share": 189.73,
       "target_2r": 4499.66,
-      "latest_close": 3533.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -14.25,
+      "latest_close": 3541.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -14.05,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-13",
       "exit_date": "2024-08-14",
       "exit_price": 4950.0,
       "status": "CLOSED",
-      "sessions_held": 570
+      "sessions_held": 571
     },
     {
       "symbol": "DMART",
@@ -451,16 +451,16 @@
       "weighted_entry": 4088.92,
       "risk_per_share": 206.5,
       "target_2r": 4501.92,
-      "latest_close": 3533.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -13.6,
+      "latest_close": 3541.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -13.39,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-13",
       "exit_date": "2024-06-14",
       "exit_price": 4692.0,
       "status": "CLOSED",
-      "sessions_held": 611
+      "sessions_held": 612
     },
     {
       "symbol": "DMART",
@@ -478,16 +478,16 @@
       "weighted_entry": 3964.96,
       "risk_per_share": 88.43,
       "target_2r": 4141.82,
-      "latest_close": 3533.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -10.89,
+      "latest_close": 3541.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -10.69,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-05",
       "exit_date": "2024-03-06",
       "exit_price": 3834.5,
       "status": "CLOSED",
-      "sessions_held": 680
+      "sessions_held": 681
     }
   ]
 }

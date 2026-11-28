@@ -1,7 +1,7 @@
 {
   "symbol": "ATGL",
   "company": "Adani Total Gas Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "ATGL",
@@ -19,16 +19,16 @@
       "weighted_entry": 583.0,
       "risk_per_share": 22.19,
       "target_2r": 627.38,
-      "latest_close": 547.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -6.05,
+      "latest_close": 547.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -6.02,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-16",
       "exit_date": "2026-11-17",
       "exit_price": 570.0,
       "status": "CLOSED",
-      "sessions_held": 10
+      "sessions_held": 11
     },
     {
       "symbol": "ATGL",
@@ -46,16 +46,16 @@
       "weighted_entry": 725.75,
       "risk_per_share": 30.04,
       "target_2r": 785.82,
-      "latest_close": 547.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -24.53,
+      "latest_close": 547.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -24.51,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-15",
       "exit_date": "2026-07-16",
       "exit_price": 717.15,
       "status": "CLOSED",
-      "sessions_held": 92
+      "sessions_held": 93
     },
     {
       "symbol": "ATGL",
@@ -73,16 +73,16 @@
       "weighted_entry": 580.8,
       "risk_per_share": 40.5,
       "target_2r": 661.79,
-      "latest_close": 547.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -5.7,
+      "latest_close": 547.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -5.66,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-08",
       "exit_date": "2026-05-11",
       "exit_price": 629.58,
       "status": "CLOSED",
-      "sessions_held": 157
+      "sessions_held": 158
     },
     {
       "symbol": "ATGL",
@@ -100,16 +100,16 @@
       "weighted_entry": 597.86,
       "risk_per_share": 29.18,
       "target_2r": 656.22,
-      "latest_close": 547.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -8.39,
+      "latest_close": 547.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -8.36,
       "target_2r_touched": false,
       "hard_stop_date": "2026-03-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-03-13",
       "exit_price": 594.6,
       "status": "CLOSED",
-      "sessions_held": 173
+      "sessions_held": 174
     },
     {
       "symbol": "ATGL",
@@ -127,16 +127,16 @@
       "weighted_entry": 599.58,
       "risk_per_share": 17.44,
       "target_2r": 634.46,
-      "latest_close": 547.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -8.65,
+      "latest_close": 547.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -8.62,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-03",
       "exit_date": "2025-11-04",
       "exit_price": 625.88,
       "status": "CLOSED",
-      "sessions_held": 263
+      "sessions_held": 264
     },
     {
       "symbol": "ATGL",
@@ -154,16 +154,16 @@
       "weighted_entry": 751.31,
       "risk_per_share": 18.54,
       "target_2r": 788.38,
-      "latest_close": 547.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -27.1,
+      "latest_close": 547.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -27.07,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-26",
       "exit_date": "2025-09-29",
       "exit_price": 658.57,
       "status": "CLOSED",
-      "sessions_held": 291
+      "sessions_held": 292
     },
     {
       "symbol": "ATGL",
@@ -181,16 +181,16 @@
       "weighted_entry": 742.61,
       "risk_per_share": 18.27,
       "target_2r": 779.14,
-      "latest_close": 547.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -26.25,
+      "latest_close": 547.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -26.22,
       "target_2r_touched": false,
       "hard_stop_date": "2025-08-28",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-08-28",
       "exit_price": 611.61,
       "status": "CLOSED",
-      "sessions_held": 309
+      "sessions_held": 310
     },
     {
       "symbol": "ATGL",
@@ -208,16 +208,16 @@
       "weighted_entry": 755.7,
       "risk_per_share": 27.35,
       "target_2r": 810.4,
-      "latest_close": 547.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -27.52,
+      "latest_close": 547.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -27.5,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-07",
       "exit_date": "2025-07-08",
       "exit_price": 658.77,
       "status": "CLOSED",
-      "sessions_held": 347
+      "sessions_held": 348
     },
     {
       "symbol": "ATGL",
@@ -235,16 +235,16 @@
       "weighted_entry": 643.01,
       "risk_per_share": 27.52,
       "target_2r": 698.04,
-      "latest_close": 547.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -14.82,
+      "latest_close": 547.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -14.79,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-25",
       "exit_date": "2025-04-28",
       "exit_price": 599.57,
       "status": "CLOSED",
-      "sessions_held": 398
+      "sessions_held": 399
     },
     {
       "symbol": "ATGL",
@@ -262,16 +262,16 @@
       "weighted_entry": 639.88,
       "risk_per_share": 30.65,
       "target_2r": 701.18,
-      "latest_close": 547.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -14.41,
+      "latest_close": 547.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -14.37,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-25",
       "exit_date": "2025-03-26",
       "exit_price": 607.31,
       "status": "CLOSED",
-      "sessions_held": 419
+      "sessions_held": 420
     },
     {
       "symbol": "ATGL",
@@ -289,16 +289,16 @@
       "weighted_entry": 677.5,
       "risk_per_share": 38.55,
       "target_2r": 754.59,
-      "latest_close": 547.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -19.16,
+      "latest_close": 547.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -19.13,
       "target_2r_touched": true,
       "hard_stop_date": "2025-01-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-01-06",
       "exit_price": 711.91,
       "status": "CLOSED",
-      "sessions_held": 471
+      "sessions_held": 472
     },
     {
       "symbol": "ATGL",
@@ -316,16 +316,16 @@
       "weighted_entry": 692.93,
       "risk_per_share": 65.67,
       "target_2r": 824.26,
-      "latest_close": 547.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -20.96,
+      "latest_close": 547.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -20.93,
       "target_2r_touched": false,
       "hard_stop_date": "2024-12-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-12-04",
       "exit_price": 745.75,
       "status": "CLOSED",
-      "sessions_held": 492
+      "sessions_held": 493
     },
     {
       "symbol": "ATGL",
@@ -343,16 +343,16 @@
       "weighted_entry": 699.95,
       "risk_per_share": 32.78,
       "target_2r": 765.5,
-      "latest_close": 547.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -21.75,
+      "latest_close": 547.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -21.72,
       "target_2r_touched": false,
       "hard_stop_date": "2024-08-05",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-08-05",
       "exit_price": 856.58,
       "status": "CLOSED",
-      "sessions_held": 573
+      "sessions_held": 574
     },
     {
       "symbol": "ATGL",
@@ -370,16 +370,16 @@
       "weighted_entry": 1120.74,
       "risk_per_share": 39.27,
       "target_2r": 1199.28,
-      "latest_close": 547.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -51.13,
+      "latest_close": 547.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -51.11,
       "target_2r_touched": false,
       "hard_stop_date": "2024-06-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-06-04",
       "exit_price": 916.49,
       "status": "CLOSED",
-      "sessions_held": 622
+      "sessions_held": 623
     },
     {
       "symbol": "ATGL",
@@ -397,16 +397,16 @@
       "weighted_entry": 1140.76,
       "risk_per_share": 44.8,
       "target_2r": 1230.37,
-      "latest_close": 547.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -51.99,
+      "latest_close": 547.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -51.97,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-28",
       "exit_date": "2024-02-29",
       "exit_price": 1019.0,
       "status": "CLOSED",
-      "sessions_held": 680
+      "sessions_held": 681
     },
     {
       "symbol": "ATGL",
@@ -424,16 +424,16 @@
       "weighted_entry": 1145.75,
       "risk_per_share": 48.66,
       "target_2r": 1243.07,
-      "latest_close": 547.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -52.2,
+      "latest_close": 547.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -52.18,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-13",
       "exit_date": "2024-02-14",
       "exit_price": 982.03,
       "status": "CLOSED",
-      "sessions_held": 689
+      "sessions_held": 690
     },
     {
       "symbol": "ATGL",
@@ -451,16 +451,16 @@
       "weighted_entry": 1147.49,
       "risk_per_share": 39.38,
       "target_2r": 1226.25,
-      "latest_close": 547.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -52.27,
+      "latest_close": 547.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -52.25,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-01-31",
       "exit_date": "2024-02-01",
       "exit_price": 1017.3,
       "status": "CLOSED",
-      "sessions_held": 698
+      "sessions_held": 699
     }
   ]
 }

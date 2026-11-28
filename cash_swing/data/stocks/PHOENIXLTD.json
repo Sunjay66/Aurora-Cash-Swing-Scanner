@@ -1,7 +1,7 @@
 {
   "symbol": "PHOENIXLTD",
   "company": "Phoenix Mills Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "PHOENIXLTD",
@@ -19,16 +19,16 @@
       "weighted_entry": 2013.87,
       "risk_per_share": 66.33,
       "target_2r": 2146.53,
-      "latest_close": 2291.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 13.76,
+      "latest_close": 2229.7,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 10.72,
       "target_2r_touched": false,
       "hard_stop_date": "2026-11-02",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-11-02",
       "exit_price": 1899.8,
       "status": "CLOSED",
-      "sessions_held": 18
+      "sessions_held": 19
     },
     {
       "symbol": "PHOENIXLTD",
@@ -46,16 +46,16 @@
       "weighted_entry": 1954.27,
       "risk_per_share": 59.44,
       "target_2r": 2073.15,
-      "latest_close": 2291.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 17.23,
+      "latest_close": 2229.7,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 14.09,
       "target_2r_touched": false,
       "hard_stop_date": "2026-09-25",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-09-25",
       "exit_price": 1925.86,
       "status": "CLOSED",
-      "sessions_held": 42
+      "sessions_held": 43
     },
     {
       "symbol": "PHOENIXLTD",
@@ -73,16 +73,16 @@
       "weighted_entry": 1924.22,
       "risk_per_share": 68.69,
       "target_2r": 2061.6,
-      "latest_close": 2291.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 19.06,
+      "latest_close": 2229.7,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 15.88,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-16",
       "exit_date": "2026-07-17",
       "exit_price": 2078.15,
       "status": "CLOSED",
-      "sessions_held": 112
+      "sessions_held": 113
     },
     {
       "symbol": "PHOENIXLTD",
@@ -100,16 +100,16 @@
       "weighted_entry": 1904.77,
       "risk_per_share": 65.44,
       "target_2r": 2035.65,
-      "latest_close": 2291.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 20.28,
+      "latest_close": 2229.7,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 17.06,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-27",
       "exit_date": "2026-05-29",
       "exit_price": 1758.67,
       "status": "CLOSED",
-      "sessions_held": 128
+      "sessions_held": 129
     },
     {
       "symbol": "PHOENIXLTD",
@@ -127,16 +127,16 @@
       "weighted_entry": 1758.77,
       "risk_per_share": 84.86,
       "target_2r": 1928.5,
-      "latest_close": 2291.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 30.26,
+      "latest_close": 2229.7,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 26.78,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-28",
       "exit_date": "2026-04-29",
       "exit_price": 1781.34,
       "status": "CLOSED",
-      "sessions_held": 156
+      "sessions_held": 157
     },
     {
       "symbol": "PHOENIXLTD",
@@ -154,16 +154,16 @@
       "weighted_entry": 1551.7,
       "risk_per_share": 51.82,
       "target_2r": 1655.34,
-      "latest_close": 2291.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 47.64,
+      "latest_close": 2229.7,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 43.69,
       "target_2r_touched": false,
       "hard_stop_date": "2025-08-28",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-08-28",
       "exit_price": 1503.62,
       "status": "CLOSED",
-      "sessions_held": 311
+      "sessions_held": 312
     },
     {
       "symbol": "PHOENIXLTD",
@@ -181,16 +181,16 @@
       "weighted_entry": 1626.02,
       "risk_per_share": 78.53,
       "target_2r": 1783.08,
-      "latest_close": 2291.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 40.9,
+      "latest_close": 2229.7,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 37.13,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-29",
       "exit_date": "2025-05-30",
       "exit_price": 1567.9,
       "status": "CLOSED",
-      "sessions_held": 375
+      "sessions_held": 376
     },
     {
       "symbol": "PHOENIXLTD",
@@ -208,16 +208,16 @@
       "weighted_entry": 1676.89,
       "risk_per_share": 82.75,
       "target_2r": 1842.4,
-      "latest_close": 2291.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 36.62,
+      "latest_close": 2229.7,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 32.97,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-28",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-28",
       "exit_price": 1606.1,
       "status": "CLOSED",
-      "sessions_held": 395
+      "sessions_held": 396
     },
     {
       "symbol": "PHOENIXLTD",
@@ -235,16 +235,16 @@
       "weighted_entry": 1650.4,
       "risk_per_share": 77.69,
       "target_2r": 1805.79,
-      "latest_close": 2291.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 38.81,
+      "latest_close": 2229.7,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 35.1,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-01",
       "exit_price": 1588.87,
       "status": "CLOSED",
-      "sessions_held": 413
+      "sessions_held": 414
     },
     {
       "symbol": "PHOENIXLTD",
@@ -262,16 +262,16 @@
       "weighted_entry": 1632.7,
       "risk_per_share": 79.8,
       "target_2r": 1792.3,
-      "latest_close": 2291.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 40.32,
+      "latest_close": 2229.7,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 36.57,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-13",
       "exit_date": "2025-03-17",
       "exit_price": 1559.93,
       "status": "CLOSED",
-      "sessions_held": 419
+      "sessions_held": 420
     },
     {
       "symbol": "PHOENIXLTD",
@@ -289,16 +289,16 @@
       "weighted_entry": 1684.65,
       "risk_per_share": 100.54,
       "target_2r": 1885.74,
-      "latest_close": 2291.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 35.99,
+      "latest_close": 2229.7,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 32.35,
       "target_2r_touched": false,
       "hard_stop_date": "2025-02-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-02-06",
       "exit_price": 1644.34,
       "status": "CLOSED",
-      "sessions_held": 446
+      "sessions_held": 447
     },
     {
       "symbol": "PHOENIXLTD",
@@ -316,16 +316,16 @@
       "weighted_entry": 1678.6,
       "risk_per_share": 95.66,
       "target_2r": 1869.92,
-      "latest_close": 2291.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 36.48,
+      "latest_close": 2229.7,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 32.83,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-27",
       "exit_date": "2024-12-30",
       "exit_price": 1691.29,
       "status": "CLOSED",
-      "sessions_held": 473
+      "sessions_held": 474
     },
     {
       "symbol": "PHOENIXLTD",
@@ -343,16 +343,16 @@
       "weighted_entry": 1762.52,
       "risk_per_share": 82.41,
       "target_2r": 1927.33,
-      "latest_close": 2291.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 29.98,
+      "latest_close": 2229.7,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 26.51,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-13",
       "exit_date": "2024-12-16",
       "exit_price": 1775.79,
       "status": "CLOSED",
-      "sessions_held": 495
+      "sessions_held": 496
     },
     {
       "symbol": "PHOENIXLTD",
@@ -370,16 +370,16 @@
       "weighted_entry": 1795.15,
       "risk_per_share": 111.58,
       "target_2r": 2018.3,
-      "latest_close": 2291.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 27.62,
+      "latest_close": 2229.7,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 24.21,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-01",
       "exit_date": "2024-10-03",
       "exit_price": 1686.9,
       "status": "CLOSED",
-      "sessions_held": 537
+      "sessions_held": 538
     },
     {
       "symbol": "PHOENIXLTD",
@@ -397,16 +397,16 @@
       "weighted_entry": 1791.39,
       "risk_per_share": 92.27,
       "target_2r": 1975.92,
-      "latest_close": 2291.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 27.89,
+      "latest_close": 2229.7,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 24.47,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-03",
       "exit_date": "2024-09-04",
       "exit_price": 1816.33,
       "status": "CLOSED",
-      "sessions_held": 558
+      "sessions_held": 559
     },
     {
       "symbol": "PHOENIXLTD",
@@ -424,16 +424,16 @@
       "weighted_entry": 1740.49,
       "risk_per_share": 91.51,
       "target_2r": 1923.51,
-      "latest_close": 2291.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 31.63,
+      "latest_close": 2229.7,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 28.11,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-28",
       "exit_date": "2024-05-29",
       "exit_price": 1535.32,
       "status": "CLOSED",
-      "sessions_held": 623
+      "sessions_held": 624
     },
     {
       "symbol": "PHOENIXLTD",
@@ -451,16 +451,16 @@
       "weighted_entry": 1701.22,
       "risk_per_share": 104.5,
       "target_2r": 1910.22,
-      "latest_close": 2291.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 34.67,
+      "latest_close": 2229.7,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 31.06,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-26",
       "exit_date": "2024-04-29",
       "exit_price": 1550.23,
       "status": "CLOSED",
-      "sessions_held": 655
+      "sessions_held": 656
     },
     {
       "symbol": "PHOENIXLTD",
@@ -478,16 +478,16 @@
       "weighted_entry": 1645.92,
       "risk_per_share": 81.21,
       "target_2r": 1808.33,
-      "latest_close": 2291.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 39.19,
+      "latest_close": 2229.7,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 35.47,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-13",
       "exit_date": "2024-02-14",
       "exit_price": 1266.94,
       "status": "CLOSED",
-      "sessions_held": 693
+      "sessions_held": 694
     },
     {
       "symbol": "PHOENIXLTD",
@@ -505,16 +505,16 @@
       "weighted_entry": 1279.68,
       "risk_per_share": 57.23,
       "target_2r": 1394.15,
-      "latest_close": 2291.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 79.03,
+      "latest_close": 2229.7,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 74.24,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-01-11",
       "exit_date": "2024-01-12",
       "exit_price": 1234.11,
       "status": "CLOSED",
-      "sessions_held": 711
+      "sessions_held": 712
     }
   ]
 }

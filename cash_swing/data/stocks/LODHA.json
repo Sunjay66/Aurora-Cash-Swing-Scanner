@@ -1,7 +1,7 @@
 {
   "symbol": "LODHA",
   "company": "Lodha Developers Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "LODHA",
@@ -19,16 +19,16 @@
       "weighted_entry": 1205.66,
       "risk_per_share": 54.71,
       "target_2r": 1315.09,
-      "latest_close": 1261.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 4.61,
+      "latest_close": 1251.8,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 3.83,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "OPEN",
-      "sessions_held": 13
+      "sessions_held": 14
     },
     {
       "symbol": "LODHA",
@@ -46,16 +46,16 @@
       "weighted_entry": 921.96,
       "risk_per_share": 42.29,
       "target_2r": 1006.55,
-      "latest_close": 1261.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 36.8,
+      "latest_close": 1251.8,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 35.78,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-23",
       "exit_date": "2026-06-24",
       "exit_price": 907.56,
       "status": "CLOSED",
-      "sessions_held": 112
+      "sessions_held": 113
     },
     {
       "symbol": "LODHA",
@@ -73,16 +73,16 @@
       "weighted_entry": 894.03,
       "risk_per_share": 46.25,
       "target_2r": 986.54,
-      "latest_close": 1261.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 41.07,
+      "latest_close": 1251.8,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 40.02,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-24",
       "exit_date": "2026-04-27",
       "exit_price": 848.62,
       "status": "CLOSED",
-      "sessions_held": 152
+      "sessions_held": 153
     },
     {
       "symbol": "LODHA",
@@ -100,16 +100,16 @@
       "weighted_entry": 949.51,
       "risk_per_share": 59.42,
       "target_2r": 1068.35,
-      "latest_close": 1261.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 32.83,
+      "latest_close": 1251.8,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 31.84,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-19",
       "exit_date": "2026-02-20",
       "exit_price": 1056.59,
       "status": "CLOSED",
-      "sessions_held": 195
+      "sessions_held": 196
     },
     {
       "symbol": "LODHA",
@@ -127,16 +127,16 @@
       "weighted_entry": 958.09,
       "risk_per_share": 38.16,
       "target_2r": 1034.41,
-      "latest_close": 1261.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 31.64,
+      "latest_close": 1251.8,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 30.66,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-28",
       "exit_date": "2025-10-29",
       "exit_price": 1167.9,
       "status": "CLOSED",
-      "sessions_held": 272
+      "sessions_held": 273
     },
     {
       "symbol": "LODHA",
@@ -154,16 +154,16 @@
       "weighted_entry": 991.85,
       "risk_per_share": 38.57,
       "target_2r": 1068.99,
-      "latest_close": 1261.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 27.16,
+      "latest_close": 1251.8,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 26.21,
       "target_2r_touched": true,
       "hard_stop_date": "2025-07-23",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-23",
       "exit_price": 1390.52,
       "status": "CLOSED",
-      "sessions_held": 335
+      "sessions_held": 336
     },
     {
       "symbol": "LODHA",
@@ -181,16 +181,16 @@
       "weighted_entry": 1276.39,
       "risk_per_share": 75.16,
       "target_2r": 1426.72,
-      "latest_close": 1261.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -1.19,
+      "latest_close": 1251.8,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -1.93,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-06",
       "exit_date": "2025-05-07",
       "exit_price": 1261.4,
       "status": "CLOSED",
-      "sessions_held": 399
+      "sessions_held": 400
     },
     {
       "symbol": "LODHA",
@@ -208,16 +208,16 @@
       "weighted_entry": 1273.84,
       "risk_per_share": 68.49,
       "target_2r": 1410.83,
-      "latest_close": 1261.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -0.99,
+      "latest_close": 1251.8,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -1.73,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-01",
       "exit_price": 1152.83,
       "status": "CLOSED",
-      "sessions_held": 413
+      "sessions_held": 414
     },
     {
       "symbol": "LODHA",
@@ -235,16 +235,16 @@
       "weighted_entry": 1287.83,
       "risk_per_share": 74.43,
       "target_2r": 1436.69,
-      "latest_close": 1261.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -2.07,
+      "latest_close": 1251.8,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -2.8,
       "target_2r_touched": false,
       "hard_stop_date": "2025-02-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-02-06",
       "exit_price": 1203.21,
       "status": "CLOSED",
-      "sessions_held": 445
+      "sessions_held": 446
     },
     {
       "symbol": "LODHA",
@@ -262,16 +262,16 @@
       "weighted_entry": 1270.2,
       "risk_per_share": 72.45,
       "target_2r": 1415.11,
-      "latest_close": 1261.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -0.71,
+      "latest_close": 1251.8,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -1.45,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-08",
       "exit_date": "2024-11-11",
       "exit_price": 1162.32,
       "status": "CLOSED",
-      "sessions_held": 507
+      "sessions_held": 508
     },
     {
       "symbol": "LODHA",
@@ -289,16 +289,16 @@
       "weighted_entry": 1348.67,
       "risk_per_share": 45.65,
       "target_2r": 1439.97,
-      "latest_close": 1261.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -6.49,
+      "latest_close": 1251.8,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -7.18,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-27",
       "exit_date": "2024-09-30",
       "exit_price": 1271.33,
       "status": "CLOSED",
-      "sessions_held": 541
+      "sessions_held": 542
     },
     {
       "symbol": "LODHA",
@@ -315,17 +315,17 @@
       "quantity_stage2": 109,
       "weighted_entry": 1325.76,
       "risk_per_share": 62.74,
-      "target_2r": 1451.24,
-      "latest_close": 1261.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -4.87,
+      "target_2r": 1451.23,
+      "latest_close": 1251.8,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -5.58,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-04",
       "exit_date": "2024-06-05",
       "exit_price": 1303.6,
       "status": "CLOSED",
-      "sessions_held": 625
+      "sessions_held": 626
     },
     {
       "symbol": "LODHA",
@@ -343,16 +343,16 @@
       "weighted_entry": 1315.98,
       "risk_per_share": 97.97,
       "target_2r": 1511.92,
-      "latest_close": 1261.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -4.16,
+      "latest_close": 1251.8,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -4.88,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-03",
       "exit_date": "2024-04-04",
       "exit_price": 1110.46,
       "status": "CLOSED",
-      "sessions_held": 659
+      "sessions_held": 660
     },
     {
       "symbol": "LODHA",
@@ -370,16 +370,16 @@
       "weighted_entry": 1302.45,
       "risk_per_share": 65.76,
       "target_2r": 1433.96,
-      "latest_close": 1261.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -3.17,
+      "latest_close": 1251.8,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -3.89,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-12",
       "exit_date": "2024-03-13",
       "exit_price": 1108.83,
       "status": "CLOSED",
-      "sessions_held": 682
+      "sessions_held": 683
     }
   ]
 }

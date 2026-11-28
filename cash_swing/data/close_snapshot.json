@@ -1,6 +1,6 @@
 {
   "market_date": "2026-11-27",
-  "generated_at_ist": "2026-11-28T10:11:35.248755+05:30",
+  "generated_at_ist": "2026-11-28T10:25:06.421451+05:30",
   "stocks": [
     {
       "symbol": "360ONE",
@@ -68,16 +68,16 @@
     {
       "symbol": "ATGL",
       "company": "Adani Total Gas Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 547.7,
-      "previous_close": 546.8
+      "market_date": "2026-11-27",
+      "latest_close": 547.9,
+      "previous_close": 547.7
     },
     {
       "symbol": "ABCAPITAL",
       "company": "Aditya Birla Capital Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 413.5,
-      "previous_close": 422.0
+      "market_date": "2026-11-27",
+      "latest_close": 410.3,
+      "previous_close": 413.5
     },
     {
       "symbol": "AMBUJACEM",
@@ -131,9 +131,9 @@
     {
       "symbol": "DMART",
       "company": "Avenue Supermarts Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 3533.0,
-      "previous_close": 3592.0
+      "market_date": "2026-11-27",
+      "latest_close": 3541.3,
+      "previous_close": 3533.0
     },
     {
       "symbol": "AXISBANK",
@@ -257,9 +257,9 @@
     {
       "symbol": "BLUESTARCO",
       "company": "Blue Star Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 1780.2,
-      "previous_close": 1821.5
+      "market_date": "2026-11-27",
+      "latest_close": 1735.0,
+      "previous_close": 1780.2
     },
     {
       "symbol": "BOSCHLTD",
@@ -278,9 +278,9 @@
     {
       "symbol": "CGPOWER",
       "company": "CG Power and Industrial Solutions Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 782.0,
-      "previous_close": 778.9
+      "market_date": "2026-11-27",
+      "latest_close": 793.0,
+      "previous_close": 782.0
     },
     {
       "symbol": "CANBK",
@@ -292,9 +292,9 @@
     {
       "symbol": "CHOLAFIN",
       "company": "Cholamandalam Investment and Finance Company Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 1842.9,
-      "previous_close": 1868.0
+      "market_date": "2026-11-27",
+      "latest_close": 1802.0,
+      "previous_close": 1842.9
     },
     {
       "symbol": "CIPLA",
@@ -348,9 +348,9 @@
     {
       "symbol": "DLF",
       "company": "DLF Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 807.8,
-      "previous_close": 795.0
+      "market_date": "2026-11-27",
+      "latest_close": 805.45,
+      "previous_close": 807.8
     },
     {
       "symbol": "DABUR",
@@ -383,9 +383,9 @@
     {
       "symbol": "EICHERMOT",
       "company": "Eicher Motors Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 8180.0,
-      "previous_close": 8336.0
+      "market_date": "2026-11-27",
+      "latest_close": 8003.5,
+      "previous_close": 8180.0
     },
     {
       "symbol": "ETERNAL",
@@ -488,9 +488,9 @@
     {
       "symbol": "HDFCAMC",
       "company": "HDFC Asset Management Company Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 2725.1,
-      "previous_close": 2671.3
+      "market_date": "2026-11-27",
+      "latest_close": 2706.0,
+      "previous_close": 2725.1
     },
     {
       "symbol": "HDFCBANK",
@@ -565,9 +565,9 @@
     {
       "symbol": "POWERINDIA",
       "company": "Hitachi Energy India Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 30335.0,
-      "previous_close": 29770.0
+      "market_date": "2026-11-27",
+      "latest_close": 31120.0,
+      "previous_close": 30335.0
     },
     {
       "symbol": "HYUNDAI",
@@ -586,9 +586,9 @@
     {
       "symbol": "ICICIGI",
       "company": "ICICI Lombard General Insurance Company Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 1740.0,
-      "previous_close": 1736.6
+      "market_date": "2026-11-27",
+      "latest_close": 1738.5,
+      "previous_close": 1740.0
     },
     {
       "symbol": "ICICIAMC",
@@ -670,9 +670,9 @@
     {
       "symbol": "NAUKRI",
       "company": "Info Edge (India) Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 1229.0,
-      "previous_close": 1220.0
+      "market_date": "2026-11-27",
+      "latest_close": 1203.8,
+      "previous_close": 1229.0
     },
     {
       "symbol": "INFY",
@@ -684,9 +684,9 @@
     {
       "symbol": "INDIGO",
       "company": "InterGlobe Aviation Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 5625.0,
-      "previous_close": 5720.0
+      "market_date": "2026-11-27",
+      "latest_close": 5659.6,
+      "previous_close": 5625.0
     },
     {
       "symbol": "JSWENERGY",
@@ -768,9 +768,9 @@
     {
       "symbol": "LTM",
       "company": "LTM Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 4406.7,
-      "previous_close": 4270.0
+      "market_date": "2026-11-27",
+      "latest_close": 4320.0,
+      "previous_close": 4406.7
     },
     {
       "symbol": "LT",
@@ -803,23 +803,23 @@
     {
       "symbol": "LODHA",
       "company": "Lodha Developers Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 1261.2,
-      "previous_close": 1202.0
+      "market_date": "2026-11-27",
+      "latest_close": 1251.8,
+      "previous_close": 1261.2
     },
     {
       "symbol": "LUPIN",
       "company": "Lupin Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 2005.0,
-      "previous_close": 2003.8
+      "market_date": "2026-11-27",
+      "latest_close": 2016.0,
+      "previous_close": 2005.0
     },
     {
       "symbol": "MRF",
       "company": "MRF Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 128465.0,
-      "previous_close": 128740.0
+      "market_date": "2026-11-27",
+      "latest_close": 128000.0,
+      "previous_close": 128465.0
     },
     {
       "symbol": "M&MFIN",
@@ -838,8 +838,8 @@
     {
       "symbol": "MANKIND",
       "company": "Mankind Pharma Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 2685.0,
+      "market_date": "2026-11-27",
+      "latest_close": 2689.4,
       "previous_close": 2685.0
     },
     {
@@ -859,9 +859,9 @@
     {
       "symbol": "MFSL",
       "company": "Max Financial Services Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 1453.7,
-      "previous_close": 1444.0
+      "market_date": "2026-11-27",
+      "latest_close": 1425.0,
+      "previous_close": 1453.7
     },
     {
       "symbol": "MAXHEALTH",
@@ -887,16 +887,16 @@
     {
       "symbol": "MOTILALOFS",
       "company": "Motilal Oswal Financial Services Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 1215.25,
-      "previous_close": 1230.1
+      "market_date": "2026-11-27",
+      "latest_close": 1222.15,
+      "previous_close": 1215.25
     },
     {
       "symbol": "MPHASIS",
       "company": "MphasiS Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 2510.0,
-      "previous_close": 2532.9
+      "market_date": "2026-11-27",
+      "latest_close": 2441.2,
+      "previous_close": 2510.0
     },
     {
       "symbol": "MCX",
@@ -957,9 +957,9 @@
     {
       "symbol": "OBEROIRLTY",
       "company": "Oberoi Realty Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 1905.2,
-      "previous_close": 1868.5
+      "market_date": "2026-11-27",
+      "latest_close": 1889.2,
+      "previous_close": 1905.2
     },
     {
       "symbol": "ONGC",
@@ -985,9 +985,9 @@
     {
       "symbol": "OFSS",
       "company": "Oracle Financial Services Software Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 9291.0,
-      "previous_close": 9275.0
+      "market_date": "2026-11-27",
+      "latest_close": 9250.0,
+      "previous_close": 9291.0
     },
     {
       "symbol": "POLICYBZR",
@@ -1006,37 +1006,37 @@
     {
       "symbol": "PAGEIND",
       "company": "Page Industries Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 30860.0,
-      "previous_close": 30805.0
+      "market_date": "2026-11-27",
+      "latest_close": 30870.0,
+      "previous_close": 30860.0
     },
     {
       "symbol": "PATANJALI",
       "company": "Patanjali Foods Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 405.4,
-      "previous_close": 407.05
+      "market_date": "2026-11-27",
+      "latest_close": 400.35,
+      "previous_close": 405.4
     },
     {
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 6200.0,
-      "previous_close": 6120.0
+      "market_date": "2026-11-27",
+      "latest_close": 6320.0,
+      "previous_close": 6200.0
     },
     {
       "symbol": "PHOENIXLTD",
       "company": "Phoenix Mills Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 2291.0,
-      "previous_close": 2285.5
+      "market_date": "2026-11-27",
+      "latest_close": 2229.7,
+      "previous_close": 2291.0
     },
     {
       "symbol": "PIDILITIND",
       "company": "Pidilite Industries Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 1604.9,
-      "previous_close": 1616.9
+      "market_date": "2026-11-27",
+      "latest_close": 1594.8,
+      "previous_close": 1604.9
     },
     {
       "symbol": "POLYCAB",
@@ -1062,9 +1062,9 @@
     {
       "symbol": "PREMIERENE",
       "company": "Premier Energies Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 803.5,
-      "previous_close": 815.25
+      "market_date": "2026-11-27",
+      "latest_close": 811.5,
+      "previous_close": 803.5
     },
     {
       "symbol": "PRESTIGE",
@@ -1076,9 +1076,9 @@
     {
       "symbol": "PNB",
       "company": "Punjab National Bank",
-      "market_date": "2026-11-26",
-      "latest_close": 147.5,
-      "previous_close": 148.61
+      "market_date": "2026-11-27",
+      "latest_close": 146.5,
+      "previous_close": 147.5
     },
     {
       "symbol": "RECLTD",
@@ -1090,9 +1090,9 @@
     {
       "symbol": "RADICO",
       "company": "Radico Khaitan Ltd",
-      "market_date": "2026-11-26",
-      "latest_close": 4671.0,
-      "previous_close": 4699.0
+      "market_date": "2026-11-27",
+      "latest_close": 4646.6,
+      "previous_close": 4671.0
     },
     {
       "symbol": "RVNL",
@@ -1188,9 +1188,9 @@
     {
       "symbol": "SUPREMEIND",
       "company": "Supreme Industries Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 3160.0,
-      "previous_close": 3176.0
+      "market_date": "2026-11-27",
+      "latest_close": 3200.0,
+      "previous_close": 3160.0
     },
     {
       "symbol": "SUZLON",
@@ -1209,9 +1209,9 @@
     {
       "symbol": "TVSMOTOR",
       "company": "TVS Motor Company Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 4550.1,
-      "previous_close": 4610.0
+      "market_date": "2026-11-27",
+      "latest_close": 4526.5,
+      "previous_close": 4550.1
     },
     {
       "symbol": "TATACAP",
@@ -1223,9 +1223,9 @@
     {
       "symbol": "TATACOMM",
       "company": "Tata Communications Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 1697.2,
-      "previous_close": 1712.4
+      "market_date": "2026-11-27",
+      "latest_close": 1707.3,
+      "previous_close": 1697.2
     },
     {
       "symbol": "TCS",
@@ -1273,22 +1273,22 @@
       "symbol": "TECHM",
       "company": "Tech Mahindra Ltd.",
       "market_date": "2026-11-27",
-      "latest_close": 906.95,
+      "latest_close": 1813.9,
       "previous_close": 927.35
     },
     {
       "symbol": "TITAN",
       "company": "Titan Company Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 4631.1,
-      "previous_close": 4686.6
+      "market_date": "2026-11-27",
+      "latest_close": 4675.3,
+      "previous_close": 4631.1
     },
     {
       "symbol": "TORNTPHARM",
       "company": "Torrent Pharmaceuticals Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 5019.1,
-      "previous_close": 4895.5
+      "market_date": "2026-11-27",
+      "latest_close": 5034.0,
+      "previous_close": 5019.1
     },
     {
       "symbol": "TRENT",
@@ -1328,9 +1328,9 @@
     {
       "symbol": "UNITDSPR",
       "company": "United Spirits Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 1488.5,
-      "previous_close": 1514.3
+      "market_date": "2026-11-27",
+      "latest_close": 1476.2,
+      "previous_close": 1488.5
     },
     {
       "symbol": "VBL",
@@ -1398,9 +1398,9 @@
     {
       "symbol": "ZYDUSLIFE",
       "company": "Zydus Lifesciences Ltd.",
-      "market_date": "2026-11-26",
-      "latest_close": 1194.2,
-      "previous_close": 1236.0
+      "market_date": "2026-11-27",
+      "latest_close": 1156.9,
+      "previous_close": 1194.2
     }
   ]
 }
