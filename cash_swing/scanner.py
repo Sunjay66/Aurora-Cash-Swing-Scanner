@@ -80,6 +80,50 @@ def main():
                 frames[ticker]=one.copy()
         except Exception as exc:
             download_errors[ticker]=str(exc)
+    # Prefer NSE's official final bhavcopy for the latest session. Yahoo can lag
+    # individual symbols (e.g. LTM) even when the overall market date is current.
+    nse_latest=None
+    from datetime import timedelta
+    import zipfile
+    from io import BytesIO
+    for back in range(0,8):
+        day=datetime.now(IST).date()-timedelta(days=back)
+        ymd=day.strftime("%Y%m%d")
+        url=f"https://nsearchives.nseindia.com/content/cm/BhavCopy_NSE_CM_0_0_0_{ymd}_F_0000.csv.zip"
+        try:
+            resp=requests.get(url,headers=HEADERS,timeout=25)
+            if resp.status_code!=200 or not resp.content: continue
+            with zipfile.ZipFile(BytesIO(resp.content)) as zf:
+                csv_name=next((n for n in zf.namelist() if n.lower().endswith(".csv")),None)
+                if not csv_name: continue
+                bh=pd.read_csv(zf.open(csv_name))
+            bh.columns=[str(x).strip() for x in bh.columns]
+            required={"TckrSymb","OpnPric","HghPric","LwPric","ClsPric"}
+            if not required.issubset(set(bh.columns)): continue
+            if "SctySrs" in bh.columns: bh=bh[bh["SctySrs"].astype(str).str.upper()=="EQ"]
+            nse_latest=bh
+            print(f"NSE official bhavcopy loaded: {day.isoformat()}")
+            break
+        except Exception as exc:
+            print(f"NSE bhavcopy attempt {day.isoformat()} failed: {exc}")
+    if nse_latest is not None:
+        nse_latest=nse_latest.drop_duplicates("TckrSymb",keep="last").set_index("TckrSymb")
+        for ticker in tickers:
+            sym=ticker[:-3]
+            if sym not in nse_latest.index or ticker not in frames: continue
+            try:
+                q=nse_latest.loc[sym]
+                bar={"Open":float(q["OpnPric"]),"High":float(q["HghPric"]),
+                     "Low":float(q["LwPric"]),"Close":float(q["ClsPric"])}
+                if "TtlTradgVol" in q.index: bar["Volume"]=float(q["TtlTradgVol"])
+                hist=frames[ticker].copy()
+                hist.columns=[str(x).title() for x in hist.columns]
+                hist.index=pd.to_datetime(hist.index).tz_localize(None)
+                nse_day=pd.Timestamp(day)
+                hist.loc[nse_day,list(bar.keys())]=list(bar.values())
+                frames[ticker]=hist.sort_index()
+            except Exception as exc:
+                print(f"NSE latest-bar merge failed for {sym}: {exc}")
     names=dict(zip(u.Symbol,u.get("Company Name",u.Symbol)))
     fresh=[]; confirm=[]; running=[]; exits=[]; archive=[]; failed=[]; failed_details={}; dates=[]; processed=[]; close_snapshot=[]
     for ticker in tickers:
