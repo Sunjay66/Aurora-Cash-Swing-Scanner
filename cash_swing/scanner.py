@@ -136,7 +136,7 @@ def main():
             f=f[[c for c in ["Open","High","Low","Close","Volume"] if c in f.columns]].dropna(subset=["Open","High","Low","Close"])
             if len(f)<100: raise ValueError(f"Insufficient usable OHLC history: {len(f)} rows")
             d=indicators(f); dates.append(pd.Timestamp(d.index[-1]).strftime("%Y-%m-%d"))
-            close_snapshot.append({"symbol":sym,"company":str(names.get(sym,sym)),"market_date":pd.Timestamp(d.index[-1]).strftime("%Y-%m-%d"),"latest_close":round(float(d.iloc[-1].Close),2),"previous_close":round(float(d.iloc[-2].Close),2) if len(d)>1 else None})
+            close_snapshot.append({"symbol":sym,"company":str(names.get(sym,sym)),"market_date":pd.Timestamp(d.index[-1]).strftime("%Y-%m-%d"),"latest_close":round(float(d.iloc[-1].Close),2),"latest_high":round(float(d.iloc[-1].High),2),"latest_low":round(float(d.iloc[-1].Low),2),"previous_close":round(float(d.iloc[-2].Close),2) if len(d)>1 else None})
             company=str(names.get(sym,sym)); setups=[]
             sigs=np.flatnonzero(d.CROSS_920.fillna(False).to_numpy())
             for ix in sigs:
