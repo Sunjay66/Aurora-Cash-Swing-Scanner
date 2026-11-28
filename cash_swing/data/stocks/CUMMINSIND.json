@@ -118,7 +118,7 @@
       "entry_date": "2026-01-05",
       "entry_price": 4430.93,
       "atr14": 97.13,
-      "initial_stop": 4309.52,
+      "initial_stop": 4309.51,
       "stage2_signal_date": "2026-02-11",
       "stage2_entry_date": "2026-02-12",
       "stage2_entry_price": 4347.94,
@@ -134,7 +134,7 @@
       "hard_stop_date": "2026-01-05",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-05",
-      "exit_price": 4309.52,
+      "exit_price": 4309.51,
       "status": "CLOSED",
       "sessions_held": 221
     },
