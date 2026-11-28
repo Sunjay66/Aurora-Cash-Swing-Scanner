@@ -197,7 +197,7 @@
       "company": "Supreme Industries Ltd.",
       "signal_date": "2025-07-29",
       "entry_date": "2025-07-30",
-      "entry_price": 4279.06,
+      "entry_price": 4279.05,
       "atr14": 122.48,
       "initial_stop": 4125.96,
       "stage2_signal_date": "2026-02-09",
@@ -404,7 +404,7 @@
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-04",
       "exit_date": "2024-03-05",
-      "exit_price": 3940.58,
+      "exit_price": 3940.57,
       "status": "CLOSED",
       "sessions_held": 675
     }

@@ -1,7 +1,7 @@
 {
   "symbol": "BAJAJFINSV",
   "company": "Bajaj Finserv Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "BAJAJFINSV",
@@ -19,16 +19,16 @@
       "weighted_entry": 1884.88,
       "risk_per_share": 54.92,
       "target_2r": 1994.72,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 0.05,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -1.9,
       "target_2r_touched": false,
       "hard_stop_date": null,
-      "ema9_exit_signal_date": null,
+      "ema9_exit_signal_date": "2026-11-27",
       "exit_date": null,
       "exit_price": null,
-      "status": "OPEN",
-      "sessions_held": 13
+      "status": "CLOSED",
+      "sessions_held": 14
     },
     {
       "symbol": "BAJAJFINSV",
@@ -46,16 +46,16 @@
       "weighted_entry": 1854.09,
       "risk_per_share": 47.99,
       "target_2r": 1950.08,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 1.72,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -0.27,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-29",
       "exit_date": "2026-06-30",
       "exit_price": 1760.0,
       "status": "CLOSED",
-      "sessions_held": 108
+      "sessions_held": 109
     },
     {
       "symbol": "BAJAJFINSV",
@@ -73,16 +73,16 @@
       "weighted_entry": 1864.56,
       "risk_per_share": 45.24,
       "target_2r": 1955.04,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 1.14,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -0.83,
       "target_2r_touched": false,
       "hard_stop_date": "2026-06-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-06-01",
       "exit_price": 1759.22,
       "status": "CLOSED",
-      "sessions_held": 125
+      "sessions_held": 126
     },
     {
       "symbol": "BAJAJFINSV",
@@ -100,16 +100,16 @@
       "weighted_entry": 1875.66,
       "risk_per_share": 50.53,
       "target_2r": 1976.71,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 0.55,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -1.42,
       "target_2r_touched": false,
       "hard_stop_date": "2026-05-11",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-05-11",
       "exit_price": 1797.49,
       "status": "CLOSED",
-      "sessions_held": 139
+      "sessions_held": 140
     },
     {
       "symbol": "BAJAJFINSV",
@@ -127,16 +127,16 @@
       "weighted_entry": 1870.36,
       "risk_per_share": 72.42,
       "target_2r": 2015.2,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 0.83,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -1.14,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-23",
       "exit_date": "2026-04-24",
       "exit_price": 1791.17,
       "status": "CLOSED",
-      "sessions_held": 152
+      "sessions_held": 153
     },
     {
       "symbol": "BAJAJFINSV",
@@ -154,16 +154,16 @@
       "weighted_entry": 2042.57,
       "risk_per_share": 60.64,
       "target_2r": 2163.84,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -7.67,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -9.48,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-19",
       "exit_date": "2026-02-20",
       "exit_price": 2031.47,
       "status": "CLOSED",
-      "sessions_held": 195
+      "sessions_held": 196
     },
     {
       "symbol": "BAJAJFINSV",
@@ -181,16 +181,16 @@
       "weighted_entry": 2055.64,
       "risk_per_share": 48.38,
       "target_2r": 2152.4,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -8.26,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -10.05,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-15",
       "exit_date": "2025-12-16",
       "exit_price": 2064.34,
       "status": "CLOSED",
-      "sessions_held": 234
+      "sessions_held": 235
     },
     {
       "symbol": "BAJAJFINSV",
@@ -208,16 +208,16 @@
       "weighted_entry": 2060.82,
       "risk_per_share": 60.13,
       "target_2r": 2181.07,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -8.49,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -10.28,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-02",
       "exit_date": "2025-12-03",
       "exit_price": 2064.14,
       "status": "CLOSED",
-      "sessions_held": 244
+      "sessions_held": 245
     },
     {
       "symbol": "BAJAJFINSV",
@@ -235,16 +235,16 @@
       "weighted_entry": 2055.3,
       "risk_per_share": 47.23,
       "target_2r": 2149.75,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -8.24,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -10.04,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-30",
       "exit_date": "2025-10-31",
       "exit_price": 2113.2,
       "status": "CLOSED",
-      "sessions_held": 274
+      "sessions_held": 275
     },
     {
       "symbol": "BAJAJFINSV",
@@ -262,16 +262,16 @@
       "weighted_entry": 2043.68,
       "risk_per_share": 42.88,
       "target_2r": 2129.44,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -7.72,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -9.53,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-08",
       "exit_date": "2025-10-09",
       "exit_price": 2011.88,
       "status": "CLOSED",
-      "sessions_held": 280
+      "sessions_held": 281
     },
     {
       "symbol": "BAJAJFINSV",
@@ -289,16 +289,16 @@
       "weighted_entry": 2030.3,
       "risk_per_share": 43.59,
       "target_2r": 2117.48,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -7.11,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -8.93,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-25",
       "exit_date": "2025-09-26",
       "exit_price": 2038.26,
       "status": "CLOSED",
-      "sessions_held": 302
+      "sessions_held": 303
     },
     {
       "symbol": "BAJAJFINSV",
@@ -316,16 +316,16 @@
       "weighted_entry": 2030.08,
       "risk_per_share": 49.32,
       "target_2r": 2128.73,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -7.1,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -8.92,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-11",
       "exit_date": "2025-07-14",
       "exit_price": 2008.29,
       "status": "CLOSED",
-      "sessions_held": 342
+      "sessions_held": 343
     },
     {
       "symbol": "BAJAJFINSV",
@@ -343,16 +343,16 @@
       "weighted_entry": 2041.7,
       "risk_per_share": 54.18,
       "target_2r": 2150.06,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -7.63,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -9.44,
       "target_2r_touched": false,
       "hard_stop_date": "2025-06-27",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-06-27",
       "exit_price": 2004.07,
       "status": "CLOSED",
-      "sessions_held": 350
+      "sessions_held": 351
     },
     {
       "symbol": "BAJAJFINSV",
@@ -370,16 +370,16 @@
       "weighted_entry": 2034.04,
       "risk_per_share": 60.31,
       "target_2r": 2154.66,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -7.28,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -9.1,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-17",
       "exit_date": "2025-06-18",
       "exit_price": 1999.32,
       "status": "CLOSED",
-      "sessions_held": 358
+      "sessions_held": 359
     },
     {
       "symbol": "BAJAJFINSV",
@@ -397,16 +397,16 @@
       "weighted_entry": 1992.36,
       "risk_per_share": 66.49,
       "target_2r": 2125.33,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -5.34,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -7.2,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-19",
       "exit_date": "2025-03-20",
       "exit_price": 1839.78,
       "status": "CLOSED",
-      "sessions_held": 418
+      "sessions_held": 419
     },
     {
       "symbol": "BAJAJFINSV",
@@ -424,16 +424,16 @@
       "weighted_entry": 1716.45,
       "risk_per_share": 45.51,
       "target_2r": 1807.48,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 9.87,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 7.72,
       "target_2r_touched": false,
       "hard_stop_date": "2025-01-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-01-08",
       "exit_price": 1667.19,
       "status": "CLOSED",
-      "sessions_held": 468
+      "sessions_held": 469
     },
     {
       "symbol": "BAJAJFINSV",
@@ -451,16 +451,16 @@
       "weighted_entry": 1704.15,
       "risk_per_share": 37.41,
       "target_2r": 1778.98,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 10.67,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 8.5,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-17",
       "exit_date": "2024-12-18",
       "exit_price": 1639.8,
       "status": "CLOSED",
-      "sessions_held": 483
+      "sessions_held": 484
     },
     {
       "symbol": "BAJAJFINSV",
@@ -478,16 +478,16 @@
       "weighted_entry": 1669.26,
       "risk_per_share": 41.26,
       "target_2r": 1751.78,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 12.98,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 10.77,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-03",
       "exit_date": "2024-10-04",
       "exit_price": 1910.74,
       "status": "CLOSED",
-      "sessions_held": 560
+      "sessions_held": 561
     },
     {
       "symbol": "BAJAJFINSV",
@@ -505,16 +505,16 @@
       "weighted_entry": 1636.23,
       "risk_per_share": 54.97,
       "target_2r": 1746.17,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 15.26,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 13.0,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-21",
       "exit_date": "2024-06-24",
       "exit_price": 1567.95,
       "status": "CLOSED",
-      "sessions_held": 605
+      "sessions_held": 606
     },
     {
       "symbol": "BAJAJFINSV",
@@ -532,16 +532,16 @@
       "weighted_entry": 1678.82,
       "risk_per_share": 45.4,
       "target_2r": 1769.62,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 12.33,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 10.14,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-15",
       "exit_date": "2024-04-16",
       "exit_price": 1636.77,
       "status": "CLOSED",
-      "sessions_held": 657
+      "sessions_held": 658
     },
     {
       "symbol": "BAJAJFINSV",
@@ -559,16 +559,16 @@
       "weighted_entry": 1671.45,
       "risk_per_share": 36.32,
       "target_2r": 1744.08,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 12.83,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 10.62,
       "target_2r_touched": false,
       "hard_stop_date": "2024-03-05",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-03-05",
       "exit_price": 1590.47,
       "status": "CLOSED",
-      "sessions_held": 673
+      "sessions_held": 674
     },
     {
       "symbol": "BAJAJFINSV",
@@ -586,16 +586,16 @@
       "weighted_entry": 1689.88,
       "risk_per_share": 39.19,
       "target_2r": 1768.25,
-      "latest_close": 1885.9,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 11.6,
+      "latest_close": 1849.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 9.42,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-01-09",
       "exit_date": "2024-01-10",
       "exit_price": 1681.68,
       "status": "CLOSED",
-      "sessions_held": 713
+      "sessions_held": 714
     }
   ]
 }

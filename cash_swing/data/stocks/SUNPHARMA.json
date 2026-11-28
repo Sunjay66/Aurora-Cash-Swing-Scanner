@@ -1,7 +1,7 @@
 {
   "symbol": "SUNPHARMA",
   "company": "Sun Pharmaceutical Industries Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "SUNPHARMA",
@@ -19,16 +19,16 @@
       "weighted_entry": 1868.24,
       "risk_per_share": 52.32,
       "target_2r": 1972.88,
-      "latest_close": 1915.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 2.54,
+      "latest_close": 1899.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 1.69,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-23",
       "exit_date": "2026-11-25",
       "exit_price": 1884.7,
       "status": "CLOSED",
-      "sessions_held": 13
+      "sessions_held": 14
     },
     {
       "symbol": "SUNPHARMA",
@@ -46,16 +46,16 @@
       "weighted_entry": 1902.79,
       "risk_per_share": 40.98,
       "target_2r": 1984.75,
-      "latest_close": 1915.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 0.68,
+      "latest_close": 1899.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -0.15,
       "target_2r_touched": false,
       "hard_stop_date": "2026-09-01",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-09-01",
       "exit_price": 1922.12,
       "status": "CLOSED",
-      "sessions_held": 58
+      "sessions_held": 59
     },
     {
       "symbol": "SUNPHARMA",
@@ -73,16 +73,16 @@
       "weighted_entry": 1872.61,
       "risk_per_share": 31.76,
       "target_2r": 1936.13,
-      "latest_close": 1915.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 2.3,
+      "latest_close": 1899.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 1.46,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-24",
       "exit_date": "2026-07-27",
       "exit_price": 1948.5,
       "status": "CLOSED",
-      "sessions_held": 108
+      "sessions_held": 109
     },
     {
       "symbol": "SUNPHARMA",
@@ -100,16 +100,16 @@
       "weighted_entry": 1809.12,
       "risk_per_share": 60.61,
       "target_2r": 1930.34,
-      "latest_close": 1915.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 5.89,
+      "latest_close": 1899.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 5.02,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-22",
       "exit_date": "2026-05-25",
       "exit_price": 1835.19,
       "status": "CLOSED",
-      "sessions_held": 143
+      "sessions_held": 144
     },
     {
       "symbol": "SUNPHARMA",
@@ -127,16 +127,16 @@
       "weighted_entry": 1721.84,
       "risk_per_share": 48.5,
       "target_2r": 1818.85,
-      "latest_close": 1915.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 11.26,
+      "latest_close": 1899.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 10.34,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-27",
       "exit_date": "2026-03-02",
       "exit_price": 1707.52,
       "status": "CLOSED",
-      "sessions_held": 195
+      "sessions_held": 196
     },
     {
       "symbol": "SUNPHARMA",
@@ -154,16 +154,16 @@
       "weighted_entry": 1632.02,
       "risk_per_share": 37.1,
       "target_2r": 1706.21,
-      "latest_close": 1915.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 17.38,
+      "latest_close": 1899.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 16.41,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-31",
       "exit_date": "2025-11-03",
       "exit_price": 1672.92,
       "status": "CLOSED",
-      "sessions_held": 282
+      "sessions_held": 283
     },
     {
       "symbol": "SUNPHARMA",
@@ -181,16 +181,16 @@
       "weighted_entry": 1636.59,
       "risk_per_share": 29.36,
       "target_2r": 1695.3,
-      "latest_close": 1915.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 17.05,
+      "latest_close": 1899.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 16.09,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-24",
       "exit_date": "2025-09-25",
       "exit_price": 1613.17,
       "status": "CLOSED",
-      "sessions_held": 292
+      "sessions_held": 293
     },
     {
       "symbol": "SUNPHARMA",
@@ -208,16 +208,16 @@
       "weighted_entry": 1697.39,
       "risk_per_share": 30.72,
       "target_2r": 1758.84,
-      "latest_close": 1915.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 12.86,
+      "latest_close": 1899.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 11.93,
       "target_2r_touched": false,
       "hard_stop_date": "2025-07-22",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-22",
       "exit_price": 1658.84,
       "status": "CLOSED",
-      "sessions_held": 338
+      "sessions_held": 339
     },
     {
       "symbol": "SUNPHARMA",
@@ -235,16 +235,16 @@
       "weighted_entry": 1760.82,
       "risk_per_share": 72.58,
       "target_2r": 1905.97,
-      "latest_close": 1915.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 8.8,
+      "latest_close": 1899.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 7.9,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-07",
       "exit_date": "2025-05-08",
       "exit_price": 1759.39,
       "status": "CLOSED",
-      "sessions_held": 398
+      "sessions_held": 399
     },
     {
       "symbol": "SUNPHARMA",
@@ -262,16 +262,16 @@
       "weighted_entry": 1757.56,
       "risk_per_share": 45.63,
       "target_2r": 1848.81,
-      "latest_close": 1915.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 9.0,
+      "latest_close": 1899.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 8.1,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-27",
       "exit_date": "2025-03-28",
       "exit_price": 1710.15,
       "status": "CLOSED",
-      "sessions_held": 417
+      "sessions_held": 418
     },
     {
       "symbol": "SUNPHARMA",
@@ -289,16 +289,16 @@
       "weighted_entry": 1818.94,
       "risk_per_share": 47.97,
       "target_2r": 1914.89,
-      "latest_close": 1915.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 5.32,
+      "latest_close": 1899.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 4.45,
       "target_2r_touched": false,
       "hard_stop_date": "2024-12-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-12-13",
       "exit_price": 1743.09,
       "status": "CLOSED",
-      "sessions_held": 485
+      "sessions_held": 486
     },
     {
       "symbol": "SUNPHARMA",
@@ -316,16 +316,16 @@
       "weighted_entry": 1499.82,
       "risk_per_share": 31.5,
       "target_2r": 1562.83,
-      "latest_close": 1915.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 27.73,
+      "latest_close": 1899.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 26.67,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-07-19",
       "exit_date": "2024-07-22",
       "exit_price": 1526.72,
       "status": "CLOSED",
-      "sessions_held": 599
+      "sessions_held": 600
     },
     {
       "symbol": "SUNPHARMA",
@@ -340,19 +340,19 @@
       "stage2_entry_price": 1502.27,
       "quantity_stage1": 33,
       "quantity_stage2": 99,
-      "weighted_entry": 1497.09,
+      "weighted_entry": 1497.1,
       "risk_per_share": 45.9,
       "target_2r": 1588.89,
-      "latest_close": 1915.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 27.96,
+      "latest_close": 1899.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 26.91,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-19",
       "exit_date": "2024-06-20",
       "exit_price": 1456.22,
       "status": "CLOSED",
-      "sessions_held": 607
+      "sessions_held": 608
     },
     {
       "symbol": "SUNPHARMA",
@@ -370,16 +370,16 @@
       "weighted_entry": 1496.15,
       "risk_per_share": 39.64,
       "target_2r": 1575.43,
-      "latest_close": 1915.7,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 28.04,
+      "latest_close": 1899.9,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 26.99,
       "target_2r_touched": false,
       "hard_stop_date": "2024-05-23",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-05-23",
       "exit_price": 1438.16,
       "status": "CLOSED",
-      "sessions_held": 623
+      "sessions_held": 624
     }
   ]
 }

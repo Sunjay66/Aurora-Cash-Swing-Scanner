@@ -1,7 +1,7 @@
 {
   "symbol": "TIINDIA",
   "company": "Tube Investments of India Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "TIINDIA",
@@ -19,16 +19,16 @@
       "weighted_entry": 2240.0,
       "risk_per_share": 111.35,
       "target_2r": 2462.7,
-      "latest_close": 2212.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -1.24,
+      "latest_close": 2243.2,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 0.14,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-20",
       "exit_date": "2026-11-23",
       "exit_price": 2250.0,
       "status": "CLOSED",
-      "sessions_held": 4
+      "sessions_held": 5
     },
     {
       "symbol": "TIINDIA",
@@ -46,16 +46,16 @@
       "weighted_entry": 2302.0,
       "risk_per_share": 117.03,
       "target_2r": 2536.05,
-      "latest_close": 2212.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -3.9,
+      "latest_close": 2243.2,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -2.55,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-16",
       "exit_date": "2026-11-17",
       "exit_price": 2220.0,
       "status": "CLOSED",
-      "sessions_held": 9
+      "sessions_held": 10
     },
     {
       "symbol": "TIINDIA",
@@ -73,16 +73,16 @@
       "weighted_entry": 2949.4,
       "risk_per_share": 115.68,
       "target_2r": 3180.75,
-      "latest_close": 2212.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -24.99,
+      "latest_close": 2243.2,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -23.94,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-26",
       "exit_date": "2026-08-27",
       "exit_price": 2853.3,
       "status": "CLOSED",
-      "sessions_held": 66
+      "sessions_held": 67
     },
     {
       "symbol": "TIINDIA",
@@ -100,16 +100,16 @@
       "weighted_entry": 2703.3,
       "risk_per_share": 133.11,
       "target_2r": 2969.51,
-      "latest_close": 2212.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -18.17,
+      "latest_close": 2243.2,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -17.02,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-04",
       "exit_date": "2026-05-05",
       "exit_price": 2915.51,
       "status": "CLOSED",
-      "sessions_held": 159
+      "sessions_held": 160
     },
     {
       "symbol": "TIINDIA",
@@ -127,16 +127,16 @@
       "weighted_entry": 2719.37,
       "risk_per_share": 131.21,
       "target_2r": 2981.8,
-      "latest_close": 2212.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -18.65,
+      "latest_close": 2243.2,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -17.51,
       "target_2r_touched": false,
       "hard_stop_date": "2026-03-30",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-03-30",
       "exit_price": 2498.64,
       "status": "CLOSED",
-      "sessions_held": 164
+      "sessions_held": 165
     },
     {
       "symbol": "TIINDIA",
@@ -154,16 +154,16 @@
       "weighted_entry": 2709.98,
       "risk_per_share": 143.52,
       "target_2r": 2997.01,
-      "latest_close": 2212.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -18.37,
+      "latest_close": 2243.2,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -17.22,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-09",
       "exit_date": "2026-03-10",
       "exit_price": 2633.56,
       "status": "CLOSED",
-      "sessions_held": 193
+      "sessions_held": 194
     },
     {
       "symbol": "TIINDIA",
@@ -181,16 +181,16 @@
       "weighted_entry": 3031.29,
       "risk_per_share": 118.26,
       "target_2r": 3267.81,
-      "latest_close": 2212.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -27.02,
+      "latest_close": 2243.2,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -26.0,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-08-25",
       "exit_date": "2025-08-26",
       "exit_price": 3048.75,
       "status": "CLOSED",
-      "sessions_held": 318
+      "sessions_held": 319
     },
     {
       "symbol": "TIINDIA",
@@ -208,16 +208,16 @@
       "weighted_entry": 3060.39,
       "risk_per_share": 115.58,
       "target_2r": 3291.56,
-      "latest_close": 2212.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -27.72,
+      "latest_close": 2243.2,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -26.7,
       "target_2r_touched": false,
       "hard_stop_date": "2025-07-02",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-02",
       "exit_price": 2983.51,
       "status": "CLOSED",
-      "sessions_held": 348
+      "sessions_held": 349
     },
     {
       "symbol": "TIINDIA",
@@ -235,16 +235,16 @@
       "weighted_entry": 2898.23,
       "risk_per_share": 124.96,
       "target_2r": 3148.15,
-      "latest_close": 2212.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -23.67,
+      "latest_close": 2243.2,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -22.6,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-15",
       "exit_date": "2025-05-16",
       "exit_price": 2906.46,
       "status": "CLOSED",
-      "sessions_held": 390
+      "sessions_held": 391
     },
     {
       "symbol": "TIINDIA",
@@ -262,16 +262,16 @@
       "weighted_entry": 2902.72,
       "risk_per_share": 146.68,
       "target_2r": 3196.07,
-      "latest_close": 2212.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -23.79,
+      "latest_close": 2243.2,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -22.72,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-03-25",
       "exit_date": "2025-03-26",
       "exit_price": 2762.74,
       "status": "CLOSED",
-      "sessions_held": 419
+      "sessions_held": 420
     },
     {
       "symbol": "TIINDIA",
@@ -289,16 +289,16 @@
       "weighted_entry": 3084.23,
       "risk_per_share": 133.51,
       "target_2r": 3351.25,
-      "latest_close": 2212.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -28.27,
+      "latest_close": 2243.2,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -27.27,
       "target_2r_touched": false,
       "hard_stop_date": "2024-12-20",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-12-20",
       "exit_price": 3648.13,
       "status": "CLOSED",
-      "sessions_held": 478
+      "sessions_held": 479
     },
     {
       "symbol": "TIINDIA",
@@ -316,16 +316,16 @@
       "weighted_entry": 3169.8,
       "risk_per_share": 177.59,
       "target_2r": 3524.98,
-      "latest_close": 2212.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -30.21,
+      "latest_close": 2243.2,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -29.23,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-26",
       "exit_date": "2024-09-27",
       "exit_price": 4114.08,
       "status": "CLOSED",
-      "sessions_held": 539
+      "sessions_held": 540
     },
     {
       "symbol": "TIINDIA",
@@ -343,16 +343,16 @@
       "weighted_entry": 4163.29,
       "risk_per_share": 144.62,
       "target_2r": 4452.53,
-      "latest_close": 2212.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -46.86,
+      "latest_close": 2243.2,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -46.12,
       "target_2r_touched": false,
       "hard_stop_date": "2024-08-29",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-08-29",
       "exit_price": 3983.73,
       "status": "CLOSED",
-      "sessions_held": 558
+      "sessions_held": 559
     },
     {
       "symbol": "TIINDIA",
@@ -370,16 +370,16 @@
       "weighted_entry": 4099.4,
       "risk_per_share": 209.16,
       "target_2r": 4517.72,
-      "latest_close": 2212.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -46.04,
+      "latest_close": 2243.2,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -45.28,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-21",
       "exit_date": "2024-06-24",
       "exit_price": 3978.28,
       "status": "CLOSED",
-      "sessions_held": 612
+      "sessions_held": 613
     },
     {
       "symbol": "TIINDIA",
@@ -397,16 +397,16 @@
       "weighted_entry": 3772.59,
       "risk_per_share": 104.48,
       "target_2r": 3981.54,
-      "latest_close": 2212.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -41.36,
+      "latest_close": 2243.2,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -40.54,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-14",
       "exit_date": "2024-05-15",
       "exit_price": 3732.06,
       "status": "CLOSED",
-      "sessions_held": 638
+      "sessions_held": 639
     },
     {
       "symbol": "TIINDIA",
@@ -424,16 +424,16 @@
       "weighted_entry": 3791.22,
       "risk_per_share": 149.11,
       "target_2r": 4089.43,
-      "latest_close": 2212.2,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -41.65,
+      "latest_close": 2243.2,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -40.83,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-03",
       "exit_date": "2024-04-04",
       "exit_price": 3697.51,
       "status": "CLOSED",
-      "sessions_held": 660
+      "sessions_held": 661
     }
   ]
 }

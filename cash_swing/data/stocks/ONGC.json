@@ -1,7 +1,7 @@
 {
   "symbol": "ONGC",
   "company": "Oil & Natural Gas Corporation Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "ONGC",
@@ -19,16 +19,16 @@
       "weighted_entry": 225.7,
       "risk_per_share": 5.08,
       "target_2r": 235.86,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -1.25,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -0.62,
       "target_2r_touched": false,
       "hard_stop_date": "2026-11-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-11-06",
       "exit_price": 220.62,
       "status": "CLOSED",
-      "sessions_held": 16
+      "sessions_held": 17
     },
     {
       "symbol": "ONGC",
@@ -46,16 +46,16 @@
       "weighted_entry": 229.89,
       "risk_per_share": 5.23,
       "target_2r": 240.36,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -3.05,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -2.43,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-25",
       "exit_date": "2026-09-28",
       "exit_price": 227.81,
       "status": "CLOSED",
-      "sessions_held": 41
+      "sessions_held": 42
     },
     {
       "symbol": "ONGC",
@@ -73,16 +73,16 @@
       "weighted_entry": 241.42,
       "risk_per_share": 5.15,
       "target_2r": 251.72,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -7.68,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -7.09,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-24",
       "exit_date": "2026-07-27",
       "exit_price": 238.54,
       "status": "CLOSED",
-      "sessions_held": 87
+      "sessions_held": 88
     },
     {
       "symbol": "ONGC",
@@ -100,16 +100,16 @@
       "weighted_entry": 285.67,
       "risk_per_share": 9.57,
       "target_2r": 304.81,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -21.98,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -21.48,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-22",
       "exit_date": "2026-05-25",
       "exit_price": 278.88,
       "status": "CLOSED",
-      "sessions_held": 135
+      "sessions_held": 136
     },
     {
       "symbol": "ONGC",
@@ -127,16 +127,16 @@
       "weighted_entry": 271.96,
       "risk_per_share": 9.8,
       "target_2r": 291.56,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -18.05,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -17.52,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-16",
       "exit_date": "2026-04-17",
       "exit_price": 272.58,
       "status": "CLOSED",
-      "sessions_held": 163
+      "sessions_held": 164
     },
     {
       "symbol": "ONGC",
@@ -154,16 +154,16 @@
       "weighted_entry": 231.33,
       "risk_per_share": 6.26,
       "target_2r": 243.85,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -3.65,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -3.03,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-20",
       "exit_date": "2026-01-21",
       "exit_price": 225.53,
       "status": "CLOSED",
-      "sessions_held": 213
+      "sessions_held": 214
     },
     {
       "symbol": "ONGC",
@@ -181,16 +181,16 @@
       "weighted_entry": 230.41,
       "risk_per_share": 4.95,
       "target_2r": 240.32,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -3.27,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -2.65,
       "target_2r_touched": false,
       "hard_stop_date": "2026-01-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-08",
       "exit_price": 220.78,
       "status": "CLOSED",
-      "sessions_held": 218
+      "sessions_held": 219
     },
     {
       "symbol": "ONGC",
@@ -208,16 +208,16 @@
       "weighted_entry": 221.07,
       "risk_per_share": 3.73,
       "target_2r": 228.52,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 0.82,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 1.47,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-08",
       "exit_date": "2025-10-09",
       "exit_price": 221.83,
       "status": "CLOSED",
-      "sessions_held": 291
+      "sessions_held": 292
     },
     {
       "symbol": "ONGC",
@@ -235,16 +235,16 @@
       "weighted_entry": 223.09,
       "risk_per_share": 3.37,
       "target_2r": 229.83,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -0.1,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 0.54,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-24",
       "exit_date": "2025-07-25",
       "exit_price": 222.64,
       "status": "CLOSED",
-      "sessions_held": 332
+      "sessions_held": 333
     },
     {
       "symbol": "ONGC",
@@ -262,16 +262,16 @@
       "weighted_entry": 224.31,
       "risk_per_share": 4.44,
       "target_2r": 233.19,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -0.64,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -0.0,
       "target_2r_touched": true,
       "hard_stop_date": "2025-06-24",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-06-24",
       "exit_price": 225.04,
       "status": "CLOSED",
-      "sessions_held": 361
+      "sessions_held": 362
     },
     {
       "symbol": "ONGC",
@@ -289,16 +289,16 @@
       "weighted_entry": 222.86,
       "risk_per_share": 7.82,
       "target_2r": 238.49,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 0.01,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 0.65,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-22",
       "exit_date": "2025-05-23",
       "exit_price": 221.27,
       "status": "CLOSED",
-      "sessions_held": 381
+      "sessions_held": 382
     },
     {
       "symbol": "ONGC",
@@ -316,16 +316,16 @@
       "weighted_entry": 226.05,
       "risk_per_share": 10.07,
       "target_2r": 246.19,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -1.4,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -0.77,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-29",
       "exit_date": "2025-04-30",
       "exit_price": 224.01,
       "status": "CLOSED",
-      "sessions_held": 398
+      "sessions_held": 399
     },
     {
       "symbol": "ONGC",
@@ -343,16 +343,16 @@
       "weighted_entry": 226.05,
       "risk_per_share": 7.57,
       "target_2r": 241.19,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -1.4,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -0.77,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-04",
       "exit_price": 215.08,
       "status": "CLOSED",
-      "sessions_held": 413
+      "sessions_held": 414
     },
     {
       "symbol": "ONGC",
@@ -370,16 +370,16 @@
       "weighted_entry": 228.43,
       "risk_per_share": 7.04,
       "target_2r": 242.5,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -2.43,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -1.8,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-01",
       "exit_date": "2025-02-03",
       "exit_price": 228.67,
       "status": "CLOSED",
-      "sessions_held": 448
+      "sessions_held": 449
     },
     {
       "symbol": "ONGC",
@@ -397,16 +397,16 @@
       "weighted_entry": 236.05,
       "risk_per_share": 8.01,
       "target_2r": 252.08,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -5.58,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -4.97,
       "target_2r_touched": false,
       "hard_stop_date": "2025-01-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-01-13",
       "exit_price": 230.36,
       "status": "CLOSED",
-      "sessions_held": 466
+      "sessions_held": 467
     },
     {
       "symbol": "ONGC",
@@ -424,16 +424,16 @@
       "weighted_entry": 234.77,
       "risk_per_share": 7.65,
       "target_2r": 250.08,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -5.07,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -4.46,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-10",
       "exit_date": "2024-12-11",
       "exit_price": 230.37,
       "status": "CLOSED",
-      "sessions_held": 489
+      "sessions_held": 490
     },
     {
       "symbol": "ONGC",
@@ -451,16 +451,16 @@
       "weighted_entry": 236.03,
       "risk_per_share": 6.63,
       "target_2r": 249.3,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -5.57,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -4.97,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-05",
       "exit_date": "2024-08-06",
       "exit_price": 272.77,
       "status": "CLOSED",
-      "sessions_held": 597
+      "sessions_held": 598
     },
     {
       "symbol": "ONGC",
@@ -478,16 +478,16 @@
       "weighted_entry": 236.89,
       "risk_per_share": 14.45,
       "target_2r": 265.79,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -5.91,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -5.31,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-21",
       "exit_date": "2024-06-24",
       "exit_price": 233.65,
       "status": "CLOSED",
-      "sessions_held": 606
+      "sessions_held": 607
     },
     {
       "symbol": "ONGC",
@@ -505,16 +505,16 @@
       "weighted_entry": 237.9,
       "risk_per_share": 9.12,
       "target_2r": 256.14,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -6.31,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -5.71,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-27",
       "exit_date": "2024-05-28",
       "exit_price": 242.01,
       "status": "CLOSED",
-      "sessions_held": 624
+      "sessions_held": 625
     },
     {
       "symbol": "ONGC",
@@ -532,16 +532,16 @@
       "weighted_entry": 234.98,
       "risk_per_share": 9.63,
       "target_2r": 254.23,
-      "latest_close": 222.88,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -5.15,
+      "latest_close": 224.31,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -4.54,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-05",
       "exit_date": "2024-04-08",
       "exit_price": 231.83,
       "status": "CLOSED",
-      "sessions_held": 656
+      "sessions_held": 657
     }
   ]
 }

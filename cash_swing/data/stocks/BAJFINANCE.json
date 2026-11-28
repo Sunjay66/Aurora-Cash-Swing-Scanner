@@ -1,7 +1,7 @@
 {
   "symbol": "BAJFINANCE",
   "company": "Bajaj Finance Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "BAJFINANCE",
@@ -19,16 +19,16 @@
       "weighted_entry": 1085.62,
       "risk_per_share": 39.3,
       "target_2r": 1164.22,
-      "latest_close": 1097.85,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 1.13,
+      "latest_close": 1080.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -0.52,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-26",
-      "exit_date": null,
-      "exit_price": null,
+      "exit_date": "2026-11-27",
+      "exit_price": 1097.85,
       "status": "CLOSED",
-      "sessions_held": 13
+      "sessions_held": 14
     },
     {
       "symbol": "BAJFINANCE",
@@ -46,16 +46,16 @@
       "weighted_entry": 957.43,
       "risk_per_share": 32.75,
       "target_2r": 1022.93,
-      "latest_close": 1097.85,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 14.67,
+      "latest_close": 1080.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 12.8,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-09",
       "exit_date": "2026-07-10",
       "exit_price": 1010.1,
       "status": "CLOSED",
-      "sessions_held": 111
+      "sessions_held": 112
     },
     {
       "symbol": "BAJFINANCE",
@@ -73,16 +73,16 @@
       "weighted_entry": 916.51,
       "risk_per_share": 28.6,
       "target_2r": 973.71,
-      "latest_close": 1097.85,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 19.79,
+      "latest_close": 1080.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 17.84,
       "target_2r_touched": false,
       "hard_stop_date": "2026-05-29",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-05-29",
       "exit_price": 909.51,
       "status": "CLOSED",
-      "sessions_held": 126
+      "sessions_held": 127
     },
     {
       "symbol": "BAJFINANCE",
@@ -100,16 +100,16 @@
       "weighted_entry": 968.91,
       "risk_per_share": 47.04,
       "target_2r": 1062.99,
-      "latest_close": 1097.85,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 13.31,
+      "latest_close": 1080.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 11.47,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-11",
       "exit_date": "2026-05-12",
       "exit_price": 922.33,
       "status": "CLOSED",
-      "sessions_held": 154
+      "sessions_held": 155
     },
     {
       "symbol": "BAJFINANCE",
@@ -127,16 +127,16 @@
       "weighted_entry": 1008.66,
       "risk_per_share": 34.8,
       "target_2r": 1078.26,
-      "latest_close": 1097.85,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 8.84,
+      "latest_close": 1080.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 7.07,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-26",
       "exit_date": "2026-02-27",
       "exit_price": 1002.79,
       "status": "CLOSED",
-      "sessions_held": 196
+      "sessions_held": 197
     },
     {
       "symbol": "BAJFINANCE",
@@ -154,16 +154,16 @@
       "weighted_entry": 1023.62,
       "risk_per_share": 26.44,
       "target_2r": 1076.49,
-      "latest_close": 1097.85,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 7.25,
+      "latest_close": 1080.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 5.51,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-08",
       "exit_date": "2025-12-09",
       "exit_price": 1018.74,
       "status": "CLOSED",
-      "sessions_held": 239
+      "sessions_held": 240
     },
     {
       "symbol": "BAJFINANCE",
@@ -181,16 +181,16 @@
       "weighted_entry": 942.98,
       "risk_per_share": 27.44,
       "target_2r": 997.86,
-      "latest_close": 1097.85,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 16.42,
+      "latest_close": 1080.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 14.53,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-26",
       "exit_date": "2025-09-29",
       "exit_price": 983.95,
       "status": "CLOSED",
-      "sessions_held": 302
+      "sessions_held": 303
     },
     {
       "symbol": "BAJFINANCE",
@@ -208,16 +208,16 @@
       "weighted_entry": 942.21,
       "risk_per_share": 21.26,
       "target_2r": 984.72,
-      "latest_close": 1097.85,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 16.52,
+      "latest_close": 1080.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 14.62,
       "target_2r_touched": false,
       "hard_stop_date": "2025-07-25",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-25",
       "exit_price": 900.86,
       "status": "CLOSED",
-      "sessions_held": 334
+      "sessions_held": 335
     },
     {
       "symbol": "BAJFINANCE",
@@ -235,16 +235,16 @@
       "weighted_entry": 939.91,
       "risk_per_share": 32.21,
       "target_2r": 1004.33,
-      "latest_close": 1097.85,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 16.8,
+      "latest_close": 1080.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 14.9,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-02",
       "exit_date": "2025-07-03",
       "exit_price": 916.37,
       "status": "CLOSED",
-      "sessions_held": 351
+      "sessions_held": 352
     },
     {
       "symbol": "BAJFINANCE",
@@ -262,16 +262,16 @@
       "weighted_entry": 932.18,
       "risk_per_share": 34.22,
       "target_2r": 1000.62,
-      "latest_close": 1097.85,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 17.77,
+      "latest_close": 1080.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 15.86,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-02",
       "exit_date": "2025-06-03",
       "exit_price": 905.04,
       "status": "CLOSED",
-      "sessions_held": 382
+      "sessions_held": 383
     },
     {
       "symbol": "BAJFINANCE",
@@ -289,16 +289,16 @@
       "weighted_entry": 719.44,
       "risk_per_share": 16.8,
       "target_2r": 753.05,
-      "latest_close": 1097.85,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 52.6,
+      "latest_close": 1080.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 50.12,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-13",
       "exit_date": "2025-01-14",
       "exit_price": 714.18,
       "status": "CLOSED",
-      "sessions_held": 470
+      "sessions_held": 471
     },
     {
       "symbol": "BAJFINANCE",
@@ -316,16 +316,16 @@
       "weighted_entry": 684.9,
       "risk_per_share": 18.64,
       "target_2r": 722.18,
-      "latest_close": 1097.85,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 60.29,
+      "latest_close": 1080.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 57.69,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-19",
       "exit_date": "2024-12-20",
       "exit_price": 682.9,
       "status": "CLOSED",
-      "sessions_held": 486
+      "sessions_held": 487
     },
     {
       "symbol": "BAJFINANCE",
@@ -343,16 +343,16 @@
       "weighted_entry": 721.64,
       "risk_per_share": 12.81,
       "target_2r": 747.26,
-      "latest_close": 1097.85,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 52.13,
+      "latest_close": 1080.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 49.66,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-03",
       "exit_date": "2024-10-04",
       "exit_price": 732.94,
       "status": "CLOSED",
-      "sessions_held": 557
+      "sessions_held": 558
     },
     {
       "symbol": "BAJFINANCE",
@@ -370,16 +370,16 @@
       "weighted_entry": 705.03,
       "risk_per_share": 24.98,
       "target_2r": 754.99,
-      "latest_close": 1097.85,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 55.72,
+      "latest_close": 1080.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 53.19,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-21",
       "exit_date": "2024-06-24",
       "exit_price": 698.96,
       "status": "CLOSED",
-      "sessions_held": 611
+      "sessions_held": 612
     },
     {
       "symbol": "BAJFINANCE",
@@ -397,16 +397,16 @@
       "weighted_entry": 706.48,
       "risk_per_share": 19.33,
       "target_2r": 745.13,
-      "latest_close": 1097.85,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 55.4,
+      "latest_close": 1080.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 52.87,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-15",
       "exit_date": "2024-04-16",
       "exit_price": 688.98,
       "status": "CLOSED",
-      "sessions_held": 660
+      "sessions_held": 661
     },
     {
       "symbol": "BAJFINANCE",
@@ -424,16 +424,16 @@
       "weighted_entry": 724.34,
       "risk_per_share": 18.28,
       "target_2r": 760.9,
-      "latest_close": 1097.85,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 51.57,
+      "latest_close": 1080.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 49.1,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-01-15",
       "exit_date": "2024-01-16",
       "exit_price": 734.69,
       "status": "CLOSED",
-      "sessions_held": 715
+      "sessions_held": 716
     },
     {
       "symbol": "BAJFINANCE",
@@ -451,16 +451,16 @@
       "weighted_entry": 721.71,
       "risk_per_share": 17.65,
       "target_2r": 757.01,
-      "latest_close": 1097.85,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 52.12,
+      "latest_close": 1080.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 49.64,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-01-01",
       "exit_date": "2024-01-02",
       "exit_price": 719.85,
       "status": "CLOSED",
-      "sessions_held": 717
+      "sessions_held": 718
     }
   ]
 }

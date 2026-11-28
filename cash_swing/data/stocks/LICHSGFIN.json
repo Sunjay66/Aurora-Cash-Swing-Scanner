@@ -1,7 +1,7 @@
 {
   "symbol": "LICHSGFIN",
   "company": "LIC Housing Finance Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "LICHSGFIN",
@@ -19,16 +19,16 @@
       "weighted_entry": 571.49,
       "risk_per_share": 19.69,
       "target_2r": 610.87,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 4.33,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 4.05,
       "target_2r_touched": true,
       "hard_stop_date": null,
-      "ema9_exit_signal_date": null,
+      "ema9_exit_signal_date": "2026-11-27",
       "exit_date": null,
       "exit_price": null,
-      "status": "TWO_R",
-      "sessions_held": 11
+      "status": "CLOSED",
+      "sessions_held": 12
     },
     {
       "symbol": "LICHSGFIN",
@@ -46,16 +46,16 @@
       "weighted_entry": 573.35,
       "risk_per_share": 22.92,
       "target_2r": 619.18,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 3.99,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 3.72,
       "target_2r_touched": false,
       "hard_stop_date": "2026-10-14",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-10-14",
       "exit_price": 539.08,
       "status": "CLOSED",
-      "sessions_held": 29
+      "sessions_held": 30
     },
     {
       "symbol": "LICHSGFIN",
@@ -73,16 +73,16 @@
       "weighted_entry": 556.12,
       "risk_per_share": 12.81,
       "target_2r": 581.73,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 7.22,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 6.93,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-15",
       "exit_date": "2026-09-16",
       "exit_price": 541.8,
       "status": "CLOSED",
-      "sessions_held": 60
+      "sessions_held": 61
     },
     {
       "symbol": "LICHSGFIN",
@@ -100,16 +100,16 @@
       "weighted_entry": 557.98,
       "risk_per_share": 14.24,
       "target_2r": 586.47,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 6.86,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 6.57,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-21",
       "exit_date": "2026-07-22",
       "exit_price": 537.8,
       "status": "CLOSED",
-      "sessions_held": 88
+      "sessions_held": 89
     },
     {
       "symbol": "LICHSGFIN",
@@ -127,16 +127,16 @@
       "weighted_entry": 557.87,
       "risk_per_share": 15.56,
       "target_2r": 589.0,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 6.88,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 6.59,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-02",
       "exit_date": "2026-07-03",
       "exit_price": 544.86,
       "status": "CLOSED",
-      "sessions_held": 105
+      "sessions_held": 106
     },
     {
       "symbol": "LICHSGFIN",
@@ -154,16 +154,16 @@
       "weighted_entry": 557.68,
       "risk_per_share": 19.11,
       "target_2r": 595.91,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 6.92,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 6.63,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-22",
       "exit_date": "2026-06-23",
       "exit_price": 538.19,
       "status": "CLOSED",
-      "sessions_held": 112
+      "sessions_held": 113
     },
     {
       "symbol": "LICHSGFIN",
@@ -181,16 +181,16 @@
       "weighted_entry": 523.38,
       "risk_per_share": 20.94,
       "target_2r": 565.25,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 13.92,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 13.62,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-24",
       "exit_date": "2026-04-27",
       "exit_price": 533.29,
       "status": "CLOSED",
-      "sessions_held": 159
+      "sessions_held": 160
     },
     {
       "symbol": "LICHSGFIN",
@@ -208,16 +208,16 @@
       "weighted_entry": 525.43,
       "risk_per_share": 12.42,
       "target_2r": 550.26,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 13.48,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 13.17,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-02",
       "exit_date": "2026-03-04",
       "exit_price": 509.76,
       "status": "CLOSED",
-      "sessions_held": 185
+      "sessions_held": 186
     },
     {
       "symbol": "LICHSGFIN",
@@ -235,16 +235,16 @@
       "weighted_entry": 574.28,
       "risk_per_share": 11.92,
       "target_2r": 598.11,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 3.83,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 3.55,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-30",
       "exit_date": "2025-10-31",
       "exit_price": 561.67,
       "status": "CLOSED",
-      "sessions_held": 270
+      "sessions_held": 271
     },
     {
       "symbol": "LICHSGFIN",
@@ -262,16 +262,16 @@
       "weighted_entry": 573.01,
       "risk_per_share": 10.64,
       "target_2r": 594.29,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 4.06,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 3.78,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-25",
       "exit_date": "2025-09-26",
       "exit_price": 560.74,
       "status": "CLOSED",
-      "sessions_held": 294
+      "sessions_held": 295
     },
     {
       "symbol": "LICHSGFIN",
@@ -289,16 +289,16 @@
       "weighted_entry": 583.43,
       "risk_per_share": 18.39,
       "target_2r": 620.21,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 2.2,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 1.92,
       "target_2r_touched": false,
       "hard_stop_date": "2025-07-02",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-02",
       "exit_price": 584.66,
       "status": "CLOSED",
-      "sessions_held": 350
+      "sessions_held": 351
     },
     {
       "symbol": "LICHSGFIN",
@@ -316,16 +316,16 @@
       "weighted_entry": 560.32,
       "risk_per_share": 20.79,
       "target_2r": 601.91,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 6.41,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 6.13,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-04",
       "exit_date": "2025-04-07",
       "exit_price": 514.43,
       "status": "CLOSED",
-      "sessions_held": 415
+      "sessions_held": 416
     },
     {
       "symbol": "LICHSGFIN",
@@ -343,16 +343,16 @@
       "weighted_entry": 570.51,
       "risk_per_share": 21.55,
       "target_2r": 613.62,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 4.51,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 4.23,
       "target_2r_touched": false,
       "hard_stop_date": "2025-02-03",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-02-03",
       "exit_price": 555.5,
       "status": "CLOSED",
-      "sessions_held": 448
+      "sessions_held": 449
     },
     {
       "symbol": "LICHSGFIN",
@@ -370,16 +370,16 @@
       "weighted_entry": 579.27,
       "risk_per_share": 17.7,
       "target_2r": 614.67,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 2.93,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 2.66,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-09",
       "exit_date": "2024-12-10",
       "exit_price": 608.84,
       "status": "CLOSED",
-      "sessions_held": 493
+      "sessions_held": 494
     },
     {
       "symbol": "LICHSGFIN",
@@ -397,16 +397,16 @@
       "weighted_entry": 578.14,
       "risk_per_share": 27.06,
       "target_2r": 632.25,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 3.13,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 2.86,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-11-11",
       "exit_date": "2024-11-12",
       "exit_price": 604.99,
       "status": "CLOSED",
-      "sessions_held": 507
+      "sessions_held": 508
     },
     {
       "symbol": "LICHSGFIN",
@@ -424,16 +424,16 @@
       "weighted_entry": 592.84,
       "risk_per_share": 19.32,
       "target_2r": 631.49,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 0.57,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 0.3,
       "target_2r_touched": true,
       "hard_stop_date": "2024-09-09",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-09-09",
       "exit_price": 661.67,
       "status": "CLOSED",
-      "sessions_held": 550
+      "sessions_held": 551
     },
     {
       "symbol": "LICHSGFIN",
@@ -451,16 +451,16 @@
       "weighted_entry": 588.55,
       "risk_per_share": 35.52,
       "target_2r": 659.59,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 1.31,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 1.04,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-07-08",
       "exit_date": "2024-07-09",
       "exit_price": 746.26,
       "status": "CLOSED",
-      "sessions_held": 610
+      "sessions_held": 611
     },
     {
       "symbol": "LICHSGFIN",
@@ -478,16 +478,16 @@
       "weighted_entry": 584.97,
       "risk_per_share": 23.77,
       "target_2r": 632.51,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 1.93,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 1.65,
       "target_2r_touched": false,
       "hard_stop_date": "2024-06-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-06-04",
       "exit_price": 617.87,
       "status": "CLOSED",
-      "sessions_held": 615
+      "sessions_held": 616
     },
     {
       "symbol": "LICHSGFIN",
@@ -505,16 +505,16 @@
       "weighted_entry": 581.25,
       "risk_per_share": 27.9,
       "target_2r": 637.05,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 2.58,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 2.31,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-27",
       "exit_date": "2024-05-28",
       "exit_price": 608.51,
       "status": "CLOSED",
-      "sessions_held": 624
+      "sessions_held": 625
     },
     {
       "symbol": "LICHSGFIN",
@@ -532,16 +532,16 @@
       "weighted_entry": 579.2,
       "risk_per_share": 20.77,
       "target_2r": 620.73,
-      "latest_close": 596.25,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 2.94,
+      "latest_close": 594.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 2.67,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-15",
       "exit_date": "2024-04-16",
       "exit_price": 603.66,
       "status": "CLOSED",
-      "sessions_held": 654
+      "sessions_held": 655
     }
   ]
 }

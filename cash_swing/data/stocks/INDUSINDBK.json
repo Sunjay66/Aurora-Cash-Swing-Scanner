@@ -1,7 +1,7 @@
 {
   "symbol": "INDUSINDBK",
   "company": "IndusInd Bank Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "INDUSINDBK",
@@ -19,16 +19,16 @@
       "weighted_entry": 952.96,
       "risk_per_share": 34.33,
       "target_2r": 1021.61,
-      "latest_close": 966.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 1.38,
+      "latest_close": 958.4,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 0.57,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "OPEN",
-      "sessions_held": 12
+      "sessions_held": 13
     },
     {
       "symbol": "INDUSINDBK",
@@ -46,16 +46,16 @@
       "weighted_entry": 958.78,
       "risk_per_share": 31.06,
       "target_2r": 1020.9,
-      "latest_close": 966.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 0.76,
+      "latest_close": 958.4,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -0.04,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-22",
       "exit_date": "2026-06-23",
       "exit_price": 921.51,
       "status": "CLOSED",
-      "sessions_held": 113
+      "sessions_held": 114
     },
     {
       "symbol": "INDUSINDBK",
@@ -73,16 +73,16 @@
       "weighted_entry": 904.97,
       "risk_per_share": 38.57,
       "target_2r": 982.12,
-      "latest_close": 966.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 6.75,
+      "latest_close": 958.4,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 5.9,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-12",
       "exit_date": "2026-05-13",
       "exit_price": 889.56,
       "status": "CLOSED",
-      "sessions_held": 151
+      "sessions_held": 152
     },
     {
       "symbol": "INDUSINDBK",
@@ -100,16 +100,16 @@
       "weighted_entry": 779.98,
       "risk_per_share": 21.55,
       "target_2r": 823.09,
-      "latest_close": 966.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 23.86,
+      "latest_close": 958.4,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 22.88,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-06",
       "exit_date": "2025-11-07",
       "exit_price": 780.89,
       "status": "CLOSED",
-      "sessions_held": 272
+      "sessions_held": 273
     },
     {
       "symbol": "INDUSINDBK",
@@ -127,16 +127,16 @@
       "weighted_entry": 784.01,
       "risk_per_share": 23.19,
       "target_2r": 830.39,
-      "latest_close": 966.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 23.23,
+      "latest_close": 958.4,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 22.24,
       "target_2r_touched": false,
       "hard_stop_date": "2025-10-15",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-10-15",
       "exit_price": 733.58,
       "status": "CLOSED",
-      "sessions_held": 277
+      "sessions_held": 278
     },
     {
       "symbol": "INDUSINDBK",
@@ -154,16 +154,16 @@
       "weighted_entry": 838.85,
       "risk_per_share": 37.38,
       "target_2r": 913.6,
-      "latest_close": 966.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 15.17,
+      "latest_close": 958.4,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 14.25,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-06-03",
       "exit_date": "2025-06-04",
       "exit_price": 806.49,
       "status": "CLOSED",
-      "sessions_held": 372
+      "sessions_held": 373
     },
     {
       "symbol": "INDUSINDBK",
@@ -181,16 +181,16 @@
       "weighted_entry": 831.4,
       "risk_per_share": 42.9,
       "target_2r": 917.2,
-      "latest_close": 966.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 16.2,
+      "latest_close": 958.4,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 15.27,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-08",
       "exit_date": "2025-05-09",
       "exit_price": 804.2,
       "status": "CLOSED",
-      "sessions_held": 397
+      "sessions_held": 398
     },
     {
       "symbol": "INDUSINDBK",
@@ -208,16 +208,16 @@
       "weighted_entry": 1019.08,
       "risk_per_share": 35.18,
       "target_2r": 1089.45,
-      "latest_close": 966.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -5.2,
+      "latest_close": 958.4,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -5.95,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-12",
       "exit_date": "2025-02-13",
       "exit_price": 1037.82,
       "status": "CLOSED",
-      "sessions_held": 447
+      "sessions_held": 448
     },
     {
       "symbol": "INDUSINDBK",
@@ -235,16 +235,16 @@
       "weighted_entry": 1453.35,
       "risk_per_share": 30.62,
       "target_2r": 1514.59,
-      "latest_close": 966.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -33.53,
+      "latest_close": 958.4,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -34.06,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-09-06",
       "exit_date": "2024-09-09",
       "exit_price": 1407.07,
       "status": "CLOSED",
-      "sessions_held": 556
+      "sessions_held": 557
     },
     {
       "symbol": "INDUSINDBK",
@@ -262,16 +262,16 @@
       "weighted_entry": 1507.72,
       "risk_per_share": 62.9,
       "target_2r": 1633.53,
-      "latest_close": 966.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -35.92,
+      "latest_close": 958.4,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -36.43,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-24",
       "exit_date": "2024-06-25",
       "exit_price": 1475.95,
       "status": "CLOSED",
-      "sessions_held": 613
+      "sessions_held": 614
     },
     {
       "symbol": "INDUSINDBK",
@@ -289,16 +289,16 @@
       "weighted_entry": 1510.2,
       "risk_per_share": 39.93,
       "target_2r": 1590.06,
-      "latest_close": 966.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -36.03,
+      "latest_close": 958.4,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -36.54,
       "target_2r_touched": false,
       "hard_stop_date": "2024-06-04",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-06-04",
       "exit_price": 1451.03,
       "status": "CLOSED",
-      "sessions_held": 615
+      "sessions_held": 616
     },
     {
       "symbol": "INDUSINDBK",
@@ -316,16 +316,16 @@
       "weighted_entry": 1528.25,
       "risk_per_share": 43.26,
       "target_2r": 1614.77,
-      "latest_close": 966.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -36.78,
+      "latest_close": 958.4,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -37.29,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-15",
       "exit_date": "2024-04-16",
       "exit_price": 1510.75,
       "status": "CLOSED",
-      "sessions_held": 658
+      "sessions_held": 659
     },
     {
       "symbol": "INDUSINDBK",
@@ -343,16 +343,16 @@
       "weighted_entry": 1530.14,
       "risk_per_share": 43.98,
       "target_2r": 1618.09,
-      "latest_close": 966.1,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -36.86,
+      "latest_close": 958.4,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -37.37,
       "target_2r_touched": false,
       "hard_stop_date": "2024-03-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-03-13",
       "exit_price": 1479.07,
       "status": "CLOSED",
-      "sessions_held": 672
+      "sessions_held": 673
     }
   ]
 }

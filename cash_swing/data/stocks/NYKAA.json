@@ -1,7 +1,7 @@
 {
   "symbol": "NYKAA",
   "company": "FSN E-Commerce Ventures Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "NYKAA",
@@ -19,16 +19,16 @@
       "weighted_entry": 342.5,
       "risk_per_share": 13.91,
       "target_2r": 370.32,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 3.07,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 2.38,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-18",
       "exit_date": "2026-11-19",
       "exit_price": 351.9,
       "status": "CLOSED",
-      "sessions_held": 19
+      "sessions_held": 20
     },
     {
       "symbol": "NYKAA",
@@ -46,16 +46,16 @@
       "weighted_entry": 340.85,
       "risk_per_share": 12.36,
       "target_2r": 365.56,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 3.56,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 2.88,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-10-08",
       "exit_date": "2026-10-09",
       "exit_price": 333.0,
       "status": "CLOSED",
-      "sessions_held": 33
+      "sessions_held": 34
     },
     {
       "symbol": "NYKAA",
@@ -73,16 +73,16 @@
       "weighted_entry": 337.35,
       "risk_per_share": 10.29,
       "target_2r": 357.92,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 4.64,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 3.94,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-09-25",
       "exit_date": "2026-09-28",
       "exit_price": 332.1,
       "status": "CLOSED",
-      "sessions_held": 42
+      "sessions_held": 43
     },
     {
       "symbol": "NYKAA",
@@ -100,16 +100,16 @@
       "weighted_entry": 272.7,
       "risk_per_share": 8.88,
       "target_2r": 290.45,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 29.45,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 28.58,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-07-24",
       "exit_date": "2026-07-27",
       "exit_price": 325.0,
       "status": "CLOSED",
-      "sessions_held": 112
+      "sessions_held": 113
     },
     {
       "symbol": "NYKAA",
@@ -127,16 +127,16 @@
       "weighted_entry": 268.85,
       "risk_per_share": 10.25,
       "target_2r": 289.36,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 31.3,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 30.43,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-04",
       "exit_date": "2026-06-05",
       "exit_price": 269.0,
       "status": "CLOSED",
-      "sessions_held": 121
+      "sessions_held": 122
     },
     {
       "symbol": "NYKAA",
@@ -154,16 +154,16 @@
       "weighted_entry": 268.05,
       "risk_per_share": 10.68,
       "target_2r": 289.42,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 31.69,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 30.82,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-22",
       "exit_date": "2026-04-23",
       "exit_price": 259.94,
       "status": "CLOSED",
-      "sessions_held": 156
+      "sessions_held": 157
     },
     {
       "symbol": "NYKAA",
@@ -181,16 +181,16 @@
       "weighted_entry": 277.64,
       "risk_per_share": 11.25,
       "target_2r": 300.14,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 27.14,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 26.29,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-19",
       "exit_date": "2026-02-20",
       "exit_price": 266.4,
       "status": "CLOSED",
-      "sessions_held": 196
+      "sessions_held": 197
     },
     {
       "symbol": "NYKAA",
@@ -208,16 +208,16 @@
       "weighted_entry": 272.83,
       "risk_per_share": 7.66,
       "target_2r": 288.15,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 29.38,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 28.52,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-08",
       "exit_date": "2026-01-09",
       "exit_price": 257.0,
       "status": "CLOSED",
-      "sessions_held": 224
+      "sessions_held": 225
     },
     {
       "symbol": "NYKAA",
@@ -235,16 +235,16 @@
       "weighted_entry": 272.89,
       "risk_per_share": 9.16,
       "target_2r": 291.22,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 29.36,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 28.5,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-11-26",
       "exit_date": "2025-11-27",
       "exit_price": 266.5,
       "status": "CLOSED",
-      "sessions_held": 258
+      "sessions_held": 259
     },
     {
       "symbol": "NYKAA",
@@ -262,16 +262,16 @@
       "weighted_entry": 267.63,
       "risk_per_share": 6.94,
       "target_2r": 281.5,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 31.9,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 31.02,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-10-20",
       "exit_date": "2025-10-21",
       "exit_price": 258.79,
       "status": "CLOSED",
-      "sessions_held": 283
+      "sessions_held": 284
     },
     {
       "symbol": "NYKAA",
@@ -289,16 +289,16 @@
       "weighted_entry": 260.41,
       "risk_per_share": 7.46,
       "target_2r": 275.33,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 35.55,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 34.65,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-11",
       "exit_date": "2025-09-12",
       "exit_price": 239.0,
       "status": "CLOSED",
-      "sessions_held": 314
+      "sessions_held": 315
     },
     {
       "symbol": "NYKAA",
@@ -316,16 +316,16 @@
       "weighted_entry": 254.87,
       "risk_per_share": 5.88,
       "target_2r": 266.64,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 38.5,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 37.58,
       "target_2r_touched": false,
       "hard_stop_date": "2025-06-24",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-06-24",
       "exit_price": 198.22,
       "status": "CLOSED",
-      "sessions_held": 353
+      "sessions_held": 354
     },
     {
       "symbol": "NYKAA",
@@ -343,16 +343,16 @@
       "weighted_entry": 177.46,
       "risk_per_share": 6.55,
       "target_2r": 190.56,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 98.92,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 97.59,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-07",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-07",
       "exit_price": 165.98,
       "status": "CLOSED",
-      "sessions_held": 414
+      "sessions_held": 415
     },
     {
       "symbol": "NYKAA",
@@ -370,16 +370,16 @@
       "weighted_entry": 177.57,
       "risk_per_share": 8.69,
       "target_2r": 194.94,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 98.79,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 97.47,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-18",
       "exit_date": "2025-02-19",
       "exit_price": 170.0,
       "status": "CLOSED",
-      "sessions_held": 436
+      "sessions_held": 437
     },
     {
       "symbol": "NYKAA",
@@ -397,16 +397,16 @@
       "weighted_entry": 177.16,
       "risk_per_share": 7.42,
       "target_2r": 191.99,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 99.26,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 97.93,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-30",
       "exit_date": "2025-01-31",
       "exit_price": 168.59,
       "status": "CLOSED",
-      "sessions_held": 450
+      "sessions_held": 451
     },
     {
       "symbol": "NYKAA",
@@ -424,16 +424,16 @@
       "weighted_entry": 177.35,
       "risk_per_share": 6.05,
       "target_2r": 189.45,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 99.04,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 97.71,
       "target_2r_touched": false,
       "hard_stop_date": "2025-01-20",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-01-20",
       "exit_price": 166.54,
       "status": "CLOSED",
-      "sessions_held": 460
+      "sessions_held": 461
     },
     {
       "symbol": "NYKAA",
@@ -451,16 +451,16 @@
       "weighted_entry": 176.42,
       "risk_per_share": 6.35,
       "target_2r": 189.12,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 100.09,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 98.76,
       "target_2r_touched": false,
       "hard_stop_date": "2025-01-13",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-01-13",
       "exit_price": 162.75,
       "status": "CLOSED",
-      "sessions_held": 465
+      "sessions_held": 466
     },
     {
       "symbol": "NYKAA",
@@ -478,16 +478,16 @@
       "weighted_entry": 177.2,
       "risk_per_share": 8.56,
       "target_2r": 194.31,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 99.21,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 97.89,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-07-04",
       "exit_date": "2024-07-05",
       "exit_price": 171.9,
       "status": "CLOSED",
-      "sessions_held": 606
+      "sessions_held": 607
     },
     {
       "symbol": "NYKAA",
@@ -505,16 +505,16 @@
       "weighted_entry": 178.38,
       "risk_per_share": 6.87,
       "target_2r": 192.11,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 97.89,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 96.57,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-23",
       "exit_date": "2024-05-24",
       "exit_price": 175.4,
       "status": "CLOSED",
-      "sessions_held": 625
+      "sessions_held": 626
     },
     {
       "symbol": "NYKAA",
@@ -532,16 +532,16 @@
       "weighted_entry": 175.23,
       "risk_per_share": 7.81,
       "target_2r": 190.86,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 101.45,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 100.11,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-18",
       "exit_date": "2024-04-19",
       "exit_price": 164.0,
       "status": "CLOSED",
-      "sessions_held": 660
+      "sessions_held": 661
     },
     {
       "symbol": "NYKAA",
@@ -559,16 +559,16 @@
       "weighted_entry": 174.32,
       "risk_per_share": 5.17,
       "target_2r": 184.65,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 102.51,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 101.16,
       "target_2r_touched": false,
       "hard_stop_date": "2024-03-12",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-03-12",
       "exit_price": 155.23,
       "status": "CLOSED",
-      "sessions_held": 669
+      "sessions_held": 670
     },
     {
       "symbol": "NYKAA",
@@ -586,16 +586,16 @@
       "weighted_entry": 179.62,
       "risk_per_share": 8.29,
       "target_2r": 196.2,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 96.52,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 95.21,
       "target_2r_touched": false,
       "hard_stop_date": "2024-01-16",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-01-16",
       "exit_price": 171.71,
       "status": "CLOSED",
-      "sessions_held": 711
+      "sessions_held": 712
     },
     {
       "symbol": "NYKAA",
@@ -613,16 +613,16 @@
       "weighted_entry": 178.03,
       "risk_per_share": 9.32,
       "target_2r": 196.67,
-      "latest_close": 353.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 98.29,
+      "latest_close": 350.65,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 96.97,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-01-01",
       "exit_date": "2024-01-02",
       "exit_price": 172.0,
       "status": "CLOSED",
-      "sessions_held": 719
+      "sessions_held": 720
     }
   ]
 }

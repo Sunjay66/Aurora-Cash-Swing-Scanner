@@ -1,7 +1,7 @@
 {
   "symbol": "AMBUJACEM",
   "company": "Ambuja Cements Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "AMBUJACEM",
@@ -19,16 +19,16 @@
       "weighted_entry": 390.26,
       "risk_per_share": 18.5,
       "target_2r": 427.27,
-      "latest_close": 390.95,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 0.18,
+      "latest_close": 385.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -1.27,
       "target_2r_touched": false,
       "hard_stop_date": null,
-      "ema9_exit_signal_date": null,
+      "ema9_exit_signal_date": "2026-11-27",
       "exit_date": null,
       "exit_price": null,
-      "status": "OPEN",
-      "sessions_held": 13
+      "status": "CLOSED",
+      "sessions_held": 14
     },
     {
       "symbol": "AMBUJACEM",
@@ -46,16 +46,16 @@
       "weighted_entry": 401.83,
       "risk_per_share": 13.73,
       "target_2r": 429.3,
-      "latest_close": 390.95,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -2.71,
+      "latest_close": 385.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -4.11,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-06",
       "exit_date": "2026-08-07",
       "exit_price": 438.0,
       "status": "CLOSED",
-      "sessions_held": 81
+      "sessions_held": 82
     },
     {
       "symbol": "AMBUJACEM",
@@ -73,16 +73,16 @@
       "weighted_entry": 404.02,
       "risk_per_share": 12.54,
       "target_2r": 429.11,
-      "latest_close": 390.95,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -3.23,
+      "latest_close": 385.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -4.63,
       "target_2r_touched": true,
       "hard_stop_date": "2026-07-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-07-08",
       "exit_price": 431.05,
       "status": "CLOSED",
-      "sessions_held": 99
+      "sessions_held": 100
     },
     {
       "symbol": "AMBUJACEM",
@@ -100,16 +100,16 @@
       "weighted_entry": 406.8,
       "risk_per_share": 14.97,
       "target_2r": 436.75,
-      "latest_close": 390.95,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -3.9,
+      "latest_close": 385.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -5.29,
       "target_2r_touched": false,
       "hard_stop_date": "2026-05-29",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-05-29",
       "exit_price": 443.7,
       "status": "CLOSED",
-      "sessions_held": 124
+      "sessions_held": 125
     },
     {
       "symbol": "AMBUJACEM",
@@ -127,16 +127,16 @@
       "weighted_entry": 404.34,
       "risk_per_share": 16.07,
       "target_2r": 436.47,
-      "latest_close": 390.95,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -3.31,
+      "latest_close": 385.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -4.71,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-08",
       "exit_date": "2026-05-11",
       "exit_price": 439.57,
       "status": "CLOSED",
-      "sessions_held": 138
+      "sessions_held": 139
     },
     {
       "symbol": "AMBUJACEM",
@@ -154,16 +154,16 @@
       "weighted_entry": 407.56,
       "risk_per_share": 21.64,
       "target_2r": 450.83,
-      "latest_close": 390.95,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -4.07,
+      "latest_close": 385.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -5.46,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-23",
       "exit_date": "2026-04-24",
       "exit_price": 448.78,
       "status": "CLOSED",
-      "sessions_held": 152
+      "sessions_held": 153
     },
     {
       "symbol": "AMBUJACEM",
@@ -181,16 +181,16 @@
       "weighted_entry": 422.29,
       "risk_per_share": 12.14,
       "target_2r": 446.57,
-      "latest_close": 390.95,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -7.42,
+      "latest_close": 385.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -8.76,
       "target_2r_touched": false,
       "hard_stop_date": "2026-01-20",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-01-20",
       "exit_price": 537.29,
       "status": "CLOSED",
-      "sessions_held": 209
+      "sessions_held": 210
     },
     {
       "symbol": "AMBUJACEM",
@@ -208,16 +208,16 @@
       "weighted_entry": 422.92,
       "risk_per_share": 13.33,
       "target_2r": 449.57,
-      "latest_close": 390.95,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -7.56,
+      "latest_close": 385.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -8.9,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-08",
       "exit_date": "2026-01-09",
       "exit_price": 544.01,
       "status": "CLOSED",
-      "sessions_held": 225
+      "sessions_held": 226
     },
     {
       "symbol": "AMBUJACEM",
@@ -235,16 +235,16 @@
       "weighted_entry": 582.12,
       "risk_per_share": 14.34,
       "target_2r": 610.81,
-      "latest_close": 390.95,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -32.84,
+      "latest_close": 385.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -33.81,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-25",
       "exit_date": "2025-09-26",
       "exit_price": 577.89,
       "status": "CLOSED",
-      "sessions_held": 291
+      "sessions_held": 292
     },
     {
       "symbol": "AMBUJACEM",
@@ -262,16 +262,16 @@
       "weighted_entry": 578.18,
       "risk_per_share": 15.28,
       "target_2r": 608.74,
-      "latest_close": 390.95,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -32.38,
+      "latest_close": 385.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -33.36,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-31",
       "exit_date": "2025-08-01",
       "exit_price": 591.92,
       "status": "CLOSED",
-      "sessions_held": 350
+      "sessions_held": 351
     },
     {
       "symbol": "AMBUJACEM",
@@ -289,16 +289,16 @@
       "weighted_entry": 576.73,
       "risk_per_share": 18.22,
       "target_2r": 613.17,
-      "latest_close": 390.95,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -32.21,
+      "latest_close": 385.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -33.19,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-28",
       "exit_date": "2025-05-29",
       "exit_price": 557.14,
       "status": "CLOSED",
-      "sessions_held": 379
+      "sessions_held": 380
     },
     {
       "symbol": "AMBUJACEM",
@@ -316,16 +316,16 @@
       "weighted_entry": 520.32,
       "risk_per_share": 17.43,
       "target_2r": 555.17,
-      "latest_close": 390.95,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -24.86,
+      "latest_close": 385.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -25.95,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-04",
       "exit_date": "2025-04-07",
       "exit_price": 490.77,
       "status": "CLOSED",
-      "sessions_held": 416
+      "sessions_held": 417
     },
     {
       "symbol": "AMBUJACEM",
@@ -343,16 +343,16 @@
       "weighted_entry": 530.45,
       "risk_per_share": 20.38,
       "target_2r": 571.22,
-      "latest_close": 390.95,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -26.3,
+      "latest_close": 385.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -27.36,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-27",
       "exit_date": "2025-01-28",
       "exit_price": 535.28,
       "status": "CLOSED",
-      "sessions_held": 453
+      "sessions_held": 454
     },
     {
       "symbol": "AMBUJACEM",
@@ -370,16 +370,16 @@
       "weighted_entry": 536.25,
       "risk_per_share": 30.31,
       "target_2r": 596.88,
-      "latest_close": 390.95,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -27.1,
+      "latest_close": 385.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -28.15,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-18",
       "exit_date": "2024-12-19",
       "exit_price": 551.0,
       "status": "CLOSED",
-      "sessions_held": 488
+      "sessions_held": 489
     },
     {
       "symbol": "AMBUJACEM",
@@ -397,16 +397,16 @@
       "weighted_entry": 546.18,
       "risk_per_share": 14.51,
       "target_2r": 575.2,
-      "latest_close": 390.95,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -28.42,
+      "latest_close": 385.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -29.46,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-10-03",
       "exit_date": "2024-10-04",
       "exit_price": 610.18,
       "status": "CLOSED",
-      "sessions_held": 532
+      "sessions_held": 533
     },
     {
       "symbol": "AMBUJACEM",
@@ -424,16 +424,16 @@
       "weighted_entry": 553.97,
       "risk_per_share": 39.19,
       "target_2r": 632.34,
-      "latest_close": 390.95,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -29.43,
+      "latest_close": 385.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -30.45,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-06-25",
       "exit_date": "2024-06-26",
       "exit_price": 643.25,
       "status": "CLOSED",
-      "sessions_held": 610
+      "sessions_held": 611
     },
     {
       "symbol": "AMBUJACEM",
@@ -451,16 +451,16 @@
       "weighted_entry": 547.66,
       "risk_per_share": 22.96,
       "target_2r": 593.58,
-      "latest_close": 390.95,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -28.61,
+      "latest_close": 385.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -29.65,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-30",
       "exit_date": "2024-05-31",
       "exit_price": 617.79,
       "status": "CLOSED",
-      "sessions_held": 624
+      "sessions_held": 625
     },
     {
       "symbol": "AMBUJACEM",
@@ -478,16 +478,16 @@
       "weighted_entry": 540.9,
       "risk_per_share": 24.2,
       "target_2r": 589.3,
-      "latest_close": 390.95,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -27.72,
+      "latest_close": 385.3,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -28.77,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-12",
       "exit_date": "2024-04-15",
       "exit_price": 593.08,
       "status": "CLOSED",
-      "sessions_held": 659
+      "sessions_held": 660
     }
   ]
 }

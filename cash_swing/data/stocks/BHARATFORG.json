@@ -1,7 +1,7 @@
 {
   "symbol": "BHARATFORG",
   "company": "Bharat Forge Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "BHARATFORG",
@@ -19,16 +19,16 @@
       "weighted_entry": 1824.46,
       "risk_per_share": 84.79,
       "target_2r": 1994.04,
-      "latest_close": 1744.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -4.41,
+      "latest_close": 1771.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -2.93,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-04",
       "exit_date": "2026-05-05",
       "exit_price": 1840.22,
       "status": "CLOSED",
-      "sessions_held": 154
+      "sessions_held": 155
     },
     {
       "symbol": "BHARATFORG",
@@ -46,16 +46,16 @@
       "weighted_entry": 1533.59,
       "risk_per_share": 61.42,
       "target_2r": 1656.43,
-      "latest_close": 1744.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 13.72,
+      "latest_close": 1771.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 15.48,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-03-04",
       "exit_date": "2026-03-05",
       "exit_price": 1894.25,
       "status": "CLOSED",
-      "sessions_held": 199
+      "sessions_held": 200
     },
     {
       "symbol": "BHARATFORG",
@@ -73,16 +73,16 @@
       "weighted_entry": 1252.34,
       "risk_per_share": 43.35,
       "target_2r": 1339.05,
-      "latest_close": 1744.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 39.26,
+      "latest_close": 1771.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 41.42,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-24",
       "exit_date": "2025-09-25",
       "exit_price": 1205.36,
       "status": "CLOSED",
-      "sessions_held": 297
+      "sessions_held": 298
     },
     {
       "symbol": "BHARATFORG",
@@ -100,16 +100,16 @@
       "weighted_entry": 1173.52,
       "risk_per_share": 62.32,
       "target_2r": 1298.16,
-      "latest_close": 1744.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 48.61,
+      "latest_close": 1771.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 50.91,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-06",
       "exit_date": "2025-05-07",
       "exit_price": 1082.33,
       "status": "CLOSED",
-      "sessions_held": 393
+      "sessions_held": 394
     },
     {
       "symbol": "BHARATFORG",
@@ -127,16 +127,16 @@
       "weighted_entry": 1183.41,
       "risk_per_share": 43.91,
       "target_2r": 1271.23,
-      "latest_close": 1744.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 47.37,
+      "latest_close": 1771.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 49.65,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-01",
       "exit_date": "2025-04-02",
       "exit_price": 1143.89,
       "status": "CLOSED",
-      "sessions_held": 415
+      "sessions_held": 416
     },
     {
       "symbol": "BHARATFORG",
@@ -154,16 +154,16 @@
       "weighted_entry": 1312.33,
       "risk_per_share": 71.42,
       "target_2r": 1455.16,
-      "latest_close": 1744.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 32.89,
+      "latest_close": 1771.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 34.95,
       "target_2r_touched": true,
       "hard_stop_date": "2024-08-02",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-08-02",
       "exit_price": 1649.8,
       "status": "CLOSED",
-      "sessions_held": 576
+      "sessions_held": 577
     },
     {
       "symbol": "BHARATFORG",
@@ -181,16 +181,16 @@
       "weighted_entry": 1186.82,
       "risk_per_share": 39.32,
       "target_2r": 1265.47,
-      "latest_close": 1744.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 46.95,
+      "latest_close": 1771.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 49.22,
       "target_2r_touched": false,
       "hard_stop_date": "2024-04-09",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-04-09",
       "exit_price": 1126.29,
       "status": "CLOSED",
-      "sessions_held": 650
+      "sessions_held": 651
     },
     {
       "symbol": "BHARATFORG",
@@ -208,16 +208,16 @@
       "weighted_entry": 1201.31,
       "risk_per_share": 44.88,
       "target_2r": 1291.07,
-      "latest_close": 1744.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 45.18,
+      "latest_close": 1771.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 47.42,
       "target_2r_touched": true,
       "hard_stop_date": "2024-02-12",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-02-12",
       "exit_price": 1179.45,
       "status": "CLOSED",
-      "sessions_held": 693
+      "sessions_held": 694
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "BEL",
   "company": "Bharat Electronics Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "BEL",
@@ -19,16 +19,16 @@
       "weighted_entry": 403.06,
       "risk_per_share": 11.27,
       "target_2r": 425.6,
-      "latest_close": 404.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 0.36,
+      "latest_close": 411.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 2.08,
       "target_2r_touched": false,
       "hard_stop_date": "2026-11-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-11-06",
       "exit_price": 390.0,
       "status": "CLOSED",
-      "sessions_held": 14
+      "sessions_held": 15
     },
     {
       "symbol": "BEL",
@@ -46,16 +46,16 @@
       "weighted_entry": 404.64,
       "risk_per_share": 9.26,
       "target_2r": 423.15,
-      "latest_close": 404.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -0.03,
+      "latest_close": 411.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 1.68,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-26",
       "exit_date": "2026-08-27",
       "exit_price": 410.8,
       "status": "CLOSED",
-      "sessions_held": 70
+      "sessions_held": 71
     },
     {
       "symbol": "BEL",
@@ -73,16 +73,16 @@
       "weighted_entry": 408.07,
       "risk_per_share": 11.97,
       "target_2r": 432.0,
-      "latest_close": 404.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -0.87,
+      "latest_close": 411.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 0.83,
       "target_2r_touched": false,
       "hard_stop_date": "2026-07-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-07-08",
       "exit_price": 413.01,
       "status": "CLOSED",
-      "sessions_held": 98
+      "sessions_held": 99
     },
     {
       "symbol": "BEL",
@@ -100,16 +100,16 @@
       "weighted_entry": 408.64,
       "risk_per_share": 10.62,
       "target_2r": 429.89,
-      "latest_close": 404.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -1.01,
+      "latest_close": 411.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 0.69,
       "target_2r_touched": true,
       "hard_stop_date": "2026-06-24",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-06-24",
       "exit_price": 416.9,
       "status": "CLOSED",
-      "sessions_held": 108
+      "sessions_held": 109
     },
     {
       "symbol": "BEL",
@@ -127,16 +127,16 @@
       "weighted_entry": 410.23,
       "risk_per_share": 17.55,
       "target_2r": 445.32,
-      "latest_close": 404.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -1.4,
+      "latest_close": 411.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 0.3,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-04-24",
       "exit_date": "2026-04-27",
       "exit_price": 444.4,
       "status": "CLOSED",
-      "sessions_held": 155
+      "sessions_held": 156
     },
     {
       "symbol": "BEL",
@@ -154,16 +154,16 @@
       "weighted_entry": 415.95,
       "risk_per_share": 9.96,
       "target_2r": 435.88,
-      "latest_close": 404.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -2.75,
+      "latest_close": 411.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -1.08,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-01-16",
       "exit_date": "2026-01-19",
       "exit_price": 407.71,
       "status": "CLOSED",
-      "sessions_held": 219
+      "sessions_held": 220
     },
     {
       "symbol": "BEL",
@@ -181,16 +181,16 @@
       "weighted_entry": 401.86,
       "risk_per_share": 10.15,
       "target_2r": 422.15,
-      "latest_close": 404.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 0.66,
+      "latest_close": 411.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 2.39,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-24",
       "exit_date": "2025-09-25",
       "exit_price": 393.24,
       "status": "CLOSED",
-      "sessions_held": 296
+      "sessions_held": 297
     },
     {
       "symbol": "BEL",
@@ -208,16 +208,16 @@
       "weighted_entry": 292.33,
       "risk_per_share": 11.72,
       "target_2r": 315.78,
-      "latest_close": 404.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 38.37,
+      "latest_close": 411.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 40.75,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-04-01",
       "exit_date": "2025-04-02",
       "exit_price": 287.61,
       "status": "CLOSED",
-      "sessions_held": 423
+      "sessions_held": 424
     },
     {
       "symbol": "BEL",
@@ -235,16 +235,16 @@
       "weighted_entry": 295.25,
       "risk_per_share": 15.35,
       "target_2r": 325.96,
-      "latest_close": 404.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 37.0,
+      "latest_close": 411.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 39.36,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-02-06",
       "exit_date": "2025-02-07",
       "exit_price": 277.0,
       "status": "CLOSED",
-      "sessions_held": 444
+      "sessions_held": 445
     },
     {
       "symbol": "BEL",
@@ -262,16 +262,16 @@
       "weighted_entry": 301.58,
       "risk_per_share": 12.91,
       "target_2r": 327.39,
-      "latest_close": 404.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 34.13,
+      "latest_close": 411.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 36.43,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-17",
       "exit_date": "2024-12-18",
       "exit_price": 306.06,
       "status": "CLOSED",
-      "sessions_held": 495
+      "sessions_held": 496
     },
     {
       "symbol": "BEL",
@@ -289,23 +289,23 @@
       "weighted_entry": 293.2,
       "risk_per_share": 10.91,
       "target_2r": 315.03,
-      "latest_close": 404.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 37.96,
+      "latest_close": 411.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 40.33,
       "target_2r_touched": false,
       "hard_stop_date": "2024-11-05",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-11-05",
       "exit_price": 274.23,
       "status": "CLOSED",
-      "sessions_held": 510
+      "sessions_held": 511
     },
     {
       "symbol": "BEL",
       "company": "Bharat Electronics Ltd.",
       "signal_date": "2024-07-30",
       "entry_date": "2024-07-31",
-      "entry_price": 314.77,
+      "entry_price": 314.78,
       "atr14": 12.4,
       "initial_stop": 299.28,
       "stage2_signal_date": "2024-11-11",
@@ -316,16 +316,16 @@
       "weighted_entry": 300.62,
       "risk_per_share": 15.5,
       "target_2r": 331.62,
-      "latest_close": 404.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 34.55,
+      "latest_close": 411.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 36.87,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-08-01",
       "exit_date": "2024-08-02",
       "exit_price": 300.41,
       "status": "CLOSED",
-      "sessions_held": 576
+      "sessions_held": 577
     },
     {
       "symbol": "BEL",
@@ -343,16 +343,16 @@
       "weighted_entry": 265.24,
       "risk_per_share": 10.2,
       "target_2r": 285.63,
-      "latest_close": 404.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 52.51,
+      "latest_close": 411.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 55.13,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-04-30",
       "exit_date": "2024-05-02",
       "exit_price": 230.94,
       "status": "CLOSED",
-      "sessions_held": 657
+      "sessions_held": 658
     },
     {
       "symbol": "BEL",
@@ -370,16 +370,16 @@
       "weighted_entry": 257.99,
       "risk_per_share": 7.13,
       "target_2r": 272.24,
-      "latest_close": 404.5,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 56.79,
+      "latest_close": 411.45,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 59.48,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-03-12",
       "exit_date": "2024-03-13",
       "exit_price": 200.12,
       "status": "CLOSED",
-      "sessions_held": 684
+      "sessions_held": 685
     }
   ]
 }

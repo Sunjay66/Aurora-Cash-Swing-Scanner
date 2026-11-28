@@ -1,7 +1,7 @@
 {
   "symbol": "EXIDEIND",
   "company": "Exide Industries Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "EXIDEIND",
@@ -19,16 +19,16 @@
       "weighted_entry": 377.9,
       "risk_per_share": 19.32,
       "target_2r": 416.54,
-      "latest_close": 387.05,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 2.42,
+      "latest_close": 399.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 5.61,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-11-16",
       "exit_date": "2026-11-17",
       "exit_price": 366.0,
       "status": "CLOSED",
-      "sessions_held": 9
+      "sessions_held": 10
     },
     {
       "symbol": "EXIDEIND",
@@ -46,16 +46,16 @@
       "weighted_entry": 363.26,
       "risk_per_share": 12.75,
       "target_2r": 388.76,
-      "latest_close": 387.05,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 6.55,
+      "latest_close": 399.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 9.87,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-06-08",
       "exit_date": "2026-06-09",
       "exit_price": 385.95,
       "status": "CLOSED",
-      "sessions_held": 125
+      "sessions_held": 126
     },
     {
       "symbol": "EXIDEIND",
@@ -73,16 +73,16 @@
       "weighted_entry": 336.5,
       "risk_per_share": 14.33,
       "target_2r": 365.16,
-      "latest_close": 387.05,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 15.02,
+      "latest_close": 399.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 18.6,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-05-06",
       "exit_date": "2026-05-07",
       "exit_price": 350.32,
       "status": "CLOSED",
-      "sessions_held": 155
+      "sessions_held": 156
     },
     {
       "symbol": "EXIDEIND",
@@ -100,16 +100,16 @@
       "weighted_entry": 341.2,
       "risk_per_share": 8.28,
       "target_2r": 357.76,
-      "latest_close": 387.05,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 13.44,
+      "latest_close": 399.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 16.97,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-27",
       "exit_date": "2026-03-02",
       "exit_price": 313.85,
       "status": "CLOSED",
-      "sessions_held": 182
+      "sessions_held": 183
     },
     {
       "symbol": "EXIDEIND",
@@ -127,16 +127,16 @@
       "weighted_entry": 342.23,
       "risk_per_share": 11.73,
       "target_2r": 365.68,
-      "latest_close": 387.05,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 13.1,
+      "latest_close": 399.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 16.62,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-19",
       "exit_date": "2026-02-20",
       "exit_price": 331.61,
       "status": "CLOSED",
-      "sessions_held": 189
+      "sessions_held": 190
     },
     {
       "symbol": "EXIDEIND",
@@ -154,16 +154,16 @@
       "weighted_entry": 355.44,
       "risk_per_share": 11.75,
       "target_2r": 378.94,
-      "latest_close": 387.05,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 8.89,
+      "latest_close": 399.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 12.28,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-15",
       "exit_date": "2025-09-16",
       "exit_price": 413.77,
       "status": "CLOSED",
-      "sessions_held": 312
+      "sessions_held": 313
     },
     {
       "symbol": "EXIDEIND",
@@ -181,16 +181,16 @@
       "weighted_entry": 395.45,
       "risk_per_share": 8.49,
       "target_2r": 412.44,
-      "latest_close": 387.05,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -2.12,
+      "latest_close": 399.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 0.92,
       "target_2r_touched": false,
       "hard_stop_date": "2025-07-25",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-25",
       "exit_price": 380.64,
       "status": "CLOSED",
-      "sessions_held": 333
+      "sessions_held": 334
     },
     {
       "symbol": "EXIDEIND",
@@ -208,16 +208,16 @@
       "weighted_entry": 394.14,
       "risk_per_share": 8.76,
       "target_2r": 411.66,
-      "latest_close": 387.05,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -1.8,
+      "latest_close": 399.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 1.26,
       "target_2r_touched": false,
       "hard_stop_date": "2025-07-11",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-07-11",
       "exit_price": 375.38,
       "status": "CLOSED",
-      "sessions_held": 342
+      "sessions_held": 343
     },
     {
       "symbol": "EXIDEIND",
@@ -235,16 +235,16 @@
       "weighted_entry": 394.31,
       "risk_per_share": 11.05,
       "target_2r": 416.41,
-      "latest_close": 387.05,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -1.84,
+      "latest_close": 399.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 1.21,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-07-01",
       "exit_date": "2025-07-02",
       "exit_price": 382.16,
       "status": "CLOSED",
-      "sessions_held": 348
+      "sessions_held": 349
     },
     {
       "symbol": "EXIDEIND",
@@ -262,16 +262,16 @@
       "weighted_entry": 380.93,
       "risk_per_share": 18.62,
       "target_2r": 418.18,
-      "latest_close": 387.05,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 1.61,
+      "latest_close": 399.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 4.77,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-05-23",
       "exit_date": "2025-05-26",
       "exit_price": 380.08,
       "status": "CLOSED",
-      "sessions_held": 383
+      "sessions_held": 384
     },
     {
       "symbol": "EXIDEIND",
@@ -289,16 +289,16 @@
       "weighted_entry": 380.38,
       "risk_per_share": 16.65,
       "target_2r": 413.68,
-      "latest_close": 387.05,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 1.75,
+      "latest_close": 399.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 4.92,
       "target_2r_touched": false,
       "hard_stop_date": "2025-05-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-05-08",
       "exit_price": 355.66,
       "status": "CLOSED",
-      "sessions_held": 386
+      "sessions_held": 387
     },
     {
       "symbol": "EXIDEIND",
@@ -316,16 +316,16 @@
       "weighted_entry": 375.47,
       "risk_per_share": 12.4,
       "target_2r": 400.27,
-      "latest_close": 387.05,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 3.08,
+      "latest_close": 399.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 6.29,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-07",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-07",
       "exit_price": 324.73,
       "status": "CLOSED",
-      "sessions_held": 411
+      "sessions_held": 412
     },
     {
       "symbol": "EXIDEIND",
@@ -343,16 +343,16 @@
       "weighted_entry": 398.07,
       "risk_per_share": 16.16,
       "target_2r": 430.4,
-      "latest_close": 387.05,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -2.77,
+      "latest_close": 399.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 0.26,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-12-13",
       "exit_date": "2024-12-16",
       "exit_price": 450.62,
       "status": "CLOSED",
-      "sessions_held": 490
+      "sessions_held": 491
     },
     {
       "symbol": "EXIDEIND",
@@ -370,16 +370,16 @@
       "weighted_entry": 521.43,
       "risk_per_share": 15.86,
       "target_2r": 553.14,
-      "latest_close": 387.05,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -25.77,
+      "latest_close": 399.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -23.46,
       "target_2r_touched": false,
       "hard_stop_date": "2024-10-07",
       "ema9_exit_signal_date": null,
       "exit_date": "2024-10-07",
       "exit_price": 487.03,
       "status": "CLOSED",
-      "sessions_held": 532
+      "sessions_held": 533
     },
     {
       "symbol": "EXIDEIND",
@@ -397,16 +397,16 @@
       "weighted_entry": 359.46,
       "risk_per_share": 8.29,
       "target_2r": 376.05,
-      "latest_close": 387.05,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 7.67,
+      "latest_close": 399.1,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 11.03,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-07",
       "exit_date": "2024-05-08",
       "exit_price": 447.62,
       "status": "CLOSED",
-      "sessions_held": 652
+      "sessions_held": 653
     }
   ]
 }

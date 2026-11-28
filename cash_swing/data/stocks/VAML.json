@@ -1,7 +1,7 @@
 {
   "symbol": "VAML",
   "company": "Vedanta Aluminium Metal Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "VAML",
@@ -19,16 +19,16 @@
       "weighted_entry": 388.4,
       "risk_per_share": 18.29,
       "target_2r": 424.97,
-      "latest_close": 353.15,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -9.08,
+      "latest_close": 370.25,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -4.67,
       "target_2r_touched": false,
       "hard_stop_date": "2026-11-18",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-11-18",
       "exit_price": 370.11,
       "status": "CLOSED",
-      "sessions_held": 10
+      "sessions_held": 11
     },
     {
       "symbol": "VAML",
@@ -46,16 +46,16 @@
       "weighted_entry": 464.9,
       "risk_per_share": 15.65,
       "target_2r": 496.19,
-      "latest_close": 353.15,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -24.04,
+      "latest_close": 370.25,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -20.36,
       "target_2r_touched": false,
       "hard_stop_date": "2026-08-31",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-08-31",
       "exit_price": 449.25,
       "status": "CLOSED",
-      "sessions_held": 61
+      "sessions_held": 62
     },
     {
       "symbol": "VAML",
@@ -73,16 +73,16 @@
       "weighted_entry": 463.55,
       "risk_per_share": 18.37,
       "target_2r": 500.29,
-      "latest_close": 353.15,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -23.82,
+      "latest_close": 370.25,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -20.13,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-08-12",
       "exit_date": "2026-08-13",
       "exit_price": 461.6,
       "status": "CLOSED",
-      "sessions_held": 77
+      "sessions_held": 78
     }
   ]
 }

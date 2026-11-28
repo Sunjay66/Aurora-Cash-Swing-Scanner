@@ -1,7 +1,7 @@
 {
   "symbol": "BRITANNIA",
   "company": "Britannia Industries Ltd.",
-  "market_date": "2026-11-26",
+  "market_date": "2026-11-27",
   "setups": [
     {
       "symbol": "BRITANNIA",
@@ -19,16 +19,16 @@
       "weighted_entry": 4868.0,
       "risk_per_share": 167.15,
       "target_2r": 5202.3,
-      "latest_close": 5185.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 6.51,
+      "latest_close": 5065.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 4.05,
       "target_2r_touched": true,
       "hard_stop_date": null,
       "ema9_exit_signal_date": null,
       "exit_date": null,
       "exit_price": null,
       "status": "TWO_R",
-      "sessions_held": 4
+      "sessions_held": 5
     },
     {
       "symbol": "BRITANNIA",
@@ -46,16 +46,16 @@
       "weighted_entry": 5050.0,
       "risk_per_share": 133.3,
       "target_2r": 5316.61,
-      "latest_close": 5185.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 2.67,
+      "latest_close": 5065.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 0.3,
       "target_2r_touched": false,
       "hard_stop_date": "2026-11-06",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-11-06",
       "exit_price": 4916.7,
       "status": "CLOSED",
-      "sessions_held": 13
+      "sessions_held": 14
     },
     {
       "symbol": "BRITANNIA",
@@ -73,16 +73,16 @@
       "weighted_entry": 5408.3,
       "risk_per_share": 108.15,
       "target_2r": 5624.61,
-      "latest_close": 5185.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -4.13,
+      "latest_close": 5065.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -6.35,
       "target_2r_touched": false,
       "hard_stop_date": "2026-07-08",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-07-08",
       "exit_price": 5212.73,
       "status": "CLOSED",
-      "sessions_held": 100
+      "sessions_held": 101
     },
     {
       "symbol": "BRITANNIA",
@@ -100,16 +100,16 @@
       "weighted_entry": 5515.23,
       "risk_per_share": 195.76,
       "target_2r": 5906.75,
-      "latest_close": 5185.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -5.99,
+      "latest_close": 5065.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -8.16,
       "target_2r_touched": false,
       "hard_stop_date": "2026-04-23",
       "ema9_exit_signal_date": null,
       "exit_date": "2026-04-23",
       "exit_price": 5582.02,
       "status": "CLOSED",
-      "sessions_held": 149
+      "sessions_held": 150
     },
     {
       "symbol": "BRITANNIA",
@@ -127,16 +127,16 @@
       "weighted_entry": 5993.92,
       "risk_per_share": 180.52,
       "target_2r": 6354.97,
-      "latest_close": 5185.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -13.5,
+      "latest_close": 5065.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -15.5,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2026-02-27",
       "exit_date": "2026-03-02",
       "exit_price": 5769.91,
       "status": "CLOSED",
-      "sessions_held": 193
+      "sessions_held": 194
     },
     {
       "symbol": "BRITANNIA",
@@ -154,16 +154,16 @@
       "weighted_entry": 5994.54,
       "risk_per_share": 127.61,
       "target_2r": 6249.75,
-      "latest_close": 5185.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -13.5,
+      "latest_close": 5065.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -15.51,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-12-30",
       "exit_date": "2025-12-31",
       "exit_price": 5914.5,
       "status": "CLOSED",
-      "sessions_held": 233
+      "sessions_held": 234
     },
     {
       "symbol": "BRITANNIA",
@@ -181,16 +181,16 @@
       "weighted_entry": 5991.35,
       "risk_per_share": 164.14,
       "target_2r": 6319.64,
-      "latest_close": 5185.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -13.46,
+      "latest_close": 5065.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -15.46,
       "target_2r_touched": false,
       "hard_stop_date": "2025-11-11",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-11-11",
       "exit_price": 5852.53,
       "status": "CLOSED",
-      "sessions_held": 259
+      "sessions_held": 260
     },
     {
       "symbol": "BRITANNIA",
@@ -208,16 +208,16 @@
       "weighted_entry": 5975.62,
       "risk_per_share": 140.21,
       "target_2r": 6256.04,
-      "latest_close": 5185.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -13.23,
+      "latest_close": 5065.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -15.24,
       "target_2r_touched": false,
       "hard_stop_date": "2025-10-27",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-10-27",
       "exit_price": 5883.47,
       "status": "CLOSED",
-      "sessions_held": 272
+      "sessions_held": 273
     },
     {
       "symbol": "BRITANNIA",
@@ -235,16 +235,16 @@
       "weighted_entry": 5890.13,
       "risk_per_share": 196.42,
       "target_2r": 6282.96,
-      "latest_close": 5185.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -11.97,
+      "latest_close": 5065.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -14.01,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-09-17",
       "exit_date": "2025-09-18",
       "exit_price": 6004.99,
       "status": "CLOSED",
-      "sessions_held": 308
+      "sessions_held": 309
     },
     {
       "symbol": "BRITANNIA",
@@ -262,16 +262,16 @@
       "weighted_entry": 5887.03,
       "risk_per_share": 117.72,
       "target_2r": 6122.47,
-      "latest_close": 5185.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": -11.93,
+      "latest_close": 5065.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": -13.96,
       "target_2r_touched": false,
       "hard_stop_date": "2025-08-05",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-08-05",
       "exit_price": 5540.54,
       "status": "CLOSED",
-      "sessions_held": 324
+      "sessions_held": 325
     },
     {
       "symbol": "BRITANNIA",
@@ -289,16 +289,16 @@
       "weighted_entry": 4862.79,
       "risk_per_share": 129.36,
       "target_2r": 5121.51,
-      "latest_close": 5185.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 6.63,
+      "latest_close": 5065.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 4.16,
       "target_2r_touched": false,
       "hard_stop_date": "2025-04-07",
       "ema9_exit_signal_date": null,
       "exit_date": "2025-04-07",
       "exit_price": 4487.48,
       "status": "CLOSED",
-      "sessions_held": 412
+      "sessions_held": 413
     },
     {
       "symbol": "BRITANNIA",
@@ -316,16 +316,16 @@
       "weighted_entry": 4881.06,
       "risk_per_share": 109.42,
       "target_2r": 5099.9,
-      "latest_close": 5185.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 6.23,
+      "latest_close": 5065.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 3.77,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2025-01-14",
       "exit_date": "2025-01-15",
       "exit_price": 4729.23,
       "status": "CLOSED",
-      "sessions_held": 463
+      "sessions_held": 464
     },
     {
       "symbol": "BRITANNIA",
@@ -343,16 +343,16 @@
       "weighted_entry": 4968.87,
       "risk_per_share": 124.0,
       "target_2r": 5216.87,
-      "latest_close": 5185.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 4.35,
+      "latest_close": 5065.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 1.93,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-05-30",
       "exit_date": "2024-05-31",
       "exit_price": 4991.45,
       "status": "CLOSED",
-      "sessions_held": 634
+      "sessions_held": 635
     },
     {
       "symbol": "BRITANNIA",
@@ -370,16 +370,16 @@
       "weighted_entry": 5002.8,
       "risk_per_share": 159.16,
       "target_2r": 5321.13,
-      "latest_close": 5185.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 3.64,
+      "latest_close": 5065.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 1.24,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-02-05",
       "exit_date": "2024-02-06",
       "exit_price": 4911.42,
       "status": "CLOSED",
-      "sessions_held": 696
+      "sessions_held": 697
     },
     {
       "symbol": "BRITANNIA",
@@ -397,16 +397,16 @@
       "weighted_entry": 4994.76,
       "risk_per_share": 153.43,
       "target_2r": 5301.61,
-      "latest_close": 5185.0,
-      "latest_date": "2026-11-26",
-      "unrealised_return_pct": 3.81,
+      "latest_close": 5065.0,
+      "latest_date": "2026-11-27",
+      "unrealised_return_pct": 1.41,
       "target_2r_touched": false,
       "hard_stop_date": null,
       "ema9_exit_signal_date": "2024-01-30",
       "exit_date": "2024-01-31",
       "exit_price": 4880.03,
       "status": "CLOSED",
-      "sessions_held": 698
+      "sessions_held": 699
     }
   ]
 }
