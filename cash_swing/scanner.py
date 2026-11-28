@@ -204,7 +204,8 @@ def main():
                 if is_today_alert: exits.append(row)
                 else: archive.append(row)
             elif row["status"]=="TWO_R":
-                running.append(row)
+                # Completed at 2R; move to archive, not active opportunities.
+                archive.append(row)
             else:
                 # Second-stage crossover is a same-day confirmatory alert only.
                 if row["stage2_signal_date"]==dates[-1]: confirm.append(row)
@@ -224,11 +225,11 @@ def main():
       "stocks_with_no_qualifying_opportunity":len(processed_set-opportunity_symbols),
       "processed_symbols":sorted(processed_set),"failed_count":len(failed_set),
       "failed_symbols":sorted(set(failed)),"failed_details":failed_details,"fresh_entries":fresh,"confirmatory_signals":confirm,"running_opportunities":running,
-      "running_trades":[],"exit_alerts":exits,"two_r_achieved": [x for x in running if x["status"]=="TWO_R"],
+      "running_trades":[],"exit_alerts":exits,"two_r_achieved": [],
       "trade_archive":archive,"entry_rule":"Stage 1: EMA 9 crosses above EMA 20; planned first tranche 25% at next session open. Stage 2: EMA 20 crosses above EMA 55 while EMA 9 remains above EMA 20; planned remaining 75% at next session open.",
       "risk_rule":"Initial hard stop = first entry price minus 1.25 x simple ATR14; stop is fixed. 2R target is based on weighted average entry and initial per-share risk. Maximum planned risk 1% of portfolio; maximum stock allocation 20%.",
       "exit_rule":"Hard stop intraday; EMA 9 close-below is an exit alert for next session open. Same-day stop/target collision resolves stop-first. No automatic time exit.",
-      "notes":"All scanner records are hypothetical opportunities, not user-owned trades. Actual Running Trades remains empty until manually entered. 2R opportunities are retained for review; user decides whether to keep or close."}
+      "notes":"All scanner records are hypothetical opportunities, not user-owned trades. Actual Running Trades remains empty until manually entered. Opportunities reaching 2R are completed and moved to Trade Archive."}
     with open("cash_swing/data/close_snapshot.json","w",encoding="utf-8") as fp: json.dump(safe({"market_date":market_date,"generated_at_ist":payload["generated_at_ist"],"stocks":close_snapshot}),fp,indent=2,ensure_ascii=False)
     with open("cash_swing/data/latest.json","w",encoding="utf-8") as fp: json.dump(safe(payload),fp,indent=2,ensure_ascii=False)
     pd.DataFrame(fresh+confirm+running+exits+archive).to_csv("cash_swing/reports/ema_opportunities.csv",index=False)
